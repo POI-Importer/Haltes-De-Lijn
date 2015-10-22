@@ -4,7 +4,6 @@
 	"icon": "bus",
 	"dist":30,
 	"id": "ref:De_Lijn",
-	"bbox":{"t": 51.6, "l": 2.5, "b": 50.6,"r": 5.9},
 	"tagmatch":
 	[
 		{"key":"name", "algorithm":"equality"},

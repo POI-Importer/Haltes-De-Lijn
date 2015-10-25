@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30;31;38",
-                "ref:De_Lijn": "508812",
+                "ref:De_Lijn": "503812",
                 "bus": "yes",
                 "name": "Staden Voorstad",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.018781,
-                    50.971673
+                    3.019077,
+                    50.971299
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30;31;38",
-                "ref:De_Lijn": "503812",
+                "ref:De_Lijn": "508812",
                 "bus": "yes",
                 "name": "Staden Voorstad",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.019077,
-                    50.971299
+                    3.018781,
+                    50.971673
                 ]
             }
         },

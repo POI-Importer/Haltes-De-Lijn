@@ -5,7 +5,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "144",
-                "ref:De_Lijn": "300840",
+                "ref:De_Lijn": "304604",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw J.Calloenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237665,
+                    50.784819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144",
+                "ref:De_Lijn": "300842",
                 "bus": "yes",
                 "name": "Sint-Pieters-Leeuw Aan de witten ezel",
                 "public_transport": "platform",
@@ -17,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.22393,
-                    50.782789
+                    4.223887,
+                    50.782888
                 ]
             }
         },
@@ -47,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "144",
-                "ref:De_Lijn": "304604",
+                "ref:De_Lijn": "304603",
                 "bus": "yes",
                 "name": "Sint-Pieters-Leeuw J.Calloenstraat",
                 "public_transport": "platform",
@@ -59,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.237665,
-                    50.784819
+                    4.23724,
+                    50.784783
                 ]
             }
         },
@@ -89,28 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "144",
-                "ref:De_Lijn": "304603",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw J.Calloenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.23724,
-                    50.784783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "144",
-                "ref:De_Lijn": "300842",
+                "ref:De_Lijn": "300840",
                 "bus": "yes",
                 "name": "Sint-Pieters-Leeuw Aan de witten ezel",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.223887,
-                    50.782888
+                    4.22393,
+                    50.782789
                 ]
             }
         }

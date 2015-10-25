@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "230;231;232",
-                "ref:De_Lijn": "306969",
-                "bus": "yes",
-                "name": "Koninklijke Serres",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINKLIJK PARKLAAN BRUSSEL-STAD",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.356161,
-                    50.888729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "230;231;232",
                 "ref:De_Lijn": "300832",
                 "bus": "yes",
                 "name": "Kunstenaars",
@@ -68,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "230;231;232",
-                "ref:De_Lijn": "300828",
+                "ref:De_Lijn": "300829",
                 "bus": "yes",
                 "name": "Kadetten",
                 "public_transport": "platform",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.353362,
-                    50.885151
+                    4.353135,
+                    50.885484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "306969",
+                "bus": "yes",
+                "name": "Koninklijke Serres",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINKLIJK PARKLAAN BRUSSEL-STAD",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356161,
+                    50.888729
                 ]
             }
         },
@@ -109,6 +109,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "300828",
+                "bus": "yes",
+                "name": "Kadetten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNADREEF BRUSSEL-STAD",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353362,
+                    50.885151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "300834",
                 "bus": "yes",
                 "name": "Laken Kerk",
@@ -124,27 +145,6 @@
                 "coordinates": [
                     4.355964,
                     50.879722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "230;231;232",
-                "ref:De_Lijn": "300829",
-                "bus": "yes",
-                "name": "Kadetten",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-ANNADREEF BRUSSEL-STAD",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.353135,
-                    50.885484
                 ]
             }
         }

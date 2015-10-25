@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5;30;105",
-                "ref:De_Lijn": "408026",
-                "bus": "yes",
-                "name": "Runkelen Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERESTRAAT RUNKELEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.150375,
-                    50.846207
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;30;105",
-                "ref:De_Lijn": "407892",
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407893",
                 "bus": "yes",
                 "name": "Gorsem Duraslaan",
                 "public_transport": "platform",
@@ -38,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.161668,
-                    50.83466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "715",
-                "ref:De_Lijn": "301841",
-                "bus": "yes",
-                "name": "Gorsem Metsterenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GORSEM-DORP GORSEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.160794,
-                    50.840914
+                    5.161428,
+                    50.834743
                 ]
             }
         },
@@ -82,6 +40,27 @@
                 "coordinates": [
                     5.146433,
                     50.836255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "407892",
+                "bus": "yes",
+                "name": "Gorsem Duraslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURASLAAN GORSEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.161668,
+                    50.83466
                 ]
             }
         },
@@ -130,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5;105",
-                "ref:De_Lijn": "407893",
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "408026",
                 "bus": "yes",
-                "name": "Gorsem Duraslaan",
+                "name": "Runkelen Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DURASLAAN GORSEM",
+                "created_by": "HERESTRAAT RUNKELEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.161428,
-                    50.834743
+                    5.150375,
+                    50.846207
                 ]
             }
         },
@@ -166,6 +145,27 @@
                 "coordinates": [
                     5.15056,
                     50.846233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "301841",
+                "bus": "yes",
+                "name": "Gorsem Metsterenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORSEM-DORP GORSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.160794,
+                    50.840914
                 ]
             }
         }

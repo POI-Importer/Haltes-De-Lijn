@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;97;195",
+                "route_ref:De_Lijn": "53;97",
                 "ref:De_Lijn": "202672",
                 "bus": "yes",
                 "name": "Oosteeklo Bijsterveld",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;97;195",
+                "route_ref:De_Lijn": "53;97",
                 "ref:De_Lijn": "202673",
                 "bus": "yes",
                 "name": "Oosteeklo Vlasgaardstraat",

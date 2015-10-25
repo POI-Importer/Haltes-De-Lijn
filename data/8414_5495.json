@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "585;590;685;713",
+                "ref:De_Lijn": "300707",
+                "bus": "yes",
+                "name": "Kerkom Koppel Eikenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKOMSESTEENWEG KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.879333,
+                    50.858175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "680;713",
                 "ref:De_Lijn": "306947",
                 "bus": "yes",
@@ -46,27 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "680",
-                "ref:De_Lijn": "306946",
-                "bus": "yes",
-                "name": "Kerkom Molenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KUMTICHSESTRAAT KERKOM (BOUTERSEM)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.878275,
-                    50.851024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "585;590;685",
                 "ref:De_Lijn": "303422",
                 "bus": "yes",
@@ -82,27 +82,6 @@
                 "coordinates": [
                     4.886087,
                     50.860168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "585;590;685;713",
-                "ref:De_Lijn": "300707",
-                "bus": "yes",
-                "name": "Kerkom Koppel Eikenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKOMSESTEENWEG KERKOM (BOUTERSEM)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.879333,
-                    50.858175
                 ]
             }
         },
@@ -130,6 +109,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "585;590;685",
+                "ref:De_Lijn": "300708",
+                "bus": "yes",
+                "name": "Kerkom Koppel Eikenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKOMSESTEENWEG KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.879307,
+                    50.858382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "392;485",
                 "ref:De_Lijn": "303413",
                 "bus": "yes",
@@ -151,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "585;590;685",
-                "ref:De_Lijn": "300708",
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "306946",
                 "bus": "yes",
-                "name": "Kerkom Koppel Eikenstraat",
+                "name": "Kerkom Molenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KERKOMSESTEENWEG KERKOM (BOUTERSEM)",
+                "created_by": "KUMTICHSESTRAAT KERKOM (BOUTERSEM)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.879307,
-                    50.858382
+                    4.878275,
+                    50.851024
                 ]
             }
         }

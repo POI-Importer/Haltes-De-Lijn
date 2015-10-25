@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;175",
+                "route_ref:De_Lijn": "76",
                 "ref:De_Lijn": "202642",
                 "bus": "yes",
                 "name": "Wachtebeke Domein Puyenbroek P1",

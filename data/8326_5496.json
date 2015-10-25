@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;50;84",
-                "ref:De_Lijn": "504641",
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "509092",
                 "bus": "yes",
-                "name": "Zillebeke Bellewaerde",
+                "name": "Geluveld Zandberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEENSEWEG ZILLEBEKE",
+                "created_by": "MEENSEWEG ZONNEBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.951353,
-                    50.845492
+                    2.958986,
+                    50.844343
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39;84",
-                "ref:De_Lijn": "509092",
+                "ref:De_Lijn": "504092",
                 "bus": "yes",
                 "name": "Geluveld Zandberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEENSEWEG ZONNEBEKE",
+                "created_by": "MEENSEWEG ZILLEBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.958986,
-                    50.844343
+                    2.958617,
+                    50.84433
                 ]
             }
         },
@@ -109,10 +109,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;84",
-                "ref:De_Lijn": "504092",
+                "route_ref:De_Lijn": "39;50;84",
+                "ref:De_Lijn": "504641",
                 "bus": "yes",
-                "name": "Geluveld Zandberg",
+                "name": "Zillebeke Bellewaerde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MEENSEWEG ZILLEBEKE",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.958617,
-                    50.84433
+                    2.951353,
+                    50.845492
                 ]
             }
         }

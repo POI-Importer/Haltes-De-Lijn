@@ -26,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "400588",
+                "ref:De_Lijn": "400617",
                 "bus": "yes",
-                "name": "Paal Deurnestraat",
+                "name": "Paal Sint-Jorisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.14812,
-                    51.050883
+                    5.153138,
+                    51.048197
                 ]
             }
         },
@@ -68,48 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "400589",
-                "bus": "yes",
-                "name": "Paal Deurnestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.147836,
-                    51.050938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;719",
-                "ref:De_Lijn": "400608",
-                "bus": "yes",
-                "name": "Paal Rijselstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.160153,
-                    51.047287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
                 "ref:De_Lijn": "400627",
                 "bus": "yes",
                 "name": "Paal Wilbroek",
@@ -131,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "400617",
+                "ref:De_Lijn": "400589",
                 "bus": "yes",
-                "name": "Paal Sint-Jorisstraat",
+                "name": "Paal Deurnestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
@@ -143,8 +101,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.153138,
-                    51.048197
+                    5.147836,
+                    51.050938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "400588",
+                "bus": "yes",
+                "name": "Paal Deurnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.14812,
+                    51.050883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;719",
+                "ref:De_Lijn": "400608",
+                "bus": "yes",
+                "name": "Paal Rijselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.160153,
+                    51.047287
                 ]
             }
         }

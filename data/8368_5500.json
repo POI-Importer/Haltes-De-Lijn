@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "13;49",
-                "ref:De_Lijn": "209487",
+                "ref:De_Lijn": "209488",
                 "bus": "yes",
-                "name": "Nederboelare Industriepark",
+                "name": "Nederboelare Molendreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ASTRIDLAAN GERAARDSBERGEN",
@@ -17,15 +17,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.873328,
-                    50.786553
+                    3.874142,
+                    50.781953
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370",
                 "ref:De_Lijn": "206801",
                 "bus": "yes",
                 "name": "Nederboelare Rusthuis Baronie Van Boelare",
@@ -46,10 +45,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;49;370;410",
-                "ref:De_Lijn": "208488",
+                "route_ref:De_Lijn": "13;49",
+                "ref:De_Lijn": "209487",
                 "bus": "yes",
-                "name": "Nederboelare Molendreef",
+                "name": "Nederboelare Industriepark",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ASTRIDLAAN GERAARDSBERGEN",
@@ -59,15 +58,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.874252,
-                    50.780884
+                    3.873328,
+                    50.786553
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;49;370;410",
+                "route_ref:De_Lijn": "13;49",
                 "ref:De_Lijn": "208487",
                 "bus": "yes",
                 "name": "Nederboelare Industriepark",
@@ -89,7 +88,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "13;49",
-                "ref:De_Lijn": "209488",
+                "ref:De_Lijn": "208488",
                 "bus": "yes",
                 "name": "Nederboelare Molendreef",
                 "public_transport": "platform",
@@ -101,8 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.874142,
-                    50.781953
+                    3.874252,
+                    50.780884
                 ]
             }
         }

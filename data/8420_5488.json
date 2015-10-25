@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "373;375;701",
+                "ref:De_Lijn": "300420",
+                "bus": "yes",
+                "name": "Assent Doornhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MINNESTRAAT ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.02048,
+                    50.947876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "375",
+                "ref:De_Lijn": "300415",
+                "bus": "yes",
+                "name": "Assent Bekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWADESTRAAT ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.026177,
+                    50.953292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "370;552;701",
                 "ref:De_Lijn": "300427",
                 "bus": "yes",
@@ -25,27 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "375;701",
-                "ref:De_Lijn": "300416",
-                "bus": "yes",
-                "name": "Assent Bekweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWADESTRAAT ASSENT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.026093,
-                    50.953382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "373;375",
                 "ref:De_Lijn": "300419",
                 "bus": "yes",
@@ -61,48 +82,6 @@
                 "coordinates": [
                     5.020399,
                     50.948155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;375",
-                "ref:De_Lijn": "300417",
-                "bus": "yes",
-                "name": "Assent Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT ASSENT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.01636,
-                    50.952501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;375;701",
-                "ref:De_Lijn": "300420",
-                "bus": "yes",
-                "name": "Assent Doornhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MINNESTRAAT ASSENT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.02048,
-                    50.947876
                 ]
             }
         },
@@ -151,8 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "373;375;701",
-                "ref:De_Lijn": "300418",
+                "route_ref:De_Lijn": "373;375",
+                "ref:De_Lijn": "300417",
                 "bus": "yes",
                 "name": "Assent Centrum",
                 "public_transport": "platform",
@@ -164,16 +143,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.016091,
-                    50.952574
+                    5.01636,
+                    50.952501
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "375",
-                "ref:De_Lijn": "300415",
+                "route_ref:De_Lijn": "375;701",
+                "ref:De_Lijn": "300416",
                 "bus": "yes",
                 "name": "Assent Bekweg",
                 "public_transport": "platform",
@@ -185,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.026177,
-                    50.953292
+                    5.026093,
+                    50.953382
                 ]
             }
         },
@@ -208,6 +187,27 @@
                 "coordinates": [
                     5.020234,
                     50.953684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;701",
+                "ref:De_Lijn": "300418",
+                "bus": "yes",
+                "name": "Assent Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.016091,
+                    50.952574
                 ]
             }
         }

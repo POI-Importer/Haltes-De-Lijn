@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "509205",
+                "bus": "yes",
+                "name": "Keiem Hoogkwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.879205,
+                    51.076045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
                 "ref:De_Lijn": "509204",
                 "bus": "yes",
                 "name": "Keiem Dorp",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     2.882015,
                     51.080603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;55;59",
-                "ref:De_Lijn": "504205",
-                "bus": "yes",
-                "name": "Keiem Hoogkwartier",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIEMDORPSTRAAT KEIEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.879266,
-                    51.075938
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;55;59",
-                "ref:De_Lijn": "509205",
+                "ref:De_Lijn": "504205",
                 "bus": "yes",
                 "name": "Keiem Hoogkwartier",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.879205,
-                    51.076045
+                    2.879266,
+                    51.075938
                 ]
             }
         },

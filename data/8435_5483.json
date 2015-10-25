@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;34;47;283",
-                "ref:De_Lijn": "404229",
+                "route_ref:De_Lijn": "13;22;47",
+                "ref:De_Lijn": "404228",
                 "bus": "yes",
                 "name": "Zolder Mierenstraat",
                 "public_transport": "platform",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.344162,
-                    51.023153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;22;47",
-                "ref:De_Lijn": "404552",
-                "bus": "yes",
-                "name": "Houthalen Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT HOUTHALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.352974,
-                    51.025354
+                    5.340796,
+                    51.023091
                 ]
             }
         },
@@ -67,8 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;22;47",
-                "ref:De_Lijn": "404228",
+                "route_ref:De_Lijn": "22;34;47;283",
+                "ref:De_Lijn": "404229",
                 "bus": "yes",
                 "name": "Zolder Mierenstraat",
                 "public_transport": "platform",
@@ -80,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.340796,
-                    51.023091
+                    5.344162,
+                    51.023153
                 ]
             }
         },
@@ -145,6 +124,27 @@
                 "coordinates": [
                     5.353186,
                     51.026611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;47",
+                "ref:De_Lijn": "404552",
+                "bus": "yes",
+                "name": "Houthalen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.352974,
+                    51.025354
                 ]
             }
         }

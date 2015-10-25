@@ -5,7 +5,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21;23;25",
-                "ref:De_Lijn": "209165",
+                "ref:De_Lijn": "209166",
+                "bus": "yes",
+                "name": "Opbrakel Hutte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESESTRAAT OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.716434,
+                    50.781649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23",
+                "ref:De_Lijn": "208165",
                 "bus": "yes",
                 "name": "Opbrakel Landuitweg",
                 "public_transport": "platform",
@@ -17,15 +38,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.721541,
-                    50.784528
+                    3.721586,
+                    50.784357
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;410",
+                "route_ref:De_Lijn": "21;23",
                 "ref:De_Lijn": "208166",
                 "bus": "yes",
                 "name": "Opbrakel Hutte",
@@ -40,6 +61,27 @@
                 "coordinates": [
                     3.716633,
                     50.78157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;25",
+                "ref:De_Lijn": "209165",
+                "bus": "yes",
+                "name": "Opbrakel Landuitweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESESTRAAT OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.721541,
+                    50.784528
                 ]
             }
         },
@@ -67,7 +109,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;410",
+                "route_ref:De_Lijn": "21;23",
                 "ref:De_Lijn": "208164",
                 "bus": "yes",
                 "name": "Opbrakel Boekkouter",
@@ -82,48 +124,6 @@
                 "coordinates": [
                     3.732144,
                     50.789108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;23;410",
-                "ref:De_Lijn": "208165",
-                "bus": "yes",
-                "name": "Opbrakel Landuitweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RONSESESTRAAT OPBRAKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.721586,
-                    50.784357
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;23;25",
-                "ref:De_Lijn": "209166",
-                "bus": "yes",
-                "name": "Opbrakel Hutte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RONSESESTRAAT OPBRAKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.716434,
-                    50.781649
                 ]
             }
         }

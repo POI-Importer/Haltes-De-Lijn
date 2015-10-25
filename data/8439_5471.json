@@ -4,10 +4,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "407307",
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "406949",
                 "bus": "yes",
-                "name": "Overpelt Sint-Oda",
+                "name": "Neerpelt Herenthoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREUGHELSTRAAT HERENT (NEERPELT)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44305,
+                    51.192359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "409499",
+                "bus": "yes",
+                "name": "Overpelt Instituut Sint-Oda",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BREUGELWEG OVERPELT",
@@ -17,29 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.430526,
-                    51.187025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "407399",
-                "bus": "yes",
-                "name": "Kleine-Brogel Groenewoudstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOMMELLAAN KLEINE-BROGEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.443697,
-                    51.179471
+                    5.430537,
+                    51.188166
                 ]
             }
         },
@@ -88,31 +88,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "744",
-                "ref:De_Lijn": "406949",
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "407307",
                 "bus": "yes",
-                "name": "Neerpelt Herenthoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREUGHELSTRAAT HERENT (NEERPELT)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.44305,
-                    51.192359
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;744",
-                "ref:De_Lijn": "409499",
-                "bus": "yes",
-                "name": "Overpelt Instituut Sint-Oda",
+                "name": "Overpelt Sint-Oda",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BREUGELWEG OVERPELT",
@@ -122,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.430537,
-                    51.188166
+                    5.430526,
+                    51.187025
                 ]
             }
         },
@@ -145,6 +124,27 @@
                 "coordinates": [
                     5.443305,
                     51.179807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "407399",
+                "bus": "yes",
+                "name": "Kleine-Brogel Groenewoudstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOMMELLAAN KLEINE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.443697,
+                    51.179471
                 ]
             }
         }

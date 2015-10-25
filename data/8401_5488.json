@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270;285;470;503;505;514;515;660;686",
-                "ref:De_Lijn": "308830",
+                "route_ref:De_Lijn": "285",
+                "ref:De_Lijn": "302486",
                 "bus": "yes",
-                "name": "Kampenhout Sas",
+                "name": "Kampenhout Vierstraten",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG KAMPENHOUT",
+                "created_by": "LEUVENSESTEENWEG KAMPENHOUT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.593395,
-                    50.955125
+                    4.604518,
+                    50.948181
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "270;285;470;503;505;514;515;660;686",
-                "ref:De_Lijn": "308831",
+                "ref:De_Lijn": "308830",
                 "bus": "yes",
                 "name": "Kampenhout Sas",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.593354,
-                    50.955547
+                    4.593395,
+                    50.955125
                 ]
             }
         },
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "285",
-                "ref:De_Lijn": "302486",
+                "route_ref:De_Lijn": "270;285;470;503;505;514;515;660;686",
+                "ref:De_Lijn": "308831",
                 "bus": "yes",
-                "name": "Kampenhout Vierstraten",
+                "name": "Kampenhout Sas",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG KAMPENHOUT",
+                "created_by": "MECHELSESTEENWEG KAMPENHOUT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.604518,
-                    50.948181
+                    4.593354,
+                    50.955547
                 ]
             }
         }

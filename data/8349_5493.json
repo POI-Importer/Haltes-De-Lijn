@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;88;450",
-                "ref:De_Lijn": "507948",
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "507956",
                 "bus": "yes",
                 "name": "Waregem Hazewindstraat",
                 "public_transport": "platform",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.451369,
-                    50.887344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "88",
-                "ref:De_Lijn": "505963",
-                "bus": "yes",
-                "name": "Waregem Ganzendries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIESSTRAAT WAREGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.454826,
-                    50.882049
+                    3.451357,
+                    50.887236
                 ]
             }
         },
@@ -68,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59;88",
-                "ref:De_Lijn": "507956",
+                "ref:De_Lijn": "507949",
                 "bus": "yes",
-                "name": "Waregem Hazewindstraat",
+                "name": "Waregem Driekavenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NOKERSEWEG WAREGEM",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.451357,
-                    50.887236
+                    3.461794,
+                    50.887721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505963",
+                "bus": "yes",
+                "name": "Waregem Ganzendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.454826,
+                    50.882049
                 ]
             }
         },
@@ -109,10 +109,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;88;450",
-                "ref:De_Lijn": "507949",
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "507948",
                 "bus": "yes",
-                "name": "Waregem Driekavenstraat",
+                "name": "Waregem Hazewindstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NOKERSEWEG WAREGEM",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.461794,
-                    50.887721
+                    3.451369,
+                    50.887344
                 ]
             }
         }

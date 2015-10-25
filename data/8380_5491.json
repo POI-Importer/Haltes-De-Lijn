@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;212;214;340",
+                "route_ref:De_Lijn": "212;214",
+                "ref:De_Lijn": "300151",
+                "bus": "yes",
+                "name": "Essene Bareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELBAAN ESSENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.140386,
+                    50.913661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;212;214",
                 "ref:De_Lijn": "300218",
                 "bus": "yes",
                 "name": "Asse Terheiden, Lindestraat",
@@ -46,27 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;214;340",
-                "ref:De_Lijn": "300151",
-                "bus": "yes",
-                "name": "Essene Bareel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELBAAN ESSENE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.140386,
-                    50.913661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "207231",
                 "bus": "yes",
@@ -88,7 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;340",
+                "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "206231",
                 "bus": "yes",
                 "name": "Essene Brusselbaan",

@@ -4,53 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140",
-                "ref:De_Lijn": "201896",
+                "ref:De_Lijn": "201700",
                 "bus": "yes",
-                "name": "Melle Rustoord Kannunik Triest",
+                "name": "Melle Brusselsesteenweg",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT MELLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.805612,
-                    51.002412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;130;140",
-                "ref:De_Lijn": "202457",
-                "bus": "yes",
-                "name": "Heusden Bosheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENVOORDESTRAAT HEUSDEN (DESTELBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.81772,
-                    51.013499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;94;96;140",
-                "ref:De_Lijn": "202941",
-                "bus": "yes",
-                "name": "Melle Pontstraat",
-                "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSESTEENWEG MELLE",
                 "operator": "De Lijn",
@@ -59,15 +17,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.804627,
-                    51.001409
+                    3.806106,
+                    51.000428
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "201942",
+                "bus": "yes",
+                "name": "Heusden Oude Pontweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WELLINGSTRAAT HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.813853,
+                    51.005534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "211018",
                 "bus": "yes",
                 "name": "Heusden Wellingstraat",
@@ -88,29 +65,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;130",
-                "ref:De_Lijn": "203457",
-                "bus": "yes",
-                "name": "Heusden Bosheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENVOORDESTRAAT HEUSDEN (DESTELBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.817807,
-                    51.013365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "28;94;96",
-                "ref:De_Lijn": "203941",
+                "ref:De_Lijn": "202941",
                 "bus": "yes",
                 "name": "Melle Pontstraat",
                 "public_transport": "platform",
@@ -122,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.804472,
-                    51.001301
+                    3.804627,
+                    51.001409
                 ]
             }
         },
@@ -151,20 +107,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "201942",
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "202457",
                 "bus": "yes",
-                "name": "Heusden Oude Pontweg",
+                "name": "Heusden Bosheidestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WELLINGSTRAAT HEUSDEN (DESTELBERGEN)",
+                "created_by": "STEENVOORDESTRAAT HEUSDEN (DESTELBERGEN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.813853,
-                    51.005534
+                    3.81772,
+                    51.013499
                 ]
             }
         },
@@ -192,7 +149,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140",
                 "ref:De_Lijn": "201950",
                 "bus": "yes",
                 "name": "Heusden Kalverbosstraat",
@@ -213,28 +169,48 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "201700",
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "203457",
                 "bus": "yes",
-                "name": "Melle Brusselsesteenweg",
+                "name": "Heusden Bosheidestraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG MELLE",
+                "created_by": "STEENVOORDESTRAAT HEUSDEN (DESTELBERGEN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.806106,
-                    51.000428
+                    3.817807,
+                    51.013365
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;140",
+                "ref:De_Lijn": "201896",
+                "bus": "yes",
+                "name": "Melle Rustoord Kannunik Triest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.805612,
+                    51.002412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
                 "ref:De_Lijn": "200638",
                 "bus": "yes",
                 "name": "Melle Brusselsesteenweg",
@@ -249,6 +225,27 @@
                 "coordinates": [
                     3.80528,
                     51.000469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;94;96",
+                "ref:De_Lijn": "203941",
+                "bus": "yes",
+                "name": "Melle Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.804472,
+                    51.001301
                 ]
             }
         }

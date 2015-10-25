@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "492",
                 "ref:De_Lijn": "102591",
                 "bus": "yes",
                 "name": "Geel Liessel",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;492",
                 "ref:De_Lijn": "102592",
                 "bus": "yes",
                 "name": "Geel Liessel",

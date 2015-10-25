@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "506658",
+                "bus": "yes",
+                "name": "Heist Speelman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTLAAN HEIST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.237889,
+                    51.327951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
                 "ref:De_Lijn": "506645",
                 "bus": "yes",
                 "name": "Ramskapelle Sasstraat",
@@ -19,6 +40,27 @@
                 "coordinates": [
                     3.245904,
                     51.316899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "501658",
+                "bus": "yes",
+                "name": "Heist Speelman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTLAAN HEIST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.238113,
+                    51.328205
                 ]
             }
         },
@@ -61,48 +103,6 @@
                 "coordinates": [
                     3.246118,
                     51.316946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "501658",
-                "bus": "yes",
-                "name": "Heist Speelman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEISTLAAN HEIST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.238113,
-                    51.328205
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "506658",
-                "bus": "yes",
-                "name": "Heist Speelman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEISTLAAN HEIST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.237889,
-                    51.327951
                 ]
             }
         },

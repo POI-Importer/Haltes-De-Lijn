@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36;145",
+                "route_ref:De_Lijn": "34;35;36",
                 "ref:De_Lijn": "200591",
                 "bus": "yes",
                 "name": "Sint-Denijs-Westrem Kareelstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36;145",
+                "route_ref:De_Lijn": "34;35;36",
                 "ref:De_Lijn": "200590",
                 "bus": "yes",
                 "name": "Sint-Denijs-Westrem Stijn Streuvelslaan",
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36",
+                "route_ref:De_Lijn": "34;35",
                 "ref:De_Lijn": "201591",
                 "bus": "yes",
                 "name": "Sint-Denijs-Westrem Kareelstraat",
@@ -88,28 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36",
-                "ref:De_Lijn": "201592",
-                "bus": "yes",
-                "name": "Dupuislaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAURICE DUPUISLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.688944,
-                    51.035803
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;35;36",
+                "route_ref:De_Lijn": "34;35",
                 "ref:De_Lijn": "201590",
                 "bus": "yes",
                 "name": "Sint-Denijs-Westrem Stijn Streuvelslaan",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.680987,
                     51.030085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35",
+                "ref:De_Lijn": "201592",
+                "bus": "yes",
+                "name": "Dupuislaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAURICE DUPUISLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.688944,
+                    51.035803
                 ]
             }
         }

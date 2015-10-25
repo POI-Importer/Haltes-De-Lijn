@@ -5,6 +5,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400644",
+                "bus": "yes",
+                "name": "Bocholt Hulststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSTRAAT BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.586291,
+                    51.171245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400498",
+                "bus": "yes",
+                "name": "Bocholt Rusthuis De Voorzienigheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.584454,
+                    51.173755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
                 "ref:De_Lijn": "400655",
                 "bus": "yes",
                 "name": "Bocholt Elzenstraat",
@@ -46,48 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "8;746",
-                "ref:De_Lijn": "400907",
-                "bus": "yes",
-                "name": "Bocholt Brugstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSTRAAT BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.583244,
-                    51.175592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "400498",
-                "bus": "yes",
-                "name": "Bocholt Rusthuis De Voorzienigheid",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKHOFSTRAAT BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.584454,
-                    51.173755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "746",
                 "ref:De_Lijn": "400645",
                 "bus": "yes",
@@ -103,90 +103,6 @@
                 "coordinates": [
                     5.586407,
                     51.171298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;746",
-                "ref:De_Lijn": "400906",
-                "bus": "yes",
-                "name": "Bocholt Brugstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSTRAAT BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.583517,
-                    51.175634
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "400644",
-                "bus": "yes",
-                "name": "Bocholt Hulststraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HULSTSTRAAT BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.586291,
-                    51.171245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "400654",
-                "bus": "yes",
-                "name": "Bocholt Elzenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELZENSTRAAT BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.589561,
-                    51.17052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;746",
-                "ref:De_Lijn": "400948",
-                "bus": "yes",
-                "name": "Bocholt Kerkhofstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPORTLAAN BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.587986,
-                    51.174833
                 ]
             }
         },
@@ -214,21 +130,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "407402",
+                "route_ref:De_Lijn": "8;746",
+                "ref:De_Lijn": "400907",
                 "bus": "yes",
-                "name": "Bocholt Plataandreef",
+                "name": "Bocholt Brugstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PLATAANDREEF BOCHOLT",
+                "created_by": "BRUGSTRAAT BOCHOLT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.582169,
-                    51.168357
+                    5.583244,
+                    51.175592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;746",
+                "ref:De_Lijn": "400948",
+                "bus": "yes",
+                "name": "Bocholt Kerkhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.587986,
+                    51.174833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400654",
+                "bus": "yes",
+                "name": "Bocholt Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZENSTRAAT BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.589561,
+                    51.17052
                 ]
             }
         },
@@ -257,20 +215,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "8;746",
-                "ref:De_Lijn": "400949",
+                "ref:De_Lijn": "400906",
                 "bus": "yes",
-                "name": "Bocholt Kerkhofstraat",
+                "name": "Bocholt Brugstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SPORTLAAN BOCHOLT",
+                "created_by": "BRUGSTRAAT BOCHOLT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.587948,
-                    51.175004
+                    5.583517,
+                    51.175634
                 ]
             }
         },
@@ -292,6 +250,48 @@
                 "coordinates": [
                     5.581984,
                     51.168386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "407402",
+                "bus": "yes",
+                "name": "Bocholt Plataandreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLATAANDREEF BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.582169,
+                    51.168357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;746",
+                "ref:De_Lijn": "400949",
+                "bus": "yes",
+                "name": "Bocholt Kerkhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.587948,
+                    51.175004
                 ]
             }
         }

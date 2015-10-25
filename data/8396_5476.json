@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53",
+                "ref:De_Lijn": "107263",
+                "bus": "yes",
+                "name": "Duffel Roetestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTSESTEENWEG DUFFEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.494773,
+                    51.110845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107258",
                 "bus": "yes",
                 "name": "Lint Moederhoefstraat",
@@ -25,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53",
                 "ref:De_Lijn": "107262",
                 "bus": "yes",
                 "name": "Lint Bossenstraat",
@@ -46,28 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53",
-                "ref:De_Lijn": "107259",
-                "bus": "yes",
-                "name": "Lint Moederhoefstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DUFFELSESTEENWEG LINT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.494209,
-                    51.123915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;53",
                 "ref:De_Lijn": "107261",
                 "bus": "yes",
                 "name": "Lint Bossenstraat",
@@ -82,6 +78,26 @@
                 "coordinates": [
                     4.493982,
                     51.119017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107259",
+                "bus": "yes",
+                "name": "Lint Moederhoefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUFFELSESTEENWEG LINT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.494209,
+                    51.123915
                 ]
             }
         },
@@ -103,27 +119,6 @@
                 "coordinates": [
                     4.493809,
                     51.124006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;53",
-                "ref:De_Lijn": "107263",
-                "bus": "yes",
-                "name": "Duffel Roetestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINTSESTEENWEG DUFFEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.494773,
-                    51.110845
                 ]
             }
         }

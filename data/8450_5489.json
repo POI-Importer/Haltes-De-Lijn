@@ -5,20 +5,62 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;63",
-                "ref:De_Lijn": "406259",
+                "ref:De_Lijn": "406244",
                 "bus": "yes",
-                "name": "Opgrimbie Plein",
+                "name": "Opgrimbie Davidstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIRSTRAAT OPGRIMBIE",
+                "created_by": "KERKSTRAAT OPGRIMBIE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.680615,
-                    50.942932
+                    5.681901,
+                    50.93854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;64;725",
+                "ref:De_Lijn": "406243",
+                "bus": "yes",
+                "name": "Opgrimbie Daalbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALBROEKSTRAAT OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672106,
+                    50.944484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;63",
+                "ref:De_Lijn": "406252",
+                "bus": "yes",
+                "name": "Opgrimbie Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6909,
+                    50.938762
                 ]
             }
         },
@@ -47,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;63",
-                "ref:De_Lijn": "406245",
-                "bus": "yes",
-                "name": "Opgrimbie Davidstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT OPGRIMBIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.681556,
-                    50.938436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;63",
                 "ref:De_Lijn": "406258",
                 "bus": "yes",
                 "name": "Opgrimbie Plein",
@@ -88,50 +109,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;64;725",
-                "ref:De_Lijn": "406243",
-                "bus": "yes",
-                "name": "Opgrimbie Daalbroekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DAALBROEKSTRAAT OPGRIMBIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.672106,
-                    50.944484
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "64;725",
-                "ref:De_Lijn": "408416",
-                "bus": "yes",
-                "name": "Opgrimbie Schoolstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOOLSTRAAT OPGRIMBIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.676782,
-                    50.942759
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "61;63",
-                "ref:De_Lijn": "406244",
+                "ref:De_Lijn": "406245",
                 "bus": "yes",
                 "name": "Opgrimbie Davidstraat",
                 "public_transport": "platform",
@@ -143,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.681901,
-                    50.93854
+                    5.681556,
+                    50.938436
                 ]
             }
         },
@@ -173,48 +152,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "64;725",
-                "ref:De_Lijn": "409346",
-                "bus": "yes",
-                "name": "Opgrimbie Engelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRSTRAAT OPGRIMBIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.680765,
-                    50.937096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;63",
-                "ref:De_Lijn": "406252",
-                "bus": "yes",
-                "name": "Opgrimbie Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT OPGRIMBIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.6909,
-                    50.938762
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "64;725",
                 "ref:De_Lijn": "408417",
                 "bus": "yes",
                 "name": "Opgrimbie Schoolstraat",
@@ -229,6 +166,69 @@
                 "coordinates": [
                     5.676905,
                     50.942578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;63",
+                "ref:De_Lijn": "406259",
+                "bus": "yes",
+                "name": "Opgrimbie Plein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRSTRAAT OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680615,
+                    50.942932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "408416",
+                "bus": "yes",
+                "name": "Opgrimbie Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.676782,
+                    50.942759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "409346",
+                "bus": "yes",
+                "name": "Opgrimbie Engelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRSTRAAT OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680765,
+                    50.937096
                 ]
             }
         }

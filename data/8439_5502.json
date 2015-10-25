@@ -25,10 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;T2",
-                "ref:De_Lijn": "408569",
+                "route_ref:De_Lijn": "27;T2;T3",
+                "ref:De_Lijn": "408571",
                 "bus": "yes",
-                "name": "Koninksem Herderstraat",
+                "name": "Koninksem Kapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KONINKSEMSTRAAT KONINKSEM",
@@ -38,29 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.437847,
-                    50.763894
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "T3",
-                "ref:De_Lijn": "408817",
-                "bus": "yes",
-                "name": "Koninksem Hoogveldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGVELDSTRAAT KONINKSEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.432806,
-                    50.764138
+                    5.435305,
+                    50.761814
                 ]
             }
         },
@@ -88,10 +67,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;T2;T3",
-                "ref:De_Lijn": "408571",
+                "route_ref:De_Lijn": "T3",
+                "ref:De_Lijn": "408817",
                 "bus": "yes",
-                "name": "Koninksem Kapel",
+                "name": "Koninksem Hoogveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGVELDSTRAAT KONINKSEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.432806,
+                    50.764138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;T2",
+                "ref:De_Lijn": "408569",
+                "bus": "yes",
+                "name": "Koninksem Herderstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KONINKSEMSTRAAT KONINKSEM",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.435305,
-                    50.761814
+                    5.437847,
+                    50.763894
                 ]
             }
         },

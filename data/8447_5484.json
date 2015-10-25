@@ -5,28 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "400236",
-                "bus": "yes",
-                "name": "As Weg naar Lanklaar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N75 MAASMECHELEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.603465,
-                    51.004292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "400231",
+                "ref:De_Lijn": "400230",
                 "bus": "yes",
                 "name": "As Onze-Lieve-Vrouwstraat",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.609073,
-                    51.013197
+                    5.609532,
+                    51.013318
                 ]
             }
         },
@@ -89,28 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "400226",
-                "bus": "yes",
-                "name": "As Nielerbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIELERLAAN NIEL-BIJ-AS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.605001,
-                    51.01012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "400230",
+                "ref:De_Lijn": "400231",
                 "bus": "yes",
                 "name": "As Onze-Lieve-Vrouwstraat",
                 "public_transport": "platform",
@@ -122,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.609532,
-                    51.013318
+                    5.609073,
+                    51.013197
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     5.604859,
                     51.01013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "400226",
+                "bus": "yes",
+                "name": "As Nielerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIELERLAAN NIEL-BIJ-AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.605001,
+                    51.01012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "400236",
+                "bus": "yes",
+                "name": "As Weg naar Lanklaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.603465,
+                    51.004292
                 ]
             }
         }

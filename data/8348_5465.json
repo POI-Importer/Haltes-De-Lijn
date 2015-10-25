@@ -4,6 +4,47 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "200125",
+                "bus": "yes",
+                "name": "Aardenburg (Nl) Kaaipoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAAI AARDENBURG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.441099,
+                    51.273732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "201124",
+                "bus": "yes",
+                "name": "Aardenburg (Nl) Postkantoor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT AARDENBURG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.44545,
+                    51.273982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "201125",
                 "bus": "yes",
@@ -46,26 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "200125",
-                "bus": "yes",
-                "name": "Aardenburg (Nl) Kaaipoort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAAI AARDENBURG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.441099,
-                    51.273732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "200124",
                 "bus": "yes",
                 "name": "Aardenburg (Nl) Postkantoor",
@@ -102,27 +123,6 @@
                 "coordinates": [
                     3.449357,
                     51.273554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "201124",
-                "bus": "yes",
-                "name": "Aardenburg (Nl) Postkantoor",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTSTRAAT AARDENBURG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.44545,
-                    51.273982
                 ]
             }
         }

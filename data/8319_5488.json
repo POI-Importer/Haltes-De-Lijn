@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "509342",
+                "bus": "yes",
+                "name": "Noordschote Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDSCHOTEPLEIN NOORDSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.810039,
+                    50.954491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
                 "ref:De_Lijn": "509345",
                 "bus": "yes",
                 "name": "Noordschote Oude Pereboomstraat",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     2.805339,
                     50.953305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24;29;57",
-                "ref:De_Lijn": "504342",
-                "bus": "yes",
-                "name": "Noordschote Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NOORDSCHOTEPLEIN NOORDSCHOTE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.809467,
-                    50.954582
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;29;57",
-                "ref:De_Lijn": "509342",
+                "ref:De_Lijn": "504342",
                 "bus": "yes",
                 "name": "Noordschote Dorp",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.810039,
-                    50.954491
+                    2.809467,
+                    50.954582
                 ]
             }
         }

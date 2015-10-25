@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409713",
+                "bus": "yes",
+                "name": "Gelderhorsten Verloren Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERLOREN HOEK GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280576,
+                    51.175361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "405798",
+                "bus": "yes",
+                "name": "Kerkhoven Elep",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOVENSESTEENWEG GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.291841,
+                    51.178051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409710",
+                "bus": "yes",
+                "name": "Gelderhorsten Boekweitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKWEITSTRAAT GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.278848,
+                    51.179158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "405816",
                 "bus": "yes",
@@ -19,48 +82,6 @@
                 "coordinates": [
                     5.28651,
                     51.173876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "405856",
-                "bus": "yes",
-                "name": "Kerkhoven Maaldersweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKHOVENSESTEENWEG KERKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.27697,
-                    51.167891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "409712",
-                "bus": "yes",
-                "name": "Gelderhorsten Korenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORENSTRAAT LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.284593,
-                    51.17532
                 ]
             }
         },
@@ -89,6 +110,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409712",
+                "bus": "yes",
+                "name": "Gelderhorsten Korenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.284593,
+                    51.17532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
                 "ref:De_Lijn": "409714",
                 "bus": "yes",
                 "name": "Gelderhorsten Verloren Hoek",
@@ -109,42 +151,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "409710",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "405856",
                 "bus": "yes",
-                "name": "Gelderhorsten Boekweitstraat",
+                "name": "Kerkhoven Maaldersweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOEKWEITSTRAAT GELDERSHORSTEN",
+                "created_by": "KERKHOVENSESTEENWEG KERKHOVEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.278848,
-                    51.179158
+                    5.27697,
+                    51.167891
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "711;712",
-                "ref:De_Lijn": "409709",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "405817",
                 "bus": "yes",
-                "name": "Gelderhorsten Boekweitstraat",
+                "name": "Kerkhoven Hooistraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOEKWEITSTRAAT GELDERSHORSTEN",
+                "created_by": "KERKHOVENSESTEENWEG KERKHOVEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.278992,
-                    51.179202
+                    5.287014,
+                    51.17407
                 ]
             }
         },
@@ -166,6 +208,27 @@
                 "coordinates": [
                     5.277818,
                     51.168154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409709",
+                "bus": "yes",
+                "name": "Gelderhorsten Boekweitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKWEITSTRAAT GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.278992,
+                    51.179202
                 ]
             }
         },
@@ -208,69 +271,6 @@
                 "coordinates": [
                     5.292403,
                     51.178298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "405817",
-                "bus": "yes",
-                "name": "Kerkhoven Hooistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKHOVENSESTEENWEG KERKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.287014,
-                    51.17407
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "405798",
-                "bus": "yes",
-                "name": "Kerkhoven Elep",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKHOVENSESTEENWEG GELDERSHORSTEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.291841,
-                    51.178051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "711;712",
-                "ref:De_Lijn": "409713",
-                "bus": "yes",
-                "name": "Gelderhorsten Verloren Hoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VERLOREN HOEK GELDERSHORSTEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.280576,
-                    51.175361
                 ]
             }
         }

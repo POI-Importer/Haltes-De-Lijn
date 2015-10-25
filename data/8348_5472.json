@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "203284",
-                "bus": "yes",
-                "name": "Maldegem Onze-Lieve-Vrouwdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALTERBAAN MALDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.447954,
-                    51.177729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200881",
                 "bus": "yes",
                 "name": "Maldegem Oude Eekloweg",
@@ -46,7 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "202284",
                 "bus": "yes",
                 "name": "Maldegem Onze-Lieve-Vrouwdreef",
@@ -61,6 +39,27 @@
                 "coordinates": [
                     3.448505,
                     51.178048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203284",
+                "bus": "yes",
+                "name": "Maldegem Onze-Lieve-Vrouwdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERBAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.447954,
+                    51.177729
                 ]
             }
         }

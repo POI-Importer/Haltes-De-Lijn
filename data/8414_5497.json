@@ -46,47 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308927",
-                "bus": "yes",
-                "name": "Kumtich Bibliotheek/Keienhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIBERGSTRAAT KUMTICH",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.887681,
-                    50.821865
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "680",
-                "ref:De_Lijn": "306952",
-                "bus": "yes",
-                "name": "Kumtich Kerkomstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKOMSTRAAT KUMTICH",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.882988,
-                    50.827504
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "680;713",
                 "ref:De_Lijn": "306953",
                 "bus": "yes",
@@ -108,31 +67,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;684",
-                "ref:De_Lijn": "308295",
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "305079",
                 "bus": "yes",
-                "name": "Kumtich Vondelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAUTERSTRAAT KUMTICH",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.892913,
-                    50.821482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;713",
-                "ref:De_Lijn": "305070",
-                "bus": "yes",
-                "name": "Kumtich Kumtichstraat",
+                "name": "Kumtich Groenhofstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LEUVENSELAAN KUMTICH",
@@ -142,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.890426,
-                    50.82241
+                    4.883569,
+                    50.824814
                 ]
             }
         },
@@ -171,6 +109,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "380;381;684",
+                "ref:De_Lijn": "308295",
+                "bus": "yes",
+                "name": "Kumtich Vondelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAUTERSTRAAT KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892913,
+                    50.821482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "380;381",
                 "ref:De_Lijn": "305071",
                 "bus": "yes",
@@ -192,10 +151,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381",
-                "ref:De_Lijn": "305079",
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "306952",
                 "bus": "yes",
-                "name": "Kumtich Groenhofstraat",
+                "name": "Kumtich Kerkomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKOMSTRAAT KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.882988,
+                    50.827504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;713",
+                "ref:De_Lijn": "305070",
+                "bus": "yes",
+                "name": "Kumtich Kumtichstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LEUVENSELAAN KUMTICH",
@@ -205,8 +185,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.883569,
-                    50.824814
+                    4.890426,
+                    50.82241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308927",
+                "bus": "yes",
+                "name": "Kumtich Bibliotheek/Keienhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERGSTRAAT KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.887681,
+                    50.821865
                 ]
             }
         }

@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504433",
+                "bus": "yes",
+                "name": "Poperinge Woestensteenweg nummer 12",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTENSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.742078,
+                    50.874922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "51;68;69",
                 "ref:De_Lijn": "504420",
                 "bus": "yes",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "509433",
+                "route_ref:De_Lijn": "51;68;69",
+                "ref:De_Lijn": "504432",
                 "bus": "yes",
-                "name": "Poperinge Woestensteenweg nummer 12",
+                "name": "Poperinge Werkman",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WOESTENSEWEG POPERINGE",
+                "created_by": "VEURNESTRAAT POPERINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.742169,
-                    50.875166
+                    2.732455,
+                    50.861912
                 ]
             }
         },
@@ -61,27 +82,6 @@
                 "coordinates": [
                     2.735322,
                     50.869757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;68;69",
-                "ref:De_Lijn": "504432",
-                "bus": "yes",
-                "name": "Poperinge Werkman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEURNESTRAAT POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.732455,
-                    50.861912
                 ]
             }
         },
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "504433",
+                "ref:De_Lijn": "509433",
                 "bus": "yes",
                 "name": "Poperinge Woestensteenweg nummer 12",
                 "public_transport": "platform",
@@ -122,29 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.742078,
-                    50.874922
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;68;69",
-                "ref:De_Lijn": "509421",
-                "bus": "yes",
-                "name": "Poperinge Peselhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTVLETERSEWEG POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.734995,
-                    50.869357
+                    2.742169,
+                    50.875166
                 ]
             }
         },
@@ -166,6 +145,27 @@
                 "coordinates": [
                     2.734082,
                     50.864965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;68;69",
+                "ref:De_Lijn": "509421",
+                "bus": "yes",
+                "name": "Poperinge Peselhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTVLETERSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.734995,
+                    50.869357
                 ]
             }
         }

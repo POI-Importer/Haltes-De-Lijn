@@ -4,74 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "401261",
+                "route_ref:De_Lijn": "748",
+                "ref:De_Lijn": "401277",
                 "bus": "yes",
-                "name": "Bree Grensstraat",
+                "name": "Bree Maalbosstraat",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RORENWEG OPITTER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.624091,
-                    51.134225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;302;746;748",
-                "ref:De_Lijn": "401189",
-                "bus": "yes",
-                "name": "Bree Roterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPITTERKIEZEL BREE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.612707,
-                    51.134399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "401180",
-                "bus": "yes",
-                "name": "Bree Rode Kruislaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERENSTRAAT BREE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.610622,
-                    51.137136
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "401335",
-                "bus": "yes",
-                "name": "Bree Panhoven",
-                "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "PANHOVENSTRAAT BREE",
                 "operator": "De Lijn",
@@ -80,71 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.616485,
-                    51.133011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;14;16;40;13b;14b;302",
-                "ref:De_Lijn": "401218",
-                "bus": "yes",
-                "name": "Bree Sint-Jacobstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JACOBSTRAAT BREE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.604284,
-                    51.135225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "401179",
-                "bus": "yes",
-                "name": "Bree Herenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERENSTRAAT BREE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.613679,
-                    51.134928
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "748",
-                "ref:De_Lijn": "401178",
-                "bus": "yes",
-                "name": "Bree Herenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERENSTRAAT BREE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.613549,
-                    51.134876
+                    5.618225,
+                    51.136076
                 ]
             }
         },
@@ -172,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "748",
-                "ref:De_Lijn": "401277",
+                "route_ref:De_Lijn": "14;40;302;748",
+                "ref:De_Lijn": "401188",
                 "bus": "yes",
-                "name": "Bree Maalbosstraat",
+                "name": "Bree Roterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PANHOVENSTRAAT BREE",
+                "created_by": "OPITTERKIEZEL BREE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.618225,
-                    51.136076
+                    5.612049,
+                    51.13491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "401261",
+                "bus": "yes",
+                "name": "Bree Grensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RORENWEG OPITTER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.624091,
+                    51.134225
                 ]
             }
         },
@@ -214,27 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;40;302;748",
-                "ref:De_Lijn": "401188",
-                "bus": "yes",
-                "name": "Bree Roterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPITTERKIEZEL BREE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.612049,
-                    51.13491
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "748",
                 "ref:De_Lijn": "401181",
                 "bus": "yes",
@@ -250,6 +124,27 @@
                 "coordinates": [
                     5.610674,
                     51.136938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "748",
+                "ref:De_Lijn": "401178",
+                "bus": "yes",
+                "name": "Bree Herenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENSTRAAT BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.613549,
+                    51.134876
                 ]
             }
         },
@@ -277,6 +172,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "14;40;302;748",
+                "ref:De_Lijn": "401337",
+                "bus": "yes",
+                "name": "Bree Panhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPITTERKIEZEL BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.617713,
+                    51.131919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401335",
+                "bus": "yes",
+                "name": "Bree Panhoven",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PANHOVENSTRAAT BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.616485,
+                    51.133011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "401179",
+                "bus": "yes",
+                "name": "Bree Herenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENSTRAAT BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.613679,
+                    51.134928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "746;748",
                 "ref:De_Lijn": "401260",
                 "bus": "yes",
@@ -298,10 +256,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;40;302;748",
-                "ref:De_Lijn": "401337",
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "401180",
                 "bus": "yes",
-                "name": "Bree Panhoven",
+                "name": "Bree Rode Kruislaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENSTRAAT BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.610622,
+                    51.137136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302;746;748",
+                "ref:De_Lijn": "401189",
+                "bus": "yes",
+                "name": "Bree Roterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OPITTERKIEZEL BREE",
@@ -311,8 +290,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.617713,
-                    51.131919
+                    5.612707,
+                    51.134399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;14;16;40;13b;14b;302",
+                "ref:De_Lijn": "401218",
+                "bus": "yes",
+                "name": "Bree Sint-Jacobstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JACOBSTRAAT BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.604284,
+                    51.135225
                 ]
             }
         }

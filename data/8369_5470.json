@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "200712",
                 "bus": "yes",
                 "name": "Wachtebeke Papdijk",

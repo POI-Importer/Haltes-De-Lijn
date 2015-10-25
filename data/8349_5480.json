@@ -25,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
-                "ref:De_Lijn": "202308",
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203307",
                 "bus": "yes",
-                "name": "Lotenhulle Lobulckstraat",
+                "name": "Aalter Ganzeplas",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP DEINZE LOTENHULLE",
+                "created_by": "STEENWEG OP DEINZE AALTER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.457504,
-                    51.061336
+                    3.455223,
+                    51.066398
                 ]
             }
         },
@@ -67,7 +67,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "202307",
+                "bus": "yes",
+                "name": "Aalter Ganzeplas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP DEINZE AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.455184,
+                    51.066901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200842",
+                "bus": "yes",
+                "name": "Aalter Aalterveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERVELD AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.460058,
+                    51.068691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "202309",
                 "bus": "yes",
                 "name": "Lotenhulle Prinsenstraat",
@@ -89,62 +130,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "203307",
+                "ref:De_Lijn": "202308",
                 "bus": "yes",
-                "name": "Aalter Ganzeplas",
+                "name": "Lotenhulle Lobulckstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP DEINZE AALTER",
+                "created_by": "STEENWEG OP DEINZE LOTENHULLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.455223,
-                    51.066398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200842",
-                "bus": "yes",
-                "name": "Aalter Aalterveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALTERVELD AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.460058,
-                    51.068691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;185",
-                "ref:De_Lijn": "202307",
-                "bus": "yes",
-                "name": "Aalter Ganzeplas",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP DEINZE AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.455184,
-                    51.066901
+                    3.457504,
+                    51.061336
                 ]
             }
         }

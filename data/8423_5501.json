@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405314",
-                "bus": "yes",
-                "name": "Attenhoven Oud Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT ATTENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.093929,
-                    50.767026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
                 "ref:De_Lijn": "405312",
                 "bus": "yes",
                 "name": "Attenhoven Mastellenstraat",
@@ -40,111 +19,6 @@
                 "coordinates": [
                     5.090755,
                     50.764358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "405305",
-                "bus": "yes",
-                "name": "Attenhoven Hey",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONKER JANLAAN ATTENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.096347,
-                    50.770275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "406395",
-                "bus": "yes",
-                "name": "Attenhoven Kastelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTELSTRAAT ATTENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.085851,
-                    50.767193
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405380",
-                "bus": "yes",
-                "name": "Neerlanden Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGSTRAAT NEERLANDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.080408,
-                    50.777547
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405410",
-                "bus": "yes",
-                "name": "Rumsdorp Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUMSDORPSTRAAT RUMSDORP",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.075721,
-                    50.766616
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "406396",
-                "bus": "yes",
-                "name": "Attenhoven Kastelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTELSTRAAT ATTENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.086079,
-                    50.767291
                 ]
             }
         },
@@ -166,48 +40,6 @@
                 "coordinates": [
                     5.094195,
                     50.7668
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "405304",
-                "bus": "yes",
-                "name": "Attenhoven Hey",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONKER JANLAAN ATTENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.096378,
-                    50.770481
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21a;562",
-                "ref:De_Lijn": "302828",
-                "bus": "yes",
-                "name": "Attenhoven Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAASSTRAAT ATTENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.093087,
-                    50.766681
                 ]
             }
         },
@@ -256,21 +88,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21a;562",
-                "ref:De_Lijn": "302829",
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405380",
                 "bus": "yes",
-                "name": "Attenhoven Kruispunt",
+                "name": "Neerlanden Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAASSTRAAT ATTENHOVEN",
+                "created_by": "BERGSTRAAT NEERLANDEN",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.09326,
-                    50.766851
+                    5.080408,
+                    50.777547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "406396",
+                "bus": "yes",
+                "name": "Attenhoven Kastelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTELSTRAAT ATTENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.086079,
+                    50.767291
                 ]
             }
         },
@@ -298,6 +151,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "405304",
+                "bus": "yes",
+                "name": "Attenhoven Hey",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKER JANLAAN ATTENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.096378,
+                    50.770481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "406395",
+                "bus": "yes",
+                "name": "Attenhoven Kastelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTELSTRAAT ATTENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085851,
+                    50.767193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "21a;562",
                 "ref:De_Lijn": "302824",
                 "bus": "yes",
@@ -313,6 +208,111 @@
                 "coordinates": [
                     5.091061,
                     50.764887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405410",
+                "bus": "yes",
+                "name": "Rumsdorp Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMSDORPSTRAAT RUMSDORP",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.075721,
+                    50.766616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a;562",
+                "ref:De_Lijn": "302829",
+                "bus": "yes",
+                "name": "Attenhoven Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASSTRAAT ATTENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.09326,
+                    50.766851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a;562",
+                "ref:De_Lijn": "302828",
+                "bus": "yes",
+                "name": "Attenhoven Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASSTRAAT ATTENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.093087,
+                    50.766681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405314",
+                "bus": "yes",
+                "name": "Attenhoven Oud Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT ATTENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.093929,
+                    50.767026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "405305",
+                "bus": "yes",
+                "name": "Attenhoven Hey",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKER JANLAAN ATTENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.096347,
+                    50.770275
                 ]
             }
         }

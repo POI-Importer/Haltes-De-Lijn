@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "410119",
-                "bus": "yes",
-                "name": "Kiewit Vijversstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WATERLELIESTRAAT KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.347391,
-                    50.964252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "408680",
                 "bus": "yes",
                 "name": "Kiewit Festivalweide",
@@ -40,69 +19,6 @@
                 "coordinates": [
                     5.353335,
                     50.960543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "402998",
-                "bus": "yes",
-                "name": "Kiewit Kerk afstaphalte",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "TULPINSTRAAT KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.355812,
-                    50.962554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "409830",
-                "bus": "yes",
-                "name": "Zonhoven Vijverstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "VIJVERSSTRAAT KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.352728,
-                    50.963497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H3",
-                "ref:De_Lijn": "403564",
-                "bus": "yes",
-                "name": "Kiewit Waterleliestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLELIESTRAAT KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.34942,
-                    50.966635
                 ]
             }
         },
@@ -130,42 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;22;23;31;35;48;52;18a;283",
-                "ref:De_Lijn": "403457",
+                "ref:De_Lijn": "410120",
                 "bus": "yes",
-                "name": "Kiewit Kerk",
+                "name": "Kiewit Vijversstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KEMPISCHE STEENWEG KIEWIT",
+                "created_by": "WATERLELIESTRAAT KIEWIT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.354628,
-                    50.962429
+                    5.347564,
+                    50.964322
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "753",
-                "ref:De_Lijn": "407465",
+                "ref:De_Lijn": "408693",
                 "bus": "yes",
-                "name": "Zonhoven Rozenstraat",
+                "name": "Kiewit Festivalweide",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BEVERZAKBROEKWEG DONK (ZONHOVEN)",
+                "created_by": "N74 KIEWIT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.356984,
-                    50.971552
+                    5.353745,
+                    50.960414
                 ]
             }
         },
@@ -214,6 +130,48 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "402998",
+                "bus": "yes",
+                "name": "Kiewit Kerk afstaphalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TULPINSTRAAT KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.355812,
+                    50.962554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;31;35;48;52;18a;283",
+                "ref:De_Lijn": "403457",
+                "bus": "yes",
+                "name": "Kiewit Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPISCHE STEENWEG KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.354628,
+                    50.962429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "H3",
                 "ref:De_Lijn": "403567",
                 "bus": "yes",
@@ -235,11 +193,11 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "410120",
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403564",
                 "bus": "yes",
-                "name": "Kiewit Vijversstraat",
+                "name": "Kiewit Waterleliestraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "WATERLELIESTRAAT KIEWIT",
                 "operator": "De Lijn",
@@ -248,92 +206,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.347564,
-                    50.964322
+                    5.34942,
+                    50.966635
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;22;23;35;48;52;18a;283",
-                "ref:De_Lijn": "403456",
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "407464",
                 "bus": "yes",
-                "name": "Kiewit Kerk",
+                "name": "Zonhoven Rozenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KEMPISCHE STEENWEG KIEWIT",
+                "created_by": "BEVERZAKBROEKWEG DONK (ZONHOVEN)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.355832,
-                    50.963534
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H3",
-                "ref:De_Lijn": "403563",
-                "bus": "yes",
-                "name": "Kiewit Vijverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VIJVERSSTRAAT KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.346151,
-                    50.964163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408693",
-                "bus": "yes",
-                "name": "Kiewit Festivalweide",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N74 KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.353745,
-                    50.960414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;22;23;35;48;52;18a;283",
-                "ref:De_Lijn": "403458",
-                "bus": "yes",
-                "name": "Kiewit Luchtvaartstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEMPISCHE STEENWEG KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.360415,
-                    50.970211
+                    5.356814,
+                    50.971598
                 ]
             }
         },
@@ -361,8 +256,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403563",
+                "bus": "yes",
+                "name": "Kiewit Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJVERSSTRAAT KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.346151,
+                    50.964163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409830",
+                "bus": "yes",
+                "name": "Zonhoven Vijverstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VIJVERSSTRAAT KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.352728,
+                    50.963497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "753",
-                "ref:De_Lijn": "407464",
+                "ref:De_Lijn": "407465",
                 "bus": "yes",
                 "name": "Zonhoven Rozenstraat",
                 "public_transport": "platform",
@@ -374,8 +311,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.356814,
-                    50.971598
+                    5.356984,
+                    50.971552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;35;48;52;18a;283",
+                "ref:De_Lijn": "403458",
+                "bus": "yes",
+                "name": "Kiewit Luchtvaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPISCHE STEENWEG KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.360415,
+                    50.970211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "410119",
+                "bus": "yes",
+                "name": "Kiewit Vijversstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WATERLELIESTRAAT KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347391,
+                    50.964252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;35;48;52;18a;283",
+                "ref:De_Lijn": "403456",
+                "bus": "yes",
+                "name": "Kiewit Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPISCHE STEENWEG KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.355832,
+                    50.963534
                 ]
             }
         }

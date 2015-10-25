@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "204205",
                 "bus": "yes",
                 "name": "Eksaarde Nieuwe Baan",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "205205",
                 "bus": "yes",
                 "name": "Eksaarde Nieuwe Baan",

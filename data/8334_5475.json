@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505222",
+                "ref:De_Lijn": "505735",
                 "bus": "yes",
-                "name": "Zedelgem Faliestraat",
+                "name": "Zedelgem Westhille",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FALIESTRAAT ZEDELGEM",
+                "created_by": "WESTHILLE ZEDELGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.121621,
-                    51.134884
+                    3.135832,
+                    51.135662
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505735",
+                "ref:De_Lijn": "505222",
                 "bus": "yes",
-                "name": "Zedelgem Westhille",
+                "name": "Zedelgem Faliestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WESTHILLE ZEDELGEM",
+                "created_by": "FALIESTRAAT ZEDELGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.135832,
-                    51.135662
+                    3.121621,
+                    51.134884
                 ]
             }
         },

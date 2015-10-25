@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;9;46",
-                "ref:De_Lijn": "403427",
+                "route_ref:De_Lijn": "1;46",
+                "ref:De_Lijn": "403412",
                 "bus": "yes",
-                "name": "Hasselt Zandstraat",
+                "name": "Hasselt Weg naar Godsheide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GENKERSTEENWEG GODSHEIDE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.397658,
-                    50.949294
+                    5.3848,
+                    50.945684
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "1;46",
-                "ref:De_Lijn": "403412",
-                "bus": "yes",
-                "name": "Hasselt Weg naar Godsheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENKERSTEENWEG GODSHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.3848,
-                    50.945684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;46",
                 "ref:De_Lijn": "403426",
                 "bus": "yes",
                 "name": "Hasselt Zandstraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     5.398557,
                     50.949403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;9;46",
+                "ref:De_Lijn": "403427",
+                "bus": "yes",
+                "name": "Hasselt Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERSTEENWEG GODSHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.397658,
+                    50.949294
                 ]
             }
         }

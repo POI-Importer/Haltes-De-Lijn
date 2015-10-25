@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;49;270",
+                "route_ref:De_Lijn": "27;49",
                 "ref:De_Lijn": "203180",
                 "bus": "yes",
                 "name": "Daknam Ganzendries",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "202181",
                 "bus": "yes",
                 "name": "Daknam Sijpstraat",
@@ -46,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;49;270",
+                "route_ref:De_Lijn": "27;49",
                 "ref:De_Lijn": "202180",
                 "bus": "yes",
                 "name": "Daknam Ganzendries",
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "203181",
                 "bus": "yes",
                 "name": "Daknam Sijpstraat",

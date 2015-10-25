@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440",
-                "ref:De_Lijn": "201644",
-                "bus": "yes",
-                "name": "Gijzenzele Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT GIJZENZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.816454,
-                    50.970955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;140;440",
+                "route_ref:De_Lijn": "20",
                 "ref:De_Lijn": "203777",
                 "bus": "yes",
                 "name": "Gijzenzele Brielstraat",
@@ -46,7 +25,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "201644",
+                "bus": "yes",
+                "name": "Gijzenzele Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT GIJZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.816454,
+                    50.970955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "200644",
                 "bus": "yes",
                 "name": "Gijzenzele Kerk",

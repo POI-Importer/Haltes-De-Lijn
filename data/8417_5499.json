@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "313;346;646",
-                "ref:De_Lijn": "305210",
-                "bus": "yes",
-                "name": "Tienen Suikerraffinaderij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AANDORENSTRAAT TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.949062,
-                    50.802347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "346;646",
                 "ref:De_Lijn": "306933",
                 "bus": "yes",
@@ -46,10 +25,94 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;646",
-                "ref:De_Lijn": "306932",
+                "ref:De_Lijn": "408478",
                 "bus": "yes",
                 "name": "Tienen Oostelijke Ring",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WULMERSUMSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.956871,
+                    50.793786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313",
+                "ref:De_Lijn": "305053",
+                "bus": "yes",
+                "name": "Tienen Onze-Lieve-Vrouw-ten-Steen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.965701,
+                    50.799953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;346;646",
+                "ref:De_Lijn": "305210",
+                "bus": "yes",
+                "name": "Tienen Suikerraffinaderij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AANDORENSTRAAT TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.949062,
+                    50.802347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;713",
+                "ref:De_Lijn": "305054",
+                "bus": "yes",
+                "name": "Tienen Grimde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954563,
+                    50.8009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;646",
+                "ref:De_Lijn": "306934",
+                "bus": "yes",
+                "name": "Tienen Grimde Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WULMERSUMSESTEENWEG TIENEN",
@@ -59,8 +122,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.956787,
-                    50.793876
+                    4.953821,
+                    50.800562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408479",
+                "bus": "yes",
+                "name": "Tienen Oostelijke Ring",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WULMERSUMSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95682,
+                    50.794209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313",
+                "ref:De_Lijn": "305055",
+                "bus": "yes",
+                "name": "Tienen Grimde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954961,
+                    50.800996
                 ]
             }
         },
@@ -109,84 +214,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;712",
-                "ref:De_Lijn": "308681",
+                "route_ref:De_Lijn": "346;646;713",
+                "ref:De_Lijn": "306931",
                 "bus": "yes",
-                "name": "Tienen Slachthuisstraat",
+                "name": "Tienen Oostelijke Ring",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SLACHTHUISSTRAAT TIENEN",
+                "created_by": "WULMERSUMSESTEENWEG TIENEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.948033,
-                    50.805166
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "313",
-                "ref:De_Lijn": "305057",
-                "bus": "yes",
-                "name": "Tienen Tumuli",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.959566,
-                    50.800533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "313",
-                "ref:De_Lijn": "305055",
-                "bus": "yes",
-                "name": "Tienen Grimde Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.954961,
-                    50.800996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "313;713",
-                "ref:De_Lijn": "305054",
-                "bus": "yes",
-                "name": "Tienen Grimde Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.954563,
-                    50.8009
+                    4.956694,
+                    50.794389
                 ]
             }
         },
@@ -214,10 +256,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;646",
-                "ref:De_Lijn": "306934",
+                "route_ref:De_Lijn": "313;713",
+                "ref:De_Lijn": "305056",
                 "bus": "yes",
-                "name": "Tienen Grimde Kerk",
+                "name": "Tienen Tumuli",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.960244,
+                    50.800323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;646",
+                "ref:De_Lijn": "306932",
+                "bus": "yes",
+                "name": "Tienen Oostelijke Ring",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WULMERSUMSESTEENWEG TIENEN",
@@ -227,8 +290,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.953821,
-                    50.800562
+                    4.956787,
+                    50.793876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;712",
+                "ref:De_Lijn": "308681",
+                "bus": "yes",
+                "name": "Tienen Slachthuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLACHTHUISSTRAAT TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.948033,
+                    50.805166
                 ]
             }
         },
@@ -256,90 +340,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "408478",
-                "bus": "yes",
-                "name": "Tienen Oostelijke Ring",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WULMERSUMSESTEENWEG TIENEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.956871,
-                    50.793786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408479",
-                "bus": "yes",
-                "name": "Tienen Oostelijke Ring",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WULMERSUMSESTEENWEG TIENEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.95682,
-                    50.794209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "313;713",
-                "ref:De_Lijn": "305056",
-                "bus": "yes",
-                "name": "Tienen Tumuli",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.960244,
-                    50.800323
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "313",
-                "ref:De_Lijn": "305053",
-                "bus": "yes",
-                "name": "Tienen Onze-Lieve-Vrouw-ten-Steen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.965701,
-                    50.799953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "313;346",
                 "ref:De_Lijn": "305189",
                 "bus": "yes",
@@ -361,21 +361,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;646;713",
-                "ref:De_Lijn": "306931",
+                "route_ref:De_Lijn": "313",
+                "ref:De_Lijn": "305057",
                 "bus": "yes",
-                "name": "Tienen Oostelijke Ring",
+                "name": "Tienen Tumuli",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WULMERSUMSESTEENWEG TIENEN",
+                "created_by": "SINT-TRUIDENSESTEENWEG TIENEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.956694,
-                    50.794389
+                    4.959566,
+                    50.800533
                 ]
             }
         }

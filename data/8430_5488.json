@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91",
-                "ref:De_Lijn": "402996",
+                "route_ref:De_Lijn": "91;H1;35c",
+                "ref:De_Lijn": "403149",
                 "bus": "yes",
-                "name": "Spalbeek Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPALBEEKSTRAAT SPALBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.230505,
-                    50.951413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H1",
-                "ref:De_Lijn": "407586",
-                "bus": "yes",
-                "name": "Kermt Ernest Claesstraat",
+                "name": "Kermt Hommelbergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MOLENSTRAAT KERMT",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.244379,
-                    50.949027
+                    5.237904,
+                    50.95054
                 ]
             }
         },
@@ -67,31 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "299;35c",
-                "ref:De_Lijn": "403153",
-                "bus": "yes",
-                "name": "Kermt Meistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTERSTEENWEG KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.239942,
-                    50.947639
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "35c",
-                "ref:De_Lijn": "403155",
+                "ref:De_Lijn": "403158",
                 "bus": "yes",
-                "name": "Kermt Monninxstraat",
+                "name": "Kermt Oude Holrakkerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MONNINXSTRAAT KERMT",
@@ -101,71 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.242537,
-                    50.955522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H1",
-                "ref:De_Lijn": "407593",
-                "bus": "yes",
-                "name": "Spalbeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPALBEEKSTRAAT SPALBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.230228,
-                    50.9495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91",
-                "ref:De_Lijn": "402975",
-                "bus": "yes",
-                "name": "Spalbeek De Gaer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPALBEEKSTRAAT SPALBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.230527,
-                    50.955728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;35c",
-                "ref:De_Lijn": "403316",
-                "bus": "yes",
-                "name": "Spalbeek Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT SPALBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.230877,
-                    50.950763
+                    5.249639,
+                    50.957797
                 ]
             }
         },
@@ -214,48 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;35c",
-                "ref:De_Lijn": "403150",
-                "bus": "yes",
-                "name": "Kermt Meistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEISTRAAT KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.240788,
-                    50.947966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;H1;35c",
-                "ref:De_Lijn": "403148",
-                "bus": "yes",
-                "name": "Kermt Hommelbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.236995,
-                    50.950628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "H1",
                 "ref:De_Lijn": "407584",
                 "bus": "yes",
@@ -271,6 +124,48 @@
                 "coordinates": [
                     5.248091,
                     50.948873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c",
+                "ref:De_Lijn": "403159",
+                "bus": "yes",
+                "name": "Kermt Oude Holrakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONNINXSTRAAT KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.249924,
+                    50.957804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;35c",
+                "ref:De_Lijn": "403316",
+                "bus": "yes",
+                "name": "Spalbeek Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT SPALBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.230877,
+                    50.950763
                 ]
             }
         },
@@ -298,10 +193,115 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "35c",
-                "ref:De_Lijn": "403159",
+                "route_ref:De_Lijn": "91;H1;35c",
+                "ref:De_Lijn": "403148",
                 "bus": "yes",
-                "name": "Kermt Oude Holrakkerstraat",
+                "name": "Kermt Hommelbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.236995,
+                    50.950628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "299;35c",
+                "ref:De_Lijn": "403152",
+                "bus": "yes",
+                "name": "Kermt Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSTEENWEG KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.239945,
+                    50.947783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1",
+                "ref:De_Lijn": "407586",
+                "bus": "yes",
+                "name": "Kermt Ernest Claesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.244379,
+                    50.949027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;35c",
+                "ref:De_Lijn": "403151",
+                "bus": "yes",
+                "name": "Kermt Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEISTRAAT KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.240992,
+                    50.948261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1",
+                "ref:De_Lijn": "407593",
+                "bus": "yes",
+                "name": "Spalbeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPALBEEKSTRAAT SPALBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.230228,
+                    50.9495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c",
+                "ref:De_Lijn": "403155",
+                "bus": "yes",
+                "name": "Kermt Monninxstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MONNINXSTRAAT KERMT",
@@ -311,8 +311,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.249924,
-                    50.957804
+                    5.242537,
+                    50.955522
                 ]
             }
         },
@@ -362,27 +362,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "299;35c",
-                "ref:De_Lijn": "403152",
-                "bus": "yes",
-                "name": "Kermt Meistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTERSTEENWEG KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.239945,
-                    50.947783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "299;35c",
                 "ref:De_Lijn": "403323",
                 "bus": "yes",
                 "name": "Spalbeek Spalbeekstraat",
@@ -397,48 +376,6 @@
                 "coordinates": [
                     5.230735,
                     50.947653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;299;35c",
-                "ref:De_Lijn": "403144",
-                "bus": "yes",
-                "name": "Kermt De Willeman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTERSTEENWEG KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.248227,
-                    50.947802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35c",
-                "ref:De_Lijn": "403158",
-                "bus": "yes",
-                "name": "Kermt Oude Holrakkerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MONNINXSTRAAT KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.249639,
-                    50.957797
                 ]
             }
         },
@@ -466,8 +403,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "402996",
+                "bus": "yes",
+                "name": "Spalbeek Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPALBEEKSTRAAT SPALBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.230505,
+                    50.951413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "91;35c",
-                "ref:De_Lijn": "403151",
+                "ref:De_Lijn": "403150",
                 "bus": "yes",
                 "name": "Kermt Meistraat",
                 "public_transport": "platform",
@@ -479,8 +437,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.240992,
-                    50.948261
+                    5.240788,
+                    50.947966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;299;35c",
+                "ref:De_Lijn": "403144",
+                "bus": "yes",
+                "name": "Kermt De Willeman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSTEENWEG KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.248227,
+                    50.947802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "299;35c",
+                "ref:De_Lijn": "403153",
+                "bus": "yes",
+                "name": "Kermt Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSTEENWEG KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.239942,
+                    50.947639
                 ]
             }
         },
@@ -508,21 +508,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;H1;35c",
-                "ref:De_Lijn": "403149",
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "402975",
                 "bus": "yes",
-                "name": "Kermt Hommelbergstraat",
+                "name": "Spalbeek De Gaer",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT KERMT",
+                "created_by": "SPALBEEKSTRAAT SPALBEEK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.237904,
-                    50.95054
+                    5.230527,
+                    50.955728
                 ]
             }
         }

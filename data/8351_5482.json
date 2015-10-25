@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;125;185",
-                "ref:De_Lijn": "202790",
-                "bus": "yes",
-                "name": "Poesele Nevelestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDEWEG POESELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.506907,
-                    51.040321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "15",
                 "ref:De_Lijn": "203789",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.515261,
                     51.03809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15",
+                "ref:De_Lijn": "202790",
+                "bus": "yes",
+                "name": "Poesele Nevelestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDEWEG POESELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.506907,
+                    51.040321
                 ]
             }
         }

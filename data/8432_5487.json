@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "H3;35c",
-                "ref:De_Lijn": "403551",
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403513",
                 "bus": "yes",
-                "name": "Stokrooie Waterstraat",
+                "name": "Stokrooie Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-AMANDUSSTRAAT STOKROOIE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.275832,
-                    50.965275
+                    5.283003,
+                    50.966532
                 ]
             }
         },
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;35c",
-                "ref:De_Lijn": "403370",
+                "route_ref:De_Lijn": "H3;35c",
+                "ref:De_Lijn": "403551",
                 "bus": "yes",
-                "name": "Stokrooie Brug Albertkanaal",
+                "name": "Stokrooie Waterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STOKROOIEWEG STOKROOIE",
+                "created_by": "SINT-AMANDUSSTRAAT STOKROOIE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.279737,
-                    50.971331
+                    5.275832,
+                    50.965275
                 ]
             }
         },
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H3",
-                "ref:De_Lijn": "403513",
+                "ref:De_Lijn": "403514",
                 "bus": "yes",
                 "name": "Stokrooie Kerk",
                 "public_transport": "platform",
@@ -101,29 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.283003,
-                    50.966532
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;35c",
-                "ref:De_Lijn": "403371",
-                "bus": "yes",
-                "name": "Stokrooie Brug Albertkanaal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STOKROOIEWEG STOKROOIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.279408,
-                    50.971253
+                    5.282901,
+                    50.966407
                 ]
             }
         },
@@ -151,21 +130,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "H3",
-                "ref:De_Lijn": "403514",
+                "route_ref:De_Lijn": "51;35c",
+                "ref:De_Lijn": "403371",
                 "bus": "yes",
-                "name": "Stokrooie Kerk",
+                "name": "Stokrooie Brug Albertkanaal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-AMANDUSSTRAAT STOKROOIE",
+                "created_by": "STOKROOIEWEG STOKROOIE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.282901,
-                    50.966407
+                    5.279408,
+                    50.971253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;35c",
+                "ref:De_Lijn": "403370",
+                "bus": "yes",
+                "name": "Stokrooie Brug Albertkanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKROOIEWEG STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.279737,
+                    50.971331
                 ]
             }
         }

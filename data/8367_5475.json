@@ -5,27 +5,26 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "73;74;76",
-                "ref:De_Lijn": "203623",
+                "ref:De_Lijn": "202623",
                 "bus": "yes",
                 "name": "Zaffelare Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OOSTEINDE ZAFFELARE",
+                "created_by": "ZAFFELARE-DORP ZAFFELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.864739,
-                    51.133471
+                    3.862774,
+                    51.13286
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "210043",
                 "bus": "yes",
                 "name": "Zaffelare Berkenstraat",
@@ -46,21 +45,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;74;76;175",
-                "ref:De_Lijn": "202622",
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "203623",
                 "bus": "yes",
-                "name": "Zaffelare Molenstraat",
+                "name": "Zaffelare Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RECHTSTRAAT ZAFFELARE",
+                "created_by": "OOSTEINDE ZAFFELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.854388,
-                    51.130253
+                    3.864739,
+                    51.133471
                 ]
             }
         },
@@ -88,27 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;74;76;175",
-                "ref:De_Lijn": "202623",
-                "bus": "yes",
-                "name": "Zaffelare Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZAFFELARE-DORP ZAFFELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.862774,
-                    51.13286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73;74;76",
                 "ref:De_Lijn": "203622",
                 "bus": "yes",
@@ -124,6 +102,27 @@
                 "coordinates": [
                     3.855714,
                     51.130547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "202622",
+                "bus": "yes",
+                "name": "Zaffelare Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RECHTSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.854388,
+                    51.130253
                 ]
             }
         }

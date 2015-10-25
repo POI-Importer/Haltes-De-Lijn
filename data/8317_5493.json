@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "509406",
+                "ref:De_Lijn": "504434",
                 "bus": "yes",
-                "name": "Poperinge Groene Jacht",
+                "name": "Poperinge Woestensteenweg nummer 28",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WOESTENSEWEG POPERINGE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.750518,
-                    50.880748
+                    2.755335,
+                    50.883269
                 ]
             }
         },
@@ -40,27 +40,6 @@
                 "coordinates": [
                     2.766501,
                     50.888008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "504434",
-                "bus": "yes",
-                "name": "Poperinge Woestensteenweg nummer 28",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WOESTENSEWEG POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.755335,
-                    50.883269
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     2.767063,
                     50.888204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "509406",
+                "bus": "yes",
+                "name": "Poperinge Groene Jacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTENSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.750518,
+                    50.880748
                 ]
             }
         }

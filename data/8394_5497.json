@@ -5,11 +5,11 @@
             "type": "Feature",
             "properties": {
                 "ref:De_Lijn": "301101",
-                "bus": "yes",
                 "name": "Mater Dei",
                 "public_transport": "platform",
+                "railway": "tram_stop",
                 "odbl": "new",
-                "highway": "bus_stop",
+                "tram": "yes",
                 "created_by": "DUIZEND METERLAAN SINT-PIETERS-WOLUWE",
                 "operator": "De Lijn",
                 "network": "DLVB"

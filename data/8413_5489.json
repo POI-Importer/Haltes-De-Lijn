@@ -4,21 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "374;392",
-                "ref:De_Lijn": "304934",
+                "ref:De_Lijn": "307060",
                 "bus": "yes",
                 "name": "Houwaart Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HALDERTSTRAAT HOUWAART",
+                "created_by": "HEIKANT HOUWAART",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.858384,
-                    50.933067
+                    4.857475,
+                    50.933206
                 ]
             }
         },
@@ -67,20 +66,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307060",
+                "route_ref:De_Lijn": "374;392",
+                "ref:De_Lijn": "304939",
                 "bus": "yes",
-                "name": "Houwaart Gemeentehuis",
+                "name": "Houwaart Houwaartseberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIKANT HOUWAART",
+                "created_by": "HALDERTSTRAAT HOUWAART",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.857475,
-                    50.933206
+                    4.870952,
+                    50.940403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;392",
+                "ref:De_Lijn": "304948",
+                "bus": "yes",
+                "name": "Houwaart Neringe 92",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALDERTSTRAAT HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.875542,
+                    50.942505
                 ]
             }
         },
@@ -109,9 +130,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "374;392",
-                "ref:De_Lijn": "304948",
+                "ref:De_Lijn": "304942",
                 "bus": "yes",
-                "name": "Houwaart Neringe 92",
+                "name": "Houwaart Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HALDERTSTRAAT HOUWAART",
@@ -121,50 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.875542,
-                    50.942505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "374;392",
-                "ref:De_Lijn": "304938",
-                "bus": "yes",
-                "name": "Houwaart Houwaartseberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALDERTSTRAAT HOUWAART",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.871694,
-                    50.940598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "374;392",
-                "ref:De_Lijn": "304937",
-                "bus": "yes",
-                "name": "Houwaart Haldertstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALDERTSTRAAT HOUWAART",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.865603,
-                    50.937792
+                    4.861014,
+                    50.934251
                 ]
             }
         },
@@ -214,7 +193,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "374;392",
-                "ref:De_Lijn": "304939",
+                "ref:De_Lijn": "304938",
                 "bus": "yes",
                 "name": "Houwaart Houwaartseberg",
                 "public_transport": "platform",
@@ -226,8 +205,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.870952,
-                    50.940403
+                    4.871694,
+                    50.940598
                 ]
             }
         },
@@ -235,9 +214,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "374;392",
-                "ref:De_Lijn": "304942",
+                "ref:De_Lijn": "304934",
                 "bus": "yes",
-                "name": "Houwaart Kerk",
+                "name": "Houwaart Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HALDERTSTRAAT HOUWAART",
@@ -247,8 +226,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.861014,
-                    50.934251
+                    4.858384,
+                    50.933067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;392",
+                "ref:De_Lijn": "304937",
+                "bus": "yes",
+                "name": "Houwaart Haldertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALDERTSTRAAT HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.865603,
+                    50.937792
                 ]
             }
         }

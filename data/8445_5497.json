@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "18;28;704;706",
+                "ref:De_Lijn": "400755",
+                "bus": "yes",
+                "name": "Grote-Spouwen Kellerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMSTERWEG GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.562594,
+                    50.833122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;28;704;706",
                 "ref:De_Lijn": "400754",
                 "bus": "yes",
                 "name": "Grote-Spouwen Kellerstraat",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     5.562851,
                     50.833146
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "18",
-                "ref:De_Lijn": "407700",
-                "bus": "yes",
-                "name": "Vlijtingen Ellicht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N745 VLIJTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.573566,
-                    50.829126
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18;28;704;706",
-                "ref:De_Lijn": "400755",
+                "route_ref:De_Lijn": "18",
+                "ref:De_Lijn": "407700",
                 "bus": "yes",
-                "name": "Grote-Spouwen Kellerstraat",
+                "name": "Vlijtingen Ellicht",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIEMSTERWEG GROTE-SPOUWEN",
+                "created_by": "N745 VLIJTINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.562594,
-                    50.833122
+                    5.573566,
+                    50.829126
                 ]
             }
         }

@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56;59",
-                "ref:De_Lijn": "505774",
-                "bus": "yes",
-                "name": "Koekelare Burgemeester Van Ackerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BURGEMEESTER VAN ACKERESTRAAT BOVEKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.9812,
-                    51.055982
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56",
-                "ref:De_Lijn": "509931",
-                "bus": "yes",
-                "name": "Bovekerke Rozenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POPULIEREWEG BOVEKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.972871,
-                    51.056872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;59",
                 "ref:De_Lijn": "505314",
                 "bus": "yes",
                 "name": "Koekelare Carre",
@@ -82,6 +40,48 @@
                 "coordinates": [
                     2.96847,
                     51.055229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505774",
+                "bus": "yes",
+                "name": "Koekelare Burgemeester Van Ackerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER VAN ACKERESTRAAT BOVEKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9812,
+                    51.055982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "509931",
+                "bus": "yes",
+                "name": "Bovekerke Rozenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPULIEREWEG BOVEKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.972871,
+                    51.056872
                 ]
             }
         }

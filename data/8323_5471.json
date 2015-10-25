@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "51;52;53;66;83",
+                "ref:De_Lijn": "501195",
+                "bus": "yes",
+                "name": "Leffinge Noordhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N33 OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.899078,
+                    51.186724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "53;66;84",
                 "ref:De_Lijn": "501197",
                 "bus": "yes",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     2.880852,
                     51.181803
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;52;53;66;83",
-                "ref:De_Lijn": "501195",
-                "bus": "yes",
-                "name": "Leffinge Noordhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N33 OOSTENDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.899078,
-                    51.186724
                 ]
             }
         }

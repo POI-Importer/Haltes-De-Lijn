@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306421",
-                "bus": "yes",
-                "name": "Keerbergen Kerkhof",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DIJLESTRAAT KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.630335,
-                    50.997144
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306422",
                 "bus": "yes",
                 "name": "Keerbergen Dijlestraat",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     4.623108,
                     50.996405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306423",
+                "bus": "yes",
+                "name": "Keerbergen Dijlestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DIJLESTRAAT KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.623065,
+                    50.996306
                 ]
             }
         },
@@ -67,9 +67,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306423",
+                "ref:De_Lijn": "306421",
                 "bus": "yes",
-                "name": "Keerbergen Dijlestraat",
+                "name": "Keerbergen Kerkhof",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.623065,
-                    50.996306
+                    4.630335,
+                    50.997144
                 ]
             }
         }

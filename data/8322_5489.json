@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20;28",
-                "ref:De_Lijn": "504286",
-                "bus": "yes",
-                "name": "Merkem Nieuwe Wereld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIEWEG BIKSCHOTE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.857253,
-                    50.935183
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;28",
                 "ref:De_Lijn": "504284",
                 "bus": "yes",
                 "name": "Merkem Langewade",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.860908,
                     50.942756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "504286",
+                "bus": "yes",
+                "name": "Merkem Nieuwe Wereld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG BIKSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.857253,
+                    50.935183
                 ]
             }
         }

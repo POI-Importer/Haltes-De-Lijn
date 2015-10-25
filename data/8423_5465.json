@@ -4,112 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;382;390;391;430;436",
-                "ref:De_Lijn": "107576",
-                "bus": "yes",
-                "name": "Retie Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLSEBAAN RETIE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.089172,
-                    51.262635
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;436;437",
-                "ref:De_Lijn": "107569",
-                "bus": "yes",
-                "name": "Retie Pijlstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TURNHOUTSEBAAN RETIE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.078335,
-                    51.270683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;382;390;391;430;436;437",
-                "ref:De_Lijn": "107575",
-                "bus": "yes",
-                "name": "Retie Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLSEBAAN RETIE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.089241,
-                    51.262437
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;382;390;391;430;436;437",
-                "ref:De_Lijn": "107573",
-                "bus": "yes",
-                "name": "Retie Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKT RETIE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.084327,
-                    51.267096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;390;391",
-                "ref:De_Lijn": "107741",
-                "bus": "yes",
-                "name": "Retie Oude Arendonksebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EUROPALAAN RETIE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.085378,
-                    51.274901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;390;391",
                 "ref:De_Lijn": "107743",
                 "bus": "yes",
                 "name": "Retie Boesdijk",
@@ -130,7 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;382;390;391;430;436",
+                "ref:De_Lijn": "107570",
+                "bus": "yes",
+                "name": "Retie Pijlstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.078337,
+                    51.270826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107574",
                 "bus": "yes",
                 "name": "Retie Markt",
@@ -151,28 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;390;391",
-                "ref:De_Lijn": "107744",
-                "bus": "yes",
-                "name": "Retie Boesdijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKHOFSTRAAT RETIE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.086021,
-                    51.271976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;390;391",
                 "ref:De_Lijn": "107745",
                 "bus": "yes",
                 "name": "Retie Hovenstraat",
@@ -193,21 +84,40 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;390;391",
-                "ref:De_Lijn": "107742",
+                "ref:De_Lijn": "107573",
                 "bus": "yes",
-                "name": "Retie Oude Arendonksebaan",
+                "name": "Retie Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EUROPALAAN RETIE",
+                "created_by": "MARKT RETIE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.085688,
-                    51.27551
+                    5.084327,
+                    51.267096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107746",
+                "bus": "yes",
+                "name": "Retie Hovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.086538,
+                    51.269276
                 ]
             }
         },
@@ -235,8 +145,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;430;436",
-                "ref:De_Lijn": "107570",
+                "ref:De_Lijn": "107744",
+                "bus": "yes",
+                "name": "Retie Boesdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.086021,
+                    51.271976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107742",
+                "bus": "yes",
+                "name": "Retie Oude Arendonksebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085688,
+                    51.27551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107569",
                 "bus": "yes",
                 "name": "Retie Pijlstraat",
                 "public_transport": "platform",
@@ -248,29 +197,68 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.078337,
-                    51.270826
+                    5.078335,
+                    51.270683
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;390;391",
-                "ref:De_Lijn": "107746",
+                "ref:De_Lijn": "107575",
                 "bus": "yes",
-                "name": "Retie Hovenstraat",
+                "name": "Retie Nieuwstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KERKHOFSTRAAT RETIE",
+                "created_by": "MOLSEBAAN RETIE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.086538,
-                    51.269276
+                    5.089241,
+                    51.262437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107576",
+                "bus": "yes",
+                "name": "Retie Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLSEBAAN RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.089172,
+                    51.262635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107741",
+                "bus": "yes",
+                "name": "Retie Oude Arendonksebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085378,
+                    51.274901
                 ]
             }
         }

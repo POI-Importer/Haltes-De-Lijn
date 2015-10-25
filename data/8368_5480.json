@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "209867",
                 "bus": "yes",
                 "name": "Laarne Zevestraat",

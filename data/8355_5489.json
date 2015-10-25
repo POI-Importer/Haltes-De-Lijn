@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "44",
-                "ref:De_Lijn": "209733",
-                "bus": "yes",
-                "name": "Nazareth Steenweg Op Deinze",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "'S-GRAVENSTRAAT NAZARETH",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.590512,
-                    50.943878
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;145",
-                "ref:De_Lijn": "208847",
-                "bus": "yes",
-                "name": "Nazareth Plezierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEREGEMSTRAAT NAZARETH",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.589957,
-                    50.934453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44",
                 "ref:De_Lijn": "209847",
                 "bus": "yes",
                 "name": "Nazareth Plezierstraat",
@@ -88,7 +46,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "208847",
+                "bus": "yes",
+                "name": "Nazareth Plezierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEREGEMSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.589957,
+                    50.934453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "208733",
+                "bus": "yes",
+                "name": "Nazareth Steenweg Op Deinze",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S-GRAVENSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590271,
+                    50.943823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "200453",
                 "bus": "yes",
                 "name": "Nazareth Home Nazareth",
@@ -109,7 +108,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;145;485",
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "209733",
+                "bus": "yes",
+                "name": "Nazareth Steenweg Op Deinze",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S-GRAVENSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590512,
+                    50.943878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
                 "ref:De_Lijn": "208265",
                 "bus": "yes",
                 "name": "Nazareth Boeregemstraat",
@@ -124,27 +144,6 @@
                 "coordinates": [
                     3.596889,
                     50.940279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;145;485",
-                "ref:De_Lijn": "208733",
-                "bus": "yes",
-                "name": "Nazareth Steenweg Op Deinze",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "'S-GRAVENSTRAAT NAZARETH",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.590271,
-                    50.943823
                 ]
             }
         }

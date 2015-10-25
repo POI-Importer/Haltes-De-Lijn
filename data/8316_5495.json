@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "505182",
-                "bus": "yes",
-                "name": "Poperinge Beiaardstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEIAARDSTRAAT POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.72464,
-                    50.858296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "505997",
-                "bus": "yes",
-                "name": "Poperinge Kinderland",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISBOOGLAAN POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.732429,
-                    50.849611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;60;69",
-                "ref:De_Lijn": "504427",
-                "bus": "yes",
-                "name": "Poperinge Station Perron 3",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IEPERSTRAAT POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.735982,
-                    50.854858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "60",
                 "ref:De_Lijn": "504411",
                 "bus": "yes",
@@ -110,41 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "504697",
+                "ref:De_Lijn": "505166",
                 "bus": "yes",
-                "name": "Poperinge Winkelcentrum",
+                "name": "Poperinge Kerkhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NIJVERHEIDSSTRAAT POPERINGE",
+                "created_by": "ELVERDINGSEWEG POPERINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.741235,
-                    50.851253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "504426",
-                "bus": "yes",
-                "name": "Poperinge Station Perron 1",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IEPERSTRAAT POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.735797,
-                    50.854855
+                    2.743656,
+                    50.858471
                 ]
             }
         },
@@ -173,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "505166",
+                "ref:De_Lijn": "505997",
                 "bus": "yes",
-                "name": "Poperinge Kerkhof",
+                "name": "Poperinge Kinderland",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ELVERDINGSEWEG POPERINGE",
+                "created_by": "KRUISBOOGLAAN POPERINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.743656,
-                    50.858471
+                    2.732429,
+                    50.849611
                 ]
             }
         },
@@ -194,20 +110,125 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;51;60;61;68;69",
-                "ref:De_Lijn": "509417",
+                "ref:De_Lijn": "504417",
                 "bus": "yes",
-                "name": "Poperinge Markt",
+                "name": "Poperinge Markt afstaphalte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VROONHOF POPERINGE",
+                "created_by": "GROTE MARKT POPERINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.726676,
-                    50.854899
+                    2.726942,
+                    50.85582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "505970",
+                "bus": "yes",
+                "name": "Poperinge Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDERDOMSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.739265,
+                    50.847854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "504426",
+                "bus": "yes",
+                "name": "Poperinge Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.735797,
+                    50.854855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "504697",
+                "bus": "yes",
+                "name": "Poperinge Winkelcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJVERHEIDSSTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.741235,
+                    50.851253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;61;68;69",
+                "ref:De_Lijn": "504423",
+                "bus": "yes",
+                "name": "Poperinge Rekhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEKEN DE BOLAAN POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.727372,
+                    50.851654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;60;69",
+                "ref:De_Lijn": "504427",
+                "bus": "yes",
+                "name": "Poperinge Station Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.735982,
+                    50.854858
                 ]
             }
         },
@@ -257,41 +278,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;51;60;61;68;69",
-                "ref:De_Lijn": "504417",
+                "ref:De_Lijn": "509417",
                 "bus": "yes",
-                "name": "Poperinge Markt afstaphalte",
+                "name": "Poperinge Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTE MARKT POPERINGE",
+                "created_by": "VROONHOF POPERINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.726942,
-                    50.85582
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24",
-                "ref:De_Lijn": "509426",
-                "bus": "yes",
-                "name": "Poperinge Station Perron 2",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IEPERSTRAAT POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.735755,
-                    50.854855
+                    2.726676,
+                    50.854899
                 ]
             }
         },
@@ -319,42 +319,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "505970",
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "509426",
                 "bus": "yes",
-                "name": "Poperinge Sportcentrum",
+                "name": "Poperinge Station Perron 2",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDERDOMSEWEG POPERINGE",
+                "created_by": "IEPERSTRAAT POPERINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.739265,
-                    50.847854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "60;61;68;69",
-                "ref:De_Lijn": "504423",
-                "bus": "yes",
-                "name": "Poperinge Rekhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEKEN DE BOLAAN POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.727372,
-                    50.851654
+                    2.735755,
+                    50.854855
                 ]
             }
         },
@@ -376,6 +355,27 @@
                 "coordinates": [
                     2.744011,
                     50.856003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "505182",
+                "bus": "yes",
+                "name": "Poperinge Beiaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEIAARDSTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.72464,
+                    50.858296
                 ]
             }
         }

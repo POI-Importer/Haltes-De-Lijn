@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "308324",
+                "bus": "yes",
+                "name": "Zemst Haneweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451183,
+                    50.993263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "308325",
                 "bus": "yes",
                 "name": "Zemst Haneweg",
@@ -45,32 +65,12 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308324",
-                "bus": "yes",
-                "name": "Zemst Haneweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT ZEMST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.451183,
-                    50.993263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "308327",
+                "bus": "yes",
                 "name": "Zemst Hof van Beieren",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "odbl": "new",
-                "tram": "yes",
+                "highway": "bus_stop",
                 "created_by": "HOOGSTRAAT ZEMST",
                 "operator": "De Lijn",
                 "network": "DLVB"

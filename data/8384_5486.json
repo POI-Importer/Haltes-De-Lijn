@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;245;821",
-                "ref:De_Lijn": "303874",
+                "ref:De_Lijn": "303873",
                 "bus": "yes",
                 "name": "Peizegem Leireken",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.225736,
-                    50.982941
+                    4.225835,
+                    50.983049
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;245;821",
-                "ref:De_Lijn": "303872",
-                "bus": "yes",
-                "name": "Peizegem Tuinbouwschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOUTER MERCHTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.230045,
-                    50.979881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;245;821",
                 "ref:De_Lijn": "303848",
                 "bus": "yes",
                 "name": "Merchtem Koutermolen",
@@ -89,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;245;821",
-                "ref:De_Lijn": "303873",
+                "ref:De_Lijn": "303872",
                 "bus": "yes",
-                "name": "Peizegem Leireken",
+                "name": "Peizegem Tuinbouwschool",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NIEUWBAAN MERCHTEM",
+                "created_by": "KOUTER MERCHTEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.225835,
-                    50.983049
+                    4.230045,
+                    50.979881
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     4.231401,
                     50.974147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;245;821",
+                "ref:De_Lijn": "303874",
+                "bus": "yes",
+                "name": "Peizegem Leireken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWBAAN MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.225736,
+                    50.982941
                 ]
             }
         }

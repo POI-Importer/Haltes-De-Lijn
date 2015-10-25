@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "508268",
+                "bus": "yes",
+                "name": "Hulste Hoge Doorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG LENDELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.267845,
+                    50.896115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
                 "ref:De_Lijn": "508275",
                 "bus": "yes",
                 "name": "Hulste Vlasbloem",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     3.267762,
                     50.896627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "508268",
-                "bus": "yes",
-                "name": "Hulste Hoge Doorn",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTEENWEG LENDELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.267845,
-                    50.896115
                 ]
             }
         },

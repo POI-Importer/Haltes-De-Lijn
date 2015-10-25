@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "485",
-                "ref:De_Lijn": "203894",
-                "bus": "yes",
-                "name": "Eine Fietelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRANEVELD EINE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.615688,
-                    50.870892
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;46;47",
-                "ref:De_Lijn": "209285",
-                "bus": "yes",
-                "name": "Eine Fabriekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NESTOR DE TIÈRESTRAAT EINE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.621239,
-                    50.869363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "44;46;47",
                 "ref:De_Lijn": "209286",
                 "bus": "yes",
@@ -67,28 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;46;47;485",
-                "ref:De_Lijn": "208287",
-                "bus": "yes",
-                "name": "Oudenaarde Paterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-ANNASTRAAT EINE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.613659,
-                    50.86366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;46;47;485",
+                "route_ref:De_Lijn": "44;46;47",
                 "ref:De_Lijn": "208286",
                 "bus": "yes",
                 "name": "Eine Akkerstraat",
@@ -103,48 +40,6 @@
                 "coordinates": [
                     3.618376,
                     50.86716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "485",
-                "ref:De_Lijn": "219018",
-                "bus": "yes",
-                "name": "Einde Kanunnikenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANUNNIKENSTRAAT EINE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.621416,
-                    50.86718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;46;47;485",
-                "ref:De_Lijn": "208285",
-                "bus": "yes",
-                "name": "Eine Fabriekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NESTOR DE TIÈRESTRAAT EINE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.620504,
-                    50.869116
                 ]
             }
         },
@@ -173,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "44;46;47",
+                "ref:De_Lijn": "208285",
+                "bus": "yes",
+                "name": "Eine Fabriekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NESTOR DE TIÈRESTRAAT EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.620504,
+                    50.869116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47",
                 "ref:De_Lijn": "209287",
                 "bus": "yes",
                 "name": "Oudenaarde Paterstraat",
@@ -187,6 +103,88 @@
                 "coordinates": [
                     3.6138,
                     50.863715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203894",
+                "bus": "yes",
+                "name": "Eine Fietelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRANEVELD EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615688,
+                    50.870892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "219018",
+                "bus": "yes",
+                "name": "Einde Kanunnikenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANUNNIKENSTRAAT EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.621416,
+                    50.86718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47",
+                "ref:De_Lijn": "208287",
+                "bus": "yes",
+                "name": "Oudenaarde Paterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNASTRAAT EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.613659,
+                    50.86366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47",
+                "ref:De_Lijn": "209285",
+                "bus": "yes",
+                "name": "Eine Fabriekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NESTOR DE TIÈRESTRAAT EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.621239,
+                    50.869363
                 ]
             }
         }

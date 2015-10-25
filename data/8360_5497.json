@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "16;17",
-                "ref:De_Lijn": "209106",
+                "ref:De_Lijn": "208106",
                 "bus": "yes",
                 "name": "Sint-Kornelis-Horebeke Ruitersstraat",
                 "public_transport": "platform",
@@ -17,57 +17,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.700377,
-                    50.819964
+                    3.699665,
+                    50.820158
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "445",
-                "ref:De_Lijn": "206669",
-                "bus": "yes",
-                "name": "Sint-Kornelis-Horebeke Haaghoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAAGHOEK SINT-KORNELIS-HOREBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.709493,
-                    50.829743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "410",
-                "ref:De_Lijn": "206682",
-                "bus": "yes",
-                "name": "Zegelsem Perlinkweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIWEG ZEGELSEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.712723,
-                    50.827145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "445",
                 "ref:De_Lijn": "209778",
                 "bus": "yes",
                 "name": "Sint-Kornelis-Horebeke Bovenstraat",
@@ -88,8 +45,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;17;445",
-                "ref:De_Lijn": "208106",
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "209106",
                 "bus": "yes",
                 "name": "Sint-Kornelis-Horebeke Ruitersstraat",
                 "public_transport": "platform",
@@ -101,8 +58,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.699665,
-                    50.820158
+                    3.700377,
+                    50.819964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206682",
+                "bus": "yes",
+                "name": "Zegelsem Perlinkweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIWEG ZEGELSEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.712723,
+                    50.827145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206669",
+                "bus": "yes",
+                "name": "Sint-Kornelis-Horebeke Haaghoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAAGHOEK SINT-KORNELIS-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709493,
+                    50.829743
                 ]
             }
         }

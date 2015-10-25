@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "54;77",
+                "ref:De_Lijn": "507483",
+                "bus": "yes",
+                "name": "Tielt Seyntex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332598,
+                    50.985095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "54;59;77",
                 "ref:De_Lijn": "502483",
                 "bus": "yes",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     3.330333,
                     50.983789
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54;59;77",
-                "ref:De_Lijn": "507483",
-                "bus": "yes",
-                "name": "Tielt Seyntex",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.332598,
-                    50.985095
                 ]
             }
         }

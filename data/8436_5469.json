@@ -4,7 +4,49 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "405844",
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "407092",
+                "bus": "yes",
+                "name": "Overpelt Tijmstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEDAUWLAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.381957,
+                    51.212433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "407261",
+                "bus": "yes",
+                "name": "Holheide Kerkplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEDAUWLAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.382298,
+                    51.209697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405845",
                 "bus": "yes",
                 "name": "Grote-Barrier Kruiskiezel",
                 "public_transport": "platform",
@@ -17,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.362275,
-                    51.218362
+                    5.362372,
+                    51.218199
                 ]
             }
         },
@@ -67,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "407092",
+                "ref:De_Lijn": "405844",
                 "bus": "yes",
-                "name": "Overpelt Tijmstraat",
+                "name": "Grote-Barrier Kruiskiezel",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ZONNEDAUWLAAN OVERPELT",
+                "created_by": "N712 LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.381957,
-                    51.212433
+                    5.362275,
+                    51.218362
                 ]
             }
         },
@@ -103,48 +145,6 @@
                 "coordinates": [
                     5.382974,
                     51.20855
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "405845",
-                "bus": "yes",
-                "name": "Grote-Barrier Kruiskiezel",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N712 LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.362372,
-                    51.218199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "48",
-                "ref:De_Lijn": "407261",
-                "bus": "yes",
-                "name": "Holheide Kerkplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONNEDAUWLAAN OVERPELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.382298,
-                    51.209697
                 ]
             }
         }

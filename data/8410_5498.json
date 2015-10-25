@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;541",
-                "ref:De_Lijn": "300710",
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "300626",
                 "bus": "yes",
-                "name": "Neervelp De Smid",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAVERSESTEENWEG NEERVELP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.804251,
-                    50.819409
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;541",
-                "ref:De_Lijn": "300623",
-                "bus": "yes",
-                "name": "Opvelp Gemeentehuis",
+                "name": "Opvelp Kruispunt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOEGAARDSESTEENWEG OPVELP",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.793364,
-                    50.809821
+                    4.79025,
+                    50.812233
                 ]
             }
         },
@@ -61,27 +40,6 @@
                 "coordinates": [
                     4.79008,
                     50.812179
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;541",
-                "ref:De_Lijn": "300624",
-                "bus": "yes",
-                "name": "Opvelp Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEGAARDSESTEENWEG OPVELP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.793576,
-                    50.809721
                 ]
             }
         },
@@ -110,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6;541",
+                "ref:De_Lijn": "300624",
+                "bus": "yes",
+                "name": "Opvelp Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEGAARDSESTEENWEG OPVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.793576,
+                    50.809721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;541",
                 "ref:De_Lijn": "300627",
                 "bus": "yes",
                 "name": "Opvelp Molensteen",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     4.800203,
                     50.817518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;541",
+                "ref:De_Lijn": "300623",
+                "bus": "yes",
+                "name": "Opvelp Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEGAARDSESTEENWEG OPVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.793364,
+                    50.809821
                 ]
             }
         },
@@ -151,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "300626",
+                "route_ref:De_Lijn": "6;541",
+                "ref:De_Lijn": "300710",
                 "bus": "yes",
-                "name": "Opvelp Kruispunt",
+                "name": "Neervelp De Smid",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOEGAARDSESTEENWEG OPVELP",
+                "created_by": "WAVERSESTEENWEG NEERVELP",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.79025,
-                    50.812233
+                    4.804251,
+                    50.819409
                 ]
             }
         }

@@ -4,20 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308381",
-                "name": "Zemst Wormelaar",
+                "ref:De_Lijn": "308385",
+                "bus": "yes",
+                "name": "Zemst Larestraat",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "WORMELAARSTRAAT ZEMST",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LARESTRAAT ZEMST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.434299,
-                    50.989346
+                    4.419755,
+                    50.987169
                 ]
             }
         },
@@ -45,21 +46,40 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308301",
+                "ref:De_Lijn": "308383",
                 "bus": "yes",
-                "name": "Zemst Halve Steen",
+                "name": "Zemst Lareveld",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HUMBEEKSEBAAN ZEMST",
+                "created_by": "LARESTRAAT ZEMST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.420547,
-                    50.994962
+                    4.42813,
+                    50.987803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308381",
+                "bus": "yes",
+                "name": "Zemst Wormelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WORMELAARSTRAAT ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.434299,
+                    50.989346
                 ]
             }
         },
@@ -87,21 +107,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308382",
-                "name": "Zemst Wormelaar",
+                "ref:De_Lijn": "308301",
+                "bus": "yes",
+                "name": "Zemst Halve Steen",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "odbl": "new",
-                "tram": "yes",
-                "created_by": "WORMELAARSTRAAT ZEMST",
+                "highway": "bus_stop",
+                "created_by": "HUMBEEKSEBAAN ZEMST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.434298,
-                    50.989256
+                    4.420547,
+                    50.994962
                 ]
             }
         },
@@ -109,10 +129,10 @@
             "type": "Feature",
             "properties": {
                 "ref:De_Lijn": "308300",
+                "bus": "yes",
                 "name": "Zemst Halve Steen",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
+                "highway": "bus_stop",
                 "created_by": "HUMBEEKSEWEG ZEMST",
                 "operator": "De Lijn",
                 "network": "DLVB"
@@ -128,41 +148,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308383",
+                "ref:De_Lijn": "308382",
                 "bus": "yes",
-                "name": "Zemst Lareveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LARESTRAAT ZEMST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.42813,
-                    50.987803
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308385",
-                "bus": "yes",
-                "name": "Zemst Larestraat",
+                "name": "Zemst Wormelaar",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LARESTRAAT ZEMST",
+                "created_by": "WORMELAARSTRAAT ZEMST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.419755,
-                    50.987169
+                    4.434298,
+                    50.989256
                 ]
             }
         }

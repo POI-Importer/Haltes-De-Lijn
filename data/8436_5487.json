@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H2",
-                "ref:De_Lijn": "403682",
-                "bus": "yes",
-                "name": "Kiewit Vliegveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZAVELVENNESTRAAT HASSELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.378675,
-                    50.968554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H2",
-                "ref:De_Lijn": "403675",
-                "bus": "yes",
-                "name": "Kiewit Putvennestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PUTVENNESTRAAT HASSELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.362044,
-                    50.963769
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H2",
                 "ref:De_Lijn": "403681",
                 "bus": "yes",
                 "name": "Kiewit Paalvennestraat",
@@ -68,9 +26,51 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H2",
-                "ref:De_Lijn": "403680",
+                "ref:De_Lijn": "403676",
                 "bus": "yes",
-                "name": "Kiewit Paalvennestraat",
+                "name": "Kiewit Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTVENNESTRAAT KIEWIT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.362774,
+                    50.965291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403674",
+                "bus": "yes",
+                "name": "Kiewit Putvennestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTVENNESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.362103,
+                    50.963849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403682",
+                "bus": "yes",
+                "name": "Kiewit Vliegveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZAVELVENNESTRAAT HASSELT",
@@ -80,29 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.373063,
-                    50.968413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H2",
-                "ref:De_Lijn": "403678",
-                "bus": "yes",
-                "name": "Kiewit Zavelvennestraat 65",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZAVELVENNESTRAAT KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.366542,
-                    50.968415
+                    5.378675,
+                    50.968554
                 ]
             }
         },
@@ -152,20 +131,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H2",
-                "ref:De_Lijn": "403674",
+                "ref:De_Lijn": "403679",
                 "bus": "yes",
-                "name": "Kiewit Putvennestraat",
+                "name": "Kiewit Zavelvennestraat 65",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PUTVENNESTRAAT HASSELT",
+                "created_by": "ZAVELVENNESTRAAT KIEWIT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.362103,
-                    50.963849
+                    5.366882,
+                    50.968331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403680",
+                "bus": "yes",
+                "name": "Kiewit Paalvennestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAVELVENNESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.373063,
+                    50.968413
                 ]
             }
         },
@@ -194,7 +194,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H2",
-                "ref:De_Lijn": "403679",
+                "ref:De_Lijn": "403675",
+                "bus": "yes",
+                "name": "Kiewit Putvennestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTVENNESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.362044,
+                    50.963769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403678",
                 "bus": "yes",
                 "name": "Kiewit Zavelvennestraat 65",
                 "public_transport": "platform",
@@ -206,29 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.366882,
-                    50.968331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H2",
-                "ref:De_Lijn": "403676",
-                "bus": "yes",
-                "name": "Kiewit Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWARTVENNESTRAAT KIEWIT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.362774,
-                    50.965291
+                    5.366542,
+                    50.968415
                 ]
             }
         }

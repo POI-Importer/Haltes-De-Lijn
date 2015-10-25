@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405034",
-                "bus": "yes",
-                "name": "Veerle Boshuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N165 HEIDE (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.989569,
-                    51.04974
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405035",
-                "bus": "yes",
-                "name": "Veerle Boshuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AVERBOODSE BAAN HEIDE (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.989973,
-                    51.050098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "19",
                 "ref:De_Lijn": "408372",
                 "bus": "yes",
@@ -82,6 +40,48 @@
                 "coordinates": [
                     4.99895,
                     51.053718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405034",
+                "bus": "yes",
+                "name": "Veerle Boshuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N165 HEIDE (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.989569,
+                    51.04974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405035",
+                "bus": "yes",
+                "name": "Veerle Boshuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVERBOODSE BAAN HEIDE (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.989973,
+                    51.050098
                 ]
             }
         }

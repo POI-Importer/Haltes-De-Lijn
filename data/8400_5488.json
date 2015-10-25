@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270;503;505;514;515;660;686",
-                "ref:De_Lijn": "302473",
-                "bus": "yes",
-                "name": "Kampenhout Relst",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAACHTSESTEENWEG KAMPENHOUT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.581858,
-                    50.950211
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "303603",
-                "bus": "yes",
-                "name": "Kampenhout Moleken",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HUBERT TOBBACKSTRAAT KAMPENHOUT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.576543,
-                    50.95503
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "270;503;505;514;515;660;686",
-                "ref:De_Lijn": "302472",
-                "bus": "yes",
-                "name": "Kampenhout Relst",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAACHTSESTEENWEG KAMPENHOUT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.582799,
-                    50.950425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "307661",
                 "bus": "yes",
                 "name": "Kampenhout Park van Relst",
@@ -124,6 +61,69 @@
                 "coordinates": [
                     4.586034,
                     50.945394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;505;514;515;660;686",
+                "ref:De_Lijn": "302473",
+                "bus": "yes",
+                "name": "Kampenhout Relst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG KAMPENHOUT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.581858,
+                    50.950211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;505;514;515;660;686",
+                "ref:De_Lijn": "302472",
+                "bus": "yes",
+                "name": "Kampenhout Relst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG KAMPENHOUT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582799,
+                    50.950425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303603",
+                "bus": "yes",
+                "name": "Kampenhout Moleken",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HUBERT TOBBACKSTRAAT KAMPENHOUT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.576543,
+                    50.95503
                 ]
             }
         }

@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;701;708",
-                "ref:De_Lijn": "308640",
+                "route_ref:De_Lijn": "36;708",
+                "ref:De_Lijn": "308641",
                 "bus": "yes",
                 "name": "Zichem Kerk",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.983426,
-                    51.001176
+                    4.983509,
+                    51.001014
                 ]
             }
         },
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "304417",
+                "route_ref:De_Lijn": "36;701;708",
+                "ref:De_Lijn": "308640",
                 "bus": "yes",
-                "name": "Zichem Driesestraat",
+                "name": "Zichem Kerk",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ORANJESTRAAT ZICHEM",
+                "created_by": "PATER RICHARD VAN DE WOUWERSTRAAT ZICHEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.983516,
-                    51.000439
+                    4.983426,
+                    51.001176
                 ]
             }
         },
@@ -88,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;708",
-                "ref:De_Lijn": "308641",
+                "ref:De_Lijn": "304417",
                 "bus": "yes",
-                "name": "Zichem Kerk",
+                "name": "Zichem Driesestraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PATER RICHARD VAN DE WOUWERSTRAAT ZICHEM",
+                "created_by": "ORANJESTRAAT ZICHEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.983509,
-                    51.001014
+                    4.983516,
+                    51.000439
                 ]
             }
         }

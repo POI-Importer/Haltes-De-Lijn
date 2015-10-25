@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "527;585;590;685",
-                "ref:De_Lijn": "300701",
-                "bus": "yes",
-                "name": "Kerkom Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MALENDRIESSTRAAT KERKOM (BOUTERSEM)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.873906,
-                    50.855421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "527;585;590;685;713",
                 "ref:De_Lijn": "300704",
                 "bus": "yes",
@@ -40,6 +19,69 @@
                 "coordinates": [
                     4.869471,
                     50.857687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "527;585;590;685;713",
+                "ref:De_Lijn": "300702",
+                "bus": "yes",
+                "name": "Kerkom Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALENDRIESSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873908,
+                    50.855556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "306945",
+                "bus": "yes",
+                "name": "Kerkom Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUMTICHSESTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.875036,
+                    50.854805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "527;585;590;685",
+                "ref:De_Lijn": "300701",
+                "bus": "yes",
+                "name": "Kerkom Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALENDRIESSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873906,
+                    50.855421
                 ]
             }
         },
@@ -130,27 +172,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "527;585;590;685;713",
-                "ref:De_Lijn": "300702",
-                "bus": "yes",
-                "name": "Kerkom Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MALENDRIESSTRAAT KERKOM (BOUTERSEM)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.873908,
-                    50.855556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "527;680",
                 "ref:De_Lijn": "306942",
                 "bus": "yes",
@@ -166,27 +187,6 @@
                 "coordinates": [
                     4.871757,
                     50.853704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "680",
-                "ref:De_Lijn": "306945",
-                "bus": "yes",
-                "name": "Kerkom Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KUMTICHSESTRAAT KERKOM (BOUTERSEM)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.875036,
-                    50.854805
                 ]
             }
         }

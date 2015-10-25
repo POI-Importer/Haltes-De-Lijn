@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b",
-                "ref:De_Lijn": "109595",
-                "bus": "yes",
-                "name": "Geel Larum Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LARUM LARUM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.944917,
-                    51.166591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "100240",
                 "bus": "yes",
                 "name": "Larum Kerk NB2000",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     4.945089,
                     51.166662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "109595",
+                "bus": "yes",
+                "name": "Geel Larum Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LARUM LARUM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.944917,
+                    51.166591
                 ]
             }
         },
@@ -86,26 +86,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "107545",
-                "bus": "yes",
-                "name": "Geel Reiten",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REITEN GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.947056,
-                    51.173062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "15b",
                 "ref:De_Lijn": "109596",
                 "bus": "yes",
@@ -121,6 +101,26 @@
                 "coordinates": [
                     4.944719,
                     51.166754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107545",
+                "bus": "yes",
+                "name": "Geel Reiten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REITEN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.947056,
+                    51.173062
                 ]
             }
         }

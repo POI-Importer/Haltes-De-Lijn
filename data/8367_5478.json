@@ -26,28 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "203117",
-                "bus": "yes",
-                "name": "Lochristi Rozelaredreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSKAPELLAAN LO-BOS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.845253,
-                    51.087471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "203173",
+                "ref:De_Lijn": "202173",
                 "bus": "yes",
                 "name": "Lochristi Ledebeekweg",
                 "public_transport": "platform",
@@ -59,8 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.858292,
-                    51.086701
+                    3.857478,
+                    51.086733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "202172",
+                "bus": "yes",
+                "name": "Lochristi Lobos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOSBROEKLAAN LO-BOS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.854365,
+                    51.08689
                 ]
             }
         },
@@ -89,48 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "203172",
-                "bus": "yes",
-                "name": "Lochristi Lobos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROOSBROEKLAAN LO-BOS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.854165,
-                    51.086935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "202173",
-                "bus": "yes",
-                "name": "Lochristi Ledebeekweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEDEBEEKWEG LO-BOS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.857478,
-                    51.086733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77",
                 "ref:De_Lijn": "202117",
                 "bus": "yes",
                 "name": "Lochristi Rozelaredreef",
@@ -145,6 +103,27 @@
                 "coordinates": [
                     3.845252,
                     51.087561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "203172",
+                "bus": "yes",
+                "name": "Lochristi Lobos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOSBROEKLAAN LO-BOS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.854165,
+                    51.086935
                 ]
             }
         },
@@ -173,6 +152,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "203117",
+                "bus": "yes",
+                "name": "Lochristi Rozelaredreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKAPELLAAN LO-BOS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.845253,
+                    51.087471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
                 "ref:De_Lijn": "202174",
                 "bus": "yes",
                 "name": "Lochristi Tomboslaan",
@@ -194,20 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "202172",
+                "ref:De_Lijn": "203173",
                 "bus": "yes",
-                "name": "Lochristi Lobos",
+                "name": "Lochristi Ledebeekweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ROOSBROEKLAAN LO-BOS",
+                "created_by": "LEDEBEEKWEG LO-BOS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.854365,
-                    51.08689
+                    3.858292,
+                    51.086701
                 ]
             }
         }

@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200843",
-                "bus": "yes",
-                "name": "Aalter Venecolaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIJVERHEIDSLAAN AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.44139,
-                    51.104261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200844",
-                "bus": "yes",
-                "name": "Aalter Leon Bekaertlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVENNELAAN AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.44797,
-                    51.100726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "64;87;185",
+                "route_ref:De_Lijn": "64;87",
                 "ref:De_Lijn": "202299",
                 "bus": "yes",
                 "name": "Aalter Ter Walle",
@@ -67,28 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;87",
-                "ref:De_Lijn": "203300",
-                "bus": "yes",
-                "name": "Aalter Tervennelaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSTRAAT AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.441187,
-                    51.09865
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200838",
                 "bus": "yes",
                 "name": "Aalter Camping Isabel",
@@ -103,6 +39,26 @@
                 "coordinates": [
                     3.429908,
                     51.09866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200825",
+                "bus": "yes",
+                "name": "Aalter Cardijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CARDIJNLAAN AALTER BRUG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.431269,
+                    51.108379
                 ]
             }
         },
@@ -130,7 +86,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;87;185",
+                "ref:De_Lijn": "200844",
+                "bus": "yes",
+                "name": "Aalter Leon Bekaertlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVENNELAAN AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.44797,
+                    51.100726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;87",
                 "ref:De_Lijn": "202300",
                 "bus": "yes",
                 "name": "Aalter Tervennelaan",
@@ -151,7 +127,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
+                "route_ref:De_Lijn": "64;87",
+                "ref:De_Lijn": "203300",
+                "bus": "yes",
+                "name": "Aalter Tervennelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSTRAAT AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.441187,
+                    51.09865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "200889",
                 "bus": "yes",
                 "name": "Aalter Brug Noord",
@@ -172,21 +168,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200825",
+                "ref:De_Lijn": "200843",
                 "bus": "yes",
-                "name": "Aalter Cardijnlaan",
+                "name": "Aalter Venecolaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CARDIJNLAAN AALTER BRUG",
+                "created_by": "NIJVERHEIDSLAAN AALTER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.431269,
-                    51.108379
+                    3.44139,
+                    51.104261
                 ]
             }
         }

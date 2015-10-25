@@ -4,71 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390;540",
-                "ref:De_Lijn": "301540",
-                "bus": "yes",
-                "name": "Bunsbeek Diestseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTEENWEG BUNSBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.944763,
-                    50.838175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390;540;712",
-                "ref:De_Lijn": "301542",
-                "bus": "yes",
-                "name": "Bunsbeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOOLSTRAAT BUNSBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.947282,
-                    50.843305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "301533",
-                "bus": "yes",
-                "name": "Bunsbeek Baakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTEENWEG BUNSBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.948773,
-                    50.846759
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390;420;540",
-                "ref:De_Lijn": "301543",
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "301541",
                 "bus": "yes",
                 "name": "Bunsbeek Kerk",
                 "public_transport": "platform",
@@ -80,28 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.947023,
-                    50.842983
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "301532",
-                "bus": "yes",
-                "name": "Bunsbeek Baakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTEENWEG BUNSBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.948488,
-                    50.846652
+                    4.946971,
+                    50.843369
                 ]
             }
         },
@@ -130,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "391",
+                "ref:De_Lijn": "305142",
+                "bus": "yes",
+                "name": "Sint-Margriete-Houtem Weg naar Bunsbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT SINT-MARGRIETE-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959091,
+                    50.833879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391",
                 "ref:De_Lijn": "305140",
                 "bus": "yes",
                 "name": "Sint-Margriete-Houtem Veeweidestraat",
@@ -150,21 +88,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "391",
-                "ref:De_Lijn": "305142",
+                "route_ref:De_Lijn": "390;420;540",
+                "ref:De_Lijn": "301543",
                 "bus": "yes",
-                "name": "Sint-Margriete-Houtem Weg naar Bunsbeek",
+                "name": "Bunsbeek Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOUTEMSTRAAT SINT-MARGRIETE-HOUTEM",
+                "created_by": "TIENSESTEENWEG BUNSBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.959091,
-                    50.833879
+                    4.947023,
+                    50.842983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;540",
+                "ref:De_Lijn": "301540",
+                "bus": "yes",
+                "name": "Bunsbeek Diestseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.944763,
+                    50.838175
                 ]
             }
         },
@@ -192,6 +151,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "301533",
+                "bus": "yes",
+                "name": "Bunsbeek Baakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.948773,
+                    50.846759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;540;712",
+                "ref:De_Lijn": "301542",
+                "bus": "yes",
+                "name": "Bunsbeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.947282,
+                    50.843305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "390;540;712",
                 "ref:De_Lijn": "301539",
                 "bus": "yes",
@@ -213,27 +214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
-                "ref:De_Lijn": "301541",
-                "bus": "yes",
-                "name": "Bunsbeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTEENWEG BUNSBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.946971,
-                    50.843369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "391;712",
                 "ref:De_Lijn": "305141",
                 "bus": "yes",
@@ -249,6 +229,26 @@
                 "coordinates": [
                     4.962825,
                     50.839559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301532",
+                "bus": "yes",
+                "name": "Bunsbeek Baakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.948488,
+                    50.846652
                 ]
             }
         }

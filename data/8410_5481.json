@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;944",
-                "ref:De_Lijn": "109341",
-                "bus": "yes",
-                "name": "Houtvenne Donkenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VENNEKENSSTRAAT HOUTVENNE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.806336,
-                    51.049297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "221;944",
                 "ref:De_Lijn": "109343",
                 "bus": "yes",
                 "name": "Houtvenne Kerk",
@@ -46,7 +24,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;944",
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "109341",
+                "bus": "yes",
+                "name": "Houtvenne Donkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VENNEKENSSTRAAT HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.806336,
+                    51.049297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
                 "ref:De_Lijn": "109342",
                 "bus": "yes",
                 "name": "Houtvenne Donkenstraat",
@@ -67,7 +66,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;944",
                 "ref:De_Lijn": "109344",
                 "bus": "yes",
                 "name": "Houtvenne Kerk",

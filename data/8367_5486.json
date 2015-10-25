@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;130",
+                "route_ref:De_Lijn": "28;46",
+                "ref:De_Lijn": "203962",
+                "bus": "yes",
+                "name": "Kwatrecht Oosterzelesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDLAAN KWATRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.845716,
+                    50.984645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
                 "ref:De_Lijn": "207424",
                 "bus": "yes",
                 "name": "Massemen Strop",
@@ -25,21 +46,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;46;130",
-                "ref:De_Lijn": "203962",
+                "ref:De_Lijn": "201915",
                 "bus": "yes",
-                "name": "Kwatrecht Oosterzelesteenweg",
+                "name": "Massemen Kapellekouter",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZUIDLAAN KWATRECHT",
+                "created_by": "LAMBROEKSTRAAT MASSEMEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.845716,
-                    50.984645
+                    3.86647,
+                    50.982902
                 ]
             }
         },
@@ -67,7 +87,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "94;96;130",
+                "route_ref:De_Lijn": "94;96",
+                "ref:De_Lijn": "207594",
+                "bus": "yes",
+                "name": "Massemen Begijnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MASSEMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.856547,
+                    50.97876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "206424",
+                "bus": "yes",
+                "name": "Massemen Strop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MASSEMSESTEENWEG WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.865774,
+                    50.974826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96",
                 "ref:De_Lijn": "207569",
                 "bus": "yes",
                 "name": "Massemen Lambroekstraat",
@@ -89,69 +151,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "94;96",
-                "ref:De_Lijn": "207568",
-                "bus": "yes",
-                "name": "Massemen Strop",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG WESTREM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.864162,
-                    50.975035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94;96;130",
-                "ref:De_Lijn": "207594",
-                "bus": "yes",
-                "name": "Massemen Begijnestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG MASSEMEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.856547,
-                    50.97876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;130",
-                "ref:De_Lijn": "206424",
-                "bus": "yes",
-                "name": "Massemen Strop",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MASSEMSESTEENWEG WESTREM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.865774,
-                    50.974826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94;96;130",
                 "ref:De_Lijn": "206569",
                 "bus": "yes",
                 "name": "Massemen Lambroekstraat",
@@ -172,28 +171,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "201915",
-                "bus": "yes",
-                "name": "Massemen Kapellekouter",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAMBROEKSTRAAT MASSEMEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.86647,
-                    50.982902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94;96;130",
+                "route_ref:De_Lijn": "94;96",
                 "ref:De_Lijn": "206594",
                 "bus": "yes",
                 "name": "Massemen Begijnestraat",
@@ -208,6 +186,27 @@
                 "coordinates": [
                     3.85632,
                     50.978687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96",
+                "ref:De_Lijn": "207568",
+                "bus": "yes",
+                "name": "Massemen Strop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.864162,
+                    50.975035
                 ]
             }
         },

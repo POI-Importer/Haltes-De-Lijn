@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "501532",
-                "bus": "yes",
-                "name": "Lissewege Beukemare",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LISSEWEEGSVAARTJE LISSEWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.19761,
-                    51.303047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "37",
                 "ref:De_Lijn": "501530",
                 "bus": "yes",
                 "name": "Lissewege Zeewege",
@@ -47,20 +26,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "501529",
+                "ref:De_Lijn": "501532",
                 "bus": "yes",
-                "name": "Lissewege Station",
+                "name": "Lissewege Beukemare",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GIJZELEWEG LISSEWEGE",
+                "created_by": "LISSEWEEGSVAARTJE LISSEWEGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.194864,
-                    51.294228
+                    3.19761,
+                    51.303047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501528",
+                "bus": "yes",
+                "name": "Lissewege Canadezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STORMVOGELSTRAAT LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.187791,
+                    51.291011
                 ]
             }
         },
@@ -88,48 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;47;92",
-                "ref:De_Lijn": "506199",
-                "bus": "yes",
-                "name": "Lissewege Toren",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEEBRUGGELAAN LISSEWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.192028,
-                    51.293535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "509896",
-                "bus": "yes",
-                "name": "Lissewege Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WALRAM ROMBOUDTSTRAAT LISSEWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.197883,
-                    51.294491
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "37",
                 "ref:De_Lijn": "501527",
                 "bus": "yes",
@@ -145,6 +103,27 @@
                 "coordinates": [
                     3.200453,
                     51.290337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501529",
+                "bus": "yes",
+                "name": "Lissewege Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIJZELEWEG LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.194864,
+                    51.294228
                 ]
             }
         },
@@ -173,20 +152,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "501528",
+                "ref:De_Lijn": "509896",
                 "bus": "yes",
-                "name": "Lissewege Canadezen",
+                "name": "Lissewege Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STORMVOGELSTRAAT LISSEWEGE",
+                "created_by": "WALRAM ROMBOUDTSTRAAT LISSEWEGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.187791,
-                    51.291011
+                    3.197883,
+                    51.294491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;47;92",
+                "ref:De_Lijn": "506199",
+                "bus": "yes",
+                "name": "Lissewege Toren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEBRUGGELAAN LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.192028,
+                    51.293535
                 ]
             }
         }

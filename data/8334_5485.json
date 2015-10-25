@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505556",
+                "bus": "yes",
+                "name": "Gits Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.126277,
+                    50.996287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
                 "ref:De_Lijn": "505555",
                 "bus": "yes",
                 "name": "Gits Waaiberg",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     3.133179,
                     50.998184
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38",
-                "ref:De_Lijn": "505556",
-                "bus": "yes",
-                "name": "Gits Bosstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOOLSKAMPSTRAAT GITS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.126277,
-                    50.996287
                 ]
             }
         }

@@ -4,21 +4,84 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;717",
-                "ref:De_Lijn": "408228",
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "400626",
                 "bus": "yes",
-                "name": "Tessenderlo Bewel",
+                "name": "Paal Wilbroek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ESSENSCHOTSTRAAT HULST (TESSENDERLO)",
+                "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.145045,
-                    51.064971
+                    5.145087,
+                    51.055469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;717",
+                "ref:De_Lijn": "408251",
+                "bus": "yes",
+                "name": "Tessenderlo Essenschotstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.141644,
+                    51.06289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "408290",
+                "bus": "yes",
+                "name": "Tessenderlo Kruispunt W/N Diest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAALSEWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.143633,
+                    51.060684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "408250",
+                "bus": "yes",
+                "name": "Tessenderlo Essenschotstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.141886,
+                    51.062844
                 ]
             }
         },
@@ -67,84 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "408250",
-                "bus": "yes",
-                "name": "Tessenderlo Essenschotstraat I",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.141886,
-                    51.062844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "400626",
-                "bus": "yes",
-                "name": "Paal Wilbroek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESSENDERLOSESTEENWEG PAAL (BERINGEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.145087,
-                    51.055469
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "408290",
-                "bus": "yes",
-                "name": "Tessenderlo Kruispunt W/N Diest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAALSEWEG TESSENDERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.143633,
-                    51.060684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "32;717",
-                "ref:De_Lijn": "408251",
+                "ref:De_Lijn": "408228",
                 "bus": "yes",
-                "name": "Tessenderlo Essenschotstraat I",
+                "name": "Tessenderlo Bewel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
+                "created_by": "ESSENSCHOTSTRAAT HULST (TESSENDERLO)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.141644,
-                    51.06289
+                    5.145045,
+                    51.064971
                 ]
             }
         }

@@ -4,70 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "205310",
-                "bus": "yes",
-                "name": "Haasdonk Bank",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BANK TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.222546,
-                    51.17556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "205448",
-                "bus": "yes",
-                "name": "Haasdonk Vesting",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.236105,
-                    51.174236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "204448",
-                "bus": "yes",
-                "name": "Haasdonk Luiseik",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAAGDAM TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.232052,
-                    51.166672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "204309",
                 "bus": "yes",
                 "name": "Haasdonk Bergstraat",
@@ -88,7 +25,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "ref:De_Lijn": "204448",
+                "bus": "yes",
+                "name": "Haasdonk Luiseik",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAAGDAM TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.232052,
+                    51.166672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "204310",
                 "bus": "yes",
                 "name": "Haasdonk Bank",
@@ -103,6 +60,47 @@
                 "coordinates": [
                     4.222388,
                     51.175649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "205310",
+                "bus": "yes",
+                "name": "Haasdonk Bank",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BANK TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.222546,
+                    51.17556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205448",
+                "bus": "yes",
+                "name": "Haasdonk Vesting",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236105,
+                    51.174236
                 ]
             }
         }

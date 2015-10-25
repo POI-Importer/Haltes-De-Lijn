@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "209911",
-                "bus": "yes",
-                "name": "Moerzeke Ganzenberg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GANZENBERG KASTEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.165446,
-                    51.047538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;290",
-                "ref:De_Lijn": "204141",
-                "bus": "yes",
-                "name": "Moerzeke Braakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAASRODEVEERSTRAAT KASTEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.169392,
-                    51.045334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;290",
-                "ref:De_Lijn": "204138",
-                "bus": "yes",
-                "name": "Moerzeke Kastel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VRIJBOOMSTRAAT KASTEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.167578,
-                    51.049367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;290",
-                "ref:De_Lijn": "204137",
-                "bus": "yes",
-                "name": "Moerzeke Aubroekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AUBROECKSTRAAT KASTEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.162689,
-                    51.051929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "92",
                 "ref:De_Lijn": "205137",
                 "bus": "yes",
@@ -109,7 +25,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "92;290",
+                "ref:De_Lijn": "209911",
+                "bus": "yes",
+                "name": "Moerzeke Ganzenberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GANZENBERG KASTEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.165446,
+                    51.047538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "204137",
+                "bus": "yes",
+                "name": "Moerzeke Aubroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AUBROECKSTRAAT KASTEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.162689,
+                    51.051929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
                 "ref:De_Lijn": "204142",
                 "bus": "yes",
                 "name": "Moerzeke Bernarduswijk",
@@ -124,6 +82,48 @@
                 "coordinates": [
                     4.171001,
                     51.049166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "204141",
+                "bus": "yes",
+                "name": "Moerzeke Braakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAASRODEVEERSTRAAT KASTEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.169392,
+                    51.045334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "204138",
+                "bus": "yes",
+                "name": "Moerzeke Kastel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRIJBOOMSTRAAT KASTEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.167578,
+                    51.049367
                 ]
             }
         }

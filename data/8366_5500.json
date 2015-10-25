@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "16;17",
-                "ref:De_Lijn": "209052",
+                "ref:De_Lijn": "208052",
                 "bus": "yes",
                 "name": "Deftinge Kruisstraat",
                 "public_transport": "platform",
@@ -38,29 +38,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.8403,
-                    50.786453
+                    3.84037,
+                    50.78658
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;370;410",
-                "ref:De_Lijn": "208092",
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "208091",
                 "bus": "yes",
-                "name": "Deftinge Boshoekstraat",
+                "name": "Deftinge Breebijl",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BREEBIJL DEFTINGE",
+                "created_by": "KRUISSTRAAT DEFTINGE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.824445,
-                    50.788934
+                    3.832942,
+                    50.785063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209040",
+                "bus": "yes",
+                "name": "Deftinge Muizenholstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OTTERGEMSTRAAT DEFTINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.837576,
+                    50.782755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "208053",
+                "bus": "yes",
+                "name": "Deftinge Wassegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WASSEGEMSTRAAT DEFTINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.838866,
+                    50.789099
                 ]
             }
         },
@@ -88,8 +129,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;17;370;410",
-                "ref:De_Lijn": "208052",
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "209052",
                 "bus": "yes",
                 "name": "Deftinge Kruisstraat",
                 "public_transport": "platform",
@@ -101,92 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.84037,
-                    50.78658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16",
-                "ref:De_Lijn": "209091",
-                "bus": "yes",
-                "name": "Deftinge Breebijl",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISSTRAAT DEFTINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.832646,
-                    50.784881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;17;370;410",
-                "ref:De_Lijn": "208051",
-                "bus": "yes",
-                "name": "Deftinge Hekkouterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GERAARDSBERGSESTRAAT DEFTINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.844035,
-                    50.784717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17;370;410",
-                "ref:De_Lijn": "208053",
-                "bus": "yes",
-                "name": "Deftinge Wassegemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WASSEGEMSTRAAT DEFTINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.838866,
-                    50.789099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;410",
-                "ref:De_Lijn": "209040",
-                "bus": "yes",
-                "name": "Deftinge Muizenholstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OTTERGEMSTRAAT DEFTINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.837576,
-                    50.782755
+                    3.8403,
+                    50.786453
                 ]
             }
         },
@@ -214,8 +171,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;370;410",
-                "ref:De_Lijn": "208091",
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "209091",
                 "bus": "yes",
                 "name": "Deftinge Breebijl",
                 "public_transport": "platform",
@@ -227,8 +184,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.832942,
-                    50.785063
+                    3.832646,
+                    50.784881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "208051",
+                "bus": "yes",
+                "name": "Deftinge Hekkouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTRAAT DEFTINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.844035,
+                    50.784717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "208092",
+                "bus": "yes",
+                "name": "Deftinge Boshoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEBIJL DEFTINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.824445,
+                    50.788934
                 ]
             }
         }

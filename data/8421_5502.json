@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "401650",
-                "bus": "yes",
-                "name": "Overwinden Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKHOFSTRAAT OVERWINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.044065,
-                    50.753705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405401",
-                "bus": "yes",
-                "name": "Overwinden Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISBOOMSTRAAT OVERWINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.050486,
-                    50.752796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405402",
-                "bus": "yes",
-                "name": "Overwinden Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORENSTRAAT OVERWINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.04863,
-                    50.753777
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405400",
-                "bus": "yes",
-                "name": "Overwinden Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISBOOMSTRAAT OVERWINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.050914,
-                    50.753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "346;348;730",
                 "ref:De_Lijn": "405404",
                 "bus": "yes",
@@ -103,27 +19,6 @@
                 "coordinates": [
                     5.047198,
                     50.757669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405393",
-                "bus": "yes",
-                "name": "Neerwinden Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRAAKKOUTERSTRAAT NEERWINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.037283,
-                    50.764083
                 ]
             }
         },
@@ -173,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405129",
+                "ref:De_Lijn": "405128",
                 "bus": "yes",
                 "name": "Overwinden Middelwindenstraat",
                 "public_transport": "platform",
@@ -185,8 +80,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.044306,
-                    50.760599
+                    5.044561,
+                    50.76058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348;730",
+                "ref:De_Lijn": "405393",
+                "bus": "yes",
+                "name": "Neerwinden Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRAAKKOUTERSTRAAT NEERWINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.037283,
+                    50.764083
                 ]
             }
         },
@@ -214,8 +130,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "401650",
+                "bus": "yes",
+                "name": "Overwinden Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKHOFSTRAAT OVERWINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.044065,
+                    50.753705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405128",
+                "ref:De_Lijn": "405402",
+                "bus": "yes",
+                "name": "Overwinden Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT OVERWINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04863,
+                    50.753777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348;730",
+                "ref:De_Lijn": "405129",
                 "bus": "yes",
                 "name": "Overwinden Middelwindenstraat",
                 "public_transport": "platform",
@@ -227,8 +185,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.044561,
-                    50.76058
+                    5.044306,
+                    50.760599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348;730",
+                "ref:De_Lijn": "405401",
+                "bus": "yes",
+                "name": "Overwinden Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBOOMSTRAAT OVERWINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.050486,
+                    50.752796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348;730",
+                "ref:De_Lijn": "405400",
+                "bus": "yes",
+                "name": "Overwinden Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBOOMSTRAAT OVERWINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.050914,
+                    50.753
                 ]
             }
         }

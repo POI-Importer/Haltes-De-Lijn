@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
                 "ref:De_Lijn": "208784",
                 "bus": "yes",
                 "name": "Schorisse Hoevestraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
                 "ref:De_Lijn": "208785",
                 "bus": "yes",
                 "name": "Schorisse Kapelstraat",

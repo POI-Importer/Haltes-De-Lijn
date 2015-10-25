@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "457",
                 "ref:De_Lijn": "102382",
                 "bus": "yes",
                 "name": "Baarle-Nassau Schrans",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "457",
                 "ref:De_Lijn": "102381",
                 "bus": "yes",
                 "name": "Baarle-Nassau Schrans",

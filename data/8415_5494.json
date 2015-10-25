@@ -25,31 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "585;685;712",
-                "ref:De_Lijn": "301583",
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "301584",
                 "bus": "yes",
-                "name": "Attenrode Het Hoekske",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BUTSCHOVESTRAAT ATTENRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.909439,
-                    50.867614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "585;685;712",
-                "ref:De_Lijn": "301587",
-                "bus": "yes",
-                "name": "Attenrode Langstraat 2",
+                "name": "Attenrode Langstraat 1",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LANGSTRAAT ATTENRODE",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.920941,
-                    50.874492
+                    4.916251,
+                    50.870657
                 ]
             }
         },
@@ -88,10 +67,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "585;685",
-                "ref:De_Lijn": "301584",
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301587",
                 "bus": "yes",
-                "name": "Attenrode Langstraat 1",
+                "name": "Attenrode Langstraat 2",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LANGSTRAAT ATTENRODE",
@@ -101,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.916251,
-                    50.870657
+                    4.920941,
+                    50.874492
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     4.915937,
                     50.870613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301583",
+                "bus": "yes",
+                "name": "Attenrode Het Hoekske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUTSCHOVESTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.909439,
+                    50.867614
                 ]
             }
         }

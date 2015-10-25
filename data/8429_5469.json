@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "109858",
+                "bus": "yes",
+                "name": "Mol Blekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "F. S. EMSENSLAAN RAUW",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.213796,
+                    51.214969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "109794",
                 "bus": "yes",
                 "name": "Mol Kiezelweg",
@@ -60,27 +81,6 @@
                 "coordinates": [
                     5.207806,
                     51.216944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "109858",
-                "bus": "yes",
-                "name": "Mol Blekestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "F. S. EMSENSLAAN RAUW",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.213796,
-                    51.214969
                 ]
             }
         }

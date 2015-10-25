@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406537",
+                "ref:De_Lijn": "406536",
                 "bus": "yes",
                 "name": "Crisnée Raperie",
                 "public_transport": "platform",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406536",
+                "ref:De_Lijn": "406537",
                 "bus": "yes",
                 "name": "Crisnée Raperie",
                 "public_transport": "platform",

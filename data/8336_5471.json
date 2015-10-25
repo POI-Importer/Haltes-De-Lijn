@@ -4,63 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5;93",
-                "ref:De_Lijn": "502399",
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "507379",
                 "bus": "yes",
-                "name": "Sint-Andries Lange Molen",
+                "name": "Sint-Andries Betferkerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOORNSTRAAT SINT-ANDRIES",
+                "created_by": "BETFERKERKLAAN SINT-ANDRIES",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.178676,
-                    51.188764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;93",
-                "ref:De_Lijn": "507387",
-                "bus": "yes",
-                "name": "Sint-Andries De Varens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE SINT-ANNADREEF SINT-ANDRIES",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.173553,
-                    51.189962
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;93",
-                "ref:De_Lijn": "507399",
-                "bus": "yes",
-                "name": "Sint-Andries Lange Molen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNSTRAAT SINT-ANDRIES",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.178688,
-                    51.188854
+                    3.182382,
+                    51.187605
                 ]
             }
         },
@@ -89,48 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "502379",
-                "bus": "yes",
-                "name": "Sint-Andries Betferkerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BETFERKERKLAAN SINT-ANDRIES",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.182417,
-                    51.187345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;93",
-                "ref:De_Lijn": "502387",
-                "bus": "yes",
-                "name": "Sint-Andries De Varens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE SINT-ANNADREEF SINT-ANDRIES",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.173576,
-                    51.189611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5",
                 "ref:De_Lijn": "507381",
                 "bus": "yes",
                 "name": "Sint-Andries Braambos",
@@ -152,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "5;93",
-                "ref:De_Lijn": "507389",
+                "ref:De_Lijn": "502399",
                 "bus": "yes",
-                "name": "Sint-Andries Doornstraat",
+                "name": "Sint-Andries Lange Molen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DOORNSTRAAT SINT-ANDRIES",
@@ -164,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.174875,
-                    51.188024
+                    3.178676,
+                    51.188764
                 ]
             }
         },
@@ -214,8 +130,92 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "5;93",
+                "ref:De_Lijn": "502387",
+                "bus": "yes",
+                "name": "Sint-Andries De Varens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE SINT-ANNADREEF SINT-ANDRIES",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.173576,
+                    51.189611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;93",
+                "ref:De_Lijn": "507399",
+                "bus": "yes",
+                "name": "Sint-Andries Lange Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT SINT-ANDRIES",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.178688,
+                    51.188854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;93",
+                "ref:De_Lijn": "507387",
+                "bus": "yes",
+                "name": "Sint-Andries De Varens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE SINT-ANNADREEF SINT-ANDRIES",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.173553,
+                    51.189962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;93",
+                "ref:De_Lijn": "507389",
+                "bus": "yes",
+                "name": "Sint-Andries Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT SINT-ANDRIES",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.174875,
+                    51.188024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "507379",
+                "ref:De_Lijn": "502379",
                 "bus": "yes",
                 "name": "Sint-Andries Betferkerk",
                 "public_transport": "platform",
@@ -227,8 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.182382,
-                    51.187605
+                    3.182417,
+                    51.187345
                 ]
             }
         }

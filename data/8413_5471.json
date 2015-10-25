@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b;212;219;946",
+                "route_ref:De_Lijn": "15b;946",
                 "ref:De_Lijn": "109252",
                 "bus": "yes",
                 "name": "Herentals Kruisboogstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b;212;219;946",
+                "route_ref:De_Lijn": "15b;946",
                 "ref:De_Lijn": "109251",
                 "bus": "yes",
                 "name": "Herentals Kruisboogstraat",

@@ -4,8 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;629",
-                "ref:De_Lijn": "106244",
+                "ref:De_Lijn": "106243",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Groot Veerle",
                 "public_transport": "platform",
@@ -17,36 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.676231,
-                    51.328373
+                    4.676073,
+                    51.328328
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;629",
-                "ref:De_Lijn": "107233",
-                "bus": "yes",
-                "name": "Sint-Lenaarts Paaltjesdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROOT VEERLE KLEIN-VEERLE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.679902,
-                    51.323824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "440;446;629",
                 "ref:De_Lijn": "107234",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Paaltjesdreef",
@@ -67,8 +44,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;629",
-                "ref:De_Lijn": "106243",
+                "ref:De_Lijn": "106244",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Groot Veerle",
                 "public_transport": "platform",
@@ -80,8 +56,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.676073,
-                    51.328328
+                    4.676231,
+                    51.328373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107233",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Paaltjesdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT VEERLE KLEIN-VEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.679902,
+                    51.323824
                 ]
             }
         }

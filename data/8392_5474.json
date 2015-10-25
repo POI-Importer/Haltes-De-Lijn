@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "133;180;181;182;183",
-                "ref:De_Lijn": "106776",
+                "route_ref:De_Lijn": "180;182;183",
+                "ref:De_Lijn": "102851",
                 "bus": "yes",
-                "name": "Aartselaar Dijkstraat",
+                "name": "Aartselaar Wouwersveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BARON VAN ERTBORNSTRAAT AARTSELAAR",
@@ -17,15 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.395521,
-                    51.144033
+                    4.39482,
+                    51.142074
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "133;180;181;182;183",
+                "route_ref:De_Lijn": "180;182;183",
                 "ref:De_Lijn": "102849",
                 "bus": "yes",
                 "name": "Aartselaar Wouwersveld",
@@ -46,7 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "133;180;181;182;183",
                 "ref:De_Lijn": "106775",
                 "bus": "yes",
                 "name": "Aartselaar Dijkstraat",
@@ -67,10 +66,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "133;180;181;182;183",
-                "ref:De_Lijn": "102851",
+                "route_ref:De_Lijn": "180;182;183",
+                "ref:De_Lijn": "106776",
                 "bus": "yes",
-                "name": "Aartselaar Wouwersveld",
+                "name": "Aartselaar Dijkstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BARON VAN ERTBORNSTRAAT AARTSELAAR",
@@ -80,8 +79,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.39482,
-                    51.142074
+                    4.395521,
+                    51.144033
                 ]
             }
         }

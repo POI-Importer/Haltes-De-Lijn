@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "23a;700",
-                "ref:De_Lijn": "409105",
-                "bus": "yes",
-                "name": "Ulbeek Kleinmeerveldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEINAARTSTRAAT ULBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.295142,
-                    50.839578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23a;700",
                 "ref:De_Lijn": "409112",
                 "bus": "yes",
                 "name": "Ulbeek Tereiken",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     5.277692,
                     50.838789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a;700",
+                "ref:De_Lijn": "409105",
+                "bus": "yes",
+                "name": "Ulbeek Kleinmeerveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINAARTSTRAAT ULBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.295142,
+                    50.839578
                 ]
             }
         }

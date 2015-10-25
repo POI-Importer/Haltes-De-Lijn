@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "48",
-                "ref:De_Lijn": "505362",
-                "bus": "yes",
-                "name": "Wervik Tabaksmuseum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BARRIERESTRAAT WERVIK (WEST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.032669,
-                    50.776073
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "43;48",
                 "ref:De_Lijn": "504567",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     3.041396,
                     50.777368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505362",
+                "bus": "yes",
+                "name": "Wervik Tabaksmuseum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARRIERESTRAAT WERVIK (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.032669,
+                    50.776073
                 ]
             }
         }

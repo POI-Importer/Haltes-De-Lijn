@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "200669",
                 "bus": "yes",
                 "name": "Zulte Gaverbeekstraat",

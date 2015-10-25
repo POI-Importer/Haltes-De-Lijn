@@ -4,8 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "86",
-                "ref:De_Lijn": "209653",
+                "ref:De_Lijn": "208653",
                 "bus": "yes",
                 "name": "Hansbeke Mariahovelaan",
                 "public_transport": "platform",
@@ -17,15 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.513616,
-                    51.081326
+                    3.513842,
+                    51.081436
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200850",
                 "bus": "yes",
                 "name": "Bellem Markettestraat",
@@ -46,8 +44,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "86;125;160;185",
-                "ref:De_Lijn": "208653",
+                "ref:De_Lijn": "209653",
                 "bus": "yes",
                 "name": "Hansbeke Mariahovelaan",
                 "public_transport": "platform",
@@ -59,8 +56,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.513842,
-                    51.081436
+                    3.513616,
+                    51.081326
                 ]
             }
         }

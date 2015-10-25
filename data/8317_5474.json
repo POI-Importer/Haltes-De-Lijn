@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506201",
-                "name": "Lombardsijde Dorp",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "DORPSPLEIN LOMBARDSIJDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.756932,
-                    51.14951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "68;69",
                 "ref:De_Lijn": "506202",
                 "bus": "yes",
@@ -47,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501201",
+                "name": "Lombardsijde Dorp",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DORPSPLEIN LOMBARDSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.756777,
+                    51.149454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
                 "ref:De_Lijn": "501203",
                 "zone:De_Lijn": "04",
                 "name": "Lombardsijde Ymca",
@@ -62,6 +62,27 @@
                 "coordinates": [
                     2.756039,
                     51.144733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501202",
+                "bus": "yes",
+                "name": "Lombardsijde Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOMBARDSIJDELAAN LOMBARDSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.75752,
+                    51.14986
                 ]
             }
         },
@@ -91,7 +112,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "501201",
+                "ref:De_Lijn": "506201",
                 "name": "Lombardsijde Dorp",
                 "public_transport": "platform",
                 "railway": "tram_stop",
@@ -103,29 +124,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.756777,
-                    51.149454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "501202",
-                "bus": "yes",
-                "name": "Lombardsijde Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOMBARDSIJDELAAN LOMBARDSIJDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.75752,
-                    51.14986
+                    2.756932,
+                    51.14951
                 ]
             }
         }

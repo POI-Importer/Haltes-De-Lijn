@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "307534",
-                "bus": "yes",
-                "name": "Enghien Saint-Augustin",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP AAT MARK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.030851,
-                    50.690067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;732",
                 "ref:De_Lijn": "307533",
                 "bus": "yes",
                 "name": "Enghien Saint-Augustin",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     4.030723,
                     50.690174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "307534",
+                "bus": "yes",
+                "name": "Enghien Saint-Augustin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP AAT MARK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.030851,
+                    50.690067
                 ]
             }
         },

@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;20a",
-                "ref:De_Lijn": "405194",
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "405197",
                 "bus": "yes",
                 "name": "Lanaken Cultureel Centrum",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.656098,
-                    50.889134
+                    5.655981,
+                    50.889018
                 ]
             }
         },
@@ -46,29 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "406725",
-                "bus": "yes",
-                "name": "Lanaken Europaplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EUROPAPLEIN LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.651558,
-                    50.887871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25",
-                "ref:De_Lijn": "405196",
+                "route_ref:De_Lijn": "61;63;724",
+                "ref:De_Lijn": "405198",
                 "bus": "yes",
                 "name": "Lanaken Cultureel Centrum",
                 "public_transport": "platform",
@@ -80,50 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.655923,
-                    50.888947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405131",
-                "bus": "yes",
-                "name": "Lanaken Sint-Anna",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GASTHUISSTRAAT LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.654437,
-                    50.887651
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;45;61;63;20a;724",
-                "ref:De_Lijn": "405187",
-                "bus": "yes",
-                "name": "Smeermaas Industrieterrein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N77 LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.663581,
-                    50.888323
+                    5.656054,
+                    50.889089
                 ]
             }
         },
@@ -151,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;63;20a;724",
-                "ref:De_Lijn": "405190",
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "405196",
                 "bus": "yes",
-                "name": "Smeermaas Nijverheidslaan",
+                "name": "Lanaken Cultureel Centrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAASTRICHTERWEG SMEERMAAS",
+                "created_by": "AAN DE ENGELSE HOF LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.666925,
-                    50.884339
+                    5.655923,
+                    50.888947
                 ]
             }
         },
@@ -193,21 +130,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "405197",
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "406725",
                 "bus": "yes",
-                "name": "Lanaken Cultureel Centrum",
+                "name": "Lanaken Europaplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AAN DE ENGELSE HOF LANAKEN",
+                "created_by": "EUROPAPLEIN LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.655981,
-                    50.889018
+                    5.651558,
+                    50.887871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;63;20a;724",
+                "ref:De_Lijn": "405190",
+                "bus": "yes",
+                "name": "Smeermaas Nijverheidslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERWEG SMEERMAAS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.666925,
+                    50.884339
                 ]
             }
         },
@@ -235,6 +193,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "45;20a",
+                "ref:De_Lijn": "405194",
+                "bus": "yes",
+                "name": "Lanaken Cultureel Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AAN DE ENGELSE HOF LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.656098,
+                    50.889134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "25;45;61;63;20a;724",
                 "ref:De_Lijn": "405191",
                 "bus": "yes",
@@ -256,21 +235,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;63;724",
-                "ref:De_Lijn": "405198",
+                "route_ref:De_Lijn": "25;45;61;63;20a;724",
+                "ref:De_Lijn": "405187",
                 "bus": "yes",
-                "name": "Lanaken Cultureel Centrum",
+                "name": "Smeermaas Industrieterrein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AAN DE ENGELSE HOF LANAKEN",
+                "created_by": "N77 LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.656054,
-                    50.889089
+                    5.663581,
+                    50.888323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405131",
+                "bus": "yes",
+                "name": "Lanaken Sint-Anna",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.654437,
+                    50.887651
                 ]
             }
         }

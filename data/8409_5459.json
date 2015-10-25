@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "432",
                 "ref:De_Lijn": "106289",
                 "bus": "yes",
                 "name": "Rijkevorsel Krekelberg",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "432",
                 "ref:De_Lijn": "106290",
                 "bus": "yes",
                 "name": "Rijkevorsel Krekelberg",

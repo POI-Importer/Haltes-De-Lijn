@@ -4,50 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "508563",
-                "bus": "yes",
-                "name": "Menen Pannenhuizen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOORSELESTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.135571,
-                    50.811924
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "508543",
-                "bus": "yes",
-                "name": "Menen Cafe Poezelhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOORSELESTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.131847,
-                    50.806248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54;55",
-                "ref:De_Lijn": "503552",
+                "route_ref:De_Lijn": "44;54;55",
+                "ref:De_Lijn": "508552",
                 "bus": "yes",
                 "name": "Menen Kliniek",
                 "public_transport": "platform",
@@ -59,29 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.120758,
-                    50.813458
+                    3.121053,
+                    50.813047
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "500261",
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "503543",
                 "bus": "yes",
-                "name": "Ieper Lenoir Garage",
+                "name": "Menen Cafe Poezelhoek",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KROMMEBEEKSTRAAT MENEN",
+                "created_by": "MOORSELESTRAAT MENEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.129789,
-                    50.81163
+                    3.131312,
+                    50.80608
                 ]
             }
         },
@@ -109,8 +67,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;54;55",
-                "ref:De_Lijn": "508548",
+                "ref:De_Lijn": "500261",
+                "bus": "yes",
+                "name": "Ieper Lenoir Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KROMMEBEEKSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.129789,
+                    50.81163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "503548",
                 "bus": "yes",
                 "name": "Menen Groenhof",
                 "public_transport": "platform",
@@ -122,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.122437,
-                    50.808477
+                    3.122361,
+                    50.808134
                 ]
             }
         },
@@ -151,29 +130,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;54;55",
-                "ref:De_Lijn": "508552",
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "503549",
                 "bus": "yes",
-                "name": "Menen Kliniek",
+                "name": "Menen Hof Ter Linden",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGGESTRAAT MENEN",
+                "created_by": "VOLKSLAAN MENEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.121053,
-                    50.813047
+                    3.121038,
+                    50.806664
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "54;55",
-                "ref:De_Lijn": "503548",
+                "route_ref:De_Lijn": "44;54;55",
+                "ref:De_Lijn": "508548",
                 "bus": "yes",
                 "name": "Menen Groenhof",
                 "public_transport": "platform",
@@ -185,8 +164,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.122361,
-                    50.808134
+                    3.122437,
+                    50.808477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "503552",
+                "bus": "yes",
+                "name": "Menen Kliniek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.120758,
+                    50.813458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "503563",
+                "bus": "yes",
+                "name": "Menen Pannenhuizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORSELESTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.135433,
+                    50.812345
                 ]
             }
         },
@@ -215,7 +236,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "503543",
+                "ref:De_Lijn": "508543",
                 "bus": "yes",
                 "name": "Menen Cafe Poezelhoek",
                 "public_transport": "platform",
@@ -227,29 +248,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.131312,
-                    50.80608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44",
-                "ref:De_Lijn": "503549",
-                "bus": "yes",
-                "name": "Menen Hof Ter Linden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOLKSLAAN MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.121038,
-                    50.806664
+                    3.131847,
+                    50.806248
                 ]
             }
         },
@@ -257,7 +257,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "503563",
+                "ref:De_Lijn": "508563",
                 "bus": "yes",
                 "name": "Menen Pannenhuizen",
                 "public_transport": "platform",
@@ -269,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.135433,
-                    50.812345
+                    3.135571,
+                    50.811924
                 ]
             }
         }

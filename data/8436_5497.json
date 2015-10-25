@@ -4,10 +4,52 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23a;709",
-                "ref:De_Lijn": "401104",
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "401115",
                 "bus": "yes",
-                "name": "Kerniel Haagsmaal",
+                "name": "Kerniel Weg op Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVELSTRAAT KERNIEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37277,
+                    50.81987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "401029",
+                "bus": "yes",
+                "name": "Gors-Opleeuw Drie Linden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPLEEUWSTRAAT OPLEEUW",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.379644,
+                    50.825367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "401110",
+                "bus": "yes",
+                "name": "Kerniel Tapstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OORSPRONGSTRAAT KERNIEL",
@@ -17,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.364181,
-                    50.829123
+                    5.363471,
+                    50.823078
                 ]
             }
         },
@@ -46,42 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23a",
-                "ref:De_Lijn": "401115",
-                "bus": "yes",
-                "name": "Kerniel Weg op Leeuw",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEUVELSTRAAT KERNIEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.37277,
-                    50.81987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "23a;709",
-                "ref:De_Lijn": "401030",
+                "ref:De_Lijn": "401104",
                 "bus": "yes",
-                "name": "Gors-Opleeuw Drie Linden",
+                "name": "Kerniel Haagsmaal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OPLEEUWSTRAAT OPLEEUW",
+                "created_by": "OORSPRONGSTRAAT KERNIEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.379168,
-                    50.825048
+                    5.364181,
+                    50.829123
                 ]
             }
         },
@@ -130,8 +151,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "401029",
+                "route_ref:De_Lijn": "23a;709",
+                "ref:De_Lijn": "401030",
                 "bus": "yes",
                 "name": "Gors-Opleeuw Drie Linden",
                 "public_transport": "platform",
@@ -143,29 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.379644,
-                    50.825367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23a",
-                "ref:De_Lijn": "401110",
-                "bus": "yes",
-                "name": "Kerniel Tapstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OORSPRONGSTRAAT KERNIEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.363471,
-                    50.823078
+                    5.379168,
+                    50.825048
                 ]
             }
         }

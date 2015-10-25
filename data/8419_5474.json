@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;20;302;921",
-                "ref:De_Lijn": "109682",
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108638",
                 "bus": "yes",
-                "name": "Geel Seppendijk",
+                "name": "Geel Hondstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WINKELOM GEEL",
@@ -17,15 +17,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.002776,
-                    51.145467
+                    5.000903,
+                    51.149639
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;20;302;921",
                 "ref:De_Lijn": "109689",
                 "bus": "yes",
                 "name": "Geel Brukel",
@@ -46,21 +45,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "108638",
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109678",
                 "bus": "yes",
-                "name": "Geel Hondstraat",
+                "name": "Winkelomheide Punt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WINKELOM GEEL",
+                "created_by": "N126 GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.000903,
-                    51.149639
+                    5.008004,
+                    51.142176
                 ]
             }
         },
@@ -110,20 +109,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "19;20;302;921",
-                "ref:De_Lijn": "109678",
+                "ref:De_Lijn": "109682",
                 "bus": "yes",
-                "name": "Winkelomheide Punt",
+                "name": "Geel Seppendijk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N126 GEEL",
+                "created_by": "WINKELOM GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.008004,
-                    51.142176
+                    5.002776,
+                    51.145467
                 ]
             }
         }

@@ -4,6 +4,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "0;69",
+                "ref:De_Lijn": "501250",
+                "bus": "yes",
+                "name": "Oostduinkerke Bad",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE-BAD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.67278,
+                    51.132517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "0",
                 "ref:De_Lijn": "506258",
                 "zone:De_Lijn": "03",
@@ -26,23 +49,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0;69",
-                "ref:De_Lijn": "501250",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506259",
                 "bus": "yes",
-                "name": "Oostduinkerke Bad",
+                "name": "Oostduinkerke Schipgat",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "ALBERT I LAAN OOSTDUINKERKE-BAD",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.67278,
-                    51.132517
+                    2.660192,
+                    51.124666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506256",
+                "bus": "yes",
+                "name": "Oostduinkerke Halfwege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLD II LAAN OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.675423,
+                    51.126216
                 ]
             }
         },
@@ -72,7 +114,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "506256",
+                "ref:De_Lijn": "501256",
                 "bus": "yes",
                 "name": "Oostduinkerke Halfwege",
                 "public_transport": "platform",
@@ -84,29 +126,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.675423,
-                    51.126216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "506259",
-                "bus": "yes",
-                "name": "Oostduinkerke Schipgat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.660192,
-                    51.124666
+                    2.675393,
+                    51.126647
                 ]
             }
         },
@@ -130,27 +151,6 @@
                 "coordinates": [
                     2.672842,
                     51.132383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "501256",
-                "bus": "yes",
-                "name": "Oostduinkerke Halfwege",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEOPOLD II LAAN OOSTDUINKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.675393,
-                    51.126647
                 ]
             }
         }

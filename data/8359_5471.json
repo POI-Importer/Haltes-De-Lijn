@@ -4,7 +4,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "97;98;195",
+                "route_ref:De_Lijn": "97;98",
+                "ref:De_Lijn": "203724",
+                "bus": "yes",
+                "name": "Oosteeklo Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTEEKLO-DORP OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.684768,
+                    51.189044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "97;98",
+                "ref:De_Lijn": "202724",
+                "bus": "yes",
+                "name": "Oosteeklo Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTEEKLO-DORP OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.685407,
+                    51.189362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "97;98",
                 "ref:De_Lijn": "202723",
                 "bus": "yes",
                 "name": "Oosteeklo Rijkestraat",
@@ -19,27 +61,6 @@
                 "coordinates": [
                     3.681128,
                     51.18754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;98;195",
-                "ref:De_Lijn": "202675",
-                "bus": "yes",
-                "name": "Oosteeklo Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTEEKLO-DORP OOSTEEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.688499,
-                    51.192176
                 ]
             }
         },
@@ -67,49 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "97;98;195",
-                "ref:De_Lijn": "202724",
-                "bus": "yes",
-                "name": "Oosteeklo Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTEEKLO-DORP OOSTEEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.685407,
-                    51.189362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "97;98",
-                "ref:De_Lijn": "203724",
-                "bus": "yes",
-                "name": "Oosteeklo Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTEEKLO-DORP OOSTEEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.684768,
-                    51.189044
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;97;195",
+                "route_ref:De_Lijn": "53;97",
                 "ref:De_Lijn": "202674",
                 "bus": "yes",
                 "name": "Oosteeklo Gemeenteschool",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.691315,
                     51.191311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;98",
+                "ref:De_Lijn": "203675",
+                "bus": "yes",
+                "name": "Oosteeklo Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTEEKLO-DORP OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.688671,
+                    51.192159
                 ]
             }
         },
@@ -152,7 +152,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;98",
-                "ref:De_Lijn": "203675",
+                "ref:De_Lijn": "202675",
                 "bus": "yes",
                 "name": "Oosteeklo Kerk",
                 "public_transport": "platform",
@@ -164,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.688671,
-                    51.192159
+                    3.688499,
+                    51.192176
                 ]
             }
         }

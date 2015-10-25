@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;440",
                 "ref:De_Lijn": "208683",
                 "bus": "yes",
                 "name": "Velzeke Sonseindestraat",

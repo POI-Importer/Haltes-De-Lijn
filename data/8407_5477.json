@@ -4,8 +4,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;943",
-                "ref:De_Lijn": "107362",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108179",
+                "bus": "yes",
+                "name": "Itegem Lenkestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S HERENWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.742408,
+                    51.105087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107359",
+                "bus": "yes",
+                "name": "Itegem Kerk (Sint-Guibertusplein)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GUIBERTUSPLEIN ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.729629,
+                    51.103177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107356",
+                "bus": "yes",
+                "name": "Itegem Leliestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.724205,
+                    51.1034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107361",
                 "bus": "yes",
                 "name": "Itegem P. Berchaensstraat",
                 "public_transport": "platform",
@@ -17,8 +78,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.730999,
-                    51.099388
+                    4.730774,
+                    51.099865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108178",
+                "bus": "yes",
+                "name": "Itegem Lenkestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S HERENWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.74268,
+                    51.105177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104699",
+                "bus": "yes",
+                "name": "Itegem Mispelaarweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.728573,
+                    51.108852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107358",
+                "bus": "yes",
+                "name": "Itegem Kerk (Sint-Guibertusplein)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GUIBERTUSPLEIN ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.729143,
+                    51.10316
                 ]
             }
         },
@@ -46,49 +169,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "104699",
-                "bus": "yes",
-                "name": "Itegem Mispelaarweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT ITEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.728573,
-                    51.108852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "297;943",
-                "ref:De_Lijn": "107356",
-                "bus": "yes",
-                "name": "Itegem Leliestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOOLSTRAAT ITEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.724205,
-                    51.1034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;513",
                 "ref:De_Lijn": "103188",
                 "bus": "yes",
                 "name": "Itegem Nieuwendijk",
@@ -109,28 +189,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "297;511;513;943",
-                "ref:De_Lijn": "107361",
-                "bus": "yes",
-                "name": "Itegem P. Berchaensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALLAARSTRAAT ITEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.730774,
-                    51.099865
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;513",
                 "ref:De_Lijn": "103189",
                 "bus": "yes",
                 "name": "Itegem Nieuwendijk",
@@ -151,28 +209,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;513;943",
-                "ref:De_Lijn": "108178",
-                "bus": "yes",
-                "name": "Itegem Lenkestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "'S HERENWEG ITEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.74268,
-                    51.105177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "107357",
                 "bus": "yes",
                 "name": "Itegem Leliestraat",
@@ -194,62 +230,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "107359",
+                "ref:De_Lijn": "107362",
                 "bus": "yes",
-                "name": "Itegem Kerk (Sint-Guibertusplein)",
+                "name": "Itegem P. Berchaensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-GUIBERTUSPLEIN ITEGEM",
+                "created_by": "HALLAARSTRAAT ITEGEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.729629,
-                    51.103177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;513;943",
-                "ref:De_Lijn": "108179",
-                "bus": "yes",
-                "name": "Itegem Lenkestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "'S HERENWEG ITEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.742408,
-                    51.105087
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "297;943",
-                "ref:De_Lijn": "107358",
-                "bus": "yes",
-                "name": "Itegem Kerk (Sint-Guibertusplein)",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-GUIBERTUSPLEIN ITEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.729143,
-                    51.10316
+                    4.730999,
+                    51.099388
                 ]
             }
         }

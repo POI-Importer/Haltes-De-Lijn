@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "445",
-                "ref:De_Lijn": "205987",
+                "ref:De_Lijn": "208833",
                 "bus": "yes",
-                "name": "Nederename Hemelrijkstraat",
+                "name": "Oudenaarde Freinetschool",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "VOOR EINE NEDERENAME",
+                "created_by": "NEDERENAMESTRAAT NEDERENAME",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.631788,
-                    50.87067
+                    3.639954,
+                    50.863565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "208223",
+                "bus": "yes",
+                "name": "Nederename Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDSTRIJDERSSTRAAT NEDERENAME",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.635034,
+                    50.866627
                 ]
             }
         },
@@ -47,49 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "209223",
-                "bus": "yes",
-                "name": "Nederename Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDSTRIJDERSSTRAAT NEDERENAME",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.634983,
-                    50.866258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "208833",
-                "bus": "yes",
-                "name": "Oudenaarde Freinetschool",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "NEDERENAMESTRAAT NEDERENAME",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.639954,
-                    50.863565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "209219",
+                "ref:De_Lijn": "208219",
                 "bus": "yes",
                 "name": "Nederename De Preesterstraat",
                 "public_transport": "platform",
@@ -101,15 +80,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.644162,
-                    50.865201
+                    3.644263,
+                    50.865102
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;445",
+                "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "208222",
                 "bus": "yes",
                 "name": "Nederename Landlos",
@@ -130,10 +109,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;445",
-                "ref:De_Lijn": "208223",
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "208043",
                 "bus": "yes",
-                "name": "Nederename Dorp",
+                "name": "Nederename Oudstrijdersstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OUDSTRIJDERSSTRAAT NEDERENAME",
@@ -143,29 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.635034,
-                    50.866627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;445",
-                "ref:De_Lijn": "208219",
-                "bus": "yes",
-                "name": "Nederename De Preesterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEDERENAMESTRAAT NEDERENAME",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.644263,
-                    50.865102
+                    3.635943,
+                    50.862075
                 ]
             }
         },
@@ -194,6 +152,47 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "208220",
+                "bus": "yes",
+                "name": "Nederename Oudstrijdersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERENAMESTRAAT NEDERENAME",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.636936,
+                    50.862189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205987",
+                "bus": "yes",
+                "name": "Nederename Hemelrijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOOR EINE NEDERENAME",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.631788,
+                    50.87067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "209220",
                 "bus": "yes",
                 "name": "Nederename Oudstrijdersstraat",
@@ -215,30 +214,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "208220",
+                "ref:De_Lijn": "209223",
                 "bus": "yes",
-                "name": "Nederename Oudstrijdersstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEDERENAMESTRAAT NEDERENAME",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.636936,
-                    50.862189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;445",
-                "ref:De_Lijn": "208043",
-                "bus": "yes",
-                "name": "Nederename Oudstrijdersstraat",
+                "name": "Nederename Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OUDSTRIJDERSSTRAAT NEDERENAME",
@@ -248,8 +226,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.635943,
-                    50.862075
+                    3.634983,
+                    50.866258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209219",
+                "bus": "yes",
+                "name": "Nederename De Preesterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERENAMESTRAAT NEDERENAME",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.644162,
+                    50.865201
                 ]
             }
         }

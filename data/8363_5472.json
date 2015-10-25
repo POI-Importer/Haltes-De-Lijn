@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150",
-                "ref:De_Lijn": "201863",
-                "bus": "yes",
-                "name": "Ertvelde Merelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PELIKAANSTRAAT ERTVELDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.761767,
-                    51.17252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;150;55S",
-                "ref:De_Lijn": "202298",
-                "bus": "yes",
-                "name": "Ertvelde Rieme Kievitstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIEMESTEENWEG ERTVELDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.761008,
-                    51.17702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;150",
-                "ref:De_Lijn": "202327",
-                "bus": "yes",
-                "name": "Ertvelde Rieme Overweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIEMESTEENWEG RIEME",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.776605,
-                    51.174016
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "55;56",
                 "ref:De_Lijn": "203326",
                 "bus": "yes",
@@ -109,10 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "55;56;150",
-                "ref:De_Lijn": "202326",
+                "route_ref:De_Lijn": "55;56;55S",
+                "ref:De_Lijn": "202298",
                 "bus": "yes",
-                "name": "Ertvelde Rieme Stationsstraat",
+                "name": "Ertvelde Rieme Kievitstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RIEMESTEENWEG ERTVELDE",
@@ -122,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.769686,
-                    51.176039
+                    3.761008,
+                    51.17702
                 ]
             }
         },
@@ -145,6 +82,68 @@
                 "coordinates": [
                     3.777909,
                     51.173771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56",
+                "ref:De_Lijn": "202326",
+                "bus": "yes",
+                "name": "Ertvelde Rieme Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMESTEENWEG ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769686,
+                    51.176039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201863",
+                "bus": "yes",
+                "name": "Ertvelde Merelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PELIKAANSTRAAT ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761767,
+                    51.17252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56",
+                "ref:De_Lijn": "202327",
+                "bus": "yes",
+                "name": "Ertvelde Rieme Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMESTEENWEG RIEME",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776605,
+                    51.174016
                 ]
             }
         }

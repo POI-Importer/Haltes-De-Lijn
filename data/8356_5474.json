@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "203035",
+                "ref:De_Lijn": "202035",
                 "bus": "yes",
                 "name": "Waarschoot Molenstraat",
                 "public_transport": "platform",
@@ -17,36 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.618023,
-                    51.14915
+                    3.621053,
+                    51.147327
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
-                "ref:De_Lijn": "201693",
-                "bus": "yes",
-                "name": "Waarschoot Lievetragel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ARISDONK WAARSCHOOT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.61712,
-                    51.140389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;160",
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "202036",
                 "bus": "yes",
                 "name": "Waarschoot Kouterweg",
@@ -67,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;69",
-                "ref:De_Lijn": "203037",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "202034",
                 "bus": "yes",
-                "name": "Waarschoot Kerk",
+                "name": "Waarschoot Arisdonk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHOOLSTRAAT WAARSCHOOT",
+                "created_by": "'T HAND WAARSCHOOT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.605818,
-                    51.151751
+                    3.624611,
+                    51.145542
                 ]
             }
         },
@@ -89,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "203036",
+                "ref:De_Lijn": "203035",
                 "bus": "yes",
-                "name": "Waarschoot Kouterweg",
+                "name": "Waarschoot Molenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MOLENSTRAAT WAARSCHOOT",
@@ -101,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.613109,
-                    51.151591
+                    3.618023,
+                    51.14915
                 ]
             }
         },
@@ -130,10 +109,30 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;160",
-                "ref:De_Lijn": "202035",
+                "ref:De_Lijn": "201693",
                 "bus": "yes",
-                "name": "Waarschoot Molenstraat",
+                "name": "Waarschoot Lievetragel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARISDONK WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.61712,
+                    51.140389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203036",
+                "bus": "yes",
+                "name": "Waarschoot Kouterweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MOLENSTRAAT WAARSCHOOT",
@@ -143,29 +142,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.621053,
-                    51.147327
+                    3.613109,
+                    51.151591
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;160",
-                "ref:De_Lijn": "202034",
+                "route_ref:De_Lijn": "58;69",
+                "ref:De_Lijn": "203037",
                 "bus": "yes",
-                "name": "Waarschoot Arisdonk",
+                "name": "Waarschoot Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "'T HAND WAARSCHOOT",
+                "created_by": "SCHOOLSTRAAT WAARSCHOOT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.624611,
-                    51.145542
+                    3.605818,
+                    51.151751
                 ]
             }
         }

@@ -26,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "360",
-                "ref:De_Lijn": "302427",
+                "ref:De_Lijn": "302424",
                 "bus": "yes",
-                "name": "Sint-Jans-Geest Rte Saint-Remy-Geest",
+                "name": "Sint-Jans-Geest Rte Gare",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "CHAUSSÉE DE TIRLEMONT SINT-JANS-GEEST",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.879326,
-                    50.743968
+                    4.880364,
+                    50.739064
                 ]
             }
         },
@@ -89,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "360",
-                "ref:De_Lijn": "302424",
+                "ref:De_Lijn": "302427",
                 "bus": "yes",
-                "name": "Sint-Jans-Geest Rte Gare",
+                "name": "Sint-Jans-Geest Rte Saint-Remy-Geest",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "CHAUSSÉE DE TIRLEMONT SINT-JANS-GEEST",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.880364,
-                    50.739064
+                    4.879326,
+                    50.743968
                 ]
             }
         }

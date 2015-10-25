@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
                 "ref:De_Lijn": "204415",
                 "bus": "yes",
                 "name": "Stekene Kapellestraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
                 "ref:De_Lijn": "205769",
                 "bus": "yes",
                 "name": "Stekene Hinnestraat",

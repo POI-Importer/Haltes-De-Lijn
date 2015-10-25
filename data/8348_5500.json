@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "503026",
+                "bus": "yes",
+                "name": "Avelgem Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT AVELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.444895,
+                    50.785029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
                 "ref:De_Lijn": "508027",
                 "bus": "yes",
                 "name": "Avelgem Knobbelstraat",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     3.449619,
                     50.780616
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92",
-                "ref:De_Lijn": "503026",
-                "bus": "yes",
-                "name": "Avelgem Kapelleke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSSTRAAT AVELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.444895,
-                    50.785029
                 ]
             }
         },

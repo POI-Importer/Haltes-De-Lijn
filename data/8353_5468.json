@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200778",
                 "bus": "yes",
                 "name": "Sint-Laureins Kruiskenshoeve",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200907",
                 "bus": "yes",
                 "name": "Sint-Laureins Waterstraatje",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200908",
                 "bus": "yes",
                 "name": "Sint-Laureins Kruyersweg",

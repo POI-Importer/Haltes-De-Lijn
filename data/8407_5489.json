@@ -25,10 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "333;334;335;433;512;513",
-                "ref:De_Lijn": "304314",
+                "route_ref:De_Lijn": "334;512;535",
+                "ref:De_Lijn": "306882",
                 "bus": "yes",
-                "name": "Rotselaar Rotonde",
+                "name": "Rotselaar College",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "AARSCHOTSESTEENWEG ROTSELAAR",
@@ -38,8 +38,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.735234,
-                    50.93882
+                    4.741663,
+                    50.942234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "333;335;433;513",
+                "ref:De_Lijn": "304322",
+                "bus": "yes",
+                "name": "Rotselaar Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT ROTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.731647,
+                    50.942238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "333;334;335;512;513",
+                "ref:De_Lijn": "303206",
+                "bus": "yes",
+                "name": "Wilsele Jef Scherensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG PUTKAPEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.729091,
+                    50.935576
                 ]
             }
         },
@@ -88,29 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "334;512;535",
-                "ref:De_Lijn": "306882",
-                "bus": "yes",
-                "name": "Rotselaar College",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARSCHOTSESTEENWEG ROTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.741663,
-                    50.942234
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "333;334;335;433;512;513",
-                "ref:De_Lijn": "304315",
+                "ref:De_Lijn": "304314",
                 "bus": "yes",
                 "name": "Rotselaar Rotonde",
                 "public_transport": "platform",
@@ -122,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.735204,
-                    50.938622
+                    4.735234,
+                    50.93882
                 ]
             }
         },
@@ -171,21 +192,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "333;334;335;512;513",
-                "ref:De_Lijn": "303206",
+                "route_ref:De_Lijn": "333;334;335;433;512;513",
+                "ref:De_Lijn": "304315",
                 "bus": "yes",
-                "name": "Wilsele Jef Scherensstraat",
+                "name": "Rotselaar Rotonde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AARSCHOTSESTEENWEG PUTKAPEL",
+                "created_by": "AARSCHOTSESTEENWEG ROTSELAAR",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.729091,
-                    50.935576
+                    4.735204,
+                    50.938622
                 ]
             }
         },
@@ -207,27 +228,6 @@
                 "coordinates": [
                     4.741748,
                     50.94209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "333;335;433;513",
-                "ref:De_Lijn": "304322",
-                "bus": "yes",
-                "name": "Rotselaar Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT ROTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.731647,
-                    50.942238
                 ]
             }
         }

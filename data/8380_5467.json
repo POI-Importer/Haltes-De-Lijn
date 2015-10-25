@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;240",
-                "ref:De_Lijn": "204757",
-                "bus": "yes",
-                "name": "Meerdonk Zandloperstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDLOPERSTRAAT MEERDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.14928,
-                    51.244739
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "23",
                 "ref:De_Lijn": "205620",
                 "bus": "yes",
@@ -46,7 +25,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "204757",
+                "bus": "yes",
+                "name": "Meerdonk Zandloperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDLOPERSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.14928,
+                    51.244739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "205106",
                 "bus": "yes",
                 "name": "Meerdonk Krekeldijk",

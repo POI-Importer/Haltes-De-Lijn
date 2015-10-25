@@ -24,27 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "180",
-                "ref:De_Lijn": "403613",
-                "bus": "yes",
-                "name": "Eksel Sint-Bernardusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOMMELSEBAAN LOCHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.365381,
-                    51.141369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "403607",
                 "bus": "yes",
                 "name": "Eksel Lochtstraat",
@@ -80,6 +59,27 @@
                 "coordinates": [
                     5.365542,
                     51.141548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "180",
+                "ref:De_Lijn": "403613",
+                "bus": "yes",
+                "name": "Eksel Sint-Bernardusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOMMELSEBAAN LOCHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.365381,
+                    51.141369
                 ]
             }
         }

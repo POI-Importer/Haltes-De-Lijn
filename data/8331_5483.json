@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32;47;56",
-                "ref:De_Lijn": "503334",
+                "ref:De_Lijn": "508334",
                 "bus": "yes",
                 "name": "Kortemark Cafe De Welkom",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.060837,
-                    51.026064
+                    3.060565,
+                    51.026115
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32;47;56",
-                "ref:De_Lijn": "508334",
+                "ref:De_Lijn": "503334",
                 "bus": "yes",
                 "name": "Kortemark Cafe De Welkom",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.060565,
-                    51.026115
+                    3.060837,
+                    51.026064
                 ]
             }
         }

@@ -4,21 +4,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "17;18",
-                "ref:De_Lijn": "201225",
+                "route_ref:De_Lijn": "3;34;35;36;N3",
+                "ref:De_Lijn": "201136",
+                "bus": "yes",
+                "name": "Banierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.745329,
+                    51.053141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "201443",
+                "bus": "yes",
+                "name": "Eendrachtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORELSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.743318,
+                    51.048833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;6;17;18;71;72;73;74;76;77;78;N17;N76",
+                "ref:De_Lijn": "200267",
                 "bus": "yes",
                 "name": "Lousbergsbrug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
+                "created_by": "TWEEBRUGGENSTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.738162,
-                    51.049417
+                    3.736718,
+                    51.048627
                 ]
             }
         },
@@ -26,41 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200231",
+                "ref:De_Lijn": "201444",
                 "bus": "yes",
-                "name": "Minneplein",
+                "name": "Lousbergskaai",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JAN DELVINLAAN GENT",
+                "created_by": "FORELSTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.747555,
-                    51.047642
+                    3.739614,
+                    51.047465
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200408",
+                "route_ref:De_Lijn": "3;N3",
+                "ref:De_Lijn": "201133",
                 "bus": "yes",
-                "name": "Heilig Hart",
+                "name": "Sint-Amandsberg Gentbruggebrug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LOUIS SCHUERMANSTRAAT SINT-AMANDSBERG",
+                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.748929,
-                    51.053744
+                    3.754095,
+                    51.048099
                 ]
             }
         },
@@ -88,71 +130,111 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36",
-                "ref:De_Lijn": "202133",
+                "ref:De_Lijn": "201437",
                 "bus": "yes",
-                "name": "Vlaamse Kaai",
+                "name": "A. Baeyensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VLAAMSEKAAI GENT",
+                "created_by": "JOS VERDEGEMSTRAAT SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.745316,
-                    51.046633
+                    3.752633,
+                    51.055202
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "201439",
+                "route_ref:De_Lijn": "17;18;70;71;72;73;74;76;77;78;N17;N70",
+                "ref:De_Lijn": "201224",
                 "bus": "yes",
-                "name": "Heernisplein",
+                "name": "Eendrachtstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "created_by": "KASTEELLAAN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.748202,
-                    51.052653
+                    3.740715,
+                    51.050465
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "200438",
+                "ref:De_Lijn": "200468",
                 "bus": "yes",
-                "name": "Heilig Hartstraat",
+                "name": "Wolterslaan",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HEILIG-HARTSTRAAT SINT-AMANDSBERG",
+                "created_by": "WATERKLUISKAAI SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.748728,
-                    51.053842
+                    3.751827,
+                    51.047053
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;17;18",
-                "ref:De_Lijn": "201226",
+                "route_ref:De_Lijn": "3;N3",
+                "ref:De_Lijn": "201132",
+                "bus": "yes",
+                "name": "Gentbrugge Tweekapellenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ODILON VANDERLINDENSTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.755572,
+                    51.044187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "200444",
+                "bus": "yes",
+                "name": "Lousbergskaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORELSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739528,
+                    51.047555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "200226",
                 "bus": "yes",
                 "name": "Puinstraat",
                 "public_transport": "platform",
@@ -164,29 +246,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.736492,
-                    51.051611
+                    3.736418,
+                    51.051871
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "200440",
+                "route_ref:De_Lijn": "6;17;18;34;35;36;70;71;72;73;74;76;77;78;N17;N70",
+                "ref:De_Lijn": "201223",
                 "bus": "yes",
-                "name": "Aannemersstraat",
+                "name": "Veemarkt",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "WOLTERSLAAN GENT",
+                "created_by": "KASTEELLAAN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.745534,
-                    51.049528
+                    3.739752,
+                    51.054199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "200445",
+                "bus": "yes",
+                "name": "Kasteellaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738768,
+                    51.048863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "200133",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Gentbruggebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.754381,
+                    51.048046
                 ]
             }
         },
@@ -214,63 +338,61 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;6;140",
-                "ref:De_Lijn": "200134",
+                "ref:De_Lijn": "201440",
                 "bus": "yes",
-                "name": "Sint-Amandsberg Gentbruggestraat",
+                "name": "Aannemersstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
+                "created_by": "WOLTERSLAAN SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.752753,
-                    51.050348
+                    3.745704,
+                    51.049583
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;6;34;35;36;N3",
-                "ref:De_Lijn": "201135",
+                "ref:De_Lijn": "201408",
                 "bus": "yes",
-                "name": "Sint-Amandsberg Heernisplein",
+                "name": "Heilig Hart",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "created_by": "LOUIS SCHUERMANSTRAAT SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.74906,
-                    51.052495
+                    3.749072,
+                    51.053745
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201437",
+                "ref:De_Lijn": "201231",
                 "bus": "yes",
-                "name": "A. Baeyensstraat",
+                "name": "Minneplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JOS VERDEGEMSTRAAT SINT-AMANDSBERG",
+                "created_by": "JAN DELVINLAAN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.752633,
-                    51.055202
+                    3.747497,
+                    51.047723
                 ]
             }
         },
@@ -299,29 +421,29 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "34;35;36",
-                "ref:De_Lijn": "202132",
+                "ref:De_Lijn": "203132",
                 "bus": "yes",
                 "name": "Keizerpoort",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KEIZERVEST GENT",
+                "created_by": "KEIZERVIADUCT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.739489,
-                    51.041945
+                    3.740214,
+                    51.042129
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "201988",
+                "ref:De_Lijn": "200439",
                 "bus": "yes",
-                "name": "Sint-Amandsberg Baeyensstraat",
+                "name": "Heernisplein",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -332,16 +454,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.754301,
-                    51.051956
+                    3.748188,
+                    51.052599
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "17;18;70;71;72;73;74;76;77;78;N17;N70",
-                "ref:De_Lijn": "201224",
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "202133",
+                "bus": "yes",
+                "name": "Vlaamse Kaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAAMSEKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.745316,
+                    51.046633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18;71;72;73;74;76;77;78;N17;N76",
+                "ref:De_Lijn": "200224",
                 "bus": "yes",
                 "name": "Eendrachtstraat",
                 "public_transport": "platform",
@@ -353,8 +496,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.740715,
-                    51.050465
+                    3.740078,
+                    51.050093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "200134",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Gentbruggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.752753,
+                    51.050348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200438",
+                "bus": "yes",
+                "name": "Heilig Hartstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEILIG-HARTSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.748728,
+                    51.053842
                 ]
             }
         },
@@ -382,42 +567,41 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "201440",
-                "bus": "yes",
-                "name": "Aannemersstraat",
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200062",
+                "name": "Keizerpoort",
                 "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WOLTERSLAAN SINT-AMANDSBERG",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSEPOORTSTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.745704,
-                    51.049583
+                    3.739299,
+                    51.04225
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;34;35;36",
-                "ref:De_Lijn": "200135",
+                "ref:De_Lijn": "200409",
                 "bus": "yes",
-                "name": "Sint-Amandsberg Heernisplein",
+                "name": "Heernisplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "created_by": "LOUIS SCHUERMANSTRAAT SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.748144,
-                    51.052706
+                    3.748629,
+                    51.052682
                 ]
             }
         },
@@ -425,20 +609,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200445",
+                "ref:De_Lijn": "200443",
                 "bus": "yes",
-                "name": "Kasteellaan",
+                "name": "Eendrachtstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
+                "created_by": "FORELSTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.738768,
-                    51.048863
+                    3.74275,
+                    51.04866
                 ]
             }
         },
@@ -446,114 +630,29 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;N3",
-                "ref:De_Lijn": "201132",
+                "ref:De_Lijn": "201134",
                 "bus": "yes",
-                "name": "Gentbrugge Tweekapellenstraat",
+                "name": "Sint-Amandsberg Gentbruggestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ODILON VANDERLINDENSTRAAT GENTBRUGGE",
+                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.755572,
-                    51.044187
+                    3.752597,
+                    51.050302
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;6;17;18;70;71;72;73;74;76;77;78;N17;N70",
-                "ref:De_Lijn": "201267",
-                "bus": "yes",
-                "name": "Lousbergsbrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWEBOSSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.73609,
-                    51.048642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;35;36",
-                "ref:De_Lijn": "203133",
+                "ref:De_Lijn": "201442",
                 "bus": "yes",
                 "name": "Vlaamse Kaai",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERNISLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.745947,
-                    51.047409
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;35;36",
-                "ref:De_Lijn": "203451",
-                "bus": "yes",
-                "name": "Sint-Amandsberg Baeyensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.755015,
-                    51.051906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;34;35;36",
-                "ref:De_Lijn": "200136",
-                "bus": "yes",
-                "name": "Banierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.744955,
-                    51.053391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201231",
-                "bus": "yes",
-                "name": "Minneplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "JAN DELVINLAAN GENT",
@@ -563,50 +662,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.747497,
-                    51.047723
+                    3.746731,
+                    51.047395
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36",
-                "ref:De_Lijn": "202451",
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "200442",
                 "bus": "yes",
-                "name": "Sint-Amandsberg Baeyensstraat",
+                "name": "Vlaamse Kaai",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "created_by": "EENDRACHTSTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.753985,
-                    51.052144
+                    3.745311,
+                    51.047001
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36",
-                "ref:De_Lijn": "203132",
+                "ref:De_Lijn": "200408",
                 "bus": "yes",
-                "name": "Keizerpoort",
+                "name": "Heilig Hart",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KEIZERVIADUCT GENT",
+                "created_by": "LOUIS SCHUERMANSTRAAT SINT-AMANDSBERG",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.740214,
-                    51.042129
+                    3.748929,
+                    51.053744
                 ]
             }
         },
@@ -636,52 +734,52 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "200062",
-                "name": "Keizerpoort",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "BRUSSELSEPOORTSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.739299,
-                    51.04225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201443",
+                "route_ref:De_Lijn": "3;6;17;18;70;71;72;73;74;76;77;78;N17;N70",
+                "ref:De_Lijn": "201267",
                 "bus": "yes",
-                "name": "Eendrachtstraat",
+                "name": "Lousbergsbrug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FORELSTRAAT GENT",
+                "created_by": "NIEUWEBOSSTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.743318,
-                    51.048833
+                    3.73609,
+                    51.048642
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;34;35;36;N3",
-                "ref:De_Lijn": "201136",
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "202132",
                 "bus": "yes",
-                "name": "Banierstraat",
+                "name": "Keizerpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIZERVEST GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739489,
+                    51.041945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "202451",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Baeyensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
@@ -691,8 +789,237 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.745329,
-                    51.053141
+                    3.753985,
+                    51.052144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201468",
+                "bus": "yes",
+                "name": "Wolterslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERKLUISKAAI SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751712,
+                    51.047161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201988",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Baeyensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.754301,
+                    51.051956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;34;35;36",
+                "ref:De_Lijn": "200136",
+                "bus": "yes",
+                "name": "Banierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.744955,
+                    51.053391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200225",
+                "bus": "yes",
+                "name": "Lousbergsbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.73842,
+                    51.049302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;34;35;36;N3",
+                "ref:De_Lijn": "201135",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Heernisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.74906,
+                    51.052495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200441",
+                "bus": "yes",
+                "name": "Minneplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EMILE MOYSONLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.747495,
+                    51.047912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200063",
+                "name": "Clarissenstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "CLARISSENSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735768,
+                    51.04402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "203133",
+                "bus": "yes",
+                "name": "Vlaamse Kaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERNISLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.745947,
+                    51.047409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "201226",
+                "bus": "yes",
+                "name": "Puinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736492,
+                    51.051611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;34;35;36",
+                "ref:De_Lijn": "200135",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Heernisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.748144,
+                    51.052706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200440",
+                "bus": "yes",
+                "name": "Aannemersstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WOLTERSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.745534,
+                    51.049528
                 ]
             }
         },
@@ -722,113 +1049,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;34;35;36",
-                "ref:De_Lijn": "203134",
-                "bus": "yes",
-                "name": "Forelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERNISLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.743421,
-                    51.049688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201445",
-                "bus": "yes",
-                "name": "Kasteellaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.738873,
-                    51.048531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;17;18;34;35;36;70;71;72;73;74;76;77;78;N17;N70",
-                "ref:De_Lijn": "201223",
-                "bus": "yes",
-                "name": "Veemarkt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.739752,
-                    51.054199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;6;N3",
-                "ref:De_Lijn": "201134",
-                "bus": "yes",
-                "name": "Sint-Amandsberg Gentbruggestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.752597,
-                    51.050302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201468",
-                "bus": "yes",
-                "name": "Wolterslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERKLUISKAAI SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.751712,
-                    51.047161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17;18",
-                "ref:De_Lijn": "200225",
+                "ref:De_Lijn": "201225",
                 "bus": "yes",
                 "name": "Lousbergsbrug",
                 "public_transport": "platform",
@@ -840,290 +1061,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.73842,
-                    51.049302
+                    3.738162,
+                    51.049417
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;6;N3",
-                "ref:De_Lijn": "201133",
-                "bus": "yes",
-                "name": "Sint-Amandsberg Gentbruggebrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.754095,
-                    51.048099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201408",
-                "bus": "yes",
-                "name": "Heilig Hart",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOUIS SCHUERMANSTRAAT SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.749072,
-                    51.053745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;17;18",
-                "ref:De_Lijn": "200226",
-                "bus": "yes",
-                "name": "Puinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.736418,
-                    51.051871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200443",
-                "bus": "yes",
-                "name": "Eendrachtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FORELSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.74275,
-                    51.04866
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200468",
-                "bus": "yes",
-                "name": "Wolterslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERKLUISKAAI SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.751827,
-                    51.047053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;17;18;34;35;36;71;72;73;74;76;77;78;N17;N76",
-                "ref:De_Lijn": "200223",
-                "bus": "yes",
-                "name": "Veemarkt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.739572,
-                    51.053802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;34;35;36;N3",
-                "ref:De_Lijn": "201137",
-                "bus": "yes",
-                "name": "Nieuwhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.743085,
-                    51.054558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200444",
-                "bus": "yes",
-                "name": "Lousbergskaai",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FORELSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.739528,
-                    51.047555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17;18;71;72;73;74;76;77;78;N17;N76",
-                "ref:De_Lijn": "200224",
-                "bus": "yes",
-                "name": "Eendrachtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.740078,
-                    51.050093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "200441",
+                "ref:De_Lijn": "200231",
                 "bus": "yes",
                 "name": "Minneplein",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "EMILE MOYSONLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.747495,
-                    51.047912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;6;140",
-                "ref:De_Lijn": "200133",
-                "bus": "yes",
-                "name": "Sint-Amandsberg Gentbruggebrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTBRUGGESTRAAT SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.754381,
-                    51.048046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;140",
-                "ref:De_Lijn": "200132",
-                "bus": "yes",
-                "name": "Gentbrugge Tweekapellenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EDMOND BLOCKSTRAAT GENTBRUGGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.755715,
-                    51.045267
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200442",
-                "bus": "yes",
-                "name": "Vlaamse Kaai",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EENDRACHTSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.745311,
-                    51.047001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "201442",
-                "bus": "yes",
-                "name": "Vlaamse Kaai",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "JAN DELVINLAAN GENT",
@@ -1133,92 +1081,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.746731,
-                    51.047395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "200439",
-                "bus": "yes",
-                "name": "Heernisplein",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.748188,
-                    51.052599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "200063",
-                "name": "Clarissenstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "CLARISSENSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.735768,
-                    51.04402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201444",
-                "bus": "yes",
-                "name": "Lousbergskaai",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FORELSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.739614,
-                    51.047465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;6;17;18;71;72;73;74;76;77;78;N17;N76",
-                "ref:De_Lijn": "200267",
-                "bus": "yes",
-                "name": "Lousbergsbrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TWEEBRUGGENSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.736718,
-                    51.048627
+                    3.747555,
+                    51.047642
                 ]
             }
         },
@@ -1248,20 +1112,147 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "200409",
+                "route_ref:De_Lijn": "3;34;35;36;N3",
+                "ref:De_Lijn": "201137",
                 "bus": "yes",
-                "name": "Heernisplein",
+                "name": "Nieuwhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LOUIS SCHUERMANSTRAAT SINT-AMANDSBERG",
+                "created_by": "DENDERMONDSESTEENWEG GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.748629,
-                    51.052682
+                    3.743085,
+                    51.054558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "201445",
+                "bus": "yes",
+                "name": "Kasteellaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FERDINAND LOUSBERGSKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738873,
+                    51.048531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201439",
+                "bus": "yes",
+                "name": "Heernisplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.748202,
+                    51.052653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;17;18;34;35;36;71;72;73;74;76;77;78;N17;N76",
+                "ref:De_Lijn": "200223",
+                "bus": "yes",
+                "name": "Veemarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739572,
+                    51.053802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "200132",
+                "bus": "yes",
+                "name": "Gentbrugge Tweekapellenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDMOND BLOCKSTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.755715,
+                    51.045267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;34;35;36",
+                "ref:De_Lijn": "203134",
+                "bus": "yes",
+                "name": "Forelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERNISLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.743421,
+                    51.049688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "203451",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Baeyensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.755015,
+                    51.051906
                 ]
             }
         }

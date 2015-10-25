@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;23;27;240",
+                "route_ref:De_Lijn": "21;22;23;27",
                 "ref:De_Lijn": "205728",
                 "bus": "yes",
                 "name": "Sint-Gillis-Waas Doornstraat",
@@ -25,7 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;23;27;240",
+                "route_ref:De_Lijn": "21;22;23;27",
+                "ref:De_Lijn": "205729",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-NIKLAASSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.131434,
+                    51.214297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;27",
                 "ref:De_Lijn": "204728",
                 "bus": "yes",
                 "name": "Sint-Gillis-Waas Doornstraat",
@@ -46,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;23;27;240",
+                "route_ref:De_Lijn": "21;22;23;27",
                 "ref:De_Lijn": "205727",
                 "bus": "yes",
                 "name": "Sint-Gillis-Waas Hoogeinde",
@@ -67,7 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;23;27;240",
+                "route_ref:De_Lijn": "21;22;23;27",
                 "ref:De_Lijn": "204727",
                 "bus": "yes",
                 "name": "Sint-Gillis-Waas Hoogeinde",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     4.143517,
                     51.207327
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;23;27;240",
-                "ref:De_Lijn": "205729",
-                "bus": "yes",
-                "name": "Sint-Gillis-Waas Bosstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-NIKLAASSTRAAT SINT-GILLIS-WAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.131434,
-                    51.214297
                 ]
             }
         }

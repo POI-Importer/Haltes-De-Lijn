@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "200885",
+                "bus": "yes",
+                "name": "Maldegem Haantjesveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDHOEKSTRAAT MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379943,
+                    51.197037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "49;58;58S",
                 "ref:De_Lijn": "507596",
                 "bus": "yes",
@@ -25,28 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200885",
-                "bus": "yes",
-                "name": "Maldegem Haantjesveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELDHOEKSTRAAT MALDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.379943,
-                    51.197037
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26;49;58;185;58S",
+                "route_ref:De_Lijn": "26;49;58;58S",
                 "ref:De_Lijn": "502596",
                 "bus": "yes",
                 "name": "Sijsele Ziekenhuis",

@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;35c",
-                "ref:De_Lijn": "405954",
+                "route_ref:De_Lijn": "7;179",
+                "ref:De_Lijn": "405958",
                 "bus": "yes",
-                "name": "Meldert Melkerij",
+                "name": "Meldert Zwarte Ring",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MELDERTSEBAAN MELDERT (LUMMEN)",
+                "created_by": "GROTE BAAN GEENEINDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.133939,
-                    51.005255
+                    5.12506,
+                    51.013071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;179",
+                "ref:De_Lijn": "405959",
+                "bus": "yes",
+                "name": "Meldert Zwarte Ring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN GEENEINDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.123457,
+                    51.012613
                 ]
             }
         },
@@ -67,48 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "7;179",
-                "ref:De_Lijn": "405959",
-                "bus": "yes",
-                "name": "Meldert Zwarte Ring",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN GEENEINDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.123457,
-                    51.012613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7;179",
-                "ref:De_Lijn": "405958",
-                "bus": "yes",
-                "name": "Meldert Zwarte Ring",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN GEENEINDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.12506,
-                    51.013071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "91;35c",
                 "ref:De_Lijn": "405955",
                 "bus": "yes",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     5.134132,
                     51.004903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;35c",
+                "ref:De_Lijn": "405954",
+                "bus": "yes",
+                "name": "Meldert Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELDERTSEBAAN MELDERT (LUMMEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.133939,
+                    51.005255
                 ]
             }
         }

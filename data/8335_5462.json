@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38",
-                "ref:De_Lijn": "501609",
+                "ref:De_Lijn": "506609",
                 "bus": "yes",
                 "name": "Blankenberge Strandjutter",
                 "public_transport": "platform",
@@ -38,29 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.143286,
-                    51.312421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38",
-                "ref:De_Lijn": "506607",
-                "bus": "yes",
-                "name": "Blankenberge Memlingstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JORDAENSLAAN BLANKENBERGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.147674,
-                    51.311343
+                    3.143158,
+                    51.312384
                 ]
             }
         },
@@ -110,7 +89,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38",
-                "ref:De_Lijn": "506609",
+                "ref:De_Lijn": "506606",
+                "bus": "yes",
+                "name": "Blankenberge Lissewegestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEBRUGGELAAN BLANKENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.144919,
+                    51.307054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "501609",
                 "bus": "yes",
                 "name": "Blankenberge Strandjutter",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.143158,
-                    51.312384
+                    3.143286,
+                    51.312421
                 ]
             }
         },
@@ -152,27 +152,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38",
-                "ref:De_Lijn": "506606",
-                "bus": "yes",
-                "name": "Blankenberge Lissewegestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEEBRUGGELAAN BLANKENBERGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.144919,
-                    51.307054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38",
                 "ref:De_Lijn": "506608",
                 "bus": "yes",
                 "name": "Blankenberge Jordaenslaan",
@@ -187,6 +166,27 @@
                 "coordinates": [
                     3.146622,
                     51.312645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "506607",
+                "bus": "yes",
+                "name": "Blankenberge Memlingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JORDAENSLAAN BLANKENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.147674,
+                    51.311343
                 ]
             }
         }

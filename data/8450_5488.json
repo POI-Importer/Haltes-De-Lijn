@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61",
-                "ref:De_Lijn": "406257",
-                "bus": "yes",
-                "name": "Opgrimbie Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEG NAAR ZUTENDAAL OPGRIMBIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.678196,
-                    50.947005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;63",
-                "ref:De_Lijn": "406246",
-                "bus": "yes",
-                "name": "Opgrimbie Heirstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRSTRAAT OPGRIMBIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.684026,
-                    50.949871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "61;64;725",
                 "ref:De_Lijn": "406248",
                 "bus": "yes",
@@ -68,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "64;725",
-                "ref:De_Lijn": "406417",
+                "ref:De_Lijn": "401904",
                 "bus": "yes",
                 "name": "Proosterbos Everstraat",
                 "public_transport": "platform",
@@ -80,8 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.677843,
-                    50.957834
+                    5.67777,
+                    50.957754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;63",
+                "ref:De_Lijn": "406246",
+                "bus": "yes",
+                "name": "Opgrimbie Heirstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRSTRAAT OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.684026,
+                    50.949871
                 ]
             }
         },
@@ -130,42 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;63",
-                "ref:De_Lijn": "406291",
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "406417",
                 "bus": "yes",
-                "name": "Maasmechelen Brug autosnelweg",
+                "name": "Proosterbos Everstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIRSTRAAT MAASMECHELEN",
+                "created_by": "EVERSTRAAT MAASMECHELEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.688157,
-                    50.955066
+                    5.677843,
+                    50.957834
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61",
-                "ref:De_Lijn": "406256",
+                "route_ref:De_Lijn": "61;63",
+                "ref:De_Lijn": "406241",
                 "bus": "yes",
-                "name": "Opgrimbie Nieuwstraat",
+                "name": "Opgrimbie Centrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WEG NAAR ZUTENDAAL OPGRIMBIE",
+                "created_by": "HEIRSTRAAT OPGRIMBIE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.677374,
-                    50.947149
+                    5.68175,
+                    50.946354
                 ]
             }
         },
@@ -214,42 +193,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;725",
-                "ref:De_Lijn": "401904",
+                "route_ref:De_Lijn": "61;63",
+                "ref:De_Lijn": "406291",
                 "bus": "yes",
-                "name": "Proosterbos Everstraat",
+                "name": "Maasmechelen Brug autosnelweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EVERSTRAAT MAASMECHELEN",
+                "created_by": "HEIRSTRAAT MAASMECHELEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.67777,
-                    50.957754
+                    5.688157,
+                    50.955066
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;63",
-                "ref:De_Lijn": "406241",
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "406257",
                 "bus": "yes",
-                "name": "Opgrimbie Centrum",
+                "name": "Opgrimbie Nieuwstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIRSTRAAT OPGRIMBIE",
+                "created_by": "WEG NAAR ZUTENDAAL OPGRIMBIE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.68175,
-                    50.946354
+                    5.678196,
+                    50.947005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "406256",
+                "bus": "yes",
+                "name": "Opgrimbie Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZUTENDAAL OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.677374,
+                    50.947149
                 ]
             }
         }

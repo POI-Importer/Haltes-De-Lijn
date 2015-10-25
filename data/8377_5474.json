@@ -4,49 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;23;270",
-                "ref:De_Lijn": "204225",
+                "route_ref:De_Lijn": "21;22;23",
+                "ref:De_Lijn": "204227",
                 "bus": "yes",
-                "name": "Belsele Dubbelhofstraat",
+                "name": "Sinaai Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LOKERSE BAAN BELSELE",
+                "created_by": "SCHRIJBERG WAASMUNSTER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.078088,
-                    51.141856
+                    4.067638,
+                    51.14262
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
-                "ref:De_Lijn": "204066",
-                "bus": "yes",
-                "name": "Belsele Kouterwegel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOUTERMOLENSTRAAT BELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.079138,
-                    51.147683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;23;270",
+                "route_ref:De_Lijn": "21;22;23",
                 "ref:De_Lijn": "204226",
                 "bus": "yes",
                 "name": "Belsele Duizend Appels",
@@ -67,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;270",
+                "route_ref:De_Lijn": "21;22",
                 "ref:De_Lijn": "205225",
                 "bus": "yes",
                 "name": "Belsele Dubbelhofstraat",
@@ -88,70 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;270",
-                "ref:De_Lijn": "205226",
-                "bus": "yes",
-                "name": "Belsele Duizend Appels",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOKERSE BAAN BELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.071145,
-                    51.139276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "270",
-                "ref:De_Lijn": "204599",
-                "bus": "yes",
-                "name": "Belsele Schoonhoudtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOONHOUDTSTRAAT BELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.081896,
-                    51.138341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;23;270",
-                "ref:De_Lijn": "204224",
-                "bus": "yes",
-                "name": "Belsele Koutermolenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BELSELEDORP BELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.084423,
-                    51.145709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;270",
+                "route_ref:De_Lijn": "21;22",
                 "ref:De_Lijn": "205227",
                 "bus": "yes",
                 "name": "Sinaai Station",
@@ -172,7 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;270",
+                "route_ref:De_Lijn": "21;22",
                 "ref:De_Lijn": "205224",
                 "bus": "yes",
                 "name": "Belsele Koutermolenstraat",
@@ -193,21 +109,103 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;23;270",
-                "ref:De_Lijn": "204227",
+                "route_ref:De_Lijn": "21;22;23",
+                "ref:De_Lijn": "204224",
                 "bus": "yes",
-                "name": "Sinaai Station",
+                "name": "Belsele Koutermolenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHRIJBERG WAASMUNSTER",
+                "created_by": "BELSELEDORP BELSELE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.067638,
-                    51.14262
+                    4.084423,
+                    51.145709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23",
+                "ref:De_Lijn": "204225",
+                "bus": "yes",
+                "name": "Belsele Dubbelhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOKERSE BAAN BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.078088,
+                    51.141856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204599",
+                "bus": "yes",
+                "name": "Belsele Schoonhoudtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONHOUDTSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081896,
+                    51.138341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204066",
+                "bus": "yes",
+                "name": "Belsele Kouterwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERMOLENSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.079138,
+                    51.147683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22",
+                "ref:De_Lijn": "205226",
+                "bus": "yes",
+                "name": "Belsele Duizend Appels",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOKERSE BAAN BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.071145,
+                    51.139276
                 ]
             }
         }

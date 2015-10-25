@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
                 "ref:De_Lijn": "105624",
                 "bus": "yes",
                 "name": "Bellestraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
                 "ref:De_Lijn": "105626",
                 "bus": "yes",
                 "name": "Bellestraat",

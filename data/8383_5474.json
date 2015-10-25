@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95;280",
+                "route_ref:De_Lijn": "95",
                 "ref:De_Lijn": "204672",
                 "bus": "yes",
                 "name": "Temse Doornstraat",
@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "204445",
                 "bus": "yes",
                 "name": "Temse Vdab",
@@ -46,7 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95;280",
+                "route_ref:De_Lijn": "95",
                 "ref:De_Lijn": "205672",
                 "bus": "yes",
                 "name": "Temse Doornstraat",

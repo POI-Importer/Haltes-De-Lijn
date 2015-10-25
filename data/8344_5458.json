@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
                 "ref:De_Lijn": "501149",
                 "bus": "yes",
                 "name": "Knokke Het Zwin",

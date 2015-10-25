@@ -26,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "304435",
+                "bus": "yes",
+                "name": "Sint-Genesius-Rode Den Hoek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE HUTSESTEENWEG SINT-GENESIUS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.374148,
+                    50.739287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
                 "ref:De_Lijn": "306064",
                 "bus": "yes",
                 "name": "Sint-Genesius-Rode Astrid",
@@ -68,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "155",
-                "ref:De_Lijn": "307713",
+                "ref:De_Lijn": "304441",
                 "bus": "yes",
-                "name": "Sint-Genesius-Rode Grote Hut",
+                "name": "Sint-Genesius-Rode Elvis Presley",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG SINT-GENESIUS-RODE",
+                "created_by": "GROTE HUTSESTEENWEG SINT-GENESIUS-RODE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.393746,
-                    50.748876
+                    4.393504,
+                    50.745325
                 ]
             }
         },
@@ -110,28 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "155",
-                "ref:De_Lijn": "304435",
-                "bus": "yes",
-                "name": "Sint-Genesius-Rode Den Hoek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE HUTSESTEENWEG SINT-GENESIUS-RODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.374148,
-                    50.739287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "155",
-                "ref:De_Lijn": "304437",
+                "ref:De_Lijn": "304438",
                 "bus": "yes",
                 "name": "Sint-Genesius-Rode Dragonderstraat",
                 "public_transport": "platform",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.376727,
-                    50.740842
+                    4.376458,
+                    50.740743
                 ]
             }
         },
@@ -152,20 +152,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "155",
-                "ref:De_Lijn": "304441",
+                "ref:De_Lijn": "307713",
                 "bus": "yes",
-                "name": "Sint-Genesius-Rode Elvis Presley",
+                "name": "Sint-Genesius-Rode Grote Hut",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTE HUTSESTEENWEG SINT-GENESIUS-RODE",
+                "created_by": "WATERLOOSE STEENWEG SINT-GENESIUS-RODE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.393504,
-                    50.745325
+                    4.393746,
+                    50.748876
                 ]
             }
         },
@@ -194,7 +194,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "155",
-                "ref:De_Lijn": "304438",
+                "ref:De_Lijn": "304437",
                 "bus": "yes",
                 "name": "Sint-Genesius-Rode Dragonderstraat",
                 "public_transport": "platform",
@@ -206,8 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.376458,
-                    50.740743
+                    4.376727,
+                    50.740842
                 ]
             }
         }

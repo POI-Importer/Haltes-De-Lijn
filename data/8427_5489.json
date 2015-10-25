@@ -4,111 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "403992",
-                "bus": "yes",
-                "name": "Herk-de-Stad Hasseltsesteenweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DOELSTRAAT HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.171874,
-                    50.94256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403945",
-                "bus": "yes",
-                "name": "Herk-de-Stad Rummenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUIDERSTEENWEG HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.170268,
-                    50.931028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;35c;565;566;567;568",
-                "ref:De_Lijn": "403941",
-                "bus": "yes",
-                "name": "Herk-de-Stad Gemeenschapsschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER VANWEDDINGENLAAN HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.165656,
-                    50.939186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "404088",
-                "bus": "yes",
-                "name": "Herk-de-Stad Olmenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PIKKELEERSTRAAT HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.166094,
-                    50.934841
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "408356",
-                "bus": "yes",
-                "name": "Herk-de-Stad Wendelenplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WENDELENPLEIN HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.166885,
-                    50.940382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "30;35c;565;566;567;568",
                 "ref:De_Lijn": "403917",
                 "bus": "yes",
@@ -130,21 +25,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403989",
+                "ref:De_Lijn": "403993",
                 "bus": "yes",
-                "name": "Herk-de-Stad TI Amandina",
+                "name": "Herk-de-Stad Hasseltsesteenweg",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "VEEARTS STRAUVENLAAN HERK-DE-STAD",
+                "created_by": "DOELSTRAAT HERK-DE-STAD",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.168779,
-                    50.939587
+                    5.172115,
+                    50.942504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;299;35c;565;566;567;568;735",
+                "ref:De_Lijn": "403983",
+                "bus": "yes",
+                "name": "Herk-de-Stad Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.165413,
+                    50.940788
                 ]
             }
         },
@@ -173,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403984",
+                "ref:De_Lijn": "404004",
                 "bus": "yes",
-                "name": "Herk-de-Stad Stevoortweg II",
+                "name": "Herk-de-Stad Stevoortweg I",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STEVOORTWEG HERK-DE-STAD",
@@ -185,18 +101,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.180424,
-                    50.935866
+                    5.17397,
+                    50.937826
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;299;35c;565;566;567;568",
-                "ref:De_Lijn": "403916",
+                "route_ref:De_Lijn": "30;90;299;35c;735",
+                "ref:De_Lijn": "403982",
                 "bus": "yes",
-                "name": "Herk-de-Stad College",
+                "name": "Schulen Weg op Beringen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176447,
+                    50.943679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;90;299;35c;735",
+                "ref:De_Lijn": "403934",
+                "bus": "yes",
+                "name": "Herk-de-Stad Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.165197,
+                    50.940672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "403945",
+                "bus": "yes",
+                "name": "Herk-de-Stad Rummenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-TRUIDERSTEENWEG HERK-DE-STAD",
@@ -206,29 +164,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.168082,
-                    50.937111
+                    5.170268,
+                    50.931028
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;90;299;35c",
-                "ref:De_Lijn": "403924",
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404088",
                 "bus": "yes",
-                "name": "Herk-de-Stad Hasseltsesteenweg",
+                "name": "Herk-de-Stad Olmenhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HASSELTSESTEENWEG HERK-DE-STAD",
+                "created_by": "PIKKELEERSTRAAT HERK-DE-STAD",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.171439,
-                    50.942913
+                    5.166094,
+                    50.934841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403992",
+                "bus": "yes",
+                "name": "Herk-de-Stad Hasseltsesteenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DOELSTRAAT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.171874,
+                    50.94256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "403944",
+                "bus": "yes",
+                "name": "Herk-de-Stad Rummenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDERSTEENWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.170372,
+                    50.931288
                 ]
             }
         },
@@ -256,10 +256,73 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "404005",
+                "ref:De_Lijn": "403988",
                 "bus": "yes",
-                "name": "Herk-de-Stad Stevoortweg I",
+                "name": "Herk-de-Stad TI Amandina",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VEEARTS STRAUVENLAAN HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.168093,
+                    50.939439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404002",
+                "bus": "yes",
+                "name": "Herk-de-Stad Markt vervanghalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VANWEDDINGENLAAN HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16373,
+                    50.940565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "403989",
+                "bus": "yes",
+                "name": "Herk-de-Stad TI Amandina",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEEARTS STRAUVENLAAN HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.168779,
+                    50.939587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "403984",
+                "bus": "yes",
+                "name": "Herk-de-Stad Stevoortweg II",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STEVOORTWEG HERK-DE-STAD",
@@ -269,29 +332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.17403,
-                    50.937978
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "404089",
-                "bus": "yes",
-                "name": "Herk-de-Stad Olmenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PIKKELEERSTRAAT HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.165952,
-                    50.934842
+                    5.180424,
+                    50.935866
                 ]
             }
         },
@@ -319,6 +361,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "30;35c;565;566;567;568",
+                "ref:De_Lijn": "403941",
+                "bus": "yes",
+                "name": "Herk-de-Stad Gemeenschapsschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VANWEDDINGENLAAN HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.165656,
+                    50.939186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "403940",
                 "bus": "yes",
                 "name": "Herk-de-Stad RMS",
@@ -334,27 +397,6 @@
                 "coordinates": [
                     5.165984,
                     50.939229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;90;299;35c;735",
-                "ref:De_Lijn": "403982",
-                "bus": "yes",
-                "name": "Schulen Weg op Beringen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG SCHULEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.176447,
-                    50.943679
                 ]
             }
         },
@@ -383,7 +425,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "404004",
+                "ref:De_Lijn": "404005",
                 "bus": "yes",
                 "name": "Herk-de-Stad Stevoortweg I",
                 "public_transport": "platform",
@@ -395,60 +437,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.17397,
-                    50.937826
+                    5.17403,
+                    50.937978
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404002",
+                "route_ref:De_Lijn": "30;299;35c;565;566;567;568",
+                "ref:De_Lijn": "403916",
                 "bus": "yes",
-                "name": "Herk-de-Stad Markt vervanghalte",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DOKTER VANWEDDINGENLAAN HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.16373,
-                    50.940565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;299;35c;565;566;567;568;735",
-                "ref:De_Lijn": "403983",
-                "bus": "yes",
-                "name": "Herk-de-Stad Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKT HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.165413,
-                    50.940788
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403944",
-                "bus": "yes",
-                "name": "Herk-de-Stad Rummenweg",
+                "name": "Herk-de-Stad College",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-TRUIDERSTEENWEG HERK-DE-STAD",
@@ -458,71 +458,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.170372,
-                    50.931288
+                    5.168082,
+                    50.937111
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "403993",
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404089",
+                "bus": "yes",
+                "name": "Herk-de-Stad Olmenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIKKELEERSTRAAT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.165952,
+                    50.934842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;90;299;35c",
+                "ref:De_Lijn": "403924",
                 "bus": "yes",
                 "name": "Herk-de-Stad Hasseltsesteenweg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DOELSTRAAT HERK-DE-STAD",
+                "created_by": "HASSELTSESTEENWEG HERK-DE-STAD",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.172115,
-                    50.942504
+                    5.171439,
+                    50.942913
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;90;299;35c;735",
-                "ref:De_Lijn": "403934",
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "408356",
                 "bus": "yes",
-                "name": "Herk-de-Stad Markt",
+                "name": "Herk-de-Stad Wendelenplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARKT HERK-DE-STAD",
+                "created_by": "WENDELENPLEIN HERK-DE-STAD",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.165197,
-                    50.940672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "403988",
-                "bus": "yes",
-                "name": "Herk-de-Stad TI Amandina",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "VEEARTS STRAUVENLAAN HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.168093,
-                    50.939439
+                    5.166885,
+                    50.940382
                 ]
             }
         }

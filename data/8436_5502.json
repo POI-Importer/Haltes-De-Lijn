@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "406302",
-                "bus": "yes",
-                "name": "Vechmaal Sint-Martinusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-MARTINUSSTRAAT VECHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.374266,
-                    50.761779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "27;708",
-                "ref:De_Lijn": "403805",
+                "ref:De_Lijn": "403806",
                 "bus": "yes",
-                "name": "Vechmaal Vechmaallaan",
+                "name": "Vechmaal Weg naar Heks",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VECHMAALLAAN VECHMAAL",
+                "created_by": "HEKSLAAN VECHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.375939,
-                    50.759805
+                    5.373242,
+                    50.763586
                 ]
             }
         },
@@ -47,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "406303",
+                "ref:De_Lijn": "401922",
                 "bus": "yes",
-                "name": "Vechmaal Sint-Martinusstraat",
+                "name": "Vechmaal De Horne",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-MARTINUSSTRAAT VECHMAAL",
+                "created_by": "BRUGSTRAAT VECHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.374546,
-                    50.761624
+                    5.368601,
+                    50.760021
                 ]
             }
         },
@@ -88,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;708",
-                "ref:De_Lijn": "403804",
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "406302",
                 "bus": "yes",
-                "name": "Vechmaal Vechmaallaan",
+                "name": "Vechmaal Sint-Martinusstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VECHMAALLAAN VECHMAAL",
+                "created_by": "SINT-MARTINUSSTRAAT VECHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.375871,
-                    50.759913
+                    5.374266,
+                    50.761779
                 ]
             }
         },
@@ -131,41 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "401922",
+                "ref:De_Lijn": "406303",
                 "bus": "yes",
-                "name": "Vechmaal De Horne",
+                "name": "Vechmaal Sint-Martinusstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGSTRAAT VECHMAAL",
+                "created_by": "SINT-MARTINUSSTRAAT VECHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.368601,
-                    50.760021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;708",
-                "ref:De_Lijn": "403806",
-                "bus": "yes",
-                "name": "Vechmaal Weg naar Heks",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEKSLAAN VECHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.373242,
-                    50.763586
+                    5.374546,
+                    50.761624
                 ]
             }
         },
@@ -187,6 +145,69 @@
                 "coordinates": [
                     5.382073,
                     50.762943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "403799",
+                "bus": "yes",
+                "name": "Vechmaal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SUSKESSTRAAT VECHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.373011,
+                    50.760756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;708",
+                "ref:De_Lijn": "403805",
+                "bus": "yes",
+                "name": "Vechmaal Vechmaallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VECHMAALLAAN VECHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.375939,
+                    50.759805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;708",
+                "ref:De_Lijn": "403807",
+                "bus": "yes",
+                "name": "Vechmaal Weg naar Heks",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKSLAAN VECHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.373394,
+                    50.763423
                 ]
             }
         },
@@ -236,41 +257,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "27;708",
-                "ref:De_Lijn": "403807",
+                "ref:De_Lijn": "403804",
                 "bus": "yes",
-                "name": "Vechmaal Weg naar Heks",
+                "name": "Vechmaal Vechmaallaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEKSLAAN VECHMAAL",
+                "created_by": "VECHMAALLAAN VECHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.373394,
-                    50.763423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "403799",
-                "bus": "yes",
-                "name": "Vechmaal Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SUSKESSTRAAT VECHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.373011,
-                    50.760756
+                    5.375871,
+                    50.759913
                 ]
             }
         }

@@ -4,133 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;81;84",
-                "ref:De_Lijn": "508559",
-                "bus": "yes",
-                "name": "Menen Nieuwe Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJSELSTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.125584,
-                    50.790313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "508993",
-                "bus": "yes",
-                "name": "Halluin Douane",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE LILLE HALLUIN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.126966,
-                    50.785778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;84",
-                "ref:De_Lijn": "508584",
-                "bus": "yes",
-                "name": "Menen Zuidstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOESKROENSTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.137238,
-                    50.788377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;81;84",
-                "ref:De_Lijn": "508539",
-                "bus": "yes",
-                "name": "Menen Barakken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOESKROENSTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.127641,
-                    50.787637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;81;84",
-                "ref:De_Lijn": "503554",
-                "bus": "yes",
-                "name": "Menen Koninginnestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOESKROENSTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.133231,
-                    50.787561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;81;84",
-                "ref:De_Lijn": "503539",
-                "bus": "yes",
-                "name": "Menen Barakken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJSELSTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.127111,
-                    50.787838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;81;84",
+                "route_ref:De_Lijn": "44;84",
                 "ref:De_Lijn": "508554",
                 "bus": "yes",
                 "name": "Menen Koninginnestraat",
@@ -151,70 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44",
-                "ref:De_Lijn": "503570",
-                "bus": "yes",
-                "name": "Menen Sint-Jozefkerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRONDWETSTRAAT MENEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.133456,
-                    50.789254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "508129",
+                "ref:De_Lijn": "508584",
                 "bus": "yes",
-                "name": "Halluin Hôtel De Ville",
+                "name": "Menen Zuidstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RUE DE LILLE HALLUIN",
+                "created_by": "MOESKROENSTRAAT MENEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.126233,
-                    50.782929
+                    3.137238,
+                    50.788377
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "503993",
-                "bus": "yes",
-                "name": "Halluin Douane",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE LILLE HALLUIN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.126746,
-                    50.785533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;81;84",
+                "route_ref:De_Lijn": "44;84",
                 "ref:De_Lijn": "503559",
                 "bus": "yes",
                 "name": "Menen Nieuwe Brug",
@@ -256,6 +88,90 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "503993",
+                "bus": "yes",
+                "name": "Halluin Douane",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LILLE HALLUIN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.126746,
+                    50.785533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;84",
+                "ref:De_Lijn": "503554",
+                "bus": "yes",
+                "name": "Menen Koninginnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.133231,
+                    50.787561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "508129",
+                "bus": "yes",
+                "name": "Halluin Hôtel De Ville",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LILLE HALLUIN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.126233,
+                    50.782929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "508993",
+                "bus": "yes",
+                "name": "Halluin Douane",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LILLE HALLUIN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.126966,
+                    50.785778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "44",
                 "ref:De_Lijn": "504774",
                 "bus": "yes",
@@ -277,7 +193,90 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;81;84",
+                "ref:De_Lijn": "503581",
+                "bus": "yes",
+                "name": "Menen Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.140825,
+                    50.789493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;84",
+                "ref:De_Lijn": "503539",
+                "bus": "yes",
+                "name": "Menen Barakken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.127111,
+                    50.787838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;84",
+                "ref:De_Lijn": "508559",
+                "bus": "yes",
+                "name": "Menen Nieuwe Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.125584,
+                    50.790313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "503570",
+                "bus": "yes",
+                "name": "Menen Sint-Jozefkerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRONDWETSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.133456,
+                    50.789254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;84",
                 "ref:De_Lijn": "503584",
                 "bus": "yes",
                 "name": "Menen Zuidstraat",
@@ -298,21 +297,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44",
-                "ref:De_Lijn": "503581",
+                "route_ref:De_Lijn": "44;84",
+                "ref:De_Lijn": "508539",
                 "bus": "yes",
-                "name": "Menen Watertoren",
+                "name": "Menen Barakken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NOORDSTRAAT MENEN",
+                "created_by": "MOESKROENSTRAAT MENEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.140825,
-                    50.789493
+                    3.127641,
+                    50.787637
                 ]
             }
         }

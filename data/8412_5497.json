@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "381;527;713",
-                "ref:De_Lijn": "300720",
+                "route_ref:De_Lijn": "381;527",
+                "ref:De_Lijn": "300719",
                 "bus": "yes",
                 "name": "Boutersem Honsemsestraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.838844,
-                    50.825946
+                    4.838924,
+                    50.825424
                 ]
             }
         },
@@ -46,8 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "381;527",
-                "ref:De_Lijn": "300719",
+                "route_ref:De_Lijn": "381;527;713",
+                "ref:De_Lijn": "300720",
                 "bus": "yes",
                 "name": "Boutersem Honsemsestraat",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.838924,
-                    50.825424
+                    4.838844,
+                    50.825946
                 ]
             }
         },

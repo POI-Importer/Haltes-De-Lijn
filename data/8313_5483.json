@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "50;57;59",
-                "ref:De_Lijn": "509637",
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505176",
                 "bus": "yes",
-                "name": "Wulveringem Weg Naar Dorp",
+                "name": "Vinkem Vinkemstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "IEPERSE STEENWEG VINKEM",
+                "created_by": "VINKEMSTRAAT VINKEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.678931,
-                    51.024072
+                    2.660778,
+                    51.015574
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505176",
-                "bus": "yes",
-                "name": "Vinkem Vinkemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VINKEMSTRAAT VINKEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.660778,
-                    51.015574
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "504513",
                 "bus": "yes",
                 "name": "Vinkem De Lelie",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.660471,
                     51.016945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509637",
+                "bus": "yes",
+                "name": "Wulveringem Weg Naar Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSE STEENWEG VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.678931,
+                    51.024072
                 ]
             }
         }

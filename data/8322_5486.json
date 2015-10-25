@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "24",
-                "ref:De_Lijn": "504629",
-                "bus": "yes",
-                "name": "Woumen Wegwijzer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IEPERSTEENWEG WOUMEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.873633,
-                    50.986021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24;28",
-                "ref:De_Lijn": "509620",
-                "bus": "yes",
-                "name": "Woumen Kasteel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IEPERSTEENWEG HOUTHULST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.873233,
-                    50.983364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "24;28",
                 "ref:De_Lijn": "504616",
                 "bus": "yes",
@@ -82,6 +40,48 @@
                 "coordinates": [
                     2.872839,
                     50.982783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "504629",
+                "bus": "yes",
+                "name": "Woumen Wegwijzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTEENWEG WOUMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.873633,
+                    50.986021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "509620",
+                "bus": "yes",
+                "name": "Woumen Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTEENWEG HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.873233,
+                    50.983364
                 ]
             }
         },

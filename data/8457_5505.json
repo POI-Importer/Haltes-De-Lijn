@@ -4,31 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "408899",
+                "ref:De_Lijn": "408905",
                 "bus": "yes",
-                "name": "SPV/FSP Hoeve Demez/Ferme Demez",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MAGIS SINT-PIETERS-VOEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.835122,
-                    50.719128
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408904",
-                "bus": "yes",
-                "name": "Sint-Pieters-Voeren Roth",
+                "name": "SPV/FSP Roth",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MAGIS SINT-PIETERS-VOEREN",
@@ -38,8 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.841099,
-                    50.716391
+                    5.840969,
+                    50.716294
                 ]
             }
         },
@@ -67,9 +45,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "408905",
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408904",
                 "bus": "yes",
-                "name": "SPV/FSP Roth",
+                "name": "Sint-Pieters-Voeren Roth",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MAGIS SINT-PIETERS-VOEREN",
@@ -79,8 +58,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.840969,
-                    50.716294
+                    5.841099,
+                    50.716391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408899",
+                "bus": "yes",
+                "name": "SPV/FSP Hoeve Demez/Ferme Demez",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MAGIS SINT-PIETERS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.835122,
+                    50.719128
                 ]
             }
         }

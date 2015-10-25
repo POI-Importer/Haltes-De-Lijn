@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "340",
-                "ref:De_Lijn": "207958",
-                "bus": "yes",
-                "name": "Opwijk Grootveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROOTVELD OPWIJK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.201767,
-                    50.951277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "340",
                 "ref:De_Lijn": "308574",
                 "bus": "yes",
                 "name": "Droeshout Mansteen",
@@ -40,6 +18,26 @@
                 "coordinates": [
                     4.203157,
                     50.956591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207958",
+                "bus": "yes",
+                "name": "Opwijk Grootveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOTVELD OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.201767,
+                    50.951277
                 ]
             }
         }

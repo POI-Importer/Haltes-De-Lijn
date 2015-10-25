@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;492;510;921",
+                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "108992",
                 "bus": "yes",
                 "name": "Geel Brandemolenstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "492;510;921",
+                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "108993",
                 "bus": "yes",
                 "name": "Geel Brandemolenstraat",
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;492;510;921",
+                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "108989",
                 "bus": "yes",
                 "name": "Geel Doornboomstraat",

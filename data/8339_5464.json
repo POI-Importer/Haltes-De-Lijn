@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;42",
-                "ref:De_Lijn": "501518",
-                "bus": "yes",
-                "name": "Dudzele Kasteelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTKAPELSE STEENWEG DUDZELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.2338,
-                    51.28089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42",
                 "ref:De_Lijn": "506518",
                 "bus": "yes",
                 "name": "Dudzele Kasteelstraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.233612,
                     51.280942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "501518",
+                "bus": "yes",
+                "name": "Dudzele Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKAPELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2338,
+                    51.28089
                 ]
             }
         }

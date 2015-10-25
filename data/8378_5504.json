@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "102;160;164;732",
-                "ref:De_Lijn": "302108",
-                "bus": "yes",
-                "name": "Herfelingen Beeldekensweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG ASSE HERFELINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.09049,
-                    50.735694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "164;732",
-                "ref:De_Lijn": "302121",
-                "bus": "yes",
-                "name": "Herfelingen Terlinden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERLINDENSTRAAT HEIKRUIS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.097283,
-                    50.729444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "164;732",
                 "ref:De_Lijn": "302120",
                 "bus": "yes",
@@ -61,6 +19,27 @@
                 "coordinates": [
                     4.096999,
                     50.729462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "164;732",
+                "ref:De_Lijn": "304141",
+                "bus": "yes",
+                "name": "Heikruis Kauterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT HEIKRUIS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.103617,
+                    50.731338
                 ]
             }
         },
@@ -89,20 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "164;732",
-                "ref:De_Lijn": "304141",
+                "ref:De_Lijn": "302121",
                 "bus": "yes",
-                "name": "Heikruis Kauterstraat",
+                "name": "Herfelingen Terlinden",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NEERSTRAAT HEIKRUIS",
+                "created_by": "TERLINDENSTRAAT HEIKRUIS",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.103617,
-                    50.731338
+                    4.097283,
+                    50.729444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "102;160;164;732",
+                "ref:De_Lijn": "302108",
+                "bus": "yes",
+                "name": "Herfelingen Beeldekensweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ASSE HERFELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.09049,
+                    50.735694
                 ]
             }
         },

@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "507561",
+                "bus": "yes",
+                "name": "Zerkegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKEGEMSTRAAT ZERKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.069061,
+                    51.165899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "52;54",
                 "ref:De_Lijn": "507563",
                 "bus": "yes",
@@ -19,48 +40,6 @@
                 "coordinates": [
                     3.067161,
                     51.174562
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "502561",
-                "bus": "yes",
-                "name": "Zerkegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEKEGEMSTRAAT ZERKEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.069094,
-                    51.166241
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93",
-                "ref:De_Lijn": "500013",
-                "bus": "yes",
-                "name": "Zerkegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEDASTUSSTRAAT ZERKEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.069216,
-                    51.166485
                 ]
             }
         },
@@ -88,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;54;93",
-                "ref:De_Lijn": "502563",
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "502561",
                 "bus": "yes",
-                "name": "Zerkegem Pelikaan",
+                "name": "Zerkegem Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GISTELSTEENWEG ZERKEGEM",
+                "created_by": "BEKEGEMSTRAAT ZERKEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.067185,
-                    51.174715
+                    3.069094,
+                    51.166241
                 ]
             }
         },
@@ -130,21 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "507561",
+                "route_ref:De_Lijn": "52;54;93",
+                "ref:De_Lijn": "502563",
                 "bus": "yes",
-                "name": "Zerkegem Kerk",
+                "name": "Zerkegem Pelikaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEKEGEMSTRAAT ZERKEGEM",
+                "created_by": "GISTELSTEENWEG ZERKEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.069061,
-                    51.165899
+                    3.067185,
+                    51.174715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "500013",
+                "bus": "yes",
+                "name": "Zerkegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEDASTUSSTRAAT ZERKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.069216,
+                    51.166485
                 ]
             }
         }

@@ -4,42 +4,41 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409503",
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400437",
                 "bus": "yes",
-                "name": "Mol Tennisclub Mol",
+                "name": "Balen Tenderlo De Bijenkorf",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BELSEBAAN BALEN",
+                "created_by": "TENDERLO BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.125425,
-                    51.170462
+                    5.138957,
+                    51.171677
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400438",
+                "ref:De_Lijn": "109463",
                 "bus": "yes",
-                "name": "Balen Tenderlo Heibloemstraat",
+                "name": "Mol Begraafplaats Kruisven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIBLOEMSTRAAT BALEN",
+                "created_by": "HEIDEHUIZEN HEIDEHUIZEN",
                 "operator": "De Lijn",
-                "network": "DLLi"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.134538,
-                    51.173405
+                    5.120616,
+                    51.173719
                 ]
             }
         },
@@ -67,7 +66,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;390;391;430;436",
+                "route_ref:De_Lijn": "20",
                 "ref:De_Lijn": "107694",
                 "bus": "yes",
                 "name": "Mol Sint-Paulusinstituut",
@@ -88,41 +87,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "109463",
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "109996",
                 "bus": "yes",
-                "name": "Mol Begraafplaats Kruisven",
+                "name": "Mol Sint-Paulusinstituut",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIDEHUIZEN HEIDEHUIZEN",
+                "created_by": "KRUISVEN HEIDEHUIZEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.120616,
-                    51.173719
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;15c;170;17a;732;733",
-                "ref:De_Lijn": "406843",
-                "bus": "yes",
-                "name": "Balen Weg op Rosselaar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLSESTEENWEG BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.135265,
-                    51.174965
+                    5.124723,
+                    51.177424
                 ]
             }
         },
@@ -150,21 +129,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400437",
+                "route_ref:De_Lijn": "17a",
+                "ref:De_Lijn": "400344",
                 "bus": "yes",
-                "name": "Balen Tenderlo De Bijenkorf",
+                "name": "Rosselaar Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TENDERLO BALEN",
+                "created_by": "OLMENSEBAAN BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.138957,
-                    51.171677
+                    5.137658,
+                    51.170068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400438",
+                "bus": "yes",
+                "name": "Balen Tenderlo Heibloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIBLOEMSTRAAT BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.134538,
+                    51.173405
                 ]
             }
         },
@@ -193,7 +193,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "17a",
-                "ref:De_Lijn": "400344",
+                "ref:De_Lijn": "400345",
                 "bus": "yes",
                 "name": "Rosselaar Kerk",
                 "public_transport": "platform",
@@ -205,8 +205,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.137658,
-                    51.170068
+                    5.137777,
+                    51.170382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409503",
+                "bus": "yes",
+                "name": "Mol Tennisclub Mol",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BELSEBAAN BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.125425,
+                    51.170462
                 ]
             }
         },
@@ -233,42 +254,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "17a",
-                "ref:De_Lijn": "400345",
+                "route_ref:De_Lijn": "84;15c;170;17a;732;733",
+                "ref:De_Lijn": "406843",
                 "bus": "yes",
-                "name": "Rosselaar Kerk",
+                "name": "Balen Weg op Rosselaar",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OLMENSEBAAN BALEN",
+                "created_by": "MOLSESTEENWEG BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.137777,
-                    51.170382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20",
-                "ref:De_Lijn": "109996",
-                "bus": "yes",
-                "name": "Mol Sint-Paulusinstituut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISVEN HEIDEHUIZEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.124723,
-                    51.177424
+                    5.135265,
+                    51.174965
                 ]
             }
         },

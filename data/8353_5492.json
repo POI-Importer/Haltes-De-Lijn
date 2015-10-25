@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "83;450;485",
+                "route_ref:De_Lijn": "83",
                 "ref:De_Lijn": "208253",
                 "bus": "yes",
                 "name": "Wannegem-Lede Nokere Pontweg",
@@ -19,6 +19,26 @@
                 "coordinates": [
                     3.539894,
                     50.890861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201815",
+                "bus": "yes",
+                "name": "Wannegem-Lede Wannegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WANNEGEMDORP WANNEGEM-LEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.551355,
+                    50.889808
                 ]
             }
         },
@@ -40,27 +60,6 @@
                 "coordinates": [
                     3.540158,
                     50.890422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450;485",
-                "ref:De_Lijn": "201815",
-                "bus": "yes",
-                "name": "Wannegem-Lede Wannegem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WANNEGEMDORP WANNEGEM-LEDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.551355,
-                    50.889808
                 ]
             }
         }

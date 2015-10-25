@@ -4,70 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;145;485",
-                "ref:De_Lijn": "208732",
-                "bus": "yes",
-                "name": "Nazareth Warandestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "'S-GRAVENSTRAAT NAZARETH",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.594051,
-                    50.954482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "44",
-                "ref:De_Lijn": "201485",
-                "bus": "yes",
-                "name": "Nazareth Oude Melkerij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "'S-GRAVENSTRAAT NAZARETH",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.593151,
-                    50.949532
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "201383",
-                "bus": "yes",
-                "name": "Nazareth Leegzakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEEGZAKSTRAAT NAZARETH",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.602423,
-                    50.951652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;145;485",
                 "ref:De_Lijn": "200485",
                 "bus": "yes",
                 "name": "Nazareth Oude Melkerij",
@@ -109,7 +46,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "208732",
+                "bus": "yes",
+                "name": "Nazareth Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S-GRAVENSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.594051,
+                    50.954482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "201358",
                 "bus": "yes",
                 "name": "Nazareth Dragonderwegel",
@@ -124,6 +81,47 @@
                 "coordinates": [
                     3.582688,
                     50.95313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "201485",
+                "bus": "yes",
+                "name": "Nazareth Oude Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S-GRAVENSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593151,
+                    50.949532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201383",
+                "bus": "yes",
+                "name": "Nazareth Leegzakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEGZAKSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602423,
+                    50.951652
                 ]
             }
         }

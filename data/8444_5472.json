@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "8;48;746",
-                "ref:De_Lijn": "400921",
-                "bus": "yes",
-                "name": "Bocholt Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAULILLERWEG BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.558582,
-                    51.176463
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;48;746",
                 "ref:De_Lijn": "400920",
                 "bus": "yes",
                 "name": "Bocholt Kapel",
@@ -46,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400637",
+                "route_ref:De_Lijn": "13;14;48",
+                "ref:De_Lijn": "400919",
                 "bus": "yes",
-                "name": "Bocholt Bremstraat",
+                "name": "Bocholt Goolderstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HEZERSTRAAT BOCHOLT",
+                "created_by": "BROGELERWEG BOCHOLT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.557892,
-                    51.179122
+                    5.547274,
+                    51.168702
                 ]
             }
         },
@@ -82,6 +61,69 @@
                 "coordinates": [
                     5.547415,
                     51.168629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;48;746",
+                "ref:De_Lijn": "400912",
+                "bus": "yes",
+                "name": "Bocholt De Hees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAULILLERWEG DE HEES",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.548527,
+                    51.178668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;48;746",
+                "ref:De_Lijn": "400921",
+                "bus": "yes",
+                "name": "Bocholt Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAULILLERWEG BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.558582,
+                    51.176463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400637",
+                "bus": "yes",
+                "name": "Bocholt Bremstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEZERSTRAAT BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.557892,
+                    51.179122
                 ]
             }
         },
@@ -124,48 +166,6 @@
                 "coordinates": [
                     5.549406,
                     51.178371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;14;48",
-                "ref:De_Lijn": "400919",
-                "bus": "yes",
-                "name": "Bocholt Goolderstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROGELERWEG BOCHOLT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.547274,
-                    51.168702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;48;746",
-                "ref:De_Lijn": "400912",
-                "bus": "yes",
-                "name": "Bocholt De Hees",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAULILLERWEG DE HEES",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.548527,
-                    51.178668
                 ]
             }
         }

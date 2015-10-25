@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "402548",
+                "ref:De_Lijn": "402549",
                 "bus": "yes",
                 "name": "Kortijs Vorsenberg",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.15458,
-                    50.706256
+                    5.154903,
+                    50.706101
                 ]
             }
         },
@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21;730;731",
+                "ref:De_Lijn": "402550",
+                "bus": "yes",
+                "name": "Kortijs Weg naar Hannuit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAUL SNYERSSTRAAT KORTIJS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.149167,
+                    50.707677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;730;731",
                 "ref:De_Lijn": "402551",
                 "bus": "yes",
                 "name": "Kortijs Weg naar Hannuit",
@@ -68,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "402549",
+                "ref:De_Lijn": "402548",
                 "bus": "yes",
                 "name": "Kortijs Vorsenberg",
                 "public_transport": "platform",
@@ -80,29 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.154903,
-                    50.706101
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;730;731",
-                "ref:De_Lijn": "402550",
-                "bus": "yes",
-                "name": "Kortijs Weg naar Hannuit",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAUL SNYERSSTRAAT KORTIJS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.149167,
-                    50.707677
+                    5.15458,
+                    50.706256
                 ]
             }
         }

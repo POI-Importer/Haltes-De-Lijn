@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "341;344;348;349;547",
-                "ref:De_Lijn": "304106",
+                "ref:De_Lijn": "304088",
                 "bus": "yes",
-                "name": "Overijse Vriendschapstraat",
+                "name": "Overijse Terrest",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSESTEENWEG OVERIJSE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.51766,
-                    50.779564
+                    4.509048,
+                    50.782586
                 ]
             }
         },
@@ -47,49 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "341;344;348;349;547",
-                "ref:De_Lijn": "304088",
-                "bus": "yes",
-                "name": "Overijse Terrest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.509048,
-                    50.782586
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "341;344;348;349;547",
-                "ref:De_Lijn": "304089",
-                "bus": "yes",
-                "name": "Overijse Terrest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.509686,
-                    50.782523
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "341;344;348;349;547",
-                "ref:De_Lijn": "304107",
+                "ref:De_Lijn": "304106",
                 "bus": "yes",
                 "name": "Overijse Vriendschapstraat",
                 "public_transport": "platform",
@@ -101,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.516867,
-                    50.780006
+                    4.51766,
+                    50.779564
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     4.521132,
                     50.779011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547",
+                "ref:De_Lijn": "304107",
+                "bus": "yes",
+                "name": "Overijse Vriendschapstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.516867,
+                    50.780006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547",
+                "ref:De_Lijn": "304089",
+                "bus": "yes",
+                "name": "Overijse Terrest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.509686,
+                    50.782523
                 ]
             }
         }

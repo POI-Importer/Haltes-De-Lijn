@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "201833",
                 "bus": "yes",
                 "name": "Kruishoutem Huttegemstraat",

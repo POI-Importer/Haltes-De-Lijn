@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "205937",
-                "bus": "yes",
-                "name": "Kluizendok - Noordkant 1 HD",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "CHRISTOFFEL COLUMBUSLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.779658,
-                    51.167739
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;150;55S",
+                "route_ref:De_Lijn": "55;56;55S",
                 "ref:De_Lijn": "202429",
                 "bus": "yes",
                 "name": "Ertvelde Rieme Kerk",
@@ -67,49 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "55;56;55S",
-                "ref:De_Lijn": "203429",
-                "bus": "yes",
-                "name": "Ertvelde Rieme Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANAALSTRAAT RIEME",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.785105,
-                    51.174624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56",
-                "ref:De_Lijn": "203430",
-                "bus": "yes",
-                "name": "Kuhlman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KUHLMANNLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.794733,
-                    51.1778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204938",
+                "ref:De_Lijn": "205938",
                 "bus": "yes",
                 "name": "Kluizendok - Noordkant 2 HD",
                 "public_transport": "platform",
@@ -122,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.7865,
-                    51.169427
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;150",
-                "ref:De_Lijn": "202430",
-                "bus": "yes",
-                "name": "Kuhlman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KUHLMANNLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.793764,
-                    51.177471
+                    3.786299,
+                    51.169462
                 ]
             }
         },
@@ -172,7 +88,49 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "205938",
+                "route_ref:De_Lijn": "55;56;55S",
+                "ref:De_Lijn": "203429",
+                "bus": "yes",
+                "name": "Ertvelde Rieme Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALSTRAAT RIEME",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.785105,
+                    51.174624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205937",
+                "bus": "yes",
+                "name": "Kluizendok - Noordkant 1 HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHRISTOFFEL COLUMBUSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.779658,
+                    51.167739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204938",
                 "bus": "yes",
                 "name": "Kluizendok - Noordkant 2 HD",
                 "public_transport": "platform",
@@ -185,8 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.786299,
-                    51.169462
+                    3.7865,
+                    51.169427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56",
+                "ref:De_Lijn": "202430",
+                "bus": "yes",
+                "name": "Kuhlman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUHLMANNLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.793764,
+                    51.177471
                 ]
             }
         },
@@ -208,6 +187,27 @@
                 "coordinates": [
                     3.792851,
                     51.173799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56",
+                "ref:De_Lijn": "203430",
+                "bus": "yes",
+                "name": "Kuhlman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUHLMANNLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.794733,
+                    51.1778
                 ]
             }
         }

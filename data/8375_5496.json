@@ -4,50 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127;330",
-                "ref:De_Lijn": "206989",
-                "bus": "yes",
-                "name": "Ninove Rijkswacht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALSTERSESTEENWEG NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.023148,
-                    50.841684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306223",
-                "bus": "yes",
-                "name": "Ninove Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.025737,
-                    50.839004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "206085",
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "207085",
                 "bus": "yes",
                 "name": "Ninove Bloemenwijk",
                 "public_transport": "platform",
@@ -59,15 +17,141 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.021184,
-                    50.844132
+                    4.021075,
+                    50.843548
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153;330",
+                "ref:De_Lijn": "306241",
+                "bus": "yes",
+                "name": "Ninove Den Doorn",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OKEGEMBAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032658,
+                    50.845919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153",
+                "ref:De_Lijn": "207994",
+                "bus": "yes",
+                "name": "Ninove Industrie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORSTEEK NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.040021,
+                    50.840806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;162",
+                "ref:De_Lijn": "217007",
+                "bus": "yes",
+                "name": "Ninove Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.025666,
+                    50.838941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;33;34",
+                "ref:De_Lijn": "217009",
+                "bus": "yes",
+                "name": "Ninove Station Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.025709,
+                    50.83895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "206084",
+                "bus": "yes",
+                "name": "Ninove College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEGGEVOERDENSTRAAT NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.022194,
+                    50.840117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207977",
+                "bus": "yes",
+                "name": "Ninove Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.025794,
+                    50.838959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153",
                 "ref:De_Lijn": "206995",
                 "bus": "yes",
                 "name": "Ninove Astridlaan",
@@ -109,52 +193,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127;330",
-                "ref:De_Lijn": "207988",
+                "route_ref:De_Lijn": "153",
+                "ref:De_Lijn": "207995",
                 "bus": "yes",
-                "name": "Ninove Madeliefjesweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALSTERSESTEENWEG NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.026885,
-                    50.843169
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "127;330",
-                "ref:De_Lijn": "207987",
-                "bus": "yes",
-                "name": "Ninove Den Doorn",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OKEGEMBAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.032688,
-                    50.845775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;162",
-                "ref:De_Lijn": "217007",
-                "bus": "yes",
-                "name": "Ninove Station Perron 1",
+                "name": "Ninove Astridlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ASTRIDLAAN NINOVE",
@@ -164,134 +206,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.025666,
-                    50.838941
+                    4.032145,
+                    50.840326
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127;330",
-                "ref:De_Lijn": "206988",
+                "ref:De_Lijn": "306223",
                 "bus": "yes",
-                "name": "Ninove Madeliefjesweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALSTERSESTEENWEG NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.027623,
-                    50.843261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306245",
-                "bus": "yes",
-                "name": "Ninove Rijkswacht",
+                "name": "Ninove Station",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "AALSTERSESTEENWEG NINOVE",
+                "created_by": "ASTRIDLAAN NINOVE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.02326,
-                    50.841864
+                    4.025737,
+                    50.839004
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "217011",
+                "route_ref:De_Lijn": "31;32;33;34;36;39;153;162",
+                "ref:De_Lijn": "206082",
                 "bus": "yes",
-                "name": "Ninove Station Perron 5",
+                "name": "Ninove Graanmarkt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NINOVE",
+                "created_by": "GRAANMARKT NINOVE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.025766,
-                    50.838959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306242",
-                "bus": "yes",
-                "name": "Ninove Den Doorn",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OKEGEMBAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.032674,
-                    50.845775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206265",
-                "bus": "yes",
-                "name": "Ninove Emiel De Molstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEDERWIJK NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.03191,
-                    50.837412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;32;33;34",
-                "ref:De_Lijn": "217009",
-                "bus": "yes",
-                "name": "Ninove Station Perron 3",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.025709,
-                    50.83895
+                    4.024912,
+                    50.835307
                 ]
             }
         },
@@ -299,7 +257,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "153",
-                "ref:De_Lijn": "207994",
+                "ref:De_Lijn": "206994",
                 "bus": "yes",
                 "name": "Ninove Industrie",
                 "public_transport": "platform",
@@ -311,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.040021,
-                    50.840806
+                    4.040406,
+                    50.84061
                 ]
             }
         },
@@ -340,195 +298,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;39",
-                "ref:De_Lijn": "217010",
-                "bus": "yes",
-                "name": "Ninove Station Perron 4",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.025737,
-                    50.83895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "207085",
-                "bus": "yes",
-                "name": "Ninove Bloemenwijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERHOUTEMBAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.021075,
-                    50.843548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "127;330",
-                "ref:De_Lijn": "206987",
-                "bus": "yes",
-                "name": "Ninove Den Doorn",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OKEGEMBAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.032574,
-                    50.845847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;330",
-                "ref:De_Lijn": "206994",
-                "bus": "yes",
-                "name": "Ninove Industrie",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORSTEEK NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.040406,
-                    50.84061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306244",
-                "bus": "yes",
-                "name": "Ninove Madeliefjesweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "AALSTERSESTEENWEG NINOVE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.027637,
-                    50.843261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;330",
-                "ref:De_Lijn": "207995",
-                "bus": "yes",
-                "name": "Ninove Astridlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.032145,
-                    50.840326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "207977",
-                "bus": "yes",
-                "name": "Ninove Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.025794,
-                    50.838959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "207083",
-                "bus": "yes",
-                "name": "Ninove Stationsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEGGEVOERDENSTRAAT NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.023725,
-                    50.838494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;32;33;34;36;39;153;162;330",
-                "ref:De_Lijn": "206082",
-                "bus": "yes",
-                "name": "Ninove Graanmarkt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRAANMARKT NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.024912,
-                    50.835307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306246",
                 "bus": "yes",
                 "name": "Ninove Rijkswacht",
@@ -550,11 +319,31 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "207012",
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "206989",
                 "bus": "yes",
-                "name": "Ninove Station",
+                "name": "Ninove Rijkswacht",
                 "public_transport": "platform",
-                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AALSTERSESTEENWEG NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.023148,
+                    50.841684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "217011",
+                "bus": "yes",
+                "name": "Ninove Station Perron 5",
+                "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ASTRIDLAAN NINOVE",
                 "operator": "De Lijn",
@@ -563,7 +352,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.025751,
+                    4.025766,
                     50.838959
                 ]
             }
@@ -571,21 +360,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306241",
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "206988",
                 "bus": "yes",
-                "name": "Ninove Den Doorn",
+                "name": "Ninove Madeliefjesweg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "OKEGEMBAAN NINOVE",
+                "created_by": "AALSTERSESTEENWEG NINOVE",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.032658,
-                    50.845919
+                    4.027623,
+                    50.843261
                 ]
             }
         },
@@ -613,70 +402,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "206084",
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "207989",
                 "bus": "yes",
-                "name": "Ninove College",
+                "name": "Ninove Rijkswacht",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WEGGEVOERDENSTRAAT NINOVE",
+                "created_by": "AALSTERSESTEENWEG NINOVE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.022194,
-                    50.840117
+                    4.023444,
+                    50.841928
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307769",
-                "bus": "yes",
-                "name": "Ninove Astridlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.032258,
-                    50.840344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "307589",
-                "bus": "yes",
-                "name": "Ninove Industrie",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DOORSTEEK NINOVE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.040134,
-                    50.840852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206663",
                 "bus": "yes",
                 "name": "Ninove Ring-West",
@@ -697,8 +443,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "206083",
+                "ref:De_Lijn": "306242",
+                "bus": "yes",
+                "name": "Ninove Den Doorn",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OKEGEMBAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032674,
+                    50.845775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "207083",
                 "bus": "yes",
                 "name": "Ninove Stationsstraat",
                 "public_transport": "platform",
@@ -710,8 +477,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.023781,
-                    50.83862
+                    4.023725,
+                    50.838494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "207084",
+                "bus": "yes",
+                "name": "Ninove College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEGGEVOERDENSTRAAT NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.021836,
+                    50.840493
                 ]
             }
         },
@@ -739,49 +527,111 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127;330",
-                "ref:De_Lijn": "207989",
+                "ref:De_Lijn": "206265",
                 "bus": "yes",
-                "name": "Ninove Rijkswacht",
+                "name": "Ninove Emiel De Molstraat",
                 "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERWIJK NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.03191,
+                    50.837412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306244",
+                "bus": "yes",
+                "name": "Ninove Madeliefjesweg",
+                "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "AALSTERSESTEENWEG NINOVE",
                 "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.023444,
-                    50.841928
+                    4.027637,
+                    50.843261
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;32;33;34;36;39;153;162;330",
-                "ref:De_Lijn": "207082",
+                "ref:De_Lijn": "307589",
                 "bus": "yes",
-                "name": "Ninove Graanmarkt",
+                "name": "Ninove Industrie",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DOORSTEEK NINOVE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.040134,
+                    50.840852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;39",
+                "ref:De_Lijn": "217010",
+                "bus": "yes",
+                "name": "Ninove Station Perron 4",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GRAANMARKT NINOVE",
+                "created_by": "ASTRIDLAAN NINOVE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.02433,
-                    50.835269
+                    4.025737,
+                    50.83895
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153;330",
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "206083",
+                "bus": "yes",
+                "name": "Ninove Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEGGEVOERDENSTRAAT NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.023781,
+                    50.83862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153",
                 "ref:De_Lijn": "206739",
                 "bus": "yes",
                 "name": "Ninove Nederwijk - Oost",
@@ -796,27 +646,6 @@
                 "coordinates": [
                     4.038584,
                     50.83922
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "207084",
-                "bus": "yes",
-                "name": "Ninove College",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEGGEVOERDENSTRAAT NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.021836,
-                    50.840493
                 ]
             }
         },
@@ -844,6 +673,153 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "31;32;33;34;36;39;153;162",
+                "ref:De_Lijn": "207082",
+                "bus": "yes",
+                "name": "Ninove Graanmarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAANMARKT NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.02433,
+                    50.835269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "207987",
+                "bus": "yes",
+                "name": "Ninove Den Doorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OKEGEMBAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032688,
+                    50.845775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307769",
+                "bus": "yes",
+                "name": "Ninove Astridlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032258,
+                    50.840344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "206987",
+                "bus": "yes",
+                "name": "Ninove Den Doorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OKEGEMBAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032574,
+                    50.845847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207012",
+                "bus": "yes",
+                "name": "Ninove Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.025751,
+                    50.838959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "206085",
+                "bus": "yes",
+                "name": "Ninove Bloemenwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERHOUTEMBAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.021184,
+                    50.844132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "207988",
+                "bus": "yes",
+                "name": "Ninove Madeliefjesweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTERSESTEENWEG NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.026885,
+                    50.843169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "153",
                 "ref:De_Lijn": "307768",
                 "bus": "yes",
@@ -859,6 +835,27 @@
                 "coordinates": [
                     4.039731,
                     50.839601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306245",
+                "bus": "yes",
+                "name": "Ninove Rijkswacht",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AALSTERSESTEENWEG NINOVE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.02326,
+                    50.841864
                 ]
             }
         }

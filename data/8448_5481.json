@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "406076",
-                "bus": "yes",
-                "name": "Opoeteren Wouterbron",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEG NAAR AS OPOETEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.633196,
-                    51.052578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11",
                 "ref:De_Lijn": "406075",
                 "bus": "yes",
                 "name": "Opoeteren Berg",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     5.633717,
                     51.053373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406076",
+                "bus": "yes",
+                "name": "Opoeteren Wouterbron",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.633196,
+                    51.052578
                 ]
             }
         },

@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;89;92",
+                "route_ref:De_Lijn": "81;85;92",
+                "ref:De_Lijn": "504344",
+                "bus": "yes",
+                "name": "Anzegem VoetbalStadion",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTSESTEENWEG ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.463477,
+                    50.844609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;92",
                 "ref:De_Lijn": "508017",
                 "bus": "yes",
                 "name": "Anzegem Kruisweg",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "503022",
+                "route_ref:De_Lijn": "81;89;92",
+                "ref:De_Lijn": "508557",
                 "bus": "yes",
-                "name": "Anzegem Winterstraat",
+                "name": "Anzegem VoetbalStadion",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BUYCKSTRAAT ANZEGEM",
+                "created_by": "VICHTSESTEENWEG ANZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.468991,
-                    50.836965
+                    3.464147,
+                    50.844506
                 ]
             }
         },
@@ -88,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;89;92",
-                "ref:De_Lijn": "508557",
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "503022",
                 "bus": "yes",
-                "name": "Anzegem VoetbalStadion",
+                "name": "Anzegem Winterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VICHTSESTEENWEG ANZEGEM",
+                "created_by": "BUYCKSTRAAT ANZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.464147,
-                    50.844506
+                    3.468991,
+                    50.836965
                 ]
             }
         },
@@ -130,27 +151,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;81;85",
-                "ref:De_Lijn": "504817",
-                "bus": "yes",
-                "name": "Anzegem Kruisweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE LEIESTRAAT ANZEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.468929,
-                    50.843922
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "81;85;89;92",
                 "ref:De_Lijn": "503017",
                 "bus": "yes",
@@ -172,7 +172,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;85;89;92",
+                "route_ref:De_Lijn": "81;85;92",
                 "ref:De_Lijn": "503012",
                 "bus": "yes",
                 "name": "Anzegem Drie Kaven",
@@ -193,21 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;85;92",
-                "ref:De_Lijn": "504344",
+                "route_ref:De_Lijn": "72;81;85",
+                "ref:De_Lijn": "504817",
                 "bus": "yes",
-                "name": "Anzegem VoetbalStadion",
+                "name": "Anzegem Kruisweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VICHTSESTEENWEG ANZEGEM",
+                "created_by": "GROTE LEIESTRAAT ANZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.463477,
-                    50.844609
+                    3.468929,
+                    50.843922
                 ]
             }
         }

@@ -25,28 +25,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127;330",
-                "ref:De_Lijn": "207986",
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "206087",
                 "bus": "yes",
-                "name": "Okegem Riefstraat",
+                "name": "Ninove Wilgenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OKEGEMBAAN NINOVE",
+                "created_by": "DENDERHOUTEMBAAN NINOVE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.041425,
-                    50.851202
+                    4.021666,
+                    50.85387
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;34;330",
+                "ref:De_Lijn": "206723",
+                "bus": "yes",
+                "name": "Ninove Schoorveldbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTERSESTEENWEG NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.035758,
+                    50.855439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;34",
                 "ref:De_Lijn": "207086",
                 "bus": "yes",
                 "name": "Ninove Lindendreef",
@@ -67,7 +87,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127;330",
+                "route_ref:De_Lijn": "127",
                 "ref:De_Lijn": "206986",
                 "bus": "yes",
                 "name": "Okegem Riefstraat",
@@ -88,8 +108,50 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "206087",
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "206086",
+                "bus": "yes",
+                "name": "Ninove Lindendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERHOUTEMBAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.021634,
+                    50.848584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "207986",
+                "bus": "yes",
+                "name": "Okegem Riefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OKEGEMBAAN NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041425,
+                    50.851202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;34",
+                "ref:De_Lijn": "207087",
                 "bus": "yes",
                 "name": "Ninove Wilgenlaan",
                 "public_transport": "platform",
@@ -101,8 +163,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.021666,
-                    50.85387
+                    4.021496,
+                    50.853842
                 ]
             }
         },
@@ -124,69 +186,6 @@
                 "coordinates": [
                     4.041397,
                     50.851202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "207087",
-                "bus": "yes",
-                "name": "Ninove Wilgenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERHOUTEMBAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.021496,
-                    50.853842
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;34;330",
-                "ref:De_Lijn": "206086",
-                "bus": "yes",
-                "name": "Ninove Lindendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERHOUTEMBAAN NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.021634,
-                    50.848584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206723",
-                "bus": "yes",
-                "name": "Ninove Schoorveldbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALSTERSESTEENWEG NINOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.035758,
-                    50.855439
                 ]
             }
         }

@@ -5,41 +5,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "506040",
+                "ref:De_Lijn": "506489",
                 "bus": "yes",
-                "name": "Bredene Parklaan",
+                "name": "Bredene Vicogneplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PARKLAAN BREDENE",
+                "created_by": "VICOGNELAAN BREDENE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.954744,
-                    51.243285
+                    2.96085,
+                    51.235519
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "501038",
+                "route_ref:De_Lijn": "9;89",
+                "ref:De_Lijn": "506035",
                 "bus": "yes",
-                "name": "Bredene Centrumplein",
+                "name": "Bredene Frankrijklaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHOOLLAAN BREDENE",
+                "created_by": "ZEELAAN BREDENE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.965355,
-                    51.241442
+                    2.959868,
+                    51.243382
                 ]
             }
         },
@@ -68,28 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "501035",
-                "bus": "yes",
-                "name": "Bredene Frankrijklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEELAAN BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.9601,
-                    51.243295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;89",
-                "ref:De_Lijn": "506632",
+                "ref:De_Lijn": "501632",
                 "bus": "yes",
                 "name": "Bredene Zeelaan",
                 "public_transport": "platform",
@@ -101,92 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.957993,
-                    51.246201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "506491",
-                "bus": "yes",
-                "name": "Bredene Schelpenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAUWHOFLAAN BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.957622,
-                    51.240937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "501040",
-                "bus": "yes",
-                "name": "Bredene Parklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PARKLAAN BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.954782,
-                    51.243447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "501490",
-                "bus": "yes",
-                "name": "Bredene Breeweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VICOGNELAAN BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.96012,
-                    51.238369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "506490",
-                "bus": "yes",
-                "name": "Bredene Breeweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VICOGNELAAN BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.959978,
-                    51.23834
+                    2.958134,
+                    51.246247
                 ]
             }
         },
@@ -214,10 +109,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "501489",
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "506490",
                 "bus": "yes",
-                "name": "Bredene Vicogneplein",
+                "name": "Bredene Breeweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VICOGNELAAN BREDENE",
@@ -227,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.960994,
-                    51.23552
+                    2.959978,
+                    51.23834
                 ]
             }
         },
@@ -277,63 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "501036",
-                "bus": "yes",
-                "name": "Bredene Groenendijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIFTWEG BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.94532,
-                    51.242327
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;89",
-                "ref:De_Lijn": "506035",
-                "bus": "yes",
-                "name": "Bredene Frankrijklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEELAAN BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.959868,
-                    51.243382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "506489",
+                "ref:De_Lijn": "506040",
                 "bus": "yes",
-                "name": "Bredene Vicogneplein",
+                "name": "Bredene Parklaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VICOGNELAAN BREDENE",
+                "created_by": "PARKLAAN BREDENE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.96085,
-                    51.235519
+                    2.954744,
+                    51.243285
                 ]
             }
         },
@@ -361,8 +214,71 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "506491",
+                "bus": "yes",
+                "name": "Bredene Schelpenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAUWHOFLAAN BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.957622,
+                    51.240937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "501632",
+                "ref:De_Lijn": "501036",
+                "bus": "yes",
+                "name": "Bredene Groenendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIFTWEG BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.94532,
+                    51.242327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "501040",
+                "bus": "yes",
+                "name": "Bredene Parklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKLAAN BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.954782,
+                    51.243447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;89",
+                "ref:De_Lijn": "506632",
                 "bus": "yes",
                 "name": "Bredene Zeelaan",
                 "public_transport": "platform",
@@ -374,8 +290,92 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.958134,
-                    51.246247
+                    2.957993,
+                    51.246201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "501038",
+                "bus": "yes",
+                "name": "Bredene Centrumplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLLAAN BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.965355,
+                    51.241442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "501489",
+                "bus": "yes",
+                "name": "Bredene Vicogneplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICOGNELAAN BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.960994,
+                    51.23552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "501035",
+                "bus": "yes",
+                "name": "Bredene Frankrijklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEELAAN BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9601,
+                    51.243295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "501490",
+                "bus": "yes",
+                "name": "Bredene Breeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICOGNELAAN BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.96012,
+                    51.238369
                 ]
             }
         }

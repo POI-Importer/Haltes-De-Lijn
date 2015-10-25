@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "355",
                 "ref:De_Lijn": "204580",
                 "bus": "yes",
                 "name": "Zele Hoeksken",

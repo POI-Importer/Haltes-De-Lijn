@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
+                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "509455",
                 "bus": "yes",
                 "name": "Rekkem Paradijs",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
+                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "504455",
                 "bus": "yes",
                 "name": "Rekkem Paradijs",

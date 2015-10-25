@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "205259",
-                "bus": "yes",
-                "name": "Temse Houtbriel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTBRIEL TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.219294,
-                    51.141462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "205269",
                 "bus": "yes",
                 "name": "Temse Bramersdam",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "205258",
                 "bus": "yes",
                 "name": "Temse Elsstraat",
@@ -61,6 +38,26 @@
                 "coordinates": [
                     4.22415,
                     51.146861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205259",
+                "bus": "yes",
+                "name": "Temse Houtbriel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTBRIEL TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.219294,
+                    51.141462
                 ]
             }
         }

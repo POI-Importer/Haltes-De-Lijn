@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "300140",
+                "bus": "yes",
+                "name": "Rillaar Motteveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTEENWEG RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898768,
+                    50.97436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "35;390;392;591;707;708",
                 "ref:De_Lijn": "300136",
                 "bus": "yes",
@@ -25,31 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "35;707;708",
-                "ref:De_Lijn": "300139",
-                "bus": "yes",
-                "name": "Rillaar Motteveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTSESTEENWEG RILLAAR",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.897686,
-                    50.974347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "35;390;392;591;707;708",
-                "ref:De_Lijn": "300135",
+                "ref:De_Lijn": "300138",
                 "bus": "yes",
-                "name": "Rillaar Kerk",
+                "name": "Rillaar Molenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DIESTSESTEENWEG RILLAAR",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.893618,
-                    50.974751
+                    4.883092,
+                    50.975679
                 ]
             }
         },
@@ -89,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35;390;392;591;707;708",
-                "ref:De_Lijn": "300138",
+                "ref:De_Lijn": "300135",
                 "bus": "yes",
-                "name": "Rillaar Molenstraat",
+                "name": "Rillaar Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DIESTSESTEENWEG RILLAAR",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.883092,
-                    50.975679
+                    4.893618,
+                    50.974751
                 ]
             }
         },
@@ -130,27 +130,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "35;707;708",
-                "ref:De_Lijn": "300140",
-                "bus": "yes",
-                "name": "Rillaar Motteveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTSESTEENWEG RILLAAR",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.898768,
-                    50.97436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "390;392;591;707;708",
                 "ref:De_Lijn": "300146",
                 "bus": "yes",
@@ -166,6 +145,27 @@
                 "coordinates": [
                     4.897707,
                     50.972414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "300139",
+                "bus": "yes",
+                "name": "Rillaar Motteveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTEENWEG RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897686,
+                    50.974347
                 ]
             }
         }

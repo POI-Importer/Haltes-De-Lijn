@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "151;943",
-                "ref:De_Lijn": "107082",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107083",
                 "bus": "yes",
                 "name": "Bevel Steynhoven",
                 "public_transport": "platform",
@@ -17,15 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.708788,
-                    51.133082
+                    4.708874,
+                    51.133189
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "151;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "107084",
                 "bus": "yes",
                 "name": "Herenthout Niemandshoek",
@@ -46,7 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "151;943",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107082",
+                "bus": "yes",
+                "name": "Bevel Steynhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKANT BEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708788,
+                    51.133082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "107086",
                 "bus": "yes",
                 "name": "Herenthout Niemandshoek",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     4.719106,
                     51.1336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "151;943",
-                "ref:De_Lijn": "107083",
-                "bus": "yes",
-                "name": "Bevel Steynhoven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIKANT BEVEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.708874,
-                    51.133189
                 ]
             }
         }

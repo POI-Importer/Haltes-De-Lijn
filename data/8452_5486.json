@@ -4,42 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "178",
-                "ref:De_Lijn": "406185",
+                "route_ref:De_Lijn": "65;725",
+                "ref:De_Lijn": "409505",
                 "bus": "yes",
-                "name": "Eisden Vrijthof",
+                "name": "Vucht Eisdenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJKSWEG EISDEN",
+                "created_by": "EISDENWEG EISDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.713938,
-                    50.984893
+                    5.715892,
+                    50.985994
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;725",
-                "ref:De_Lijn": "406430",
+                "route_ref:De_Lijn": "9;45;61",
+                "ref:De_Lijn": "406200",
                 "bus": "yes",
-                "name": "Vucht Schietskuil",
+                "name": "Eisden Vrijthof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHIETSKUILSTRAAT EISDEN",
+                "created_by": "VRIJTHOF EISDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.716834,
-                    50.984059
+                    5.713315,
+                    50.98552
                 ]
             }
         },
@@ -68,69 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "65;725",
-                "ref:De_Lijn": "409505",
-                "bus": "yes",
-                "name": "Vucht Eisdenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EISDENWEG EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.715892,
-                    50.985994
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;45;61",
-                "ref:De_Lijn": "406201",
-                "bus": "yes",
-                "name": "Eisden Vrijthof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VRIJTHOF EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.713255,
-                    50.985431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406431",
-                "bus": "yes",
-                "name": "Vucht Dageraad",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "JACOB CATSSTRAAT EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.71427,
-                    50.982084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "65;725",
                 "ref:De_Lijn": "409407",
                 "bus": "yes",
                 "name": "Vucht Schietskuil",
@@ -145,27 +82,6 @@
                 "coordinates": [
                     5.716963,
                     50.984094
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "65;725",
-                "ref:De_Lijn": "409529",
-                "bus": "yes",
-                "name": "Vucht Eisdenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EISDENWEG EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.716004,
-                    50.985912
                 ]
             }
         },
@@ -193,8 +109,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "65;725",
+                "ref:De_Lijn": "406430",
+                "bus": "yes",
+                "name": "Vucht Schietskuil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHIETSKUILSTRAAT EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.716834,
+                    50.984059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "9;45;61",
-                "ref:De_Lijn": "406200",
+                "ref:De_Lijn": "406201",
                 "bus": "yes",
                 "name": "Eisden Vrijthof",
                 "public_transport": "platform",
@@ -206,8 +143,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.713315,
-                    50.98552
+                    5.713255,
+                    50.985431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "178",
+                "ref:De_Lijn": "406185",
+                "bus": "yes",
+                "name": "Eisden Vrijthof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.713938,
+                    50.984893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;725",
+                "ref:De_Lijn": "409529",
+                "bus": "yes",
+                "name": "Vucht Eisdenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EISDENWEG EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.716004,
+                    50.985912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406431",
+                "bus": "yes",
+                "name": "Vucht Dageraad",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "JACOB CATSSTRAAT EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.71427,
+                    50.982084
                 ]
             }
         }

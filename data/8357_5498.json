@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;460",
-                "ref:De_Lijn": "208339",
+                "route_ref:De_Lijn": "61;62",
+                "ref:De_Lijn": "208338",
                 "bus": "yes",
-                "name": "Etikhove Ellestraat",
+                "name": "Etikhove Gieterijstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAARKEWEG MAARKE-KERKEM",
+                "created_by": "ETIKHOVESTRAAT ETIKHOVE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.640835,
-                    50.81765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62;63;460",
-                "ref:De_Lijn": "208360",
-                "bus": "yes",
-                "name": "Etikhove Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEDERHOLBEEKSTRAAT ETIKHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.625729,
-                    50.811757
+                    3.625593,
+                    50.814075
                 ]
             }
         },
@@ -67,28 +46,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;62;63;460",
-                "ref:De_Lijn": "208338",
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "208360",
                 "bus": "yes",
-                "name": "Etikhove Gieterijstraat",
+                "name": "Etikhove Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ETIKHOVESTRAAT ETIKHOVE",
+                "created_by": "NEDERHOLBEEKSTRAAT ETIKHOVE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.625593,
-                    50.814075
+                    3.625729,
+                    50.811757
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
                 "ref:De_Lijn": "209376",
                 "bus": "yes",
                 "name": "Etikhove Rustoord Ter Gauwen",
@@ -103,6 +81,27 @@
                 "coordinates": [
                     3.627176,
                     50.809968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "208339",
+                "bus": "yes",
+                "name": "Etikhove Ellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAARKEWEG MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.640835,
+                    50.81765
                 ]
             }
         }

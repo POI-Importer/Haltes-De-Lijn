@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "404209",
-                "bus": "yes",
-                "name": "Zolder Heikant",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEYLANDTLAAN BOEKT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.298648,
-                    51.011664
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "52;68",
                 "ref:De_Lijn": "404208",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     5.300249,
                     51.011202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "404209",
+                "bus": "yes",
+                "name": "Zolder Heikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEYLANDTLAAN BOEKT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.298648,
+                    51.011664
                 ]
             }
         }

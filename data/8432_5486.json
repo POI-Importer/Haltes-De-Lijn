@@ -5,90 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404124",
-                "bus": "yes",
-                "name": "Bolderberg Heidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT BOLDERBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.276686,
-                    50.979203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;35c",
-                "ref:De_Lijn": "403374",
-                "bus": "yes",
-                "name": "Stokrooie Colemontstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STOKROOIEWEG STOKROOIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.280519,
-                    50.97644
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;51;35c",
-                "ref:De_Lijn": "404122",
-                "bus": "yes",
-                "name": "Bolderberg Broederspad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JOBSTRAAT BOLDERBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.274783,
-                    50.981708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404133",
-                "bus": "yes",
-                "name": "Bolderberg Wolverik",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT BOLDERBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.284081,
-                    50.980144
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "404132",
                 "bus": "yes",
                 "name": "Bolderberg Wolverik",
@@ -110,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404210",
-                "bus": "yes",
-                "name": "Bolderberg Irislaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IRISLAAN BOLDERBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.287628,
-                    50.9831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "404211",
                 "bus": "yes",
                 "name": "Bolderberg Irislaan",
@@ -145,6 +40,48 @@
                 "coordinates": [
                     5.288193,
                     50.98359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404125",
+                "bus": "yes",
+                "name": "Bolderberg Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT BOLDERBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2769,
+                    50.979255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404133",
+                "bus": "yes",
+                "name": "Bolderberg Wolverik",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT BOLDERBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.284081,
+                    50.980144
                 ]
             }
         },
@@ -173,6 +110,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "34;51;35c",
+                "ref:De_Lijn": "404122",
+                "bus": "yes",
+                "name": "Bolderberg Broederspad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOBSTRAAT BOLDERBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274783,
+                    50.981708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404210",
+                "bus": "yes",
+                "name": "Bolderberg Irislaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IRISLAAN BOLDERBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.287628,
+                    50.9831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;35c",
+                "ref:De_Lijn": "403374",
+                "bus": "yes",
+                "name": "Stokrooie Colemontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKROOIEWEG STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280519,
+                    50.97644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;51;35c",
                 "ref:De_Lijn": "404123",
                 "bus": "yes",
                 "name": "Bolderberg Broederspad",
@@ -194,7 +194,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404125",
+                "ref:De_Lijn": "404124",
                 "bus": "yes",
                 "name": "Bolderberg Heidestraat",
                 "public_transport": "platform",
@@ -206,8 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.2769,
-                    50.979255
+                    5.276686,
+                    50.979203
                 ]
             }
         }

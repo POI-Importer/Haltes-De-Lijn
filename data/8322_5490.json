@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "504038",
-                "bus": "yes",
-                "name": "Bikschote Zwijnemarkt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BIKSCHOTESTRAAT BIKSCHOTE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.861836,
-                    50.928049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28",
                 "ref:De_Lijn": "509038",
                 "bus": "yes",
                 "name": "Bikschote Zwijnemarkt",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     2.861861,
                     50.928157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "504038",
+                "bus": "yes",
+                "name": "Bikschote Zwijnemarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIKSCHOTESTRAAT BIKSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.861836,
+                    50.928049
                 ]
             }
         }

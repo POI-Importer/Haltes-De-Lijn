@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "203030",
-                "bus": "yes",
-                "name": "Sleidinge Langendam",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGENDAM SLEIDINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.658353,
-                    51.133282
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;150",
                 "ref:De_Lijn": "202030",
                 "bus": "yes",
                 "name": "Sleidinge Langendam",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;150",
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "202027",
                 "bus": "yes",
                 "name": "Sleidinge Station",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.666079,
                     51.125868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203030",
+                "bus": "yes",
+                "name": "Sleidinge Langendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENDAM SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.658353,
+                    51.133282
                 ]
             }
         }

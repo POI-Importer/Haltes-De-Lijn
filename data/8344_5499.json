@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "91;99",
-                "ref:De_Lijn": "508931",
+                "ref:De_Lijn": "503931",
                 "bus": "yes",
                 "name": "Zwevegem Paridaanstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.360057,
-                    50.803668
+                    3.359887,
+                    50.80364
                 ]
             }
         },
@@ -46,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "91;99",
+                "ref:De_Lijn": "508931",
+                "bus": "yes",
+                "name": "Zwevegem Paridaanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLESTRAAT KNOKKE (ZWEVEGEM)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.360057,
+                    50.803668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "93;99",
                 "ref:De_Lijn": "503916",
                 "bus": "yes",
@@ -67,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;99",
-                "ref:De_Lijn": "503919",
+                "route_ref:De_Lijn": "93;99",
+                "ref:De_Lijn": "508916",
                 "bus": "yes",
-                "name": "Zwevegem Ellestraat",
+                "name": "Zwevegem Cafe Barakke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ELLESTRAAT ZWEVEGEM",
+                "created_by": "AVELGEMSTRAAT ZWEVEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.355956,
-                    50.805701
+                    3.350756,
+                    50.800774
                 ]
             }
         },
@@ -130,42 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "93;99",
-                "ref:De_Lijn": "508916",
-                "bus": "yes",
-                "name": "Zwevegem Cafe Barakke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AVELGEMSTRAAT ZWEVEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.350756,
-                    50.800774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "91;99",
-                "ref:De_Lijn": "503931",
+                "ref:De_Lijn": "503919",
                 "bus": "yes",
-                "name": "Zwevegem Paridaanstraat",
+                "name": "Zwevegem Ellestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ELLESTRAAT KNOKKE (ZWEVEGEM)",
+                "created_by": "ELLESTRAAT ZWEVEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.359887,
-                    50.80364
+                    3.355956,
+                    50.805701
                 ]
             }
         }

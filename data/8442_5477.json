@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "33;402",
-                "ref:De_Lijn": "406524",
-                "bus": "yes",
-                "name": "Meeuwen Elzenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELZENSTRAAT MEEUWEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.509485,
-                    51.097524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33;402",
                 "ref:De_Lijn": "406522",
                 "bus": "yes",
                 "name": "Meeuwen Eikenstraat",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     5.50423,
                     51.110403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "406524",
+                "bus": "yes",
+                "name": "Meeuwen Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZENSTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.509485,
+                    51.097524
                 ]
             }
         },

@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10",
-                "ref:De_Lijn": "409383",
+                "ref:De_Lijn": "409382",
                 "bus": "yes",
                 "name": "Zutendaal Smitsstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.55709,
-                    50.925898
+                    5.556704,
+                    50.925839
                 ]
             }
         },
@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "409383",
+                "bus": "yes",
+                "name": "Zutendaal Smitsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALSTRAAT ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.55709,
+                    50.925898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
                 "ref:De_Lijn": "409393",
                 "bus": "yes",
                 "name": "Zutendaal Wit Paard",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.5419,
                     50.917501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10",
-                "ref:De_Lijn": "409382",
-                "bus": "yes",
-                "name": "Zutendaal Smitsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DAALSTRAAT ZUTENDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.556704,
-                    50.925839
                 ]
             }
         }

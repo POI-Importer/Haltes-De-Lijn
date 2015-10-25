@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "528",
                 "ref:De_Lijn": "108445",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Hoogstraat",
@@ -25,28 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "528",
-                "ref:De_Lijn": "108444",
+                "ref:De_Lijn": "108446",
                 "bus": "yes",
-                "name": "Putte Kruisstraat",
+                "name": "Onze-Lieve-Vrouw-Waver Hoogstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROENSTRAAT PUTTE (BIJ MECHELEN)",
+                "created_by": "LEEMSTRAAT ONZE-LIEVE-VROUW-WAVER",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.589158,
-                    51.046624
+                    4.590604,
+                    51.050972
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "528",
                 "ref:De_Lijn": "108443",
                 "bus": "yes",
                 "name": "Putte Kruisstraat",
@@ -67,21 +64,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "528",
-                "ref:De_Lijn": "108446",
+                "ref:De_Lijn": "108444",
                 "bus": "yes",
-                "name": "Onze-Lieve-Vrouw-Waver Hoogstraat",
+                "name": "Putte Kruisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEEMSTRAAT ONZE-LIEVE-VROUW-WAVER",
+                "created_by": "GROENSTRAAT PUTTE (BIJ MECHELEN)",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.590604,
-                    51.050972
+                    4.589158,
+                    51.046624
                 ]
             }
         }

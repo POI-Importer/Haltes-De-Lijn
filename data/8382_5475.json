@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "93;280",
-                "ref:De_Lijn": "204680",
-                "bus": "yes",
-                "name": "Temse Grote Dweersstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGKAMERSTRAAT TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.192009,
-                    51.132211
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93;280",
+                "route_ref:De_Lijn": "93",
                 "ref:De_Lijn": "205679",
                 "bus": "yes",
                 "name": "Temse Vredestraat",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "93;280",
+                "route_ref:De_Lijn": "93",
                 "ref:De_Lijn": "205681",
                 "bus": "yes",
                 "name": "Temse Eurolaan",
@@ -67,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "93;280",
+                "route_ref:De_Lijn": "93",
                 "ref:De_Lijn": "204681",
                 "bus": "yes",
                 "name": "Temse Eurolaan",
@@ -88,8 +67,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "93;280",
-                "ref:De_Lijn": "205680",
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "204680",
                 "bus": "yes",
                 "name": "Temse Grote Dweersstraat",
                 "public_transport": "platform",
@@ -101,15 +80,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.191651,
-                    51.132318
+                    4.192009,
+                    51.132211
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "93;280",
+                "route_ref:De_Lijn": "93",
                 "ref:De_Lijn": "204679",
                 "bus": "yes",
                 "name": "Temse Vredestraat",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     4.195317,
                     51.12987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "205680",
+                "bus": "yes",
+                "name": "Temse Grote Dweersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGKAMERSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.191651,
+                    51.132318
                 ]
             }
         }

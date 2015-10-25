@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "344",
-                "ref:De_Lijn": "301687",
-                "bus": "yes",
-                "name": "Nethen Rue des Bruyères",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE HAMME-MILLE NETHEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.682094,
-                    50.783617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "344",
-                "ref:De_Lijn": "301689",
-                "bus": "yes",
-                "name": "Nethen Rue Tienne Binnard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE HAMME MILLE NETHEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.688692,
-                    50.782079
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "344",
                 "ref:De_Lijn": "301690",
                 "bus": "yes",
                 "name": "Nethen Rue Tienne Binnard",
@@ -61,6 +19,27 @@
                 "coordinates": [
                     4.688225,
                     50.782189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344",
+                "ref:De_Lijn": "301688",
+                "bus": "yes",
+                "name": "Nethen Rue des Bruyères",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE HAMME-MILLE NETHEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.682237,
+                    50.783688
                 ]
             }
         },
@@ -89,7 +68,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "344",
-                "ref:De_Lijn": "301688",
+                "ref:De_Lijn": "301689",
+                "bus": "yes",
+                "name": "Nethen Rue Tienne Binnard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE HAMME MILLE NETHEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.688692,
+                    50.782079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344",
+                "ref:De_Lijn": "301687",
                 "bus": "yes",
                 "name": "Nethen Rue des Bruyères",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.682237,
-                    50.783688
+                    4.682094,
+                    50.783617
                 ]
             }
         },

@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;62;39b;726",
-                "ref:De_Lijn": "407625",
-                "bus": "yes",
-                "name": "Herderen Kruisherenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TONGERSESTEENWEG HERDEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.580061,
-                    50.806312
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "726",
-                "ref:De_Lijn": "406735",
-                "bus": "yes",
-                "name": "Herderen Sportplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT HERDEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.574602,
-                    50.808104
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "61;726",
                 "ref:De_Lijn": "407620",
                 "bus": "yes",
@@ -67,52 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "726",
-                "ref:De_Lijn": "408448",
-                "bus": "yes",
-                "name": "Herderen Sieberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DAALSTRAAT HERDEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.569273,
-                    50.812249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "407654",
-                "bus": "yes",
-                "name": "Herderen Stopstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTRAAT HERDEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.577203,
-                    50.807187
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "61",
-                "ref:De_Lijn": "407622",
+                "ref:De_Lijn": "409810",
                 "bus": "yes",
-                "name": "Herderen Heiligestraat",
+                "name": "Herderen Maastrichterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KRUISHERENSTRAAT HERDEREN",
@@ -122,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.576543,
-                    50.810187
+                    5.580381,
+                    50.808269
                 ]
             }
         },
@@ -172,6 +88,111 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "407622",
+                "bus": "yes",
+                "name": "Herderen Heiligestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHERENSTRAAT HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.576543,
+                    50.810187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "406735",
+                "bus": "yes",
+                "name": "Herderen Sportplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.574602,
+                    50.808104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "408451",
+                "bus": "yes",
+                "name": "Herderen Sieberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALSTRAAT HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.569346,
+                    50.812338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;62;39b;726",
+                "ref:De_Lijn": "407625",
+                "bus": "yes",
+                "name": "Herderen Kruisherenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580061,
+                    50.806312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409804",
+                "bus": "yes",
+                "name": "Herderen Sint-Jansstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEILIGESTRAAT HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.574879,
+                    50.810609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "61;726",
                 "ref:De_Lijn": "407621",
                 "bus": "yes",
@@ -193,21 +214,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61",
-                "ref:De_Lijn": "409810",
+                "route_ref:De_Lijn": "61;62;39b;726",
+                "ref:De_Lijn": "407624",
                 "bus": "yes",
-                "name": "Herderen Maastrichterstraat",
+                "name": "Herderen Kruisherenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KRUISHERENSTRAAT HERDEREN",
+                "created_by": "TONGERSESTEENWEG HERDEREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.580381,
-                    50.808269
+                    5.580366,
+                    50.806588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407654",
+                "bus": "yes",
+                "name": "Herderen Stopstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTRAAT HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.577203,
+                    50.807187
                 ]
             }
         },
@@ -236,7 +278,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "726",
-                "ref:De_Lijn": "408451",
+                "ref:De_Lijn": "408448",
                 "bus": "yes",
                 "name": "Herderen Sieberg",
                 "public_transport": "platform",
@@ -248,50 +290,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.569346,
-                    50.812338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "409804",
-                "bus": "yes",
-                "name": "Herderen Sint-Jansstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HEILIGESTRAAT HERDEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.574879,
-                    50.810609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;62;39b;726",
-                "ref:De_Lijn": "407624",
-                "bus": "yes",
-                "name": "Herderen Kruisherenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TONGERSESTEENWEG HERDEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.580366,
-                    50.806588
+                    5.569273,
+                    50.812249
                 ]
             }
         }

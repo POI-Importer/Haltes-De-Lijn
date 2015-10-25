@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "509462",
+                "ref:De_Lijn": "504462",
                 "bus": "yes",
                 "name": "Reningelst Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KORTE RENINGELSTSTRAAT RENINGELST",
+                "created_by": "HEUVELLANDSEWEG RENINGELST",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.763684,
-                    50.816927
+                    2.76351,
+                    50.816628
                 ]
             }
         },
@@ -89,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "504462",
-                "bus": "yes",
-                "name": "Reningelst Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEUVELLANDSEWEG RENINGELST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.76351,
-                    50.816628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;68",
                 "ref:De_Lijn": "504574",
                 "bus": "yes",
                 "name": "Westouter Keibilckstraat",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     2.761178,
                     50.815103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "509462",
+                "bus": "yes",
+                "name": "Reningelst Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTE RENINGELSTSTRAAT RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.763684,
+                    50.816927
                 ]
             }
         }

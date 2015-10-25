@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "303115",
-                "bus": "yes",
-                "name": "Liedekerke Korenbloem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRAVENBOSSTRAAT HOLLEBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.113773,
-                    50.860092
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "355",
                 "ref:De_Lijn": "304222",
                 "bus": "yes",
                 "name": "Liedekerke Gravenbos",
@@ -47,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "304220",
+                "ref:De_Lijn": "303115",
                 "bus": "yes",
-                "name": "Liedekerke Café Hopbeurs",
+                "name": "Liedekerke Korenbloem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GRAVENBOSSTRAAT HOLLEBEEK",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.121085,
-                    50.855227
+                    4.113773,
+                    50.860092
                 ]
             }
         },
@@ -89,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "304221",
+                "bus": "yes",
+                "name": "Liedekerke Café Hopbeurs",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENBOSSTRAAT HOLLEBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.121029,
+                    50.855119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
                 "ref:De_Lijn": "303116",
                 "bus": "yes",
                 "name": "Liedekerke Gravenbos",
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "304221",
+                "ref:De_Lijn": "304220",
                 "bus": "yes",
                 "name": "Liedekerke Café Hopbeurs",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.121029,
-                    50.855119
+                    4.121085,
+                    50.855227
                 ]
             }
         }

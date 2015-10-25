@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "542;560;715",
-                "ref:De_Lijn": "305662",
+                "ref:De_Lijn": "305663",
                 "bus": "yes",
                 "name": "Budingen Linnebeekstraat",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.069928,
-                    50.874414
+                    5.069661,
+                    50.874596
                 ]
             }
         },
@@ -61,90 +61,6 @@
                 "coordinates": [
                     5.062485,
                     50.870719
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "542;560;715",
-                "ref:De_Lijn": "305655",
-                "bus": "yes",
-                "name": "Budingen Hulsbergenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINNEBEEKSTRAAT BUDINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.07439,
-                    50.874459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "542;560;715",
-                "ref:De_Lijn": "305654",
-                "bus": "yes",
-                "name": "Budingen Hulsbergenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINNEBEEKSTRAAT BUDINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.074707,
-                    50.874727
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "542;560;715",
-                "ref:De_Lijn": "305663",
-                "bus": "yes",
-                "name": "Budingen Linnebeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINNEBEEKSTRAAT BUDINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.069661,
-                    50.874596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "542;560;566;715",
-                "ref:De_Lijn": "305649",
-                "bus": "yes",
-                "name": "Budingen Heirbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROELSTRAAT BUDINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.07557,
-                    50.86602
                 ]
             }
         },
@@ -173,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "542;560;566;715",
-                "ref:De_Lijn": "305671",
+                "ref:De_Lijn": "305649",
                 "bus": "yes",
-                "name": "Budingen Winkel Lido",
+                "name": "Budingen Heirbaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEENHAAGSTRAAT BUDINGEN",
+                "created_by": "ROELSTRAAT BUDINGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.070765,
-                    50.869573
+                    5.07557,
+                    50.86602
                 ]
             }
         },
@@ -208,6 +124,90 @@
                 "coordinates": [
                     5.070272,
                     50.86989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "542;560;715",
+                "ref:De_Lijn": "305662",
+                "bus": "yes",
+                "name": "Budingen Linnebeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINNEBEEKSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.069928,
+                    50.874414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "542;560;715",
+                "ref:De_Lijn": "305655",
+                "bus": "yes",
+                "name": "Budingen Hulsbergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINNEBEEKSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.07439,
+                    50.874459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "542;560;566;715",
+                "ref:De_Lijn": "305671",
+                "bus": "yes",
+                "name": "Budingen Winkel Lido",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENHAAGSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.070765,
+                    50.869573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "542;560;715",
+                "ref:De_Lijn": "305654",
+                "bus": "yes",
+                "name": "Budingen Hulsbergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINNEBEEKSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074707,
+                    50.874727
                 ]
             }
         }

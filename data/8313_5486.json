@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "504100",
-                "bus": "yes",
-                "name": "Gijverinkhove Bellestraat nummer 28",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BELLESTRAAT GIJVERINKHOVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.673025,
-                    50.976521
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "504202",
                 "bus": "yes",
                 "name": "Izenberge Rode Sleutel",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     2.660662,
                     50.98082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "504100",
+                "bus": "yes",
+                "name": "Gijverinkhove Bellestraat nummer 28",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELLESTRAAT GIJVERINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.673025,
+                    50.976521
                 ]
             }
         }

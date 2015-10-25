@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "409387",
+                "ref:De_Lijn": "409354",
                 "bus": "yes",
-                "name": "Zutendaal Trichterweg",
+                "name": "Zutendaal Driesstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TRICHTERWEG ZUTENDAAL",
+                "created_by": "GIJZENVELDSTRAAT BESSEMER",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.598945,
-                    50.927714
+                    5.601921,
+                    50.920257
                 ]
             }
         },
@@ -46,28 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "409354",
-                "bus": "yes",
-                "name": "Zutendaal Driesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GIJZENVELDSTRAAT BESSEMER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.601921,
-                    50.920257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "409385",
+                "ref:De_Lijn": "409384",
                 "bus": "yes",
                 "name": "Zutendaal Speelheuvelstraat",
                 "public_transport": "platform",
@@ -80,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.588703,
-                    50.918444
+                    5.588742,
+                    50.918282
                 ]
             }
         },
@@ -128,21 +107,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409384",
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "409387",
                 "bus": "yes",
-                "name": "Zutendaal Speelheuvelstraat",
+                "name": "Zutendaal Trichterweg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "STALKERWEG STALKEN",
+                "created_by": "TRICHTERWEG ZUTENDAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.588742,
-                    50.918282
+                    5.598945,
+                    50.927714
                 ]
             }
         },
@@ -164,6 +143,27 @@
                 "coordinates": [
                     5.602149,
                     50.920272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409385",
+                "bus": "yes",
+                "name": "Zutendaal Speelheuvelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STALKERWEG STALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.588703,
+                    50.918444
                 ]
             }
         }

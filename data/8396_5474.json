@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53",
-                "ref:De_Lijn": "107249",
-                "bus": "yes",
-                "name": "Hove Lege Veldkantlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINTSESTEENWEG HOVE (ANTWERPEN)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.489271,
-                    51.141961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52",
                 "ref:De_Lijn": "107248",
                 "bus": "yes",
                 "name": "Hove Lauwhoevestraat",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53",
                 "ref:De_Lijn": "107250",
                 "bus": "yes",
                 "name": "Hove Lege Veldkantlaan",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "107249",
+                "bus": "yes",
+                "name": "Hove Lege Veldkantlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTSESTEENWEG HOVE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.489271,
+                    51.141961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107247",
                 "bus": "yes",
                 "name": "Hove Lauwhoevestraat",

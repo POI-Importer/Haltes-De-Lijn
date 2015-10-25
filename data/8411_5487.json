@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306790",
+                "ref:De_Lijn": "306789",
                 "bus": "yes",
                 "name": "Gelrode Dorpstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.812107,
-                    50.969146
+                    4.812209,
+                    50.969334
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306789",
-                "bus": "yes",
-                "name": "Gelrode Dorpstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHAAPSVIJVER GELRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.812209,
-                    50.969334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
                 "ref:De_Lijn": "306792",
                 "bus": "yes",
                 "name": "Gelrode Boonzakstraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.814703,
                     50.965117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306790",
+                "bus": "yes",
+                "name": "Gelrode Dorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAAPSVIJVER GELRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.812107,
+                    50.969146
                 ]
             }
         }

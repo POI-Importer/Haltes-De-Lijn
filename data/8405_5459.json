@@ -4,20 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "105544",
+                "ref:De_Lijn": "105541",
                 "bus": "yes",
-                "name": "Sint-Lenaarts Eester",
+                "name": "Sint-Lenaarts Kapelakker",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSSTRAAT SINT-LENAARTS",
+                "created_by": "KERKSTRAAT SINT-LENAARTS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.700212,
-                    51.34952
+                    4.691538,
+                    51.348879
                 ]
             }
         },
@@ -45,49 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "104819",
-                "bus": "yes",
-                "name": "Brecht Markthalte",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HOUTSTRAAT SINT-LENAARTS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.698632,
-                    51.349345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "600;602;605;608;620",
-                "ref:De_Lijn": "102222",
-                "bus": "yes",
-                "name": "Sint-Lenaarts Kloosterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAATSEBAAN SINT-LENAARTS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.693471,
-                    51.356477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "600;605;608;620",
                 "ref:De_Lijn": "100477",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Kloosterstraat werken St Lenaarts",
@@ -108,10 +65,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;605;608;620",
-                "ref:De_Lijn": "105543",
+                "ref:De_Lijn": "105542",
                 "bus": "yes",
-                "name": "Sint-Lenaarts Eester",
+                "name": "Sint-Lenaarts Kapelakker",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KERKSTRAAT SINT-LENAARTS",
@@ -121,15 +77,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.698449,
-                    51.349857
+                    4.690474,
+                    51.348594
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "602",
                 "ref:De_Lijn": "102221",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Fruithoflaan",
@@ -150,7 +105,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;605;608;620",
                 "ref:De_Lijn": "100478",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Eester werken St Lenaarts",
@@ -171,21 +125,60 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;605;608;620",
-                "ref:De_Lijn": "105542",
+                "ref:De_Lijn": "105544",
                 "bus": "yes",
-                "name": "Sint-Lenaarts Kapelakker",
+                "name": "Sint-Lenaarts Eester",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KERKSTRAAT SINT-LENAARTS",
+                "created_by": "BEVRIJDINGSSTRAAT SINT-LENAARTS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.690474,
-                    51.348594
+                    4.700212,
+                    51.34952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102223",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Kloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEBAAN SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.692256,
+                    51.355087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102222",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Kloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEBAAN SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693471,
+                    51.356477
                 ]
             }
         },
@@ -213,7 +206,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "602",
                 "ref:De_Lijn": "102219",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Fruithoflaan",
@@ -234,10 +226,30 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;605;608;620",
-                "ref:De_Lijn": "105541",
+                "ref:De_Lijn": "104819",
                 "bus": "yes",
-                "name": "Sint-Lenaarts Kapelakker",
+                "name": "Brecht Markthalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOUTSTRAAT SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.698632,
+                    51.349345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105543",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Eester",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KERKSTRAAT SINT-LENAARTS",
@@ -247,29 +259,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.691538,
-                    51.348879
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "602",
-                "ref:De_Lijn": "102223",
-                "bus": "yes",
-                "name": "Sint-Lenaarts Kloosterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAATSEBAAN SINT-LENAARTS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.692256,
-                    51.355087
+                    4.698449,
+                    51.349857
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;212;493",
                 "ref:De_Lijn": "109153",
                 "bus": "yes",
                 "name": "Tielen Prijstraat",
@@ -25,7 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;212;493",
+                "ref:De_Lijn": "109154",
+                "bus": "yes",
+                "name": "Tielen Prijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIERLEBAAN TIELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886612,
+                    51.250105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101786",
                 "bus": "yes",
                 "name": "Tielen Vonderstraat",
@@ -46,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;212;493",
                 "ref:De_Lijn": "101787",
                 "bus": "yes",
                 "name": "Tielen Vonderstraat",
@@ -61,27 +78,6 @@
                 "coordinates": [
                     4.880625,
                     51.254024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "200;212;493",
-                "ref:De_Lijn": "109154",
-                "bus": "yes",
-                "name": "Tielen Prijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GIERLEBAAN TIELEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.886612,
-                    51.250105
                 ]
             }
         }

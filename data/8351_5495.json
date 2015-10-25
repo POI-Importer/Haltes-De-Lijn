@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "209305",
+                "ref:De_Lijn": "209306",
                 "bus": "yes",
-                "name": "Wortegem Kerk",
+                "name": "Wortegem Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WAREGEMSEWEG WORTEGEM",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.510328,
-                    50.852054
+                    3.504992,
+                    50.854163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209307",
+                "bus": "yes",
+                "name": "Wortegem Keerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSEWEG WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.495669,
+                    50.857538
                 ]
             }
         },
@@ -47,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "209306",
+                "ref:De_Lijn": "208307",
                 "bus": "yes",
-                "name": "Wortegem Gemeentehuis",
+                "name": "Wortegem Keerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WAREGEMSEWEG WORTEGEM",
@@ -59,15 +80,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.504992,
-                    50.854163
+                    3.49591,
+                    50.857575
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;450",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209305",
+                "bus": "yes",
+                "name": "Wortegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSEWEG WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.510328,
+                    50.852054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "208305",
                 "bus": "yes",
                 "name": "Wortegem Kerk",
@@ -89,69 +131,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "209307",
-                "bus": "yes",
-                "name": "Wortegem Keerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAREGEMSEWEG WORTEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.495669,
-                    50.857538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "200755",
-                "bus": "yes",
-                "name": "Wortegem Bouvelostraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOUVELOSTRAAT WORTEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.497674,
-                    50.848985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;450",
-                "ref:De_Lijn": "208307",
-                "bus": "yes",
-                "name": "Wortegem Keerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAREGEMSEWEG WORTEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.49591,
-                    50.857575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;450",
                 "ref:De_Lijn": "208306",
                 "bus": "yes",
                 "name": "Wortegem Gemeentehuis",
@@ -172,7 +151,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "200755",
+                "bus": "yes",
+                "name": "Wortegem Bouvelostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUVELOSTRAAT WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.497674,
+                    50.848985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "208304",
                 "bus": "yes",
                 "name": "Wortegem Oudenaardseweg",
@@ -193,7 +192,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "200760",
                 "bus": "yes",
                 "name": "Wortegem Boeregemstraat",

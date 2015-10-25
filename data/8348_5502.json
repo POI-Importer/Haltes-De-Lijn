@@ -26,49 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "85",
-                "ref:De_Lijn": "508678",
-                "bus": "yes",
-                "name": "Outrijve Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNIKSESTEENWEG OUTRIJVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.429672,
-                    50.756184
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "85",
-                "ref:De_Lijn": "503678",
-                "bus": "yes",
-                "name": "Outrijve Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNIKSESTEENWEG OUTRIJVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.429333,
-                    50.756118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "85",
-                "ref:De_Lijn": "508677",
+                "ref:De_Lijn": "503677",
                 "bus": "yes",
                 "name": "Outrijve Beiaarddreef",
                 "public_transport": "platform",
@@ -80,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.432435,
-                    50.758364
+                    3.432209,
+                    50.758344
                 ]
             }
         },
@@ -110,7 +68,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "85",
-                "ref:De_Lijn": "503677",
+                "ref:De_Lijn": "508678",
+                "bus": "yes",
+                "name": "Outrijve Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSESTEENWEG OUTRIJVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.429672,
+                    50.756184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "508677",
                 "bus": "yes",
                 "name": "Outrijve Beiaarddreef",
                 "public_transport": "platform",
@@ -122,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.432209,
-                    50.758344
+                    3.432435,
+                    50.758364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "503678",
+                "bus": "yes",
+                "name": "Outrijve Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSESTEENWEG OUTRIJVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.429333,
+                    50.756118
                 ]
             }
         }

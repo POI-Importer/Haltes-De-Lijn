@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;428",
                 "ref:De_Lijn": "106506",
                 "bus": "yes",
                 "name": "Viersel Dijkstraat",

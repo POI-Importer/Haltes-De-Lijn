@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "4;104",
+                "ref:De_Lijn": "408648",
+                "bus": "yes",
+                "name": "Overrepen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG OVERREPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.430668,
+                    50.8076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;104",
                 "ref:De_Lijn": "408649",
                 "bus": "yes",
                 "name": "Overrepen Kerk",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.446659,
                     50.811302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;104",
-                "ref:De_Lijn": "408648",
-                "bus": "yes",
-                "name": "Overrepen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HASSELTSESTEENWEG OVERREPEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.430668,
-                    50.8076
                 ]
             }
         }

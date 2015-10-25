@@ -4,49 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;43;44;85;240",
-                "ref:De_Lijn": "204391",
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "205415",
                 "bus": "yes",
-                "name": "Stekene Kerk",
+                "name": "Stekene Bormte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POLENLAAN STEKENE",
+                "created_by": "DORPSSTRAAT STEKENE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.041385,
-                    51.206307
+                    4.038464,
+                    51.202533
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;85;240",
-                "ref:De_Lijn": "205401",
-                "bus": "yes",
-                "name": "Stekene Zeshoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSTRAAT STEKENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.03219,
-                    51.199684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;85;240",
+                "route_ref:De_Lijn": "41;85",
                 "ref:De_Lijn": "204401",
                 "bus": "yes",
                 "name": "Stekene Zeshoekstraat",
@@ -67,28 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;44;240",
-                "ref:De_Lijn": "205390",
+                "route_ref:De_Lijn": "41;85",
+                "ref:De_Lijn": "205401",
                 "bus": "yes",
-                "name": "Stekene Spoorwegwegel",
+                "name": "Stekene Zeshoekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BORMTE STEKENE",
+                "created_by": "BRUGSTRAAT STEKENE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.042065,
-                    51.201221
+                    4.03219,
+                    51.199684
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;85;240",
+                "route_ref:De_Lijn": "41;85",
                 "ref:De_Lijn": "205402",
                 "bus": "yes",
                 "name": "Stekene Heimeersstraat",
@@ -109,28 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;44;240",
-                "ref:De_Lijn": "204390",
-                "bus": "yes",
-                "name": "Stekene Spoorwegwegel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BORMTE STEKENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.041836,
-                    51.201185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;43;85;240",
+                "route_ref:De_Lijn": "41;43;85",
                 "ref:De_Lijn": "205392",
                 "bus": "yes",
                 "name": "Stekene Bormte",
@@ -151,7 +109,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;43;85;240",
+                "route_ref:De_Lijn": "41;43;44;85",
+                "ref:De_Lijn": "204391",
+                "bus": "yes",
+                "name": "Stekene Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLENLAAN STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041385,
+                    51.206307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "204390",
+                "bus": "yes",
+                "name": "Stekene Spoorwegwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORMTE STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041836,
+                    51.201185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204769",
+                "bus": "yes",
+                "name": "Stekene Hazenhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZESHOEKSTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.024551,
+                    51.203329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;43;85",
                 "ref:De_Lijn": "205391",
                 "bus": "yes",
                 "name": "Stekene Kerk",
@@ -172,21 +192,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;43;44;85;240",
-                "ref:De_Lijn": "204392",
+                "route_ref:De_Lijn": "41;85",
+                "ref:De_Lijn": "204402",
                 "bus": "yes",
-                "name": "Stekene Bormte",
+                "name": "Stekene Heimeersstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT STEKENE",
+                "created_by": "BOSDORP STEKENE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.037708,
-                    51.202288
+                    4.029926,
+                    51.194239
                 ]
             }
         },
@@ -214,7 +234,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;44;240",
+                "route_ref:De_Lijn": "41;43;44;85",
+                "ref:De_Lijn": "204392",
+                "bus": "yes",
+                "name": "Stekene Bormte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.037708,
+                    51.202288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "205390",
+                "bus": "yes",
+                "name": "Stekene Spoorwegwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORMTE STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.042065,
+                    51.201221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
                 "ref:De_Lijn": "204393",
                 "bus": "yes",
                 "name": "Stekene Molenbergstraat",
@@ -235,49 +297,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
-                "ref:De_Lijn": "204769",
-                "bus": "yes",
-                "name": "Stekene Hazenhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZESHOEKSTRAAT STEKENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.024551,
-                    51.203329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;85;240",
-                "ref:De_Lijn": "204402",
-                "bus": "yes",
-                "name": "Stekene Heimeersstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSDORP STEKENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.029926,
-                    51.194239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44;240",
+                "route_ref:De_Lijn": "43;44",
                 "ref:De_Lijn": "205393",
                 "bus": "yes",
                 "name": "Stekene Molenbergstraat",
@@ -292,27 +312,6 @@
                 "coordinates": [
                     4.032288,
                     51.205832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44;240",
-                "ref:De_Lijn": "205415",
-                "bus": "yes",
-                "name": "Stekene Bormte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT STEKENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.038464,
-                    51.202533
                 ]
             }
         }

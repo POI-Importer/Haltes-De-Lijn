@@ -4,84 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;730",
-                "ref:De_Lijn": "405343",
-                "bus": "yes",
-                "name": "Ezemaal Nieuwe Wijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAANBEEKSTRAAT EZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.99349,
-                    50.773198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "346;348",
-                "ref:De_Lijn": "405347",
+                "ref:De_Lijn": "405340",
                 "bus": "yes",
-                "name": "Ezemaal Station",
+                "name": "Ezemaal Kruispunt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KRAANBEEKSTRAAT EZEMAAL",
+                "created_by": "GROTE STEENWEG EZEMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.995844,
-                    50.771162
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405333",
-                "bus": "yes",
-                "name": "Ezemaal Aldegondiskerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAKENDOVERSTRAAT EZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.999644,
-                    50.776446
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405431",
-                "bus": "yes",
-                "name": "Ezemaal Sint-Jobstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JOBSSTRAAT EZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.997352,
-                    50.769383
+                    5.000394,
+                    50.776388
                 ]
             }
         },
@@ -109,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405337",
+                "route_ref:De_Lijn": "346;730",
+                "ref:De_Lijn": "405343",
                 "bus": "yes",
-                "name": "Ezemaal Brug",
+                "name": "Ezemaal Nieuwe Wijk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTE STEENWEG EZEMAAL",
+                "created_by": "KRAANBEEKSTRAAT EZEMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.000219,
-                    50.773881
+                    4.99349,
+                    50.773198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405334",
+                "bus": "yes",
+                "name": "Ezemaal Ardevoorde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARDEVOORSTRAAT NEERHEYLISSEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.001366,
+                    50.765379
                 ]
             }
         },
@@ -152,6 +110,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405344",
+                "bus": "yes",
+                "name": "Ezemaal Kapel Sint-Job",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARDEVOORSTRAAT NEERHEYLISSEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995274,
+                    50.76668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348",
+                "ref:De_Lijn": "405341",
+                "bus": "yes",
+                "name": "Ezemaal Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG EZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.000152,
+                    50.776246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348",
+                "ref:De_Lijn": "405347",
+                "bus": "yes",
+                "name": "Ezemaal Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAANBEEKSTRAAT EZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995844,
+                    50.771162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
                 "ref:De_Lijn": "405332",
                 "bus": "yes",
                 "name": "Ezemaal Aldegondiskerk",
@@ -166,27 +187,6 @@
                 "coordinates": [
                     4.999305,
                     50.776538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "346;348",
-                "ref:De_Lijn": "405340",
-                "bus": "yes",
-                "name": "Ezemaal Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE STEENWEG EZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.000394,
-                    50.776388
                 ]
             }
         },
@@ -215,48 +215,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405334",
-                "bus": "yes",
-                "name": "Ezemaal Ardevoorde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ARDEVOORSTRAAT NEERHEYLISSEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.001366,
-                    50.765379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405336",
-                "bus": "yes",
-                "name": "Ezemaal Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE STEENWEG EZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.99991,
-                    50.774062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
                 "ref:De_Lijn": "405430",
                 "bus": "yes",
                 "name": "Ezemaal Sint-Jobstraat",
@@ -271,6 +229,48 @@
                 "coordinates": [
                     4.997594,
                     50.769481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405333",
+                "bus": "yes",
+                "name": "Ezemaal Aldegondiskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAKENDOVERSTRAAT EZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.999644,
+                    50.776446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348;730",
+                "ref:De_Lijn": "405337",
+                "bus": "yes",
+                "name": "Ezemaal Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG EZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.000219,
+                    50.773881
                 ]
             }
         },
@@ -298,10 +298,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;348",
-                "ref:De_Lijn": "405341",
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405431",
                 "bus": "yes",
-                "name": "Ezemaal Kruispunt",
+                "name": "Ezemaal Sint-Jobstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOBSSTRAAT EZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.997352,
+                    50.769383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348;730",
+                "ref:De_Lijn": "405336",
+                "bus": "yes",
+                "name": "Ezemaal Brug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTE STEENWEG EZEMAAL",
@@ -311,29 +332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.000152,
-                    50.776246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405344",
-                "bus": "yes",
-                "name": "Ezemaal Kapel Sint-Job",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ARDEVOORSTRAAT NEERHEYLISSEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.995274,
-                    50.76668
+                    4.99991,
+                    50.774062
                 ]
             }
         }

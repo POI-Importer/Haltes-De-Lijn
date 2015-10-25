@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257;938",
-                "ref:De_Lijn": "107907",
-                "bus": "yes",
-                "name": "Ruisbroek Oud-Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GANSBROEKSTRAAT RUISBROEK (PUURS)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.331704,
-                    51.088076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253;254;257;938",
                 "ref:De_Lijn": "107908",
                 "bus": "yes",
                 "name": "Ruisbroek Oud-Gemeentehuis",
@@ -46,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290;291;294",
-                "ref:De_Lijn": "106008",
-                "bus": "yes",
-                "name": "Boom Noeveren",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIELSESTRAAT BOOM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.35037,
-                    51.096017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
                 "ref:De_Lijn": "107909",
                 "bus": "yes",
                 "name": "Ruisbroek Prod. Chimique",
@@ -88,7 +44,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "106008",
+                "name": "Boom Noeveren",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "NIELSESTRAAT BOOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35037,
+                    51.096017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "107907",
+                "bus": "yes",
+                "name": "Ruisbroek Oud-Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANSBROEKSTRAAT RUISBROEK (PUURS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331704,
+                    51.088076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107910",
                 "bus": "yes",
                 "name": "Ruisbroek Prod. Chimique",

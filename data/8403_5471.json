@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;428",
-                "ref:De_Lijn": "106499",
-                "bus": "yes",
-                "name": "Viersel H. Rulstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERENTALSEBAAN VIERSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.639851,
-                    51.188811
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "420;424;428",
                 "ref:De_Lijn": "106432",
                 "bus": "yes",
                 "name": "Massenhoven Kanaalstraat",
@@ -46,10 +24,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;428",
-                "ref:De_Lijn": "106504",
+                "ref:De_Lijn": "106499",
                 "bus": "yes",
-                "name": "Viersel Private Weg",
+                "name": "Viersel H. Rulstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HERENTALSEBAAN VIERSEL",
@@ -59,57 +36,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.652483,
-                    51.189185
+                    4.639851,
+                    51.188811
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;428",
-                "ref:De_Lijn": "106503",
-                "bus": "yes",
-                "name": "Viersel Private Weg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAROCHIESTRAAT VIERSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.651895,
-                    51.18889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "421;428",
-                "ref:De_Lijn": "106501",
-                "bus": "yes",
-                "name": "Viersel Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAROCHIESTRAAT VIERSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.647957,
-                    51.188126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "421;428",
                 "ref:De_Lijn": "106500",
                 "bus": "yes",
                 "name": "Viersel H. Rulstraat",
@@ -130,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;424;428",
                 "ref:De_Lijn": "106433",
                 "bus": "yes",
                 "name": "Massenhoven Kanaalstraat",
@@ -151,7 +84,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;428",
+                "ref:De_Lijn": "106503",
+                "bus": "yes",
+                "name": "Viersel Private Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAROCHIESTRAAT VIERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.651895,
+                    51.18889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106501",
+                "bus": "yes",
+                "name": "Viersel Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAROCHIESTRAAT VIERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.647957,
+                    51.188126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106502",
                 "bus": "yes",
                 "name": "Viersel Dorp",
@@ -166,6 +138,26 @@
                 "coordinates": [
                     4.647757,
                     51.188118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106504",
+                "bus": "yes",
+                "name": "Viersel Private Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSEBAAN VIERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.652483,
+                    51.189185
                 ]
             }
         }

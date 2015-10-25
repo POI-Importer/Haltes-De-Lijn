@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
+                "route_ref:De_Lijn": "938",
                 "ref:De_Lijn": "104513",
                 "bus": "yes",
                 "name": "Sint-Amands Fierkensstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
+                "route_ref:De_Lijn": "938",
                 "ref:De_Lijn": "104511",
                 "bus": "yes",
                 "name": "Sint-Amands Keten",
@@ -46,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
+                "route_ref:De_Lijn": "938",
                 "ref:De_Lijn": "104509",
                 "bus": "yes",
                 "name": "Sint-Amands Keten",
@@ -67,7 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
                 "ref:De_Lijn": "104512",
                 "bus": "yes",
                 "name": "Sint-Amands Fierkensstraat",

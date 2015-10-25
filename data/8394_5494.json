@@ -4,168 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "318;351;358;359;410;554",
-                "ref:De_Lijn": "305498",
-                "bus": "yes",
-                "name": "Sint-Stevens-Woluwe Eversestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG SINT-STEVENS-WOLUWE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.446101,
-                    50.866787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "351;358;359",
-                "ref:De_Lijn": "305497",
-                "bus": "yes",
-                "name": "Sint-Stevens-Woluwe F. Smoldersstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG SINT-STEVENS-WOLUWE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.456276,
-                    50.869135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "318;410;531;554;659",
-                "ref:De_Lijn": "302812",
-                "bus": "yes",
-                "name": "Kraainem Thumasstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.456837,
-                    50.864793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "659",
-                "ref:De_Lijn": "301921",
-                "bus": "yes",
-                "name": "Kraainem Sint-Antonius",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ANNECYLAAN KRAAINEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.456887,
-                    50.861629
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "359",
-                "ref:De_Lijn": "308912",
-                "bus": "yes",
-                "name": "Sint-Stevens-Woluwe Eversestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TRAMSTRAAT SINT-STEVENS-WOLUWE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.44566,
-                    50.8665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302811",
+                "ref:De_Lijn": "301920",
                 "bus": "yes",
                 "name": "Kraainem Thumas",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
+                "created_by": "SINT-ANTONIUSLAAN KRAAINEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.453741,
-                    50.865667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "318;410;531;554;659",
-                "ref:De_Lijn": "307821",
-                "bus": "yes",
-                "name": "Kraainem Viaduct E40",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.453813,
-                    50.865892
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "318;410;531;554",
-                "ref:De_Lijn": "307813",
-                "bus": "yes",
-                "name": "Kraainem Thumasstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.456765,
-                    50.864694
+                    4.456452,
+                    50.864281
                 ]
             }
         },
@@ -214,31 +67,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "318;410;531;554;659",
-                "ref:De_Lijn": "307820",
+                "route_ref:De_Lijn": "351;358;359",
+                "ref:De_Lijn": "305496",
                 "bus": "yes",
-                "name": "Kraainem Viaduct E40",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.453756,
-                    50.865649
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "318;351;358;410;554",
-                "ref:De_Lijn": "305501",
-                "bus": "yes",
-                "name": "Sint-Stevens-Woluwe Lange Wagenstraat",
+                "name": "Sint-Stevens-Woluwe F. Smoldersstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LEUVENSESTEENWEG SINT-STEVENS-WOLUWE",
@@ -248,8 +80,113 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.44073,
-                    50.865721
+                    4.456859,
+                    50.869108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "318;410;531;554;659",
+                "ref:De_Lijn": "302812",
+                "bus": "yes",
+                "name": "Kraainem Thumasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.456837,
+                    50.864793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "318;351;358;359;410;554",
+                "ref:De_Lijn": "305498",
+                "bus": "yes",
+                "name": "Sint-Stevens-Woluwe Eversestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG SINT-STEVENS-WOLUWE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.446101,
+                    50.866787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "318;410;531;554",
+                "ref:De_Lijn": "307813",
+                "bus": "yes",
+                "name": "Kraainem Thumasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.456765,
+                    50.864694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "359",
+                "ref:De_Lijn": "308912",
+                "bus": "yes",
+                "name": "Sint-Stevens-Woluwe Eversestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT SINT-STEVENS-WOLUWE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.44566,
+                    50.8665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302811",
+                "bus": "yes",
+                "name": "Kraainem Thumas",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453741,
+                    50.865667
                 ]
             }
         },
@@ -257,20 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "659",
-                "ref:De_Lijn": "301920",
+                "ref:De_Lijn": "303645",
                 "bus": "yes",
-                "name": "Kraainem Thumas",
+                "name": "Sint-Stevens-Woluwe Van Damstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-ANTONIUSLAAN KRAAINEM",
+                "created_by": "WOLUWEDAL SINT-STEVENS-WOLUWE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.456452,
-                    50.864281
+                    4.457721,
+                    50.874321
                 ]
             }
         },
@@ -298,29 +235,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "318;351;358;359;410;554",
-                "ref:De_Lijn": "305502",
-                "bus": "yes",
-                "name": "Sint-Stevens-Woluwe Woluwedal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG SINT-STEVENS-WOLUWE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.451146,
-                    50.867881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "351;358;359",
-                "ref:De_Lijn": "305496",
+                "ref:De_Lijn": "305497",
                 "bus": "yes",
                 "name": "Sint-Stevens-Woluwe F. Smoldersstraat",
                 "public_transport": "platform",
@@ -332,29 +248,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.456859,
-                    50.869108
+                    4.456276,
+                    50.869135
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "659",
-                "ref:De_Lijn": "301922",
+                "route_ref:De_Lijn": "318;410;531;554;659",
+                "ref:De_Lijn": "307820",
                 "bus": "yes",
-                "name": "Kraainem Sint-Antonius",
+                "name": "Kraainem Viaduct E40",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-ANTONIUSLAAN KRAAINEM",
+                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.457386,
-                    50.862536
+                    4.453756,
+                    50.865649
                 ]
             }
         },
@@ -383,20 +299,104 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "659",
-                "ref:De_Lijn": "303645",
+                "ref:De_Lijn": "301921",
                 "bus": "yes",
-                "name": "Sint-Stevens-Woluwe Van Damstraat",
+                "name": "Kraainem Sint-Antonius",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WOLUWEDAL SINT-STEVENS-WOLUWE",
+                "created_by": "ANNECYLAAN KRAAINEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.457721,
-                    50.874321
+                    4.456887,
+                    50.861629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "318;351;358;359;410;554",
+                "ref:De_Lijn": "305502",
+                "bus": "yes",
+                "name": "Sint-Stevens-Woluwe Woluwedal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG SINT-STEVENS-WOLUWE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451146,
+                    50.867881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "659",
+                "ref:De_Lijn": "301922",
+                "bus": "yes",
+                "name": "Kraainem Sint-Antonius",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANTONIUSLAAN KRAAINEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.457386,
+                    50.862536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "318;351;358;410;554",
+                "ref:De_Lijn": "305501",
+                "bus": "yes",
+                "name": "Sint-Stevens-Woluwe Lange Wagenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG SINT-STEVENS-WOLUWE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.44073,
+                    50.865721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "318;410;531;554;659",
+                "ref:De_Lijn": "307821",
+                "bus": "yes",
+                "name": "Kraainem Viaduct E40",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDSTRIJDERSLAAN KRAAINEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453813,
+                    50.865892
                 ]
             }
         }

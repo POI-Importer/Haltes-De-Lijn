@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "7;702",
-                "ref:De_Lijn": "308149",
-                "bus": "yes",
-                "name": "Schaffen Wezelbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEZELBAAN SCHAFFEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.100397,
-                    51.004219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "401720",
-                "bus": "yes",
-                "name": "Schaffen Wezelbaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WEZELBAAN SCHAFFEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.100938,
-                    51.004207
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "401698",
                 "bus": "yes",
                 "name": "Diest Postbaan",
@@ -61,48 +19,6 @@
                 "coordinates": [
                     5.116972,
                     51.009886
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7;702",
-                "ref:De_Lijn": "308153",
-                "bus": "yes",
-                "name": "Schaffen Postbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLANKLAERSTRAAT SCHAFFEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.117792,
-                    51.010393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7",
-                "ref:De_Lijn": "308152",
-                "bus": "yes",
-                "name": "Schaffen Postbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLANKLAERSTRAAT SCHAFFEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.11789,
-                    51.010267
                 ]
             }
         },
@@ -151,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "401721",
+                "ref:De_Lijn": "401720",
                 "bus": "yes",
                 "name": "Schaffen Wezelbaan",
                 "public_transport": "platform",
@@ -164,50 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.100396,
-                    51.00421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7",
-                "ref:De_Lijn": "308148",
-                "bus": "yes",
-                "name": "Schaffen Wezelbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEZELBAAN SCHAFFEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     5.100938,
                     51.004207
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7",
-                "ref:De_Lijn": "308150",
-                "bus": "yes",
-                "name": "Schaffen Kromme Elleboog",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEZELBAAN SCHAFFEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.110942,
-                    51.007057
                 ]
             }
         },
@@ -235,6 +109,90 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "308148",
+                "bus": "yes",
+                "name": "Schaffen Wezelbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEZELBAAN SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.100938,
+                    51.004207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;702",
+                "ref:De_Lijn": "308149",
+                "bus": "yes",
+                "name": "Schaffen Wezelbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEZELBAAN SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.100397,
+                    51.004219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "308152",
+                "bus": "yes",
+                "name": "Schaffen Postbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANKLAERSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11789,
+                    51.010267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;702",
+                "ref:De_Lijn": "308153",
+                "bus": "yes",
+                "name": "Schaffen Postbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANKLAERSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.117792,
+                    51.010393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "401692",
                 "bus": "yes",
                 "name": "Diest Kromme Elleboog",
@@ -250,6 +208,48 @@
                 "coordinates": [
                     5.108852,
                     51.006432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401721",
+                "bus": "yes",
+                "name": "Schaffen Wezelbaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEZELBAAN SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.100396,
+                    51.00421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "308150",
+                "bus": "yes",
+                "name": "Schaffen Kromme Elleboog",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEZELBAAN SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.110942,
+                    51.007057
                 ]
             }
         }

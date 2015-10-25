@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;446;640;648;649;659;679",
                 "ref:De_Lijn": "105811",
                 "bus": "yes",
                 "name": "Loenhout Donkweg",
@@ -25,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;446;640;648;649;659;679",
-                "ref:De_Lijn": "105814",
-                "bus": "yes",
-                "name": "Loenhout Steenweg Neerven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WUUSTWEZELSEWEG LOENHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.632222,
-                    51.400113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;446;640;648;649;659;679",
                 "ref:De_Lijn": "105812",
                 "bus": "yes",
                 "name": "Loenhout Donkweg",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;446;640;648;649;659;679",
+                "ref:De_Lijn": "105814",
+                "bus": "yes",
+                "name": "Loenhout Steenweg Neerven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WUUSTWEZELSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.632222,
+                    51.400113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105813",
                 "bus": "yes",
                 "name": "Loenhout Steenweg Neerven",

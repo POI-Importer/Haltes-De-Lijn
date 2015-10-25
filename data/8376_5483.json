@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;29",
-                "ref:De_Lijn": "207393",
-                "bus": "yes",
-                "name": "Appels Heidepark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSLAAN APPELS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.056231,
-                    51.02542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "57",
                 "ref:De_Lijn": "207309",
                 "bus": "yes",
@@ -46,31 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "57;355",
-                "ref:De_Lijn": "206309",
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "207394",
                 "bus": "yes",
-                "name": "Oudegem Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDEGEMSE BAAN OUDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.064243,
-                    51.014277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;29;355",
-                "ref:De_Lijn": "206392",
-                "bus": "yes",
-                "name": "Appels Lindestraat",
+                "name": "Appels Hofstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BEVRIJDINGSLAAN APPELS",
@@ -80,15 +38,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.06061,
-                    51.027059
+                    4.050958,
+                    51.023231
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;29;355",
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "207393",
+                "bus": "yes",
+                "name": "Appels Heidepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSLAAN APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.056231,
+                    51.02542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
                 "ref:De_Lijn": "206394",
                 "bus": "yes",
                 "name": "Appels Hofstraat",
@@ -109,49 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;29;355",
-                "ref:De_Lijn": "206393",
-                "bus": "yes",
-                "name": "Appels Heidepark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSLAAN APPELS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.056486,
-                    51.025682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;29",
-                "ref:De_Lijn": "207392",
-                "bus": "yes",
-                "name": "Appels Lindestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSLAAN APPELS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.060711,
-                    51.026942
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "355",
                 "ref:De_Lijn": "204212",
                 "bus": "yes",
                 "name": "Oudegem Berkestraat",
@@ -193,10 +129,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;29",
-                "ref:De_Lijn": "207394",
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "206309",
                 "bus": "yes",
-                "name": "Appels Hofstraat",
+                "name": "Oudegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEGEMSE BAAN OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064243,
+                    51.014277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "206393",
+                "bus": "yes",
+                "name": "Appels Heidepark",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BEVRIJDINGSLAAN APPELS",
@@ -206,8 +163,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.050958,
-                    51.023231
+                    4.056486,
+                    51.025682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "207392",
+                "bus": "yes",
+                "name": "Appels Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSLAAN APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060711,
+                    51.026942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "206392",
+                "bus": "yes",
+                "name": "Appels Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSLAAN APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.06061,
+                    51.027059
                 ]
             }
         }

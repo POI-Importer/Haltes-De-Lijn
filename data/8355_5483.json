@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;15;16;125",
+                "route_ref:De_Lijn": "14;15;16",
                 "ref:De_Lijn": "202765",
                 "bus": "yes",
                 "name": "Sint-Martens-Leerne Lindeboom",
@@ -19,27 +19,6 @@
                 "coordinates": [
                     3.593002,
                     51.017951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;15;16;125",
-                "ref:De_Lijn": "202766",
-                "bus": "yes",
-                "name": "Sint-Martens-Leerne Engelhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEERNSESTEENWEG SINT-MARTENS-LEERNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.58667,
-                    51.014763
                 ]
             }
         },
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.583477,
                     51.014014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16",
+                "ref:De_Lijn": "202766",
+                "bus": "yes",
+                "name": "Sint-Martens-Leerne Engelhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEERNSESTEENWEG SINT-MARTENS-LEERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58667,
+                    51.014763
                 ]
             }
         },

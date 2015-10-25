@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "220;510;944;946",
+                "route_ref:De_Lijn": "944;946",
                 "ref:De_Lijn": "109364",
                 "bus": "yes",
                 "name": "Hulshout Station",
@@ -25,10 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "220;510;944;946",
-                "ref:De_Lijn": "109362",
+                "route_ref:De_Lijn": "944;946",
+                "ref:De_Lijn": "109363",
                 "bus": "yes",
-                "name": "Hulshout Heibergstraat",
+                "name": "Hulshout Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTE BAAN HULSHOUT",
@@ -38,15 +38,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.812836,
-                    51.07144
+                    4.82547,
+                    51.070717
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "220;510;944;946",
                 "ref:De_Lijn": "109361",
                 "bus": "yes",
                 "name": "Hulshout Heibergstraat",
@@ -67,10 +66,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "220;510;944;946",
-                "ref:De_Lijn": "109363",
+                "ref:De_Lijn": "109362",
                 "bus": "yes",
-                "name": "Hulshout Station",
+                "name": "Hulshout Heibergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTE BAAN HULSHOUT",
@@ -80,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.82547,
-                    51.070717
+                    4.812836,
+                    51.07144
                 ]
             }
         }

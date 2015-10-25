@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;608",
                 "ref:De_Lijn": "106834",
                 "bus": "yes",
                 "name": "Brecht Kanaallaan",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;608",
                 "ref:De_Lijn": "106972",
                 "bus": "yes",
                 "name": "Brecht Kanaallaan",

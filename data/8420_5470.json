@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;382;921",
+                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "109446",
                 "bus": "yes",
                 "name": "Geel SCK Europawijk",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;382;921",
+                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "109445",
                 "bus": "yes",
                 "name": "Geel SCK Europawijk",

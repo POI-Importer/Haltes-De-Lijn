@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;74;76;175",
+                "route_ref:De_Lijn": "73;74;76",
                 "ref:De_Lijn": "202621",
                 "bus": "yes",
                 "name": "Zaffelare Nerenhoek",
@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "200719",
                 "bus": "yes",
                 "name": "Zaffelare Windgatstraat",

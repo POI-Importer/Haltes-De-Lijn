@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;13;140;141;298",
-                "ref:De_Lijn": "102910",
-                "bus": "yes",
-                "name": "Berkenrodelei",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERKENRODELEI HOBOKEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.349251,
-                    51.180726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;298",
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "104889",
                 "bus": "yes",
                 "name": "Van Traynellaan",
@@ -46,49 +25,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;298",
-                "ref:De_Lijn": "104887",
+                "ref:De_Lijn": "101345",
                 "bus": "yes",
-                "name": "Smallandlaan",
+                "name": "Berkenrodelei",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOOMBEKELAAN HOBOKEN",
+                "created_by": "BERKENRODELEI HOBOKEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.34263,
-                    51.180348
+                    4.349308,
+                    51.180115
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;140;141",
-                "ref:De_Lijn": "104667",
+                "route_ref:De_Lijn": "1;13",
+                "ref:De_Lijn": "102910",
                 "bus": "yes",
-                "name": "Polderstad",
+                "name": "Berkenrodelei",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHORRELAAN HOBOKEN",
+                "created_by": "BERKENRODELEI HOBOKEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.344329,
-                    51.184905
+                    4.349251,
+                    51.180726
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;298",
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "104888",
                 "bus": "yes",
                 "name": "Van Traynellaan",
@@ -109,7 +87,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;298",
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "104887",
+                "bus": "yes",
+                "name": "Smallandlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOMBEKELAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34263,
+                    51.180348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "104886",
                 "bus": "yes",
                 "name": "Smallandlaan",
@@ -130,21 +129,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;13;140;141;298",
-                "ref:De_Lijn": "101345",
+                "ref:De_Lijn": "104667",
                 "bus": "yes",
-                "name": "Berkenrodelei",
+                "name": "Polderstad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERKENRODELEI HOBOKEN",
+                "created_by": "SCHORRELAAN HOBOKEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.349308,
-                    51.180115
+                    4.344329,
+                    51.184905
                 ]
             }
         }

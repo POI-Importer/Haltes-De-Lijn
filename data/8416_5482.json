@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306860",
+                "ref:De_Lijn": "306859",
                 "bus": "yes",
                 "name": "Langdorp Kolkensvijverstraat",
                 "public_transport": "platform",
@@ -17,36 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.9263,
-                    51.032492
+                    4.926559,
+                    51.032725
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307361",
-                "bus": "yes",
-                "name": "Testelt Mosvenne",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOSVENNE TESTELT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.939033,
-                    51.030355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "307364",
                 "bus": "yes",
                 "name": "Testelt Nieuwstraat",
@@ -67,8 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307362",
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "307361",
                 "bus": "yes",
                 "name": "Testelt Mosvenne",
                 "public_transport": "platform",
@@ -80,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.939518,
-                    51.030352
+                    4.939033,
+                    51.030355
                 ]
             }
         },
@@ -110,7 +89,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306859",
+                "ref:De_Lijn": "307362",
+                "bus": "yes",
+                "name": "Testelt Mosvenne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSVENNE TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.939518,
+                    51.030352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "306860",
                 "bus": "yes",
                 "name": "Langdorp Kolkensvijverstraat",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.926559,
-                    51.032725
+                    4.9263,
+                    51.032492
                 ]
             }
         }

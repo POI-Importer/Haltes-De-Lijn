@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505413",
-                "bus": "yes",
-                "name": "Pittem Muizelaar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTEENWEG PITTEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.242638,
-                    50.970379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "29;52;59",
                 "ref:De_Lijn": "503585",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.237441,
                     50.963865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505413",
+                "bus": "yes",
+                "name": "Pittem Muizelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.242638,
+                    50.970379
                 ]
             }
         }

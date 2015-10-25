@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "153;154",
+                "ref:De_Lijn": "301110",
+                "bus": "yes",
+                "name": "Horzelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DROGENBOSSESTEENWEG UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328221,
+                    50.787276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;154;574",
+                "ref:De_Lijn": "301402",
+                "bus": "yes",
+                "name": "Drogenbos Calmeyn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN DROGENBOS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.318907,
+                    50.784531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;154;574",
+                "ref:De_Lijn": "306313",
+                "bus": "yes",
+                "name": "Drogenbos Beersellaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN DROGENBOS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324398,
+                    50.78082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "153;154;574",
                 "ref:De_Lijn": "301403",
                 "bus": "yes",
@@ -89,27 +152,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "153;154;574",
-                "ref:De_Lijn": "306310",
-                "bus": "yes",
-                "name": "Stelplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DROGENBOSSESTEENWEG UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.324931,
-                    50.786717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;154;574",
                 "ref:De_Lijn": "306311",
                 "bus": "yes",
                 "name": "Stelplaats",
@@ -152,51 +194,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "153;154;574",
-                "ref:De_Lijn": "301402",
+                "ref:De_Lijn": "306310",
                 "bus": "yes",
-                "name": "Drogenbos Calmeyn",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN DROGENBOS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.318907,
-                    50.784531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;154;574",
-                "ref:De_Lijn": "306313",
-                "bus": "yes",
-                "name": "Drogenbos Beersellaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN DROGENBOS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.324398,
-                    50.78082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;154",
-                "ref:De_Lijn": "301110",
-                "bus": "yes",
-                "name": "Horzelstraat",
+                "name": "Stelplaats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DROGENBOSSESTEENWEG UKKEL",
@@ -206,8 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.328221,
-                    50.787276
+                    4.324931,
+                    50.786717
                 ]
             }
         }

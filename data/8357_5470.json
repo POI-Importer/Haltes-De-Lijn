@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "57;96;97",
-                "ref:De_Lijn": "203092",
-                "bus": "yes",
-                "name": "Lembeke Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEMBEKE-DORP LEMBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.632461,
-                    51.195175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "57;96",
                 "ref:De_Lijn": "203093",
                 "bus": "yes",
@@ -46,7 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "57;96;195",
+                "route_ref:De_Lijn": "57;96;97",
+                "ref:De_Lijn": "202092",
+                "bus": "yes",
+                "name": "Lembeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEMBEKE-DORP LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.63252,
+                    51.195067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;96",
                 "ref:De_Lijn": "202093",
                 "bus": "yes",
                 "name": "Lembeke Vrombautstraat",
@@ -67,8 +67,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "57;96;97;195",
-                "ref:De_Lijn": "202092",
+                "route_ref:De_Lijn": "57;96;97",
+                "ref:De_Lijn": "203092",
                 "bus": "yes",
                 "name": "Lembeke Dorp",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.63252,
-                    51.195067
+                    3.632461,
+                    51.195175
                 ]
             }
         }

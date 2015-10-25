@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "504316",
+                "ref:De_Lijn": "509299",
                 "bus": "yes",
-                "name": "Petit-Cornil",
+                "name": "Coq anglais",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "AELBEKESTEENWEG MOESKROEN",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.219174,
-                    50.761176
+                    3.222526,
+                    50.75505
                 ]
             }
         },
@@ -40,48 +40,6 @@
                 "coordinates": [
                     3.222357,
                     50.75503
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "509861",
-                "bus": "yes",
-                "name": "Mouscron Spar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AELBEKESTEENWEG MOESKROEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.221429,
-                    50.758213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "509299",
-                "bus": "yes",
-                "name": "Coq anglais",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AELBEKESTEENWEG MOESKROEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.222526,
-                    50.75505
                 ]
             }
         },
@@ -124,6 +82,48 @@
                 "coordinates": [
                     3.221511,
                     50.75834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "509861",
+                "bus": "yes",
+                "name": "Mouscron Spar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AELBEKESTEENWEG MOESKROEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221429,
+                    50.758213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "504316",
+                "bus": "yes",
+                "name": "Petit-Cornil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AELBEKESTEENWEG MOESKROEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219174,
+                    50.761176
                 ]
             }
         }

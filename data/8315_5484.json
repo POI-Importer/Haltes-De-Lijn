@@ -26,48 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "50;57;59",
-                "ref:De_Lijn": "504482",
-                "bus": "yes",
-                "name": "Sint-Rijkers Smishoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-RIJKERSSTRAAT ALVERINGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.704737,
-                    51.011186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "50;57;59",
-                "ref:De_Lijn": "509012",
-                "bus": "yes",
-                "name": "Alveringem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N319 ALVERINGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.709979,
-                    51.012465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "50;57;59",
                 "ref:De_Lijn": "509482",
                 "bus": "yes",
                 "name": "Sint-Rijkers Smishoek",
@@ -103,6 +61,48 @@
                 "coordinates": [
                     2.715919,
                     51.010553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509012",
+                "bus": "yes",
+                "name": "Alveringem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N319 ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.709979,
+                    51.012465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504482",
+                "bus": "yes",
+                "name": "Sint-Rijkers Smishoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-RIJKERSSTRAAT ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.704737,
+                    51.011186
                 ]
             }
         }

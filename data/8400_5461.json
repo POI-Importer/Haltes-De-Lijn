@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105508",
                 "bus": "yes",
                 "name": "Brecht Vriendschapslaan",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105509",
                 "bus": "yes",
                 "name": "Brecht Vriendschapslaan",

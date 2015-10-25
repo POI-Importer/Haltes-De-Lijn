@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "406784",
-                "bus": "yes",
-                "name": "Gompel Lenslei",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "COLBURNLEI MOL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.166834,
-                    51.192212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "405297",
-                "bus": "yes",
-                "name": "Balen Kleine Wagenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDEN ELS BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.179548,
-                    51.181347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "732",
                 "ref:De_Lijn": "405237",
                 "bus": "yes",
@@ -61,6 +19,27 @@
                 "coordinates": [
                     5.179306,
                     51.181412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "406785",
+                "bus": "yes",
+                "name": "Gompel Lenslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COLBURNLEI MOL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167574,
+                    51.191991
                 ]
             }
         },
@@ -110,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "406785",
+                "ref:De_Lijn": "406784",
                 "bus": "yes",
                 "name": "Gompel Lenslei",
                 "public_transport": "platform",
@@ -122,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.167574,
-                    51.191991
+                    5.166834,
+                    51.192212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "405297",
+                "bus": "yes",
+                "name": "Balen Kleine Wagenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDEN ELS BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179548,
+                    51.181347
                 ]
             }
         }

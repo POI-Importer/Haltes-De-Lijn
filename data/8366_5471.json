@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "96",
-                "ref:De_Lijn": "209979",
-                "bus": "yes",
-                "name": "Arcelor Mittal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JOHN KENNEDYLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.833363,
-                    51.182403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "205933",
                 "bus": "yes",
                 "name": "Arcelor Mittal",
@@ -67,7 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "49;96;175",
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "209979",
+                "bus": "yes",
+                "name": "Arcelor Mittal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOHN KENNEDYLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.833363,
+                    51.182403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;96",
                 "ref:De_Lijn": "202607",
                 "bus": "yes",
                 "name": "Arcelor Mittal",
@@ -88,7 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "49;73;175",
+                "route_ref:De_Lijn": "49;73",
                 "ref:De_Lijn": "214003",
                 "bus": "yes",
                 "name": "Wachtebeke Kloosterbos",

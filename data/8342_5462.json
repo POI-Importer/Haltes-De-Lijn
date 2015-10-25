@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "41;42;49",
+                "ref:De_Lijn": "506673",
+                "bus": "yes",
+                "name": "Westkapelle Herenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.300678,
+                    51.311571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "41;42;44;49",
                 "ref:De_Lijn": "501487",
                 "bus": "yes",
@@ -40,48 +61,6 @@
                 "coordinates": [
                     3.3153,
                     51.312565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;49",
-                "ref:De_Lijn": "506673",
-                "bus": "yes",
-                "name": "Westkapelle Herenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT WESTKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.300678,
-                    51.311571
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;49",
-                "ref:De_Lijn": "501672",
-                "bus": "yes",
-                "name": "Westkapelle Rustoord",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUSTOORDSTRAAT WESTKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.298248,
-                    51.314354
                 ]
             }
         },
@@ -145,6 +124,27 @@
                 "coordinates": [
                     3.300851,
                     51.311546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;49",
+                "ref:De_Lijn": "501672",
+                "bus": "yes",
+                "name": "Westkapelle Rustoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUSTOORDSTRAAT WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298248,
+                    51.314354
                 ]
             }
         }

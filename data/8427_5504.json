@@ -24,20 +24,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "402651",
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "402628",
                 "bus": "yes",
-                "name": "Borlo Rijkswacht",
+                "name": "Jeuk Klein Jeukstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "THEWITSTRAAT BORLO",
+                "created_by": "KLEIN-JEUKSTRAAT JEUK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.181843,
-                    50.735522
+                    5.184285,
+                    50.727638
                 ]
             }
         },
@@ -65,21 +66,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "730;731",
-                "ref:De_Lijn": "402628",
+                "ref:De_Lijn": "402651",
                 "bus": "yes",
-                "name": "Jeuk Klein Jeukstraat",
+                "name": "Borlo Rijkswacht",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KLEIN-JEUKSTRAAT JEUK",
+                "created_by": "THEWITSTRAAT BORLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.184285,
-                    50.727638
+                    5.181843,
+                    50.735522
                 ]
             }
         }

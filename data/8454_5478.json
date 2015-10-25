@@ -25,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;721",
-                "ref:De_Lijn": "406126",
+                "route_ref:De_Lijn": "11;45;61",
+                "ref:De_Lijn": "406092",
                 "bus": "yes",
-                "name": "Siemkensheuvel Engerhoven",
+                "name": "Maaseik Oude Barrier",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WURFELDERMOLENWEG MAASEIK",
+                "created_by": "MAASTRICHTERSTEENWEG MAASEIK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.766548,
-                    51.090646
+                    5.764918,
+                    51.085802
                 ]
             }
         },
@@ -88,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "11;45;61",
-                "ref:De_Lijn": "406092",
+                "route_ref:De_Lijn": "720;721",
+                "ref:De_Lijn": "406126",
                 "bus": "yes",
-                "name": "Maaseik Oude Barrier",
+                "name": "Siemkensheuvel Engerhoven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG MAASEIK",
+                "created_by": "WURFELDERMOLENWEG MAASEIK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.764918,
-                    51.085802
+                    5.766548,
+                    51.090646
                 ]
             }
         }

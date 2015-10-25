@@ -4,9 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306356",
+                "ref:De_Lijn": "306354",
                 "bus": "yes",
-                "name": "Rotselaar Hellicht",
+                "name": "Rotselaar Boonhof",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.71914,
-                    50.963185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306352",
-                "bus": "yes",
-                "name": "Rotselaar Broekstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HELLICHTSTRAAT HELLICHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.705126,
-                    50.960269
+                    4.711293,
+                    50.962687
                 ]
             }
         },
@@ -67,9 +46,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306354",
+                "ref:De_Lijn": "306355",
                 "bus": "yes",
-                "name": "Rotselaar Boonhof",
+                "name": "Rotselaar Hellicht",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.711293,
-                    50.962687
+                    4.719111,
+                    50.963069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306356",
+                "bus": "yes",
+                "name": "Rotselaar Hellicht",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HELLICHTSTRAAT ROTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71914,
+                    50.963185
                 ]
             }
         },
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306355",
+                "ref:De_Lijn": "306352",
                 "bus": "yes",
-                "name": "Rotselaar Hellicht",
+                "name": "Rotselaar Broekstraat",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HELLICHTSTRAAT ROTSELAAR",
+                "created_by": "HELLICHTSTRAAT HELLICHT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.719111,
-                    50.963069
+                    4.705126,
+                    50.960269
                 ]
             }
         }

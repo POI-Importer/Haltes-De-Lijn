@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "243;420;421;422;423",
                 "ref:De_Lijn": "106413",
                 "bus": "yes",
                 "name": "Ranst Zevenbergen",

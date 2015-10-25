@@ -26,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;724",
+                "ref:De_Lijn": "405261",
+                "bus": "yes",
+                "name": "Veldwezelt Ganzenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.628571,
+                    50.868682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;724",
                 "ref:De_Lijn": "405270",
                 "bus": "yes",
                 "name": "Veldwezelt Kruispunt",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.625151,
                     50.862488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61",
-                "ref:De_Lijn": "405256",
-                "bus": "yes",
-                "name": "Veldwezelt Berenhofstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDESTRAAT VELDWEZELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.633411,
-                    50.864809
                 ]
             }
         },
@@ -89,48 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;724",
-                "ref:De_Lijn": "405257",
-                "bus": "yes",
-                "name": "Veldwezelt Berenhofstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDESTRAAT VELDWEZELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.632949,
-                    50.865605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;724",
-                "ref:De_Lijn": "405279",
-                "bus": "yes",
-                "name": "Gellik Tongersesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KIEZELWEG VELDWEZELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.626276,
-                    50.874263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;724",
                 "ref:De_Lijn": "405278",
                 "bus": "yes",
                 "name": "Gellik Tongersesteenweg",
@@ -152,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;724",
-                "ref:De_Lijn": "405261",
+                "ref:De_Lijn": "405257",
                 "bus": "yes",
-                "name": "Veldwezelt Ganzenlaan",
+                "name": "Veldwezelt Berenhofstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LINDESTRAAT VELDWEZELT",
@@ -164,8 +122,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.628571,
-                    50.868682
+                    5.632949,
+                    50.865605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "405256",
+                "bus": "yes",
+                "name": "Veldwezelt Berenhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.633411,
+                    50.864809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;724",
+                "ref:De_Lijn": "405279",
+                "bus": "yes",
+                "name": "Gellik Tongersesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.626276,
+                    50.874263
                 ]
             }
         }

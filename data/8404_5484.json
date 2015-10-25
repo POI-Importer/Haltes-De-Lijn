@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306464",
-                "bus": "yes",
-                "name": "Keerbergen Mereldreef nummer 53",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MERELDREEF KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.673527,
-                    51.008367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306452",
                 "bus": "yes",
                 "name": "Keerbergen Mosvennedreef",
@@ -40,48 +19,6 @@
                 "coordinates": [
                     4.667164,
                     51.01374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306469",
-                "bus": "yes",
-                "name": "Keerbergen Vlieghavenlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MERELDREEF KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.661785,
-                    51.003614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306462",
-                "bus": "yes",
-                "name": "Keerbergen Wielewaalweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MERELDREEF KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.678994,
-                    51.009728
                 ]
             }
         },
@@ -109,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306471",
+                "ref:De_Lijn": "306470",
                 "bus": "yes",
                 "name": "Keerbergen Leeuwerikweg",
                 "public_transport": "platform",
@@ -122,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.6725,
-                    51.001493
+                    4.672442,
+                    51.001412
                 ]
             }
         },
@@ -151,30 +88,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306449",
+                "ref:De_Lijn": "306469",
                 "bus": "yes",
-                "name": "Keerbergen Tulpenweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "SCHRIEKSEBAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.65848,
-                    51.010436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306465",
-                "bus": "yes",
-                "name": "Keerbergen Mereldreef nummer 53",
+                "name": "Keerbergen Vlieghavenlaan",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -185,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.67464,
-                    51.008579
+                    4.661785,
+                    51.003614
                 ]
             }
         },
@@ -214,6 +130,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "306464",
+                "bus": "yes",
+                "name": "Keerbergen Mereldreef nummer 53",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MERELDREEF KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.673527,
+                    51.008367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "306448",
                 "bus": "yes",
                 "name": "Keerbergen Tulpenweg",
@@ -229,48 +166,6 @@
                 "coordinates": [
                     4.658294,
                     51.010302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306468",
-                "bus": "yes",
-                "name": "Keerbergen Vlieghavenlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MERELDREEF KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.661543,
-                    51.003597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306470",
-                "bus": "yes",
-                "name": "Keerbergen Leeuwerikweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEEUWERIKWEG KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.672442,
-                    51.001412
                 ]
             }
         },
@@ -298,6 +193,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "306449",
+                "bus": "yes",
+                "name": "Keerbergen Tulpenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSEBAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.65848,
+                    51.010436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "306467",
                 "bus": "yes",
                 "name": "Keerbergen Mereldreef nummer 18",
@@ -313,6 +229,90 @@
                 "coordinates": [
                     4.668385,
                     51.006384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306471",
+                "bus": "yes",
+                "name": "Keerbergen Leeuwerikweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEEUWERIKWEG KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6725,
+                    51.001493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306465",
+                "bus": "yes",
+                "name": "Keerbergen Mereldreef nummer 53",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MERELDREEF KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.67464,
+                    51.008579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306462",
+                "bus": "yes",
+                "name": "Keerbergen Wielewaalweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MERELDREEF KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.678994,
+                    51.009728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306468",
+                "bus": "yes",
+                "name": "Keerbergen Vlieghavenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MERELDREEF KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.661543,
+                    51.003597
                 ]
             }
         },

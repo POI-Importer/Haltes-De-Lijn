@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405087",
+                "bus": "yes",
+                "name": "Kleine Borgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUSTEREIND VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.039855,
+                    51.083525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "405080",
                 "bus": "yes",
                 "name": "Gijperstraat",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405077",
+                "ref:De_Lijn": "405081",
                 "bus": "yes",
-                "name": "Broekstraat",
+                "name": "Gijperstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BEUSTEREIND VORST (LAAKDAL)",
+                "created_by": "MEERHOUTSTRAAT VORST (LAAKDAL)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.044921,
-                    51.085428
+                    5.050043,
+                    51.088257
                 ]
             }
         },
@@ -68,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405087",
+                "ref:De_Lijn": "405077",
                 "bus": "yes",
-                "name": "Kleine Borgstraat",
+                "name": "Broekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BEUSTEREIND VORST (LAAKDAL)",
@@ -80,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.039855,
-                    51.083525
+                    5.044921,
+                    51.085428
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     5.045465,
                     51.085524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "405081",
-                "bus": "yes",
-                "name": "Gijperstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MEERHOUTSTRAAT VORST (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.050043,
-                    51.088257
                 ]
             }
         }

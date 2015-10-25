@@ -45,21 +45,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404712",
+                "route_ref:De_Lijn": "16;40;14b;720",
+                "ref:De_Lijn": "404702",
                 "bus": "yes",
-                "name": "Kinrooi Hoogstraat",
+                "name": "Kinrooi Breeërsteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT KINROOI",
+                "created_by": "BREEËRSTEENWEG KINROOI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.728832,
-                    51.146117
+                    5.733576,
+                    51.145586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;40;14b",
+                "ref:De_Lijn": "404765",
+                "bus": "yes",
+                "name": "Kinrooi Luitestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEËRSTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.725107,
+                    51.145818
                 ]
             }
         },
@@ -87,11 +108,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;40;14b",
-                "ref:De_Lijn": "404703",
+                "ref:De_Lijn": "404821",
                 "bus": "yes",
-                "name": "Kinrooi Breeërsteenweg",
+                "name": "Kinrooi Tongerloseweg",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "BREEËRSTEENWEG KINROOI",
                 "operator": "De Lijn",
@@ -100,8 +121,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.732765,
-                    51.145721
+                    5.718034,
+                    51.145872
                 ]
             }
         },
@@ -130,7 +151,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404713",
+                "ref:De_Lijn": "404718",
+                "bus": "yes",
+                "name": "Kinrooi Kampstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSERSTRAAT KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.732776,
+                    51.147555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "404712",
                 "bus": "yes",
                 "name": "Kinrooi Hoogstraat",
                 "public_transport": "platform",
@@ -142,29 +184,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.728658,
-                    51.146011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "404821",
-                "bus": "yes",
-                "name": "Kinrooi Tongerloseweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BREEËRSTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.718034,
-                    51.145872
+                    5.728832,
+                    51.146117
                 ]
             }
         },
@@ -193,9 +214,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "16;40;14b",
-                "ref:De_Lijn": "404765",
+                "ref:De_Lijn": "404703",
                 "bus": "yes",
-                "name": "Kinrooi Luitestraat",
+                "name": "Kinrooi Breeërsteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BREEËRSTEENWEG KINROOI",
@@ -205,8 +226,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.725107,
-                    51.145818
+                    5.732765,
+                    51.145721
                 ]
             }
         },
@@ -234,42 +255,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;40;14b;720",
-                "ref:De_Lijn": "404702",
-                "bus": "yes",
-                "name": "Kinrooi Breeërsteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREEËRSTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.733576,
-                    51.145586
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404718",
+                "ref:De_Lijn": "404713",
                 "bus": "yes",
-                "name": "Kinrooi Kampstraat",
+                "name": "Kinrooi Hoogstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ESSERSTRAAT KINROOI",
+                "created_by": "HOOGSTRAAT KINROOI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.732776,
-                    51.147555
+                    5.728658,
+                    51.146011
                 ]
             }
         }

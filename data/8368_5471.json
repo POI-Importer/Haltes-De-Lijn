@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202601",
-                "bus": "yes",
-                "name": "Wachtebeke Lepelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RAMONSHOEK WACHTEBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.881934,
-                    51.186307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "175",
-                "ref:De_Lijn": "200739",
-                "bus": "yes",
-                "name": "Wachtebeke Achterhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RAMONSHOEK WACHTEBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.881063,
-                    51.187508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "203600",
                 "bus": "yes",
@@ -61,6 +19,48 @@
                 "coordinates": [
                     3.875543,
                     51.180627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "202600",
+                "bus": "yes",
+                "name": "Wachtebeke Catharinastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMONSHOEK WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.875499,
+                    51.18078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "202601",
+                "bus": "yes",
+                "name": "Wachtebeke Lepelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMONSHOEK WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.881934,
+                    51.186307
                 ]
             }
         },
@@ -88,10 +88,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202600",
+                "ref:De_Lijn": "200739",
                 "bus": "yes",
-                "name": "Wachtebeke Catharinastraat",
+                "name": "Wachtebeke Achterhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RAMONSHOEK WACHTEBEKE",
@@ -101,8 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.875499,
-                    51.18078
+                    3.881063,
+                    51.187508
                 ]
             }
         }

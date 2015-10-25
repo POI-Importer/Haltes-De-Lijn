@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "29;50;69",
+                "ref:De_Lijn": "504614",
+                "bus": "yes",
+                "name": "Woesten Stadion",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTVLETERENSTRAAT WOESTEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.782795,
+                    50.904755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;50;69",
                 "ref:De_Lijn": "509611",
                 "bus": "yes",
                 "name": "Woesten Far-West",
@@ -19,48 +40,6 @@
                 "coordinates": [
                     2.775955,
                     50.908943
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "29;69",
-                "ref:De_Lijn": "505422",
-                "bus": "yes",
-                "name": "Woesten Tempelhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TEMPELSTRAAT WOESTEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.77607,
-                    50.903459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "29;50;69",
-                "ref:De_Lijn": "509614",
-                "bus": "yes",
-                "name": "Woesten Stadion",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTVLETERENSTRAAT WOESTEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.78273,
-                    50.904988
                 ]
             }
         },
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.775657,
                     50.908921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;69",
+                "ref:De_Lijn": "505422",
+                "bus": "yes",
+                "name": "Woesten Tempelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEMPELSTRAAT WOESTEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.77607,
+                    50.903459
                 ]
             }
         },
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "29;50;69",
-                "ref:De_Lijn": "504614",
+                "ref:De_Lijn": "509614",
                 "bus": "yes",
                 "name": "Woesten Stadion",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.782795,
-                    50.904755
+                    2.78273,
+                    50.904988
                 ]
             }
         },

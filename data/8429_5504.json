@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;729;730;731",
-                "ref:De_Lijn": "404093",
+                "route_ref:De_Lijn": "21;41;729;730;731;41/2",
+                "ref:De_Lijn": "402537",
                 "bus": "yes",
-                "name": "Jeuk School",
+                "name": "Jeuk Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOUTSTRAAT JEUK",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.209593,
-                    50.730633
+                    5.209483,
+                    50.733951
                 ]
             }
         },
@@ -46,21 +46,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;41;729;730;731;41/2",
-                "ref:De_Lijn": "402537",
+                "ref:De_Lijn": "404066",
                 "bus": "yes",
-                "name": "Jeuk Kerk",
+                "name": "Jeuk Heiseltstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOUTSTRAAT JEUK",
+                "created_by": "HEISELTSTRAAT JEUK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.209483,
-                    50.733951
+                    5.22776,
+                    50.731777
                 ]
             }
         },
@@ -130,20 +129,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404066",
+                "route_ref:De_Lijn": "41;729;730;731",
+                "ref:De_Lijn": "404093",
                 "bus": "yes",
-                "name": "Jeuk Heiseltstraat",
+                "name": "Jeuk School",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEISELTSTRAAT JEUK",
+                "created_by": "HOUTSTRAAT JEUK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.22776,
-                    50.731777
+                    5.209593,
+                    50.730633
                 ]
             }
         }

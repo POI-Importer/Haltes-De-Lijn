@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81",
-                "ref:De_Lijn": "207489",
+                "ref:De_Lijn": "204981",
                 "bus": "yes",
-                "name": "Aaigem Gemeentehuis",
+                "name": "Aaigem Zakveldstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RATMOLENSTRAAT AAIGEM",
+                "created_by": "DELESTRAAT AAIGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.936268,
-                    50.888223
+                    3.933936,
+                    50.880762
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "207465",
                 "bus": "yes",
                 "name": "Heldergem Kerk",
@@ -46,49 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "207463",
-                "bus": "yes",
-                "name": "Aaigem Landries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOLLESTRAAT AAIGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.946058,
-                    50.888528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;84;385",
-                "ref:De_Lijn": "206463",
-                "bus": "yes",
-                "name": "Aaigem Landries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOLLESTRAAT AAIGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.945969,
-                    50.888879
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206464",
                 "bus": "yes",
                 "name": "Heldergem Ouddorp",
@@ -130,8 +85,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;385;390",
-                "ref:De_Lijn": "206489",
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "207489",
                 "bus": "yes",
                 "name": "Aaigem Gemeentehuis",
                 "public_transport": "platform",
@@ -143,36 +98,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.936397,
-                    50.888143
+                    3.936268,
+                    50.888223
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206465",
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "206463",
                 "bus": "yes",
-                "name": "Heldergem Kerk",
+                "name": "Aaigem Landries",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HELDERGEMSTRAAT HELDERGEM",
+                "created_by": "HOLLESTRAAT AAIGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.955024,
-                    50.880641
+                    3.945969,
+                    50.888879
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "207464",
                 "bus": "yes",
                 "name": "Heldergem Ouddorp",
@@ -193,7 +147,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206465",
+                "bus": "yes",
+                "name": "Heldergem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELDERGEMSTRAAT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.955024,
+                    50.880641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "207463",
+                "bus": "yes",
+                "name": "Aaigem Landries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLESTRAAT AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.946058,
+                    50.888528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "206579",
                 "bus": "yes",
                 "name": "Heldergem Hoomweg",
@@ -214,21 +208,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385;390",
-                "ref:De_Lijn": "204981",
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "206489",
                 "bus": "yes",
-                "name": "Aaigem Zakveldstraat",
+                "name": "Aaigem Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DELESTRAAT AAIGEM",
+                "created_by": "RATMOLENSTRAAT AAIGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.933936,
-                    50.880762
+                    3.936397,
+                    50.888143
                 ]
             }
         }

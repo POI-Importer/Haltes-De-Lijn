@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "315;317;519;528;549;553;554;830",
-                "ref:De_Lijn": "308542",
+                "route_ref:De_Lijn": "315;317;556;830",
+                "ref:De_Lijn": "304883",
                 "bus": "yes",
-                "name": "Tervuren Centrum",
+                "name": "Tervuren Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG TERVUREN",
+                "created_by": "VLONDERSE HOEK TERVUREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.512952,
-                    50.825516
+                    4.514383,
+                    50.824588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;528;554;830",
+                "ref:De_Lijn": "304877",
+                "bus": "yes",
+                "name": "Tervuren Oppemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPPEMSTRAAT TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507519,
+                    50.826538
                 ]
             }
         },
@@ -46,21 +67,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "317;410;519;526;555;558",
-                "ref:De_Lijn": "307831",
+                "route_ref:De_Lijn": "549;553;556;830",
+                "ref:De_Lijn": "304865",
                 "bus": "yes",
-                "name": "Tervuren Terminus tram 44",
+                "name": "Tervuren Ringlaan/Jachtlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG WEZEMBEEK-OPPEM",
+                "created_by": "RINGLAAN TERVUREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.514357,
-                    50.829883
+                    4.521251,
+                    50.819869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "549;553;556;830",
+                "ref:De_Lijn": "304848",
+                "bus": "yes",
+                "name": "Tervuren Jachtlaan/Duisburgsestg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JACHTLAAN TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.519409,
+                    50.820824
                 ]
             }
         },
@@ -88,6 +130,195 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "317;410;526",
+                "ref:De_Lijn": "304838",
+                "bus": "yes",
+                "name": "Tervuren Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.512655,
+                    50.82584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;317;519;528;549;553;554;830",
+                "ref:De_Lijn": "308542",
+                "bus": "yes",
+                "name": "Tervuren Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.512952,
+                    50.825516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "317",
+                "ref:De_Lijn": "303653",
+                "bus": "yes",
+                "name": "Tervuren Paardenmarktstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDENMARKTSTRAAT TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.510694,
+                    50.820251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "317;519;526;555;558",
+                "ref:De_Lijn": "304856",
+                "bus": "yes",
+                "name": "Tervuren Oude Leuvense Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.524702,
+                    50.833547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "317;519;526;555;558",
+                "ref:De_Lijn": "304854",
+                "bus": "yes",
+                "name": "Tervuren Museum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.518649,
+                    50.831496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "317;410;519;526;555;558",
+                "ref:De_Lijn": "307831",
+                "bus": "yes",
+                "name": "Tervuren Terminus tram 44",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG WEZEMBEEK-OPPEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514357,
+                    50.829883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304845",
+                "bus": "yes",
+                "name": "Tervuren Gemeentehuis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.512069,
+                    50.824573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;317;549;553;556;830",
+                "ref:De_Lijn": "304882",
+                "bus": "yes",
+                "name": "Tervuren Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.513654,
+                    50.823043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "519;528;549;553;554;555;556;558",
+                "ref:De_Lijn": "304874",
+                "bus": "yes",
+                "name": "Tervuren G.I.T.O.",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.50585,
+                    50.823547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "317;410;519;526;555;558",
                 "ref:De_Lijn": "307830",
                 "bus": "yes",
@@ -103,6 +334,90 @@
                 "coordinates": [
                     4.514655,
                     50.82982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;317;549;553;556;830",
+                "ref:De_Lijn": "308524",
+                "bus": "yes",
+                "name": "Tervuren Hertenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUISBURGSESTEENWEG TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.516036,
+                    50.822222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304871",
+                "bus": "yes",
+                "name": "Tervuren Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG WEZEMBEEK-OPPEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514073,
+                    50.829776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "549;553;556;830",
+                "ref:De_Lijn": "304849",
+                "bus": "yes",
+                "name": "Tervuren Jachtlaan/Duisburgsestg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JACHTLAAN TERVUREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.519551,
+                    50.82086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;528;554;830",
+                "ref:De_Lijn": "304833",
+                "bus": "yes",
+                "name": "Wezembeek-Oppem Albertlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN WEZEMBEEK-OPPEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.505629,
+                    50.830415
                 ]
             }
         },
@@ -151,210 +466,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "304845",
+                "route_ref:De_Lijn": "410;528;553;554;555;556;830",
+                "ref:De_Lijn": "304876",
                 "bus": "yes",
-                "name": "Tervuren Gemeentehuis",
+                "name": "Tervuren Oppemstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG TERVUREN",
+                "created_by": "OPPEMSTRAAT TERVUREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.512069,
-                    50.824573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "549;553;556;830",
-                "ref:De_Lijn": "304848",
-                "bus": "yes",
-                "name": "Tervuren Jachtlaan/Duisburgsestg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JACHTLAAN TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.519409,
-                    50.820824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "315;317;549;553;830",
-                "ref:De_Lijn": "308525",
-                "bus": "yes",
-                "name": "Tervuren Hertenbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DUISBURGSESTEENWEG TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.516192,
-                    50.822276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "317",
-                "ref:De_Lijn": "303653",
-                "bus": "yes",
-                "name": "Tervuren Paardenmarktstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAARDENMARKTSTRAAT TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.510694,
-                    50.820251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "315;317;549;553;556;830",
-                "ref:De_Lijn": "304882",
-                "bus": "yes",
-                "name": "Tervuren Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.513654,
-                    50.823043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "410;528;554;830",
-                "ref:De_Lijn": "304833",
-                "bus": "yes",
-                "name": "Wezembeek-Oppem Albertlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN WEZEMBEEK-OPPEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.505629,
-                    50.830415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "304870",
-                "bus": "yes",
-                "name": "Tervuren Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.514271,
-                    50.829676
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "317;519;526;555;558",
-                "ref:De_Lijn": "304854",
-                "bus": "yes",
-                "name": "Tervuren Museum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.518649,
-                    50.831496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "410;528;554;830",
-                "ref:De_Lijn": "304834",
-                "bus": "yes",
-                "name": "Wezembeek-Oppem Albertlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN WEZEMBEEK-OPPEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.505658,
-                    50.830559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "304871",
-                "bus": "yes",
-                "name": "Tervuren Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG WEZEMBEEK-OPPEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.514073,
-                    50.829776
+                    4.507265,
+                    50.826754
                 ]
             }
         },
@@ -382,63 +508,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "315;317;556;830",
-                "ref:De_Lijn": "304883",
+                "route_ref:De_Lijn": "315;317;549;553;830",
+                "ref:De_Lijn": "308525",
                 "bus": "yes",
-                "name": "Tervuren Kerk",
+                "name": "Tervuren Hertenbergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VLONDERSE HOEK TERVUREN",
+                "created_by": "DUISBURGSESTEENWEG TERVUREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.514383,
-                    50.824588
+                    4.516192,
+                    50.822276
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "519;528;549;553;554;555;556;558",
-                "ref:De_Lijn": "304874",
+                "ref:De_Lijn": "304870",
                 "bus": "yes",
-                "name": "Tervuren G.I.T.O.",
+                "name": "Tervuren Station",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG TERVUREN",
+                "created_by": "LEUVENSESTEENWEG TERVUREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.50585,
-                    50.823547
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "410;528;554;830",
-                "ref:De_Lijn": "304877",
-                "bus": "yes",
-                "name": "Tervuren Oppemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPPEMSTRAAT TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.507519,
-                    50.826538
+                    4.514271,
+                    50.829676
                 ]
             }
         },
@@ -466,126 +571,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410;528;553;554;555;556;830",
-                "ref:De_Lijn": "304876",
+                "route_ref:De_Lijn": "410;528;554;830",
+                "ref:De_Lijn": "304834",
                 "bus": "yes",
-                "name": "Tervuren Oppemstraat",
+                "name": "Wezembeek-Oppem Albertlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OPPEMSTRAAT TERVUREN",
+                "created_by": "ASTRIDLAAN WEZEMBEEK-OPPEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.507265,
-                    50.826754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "317;410;526",
-                "ref:De_Lijn": "304838",
-                "bus": "yes",
-                "name": "Tervuren Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKSTRAAT TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.512655,
-                    50.82584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "315;317;549;553;556;830",
-                "ref:De_Lijn": "308524",
-                "bus": "yes",
-                "name": "Tervuren Hertenbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DUISBURGSESTEENWEG TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.516036,
-                    50.822222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "549;553;556;830",
-                "ref:De_Lijn": "304849",
-                "bus": "yes",
-                "name": "Tervuren Jachtlaan/Duisburgsestg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JACHTLAAN TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.519551,
-                    50.82086
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "549;553;556;830",
-                "ref:De_Lijn": "304865",
-                "bus": "yes",
-                "name": "Tervuren Ringlaan/Jachtlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RINGLAAN TERVUREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.521251,
-                    50.819869
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "317;519;526;555;558",
-                "ref:De_Lijn": "304856",
-                "bus": "yes",
-                "name": "Tervuren Oude Leuvense Baan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG VOSSEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.524702,
-                    50.833547
+                    4.505658,
+                    50.830559
                 ]
             }
         }

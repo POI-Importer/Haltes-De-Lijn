@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "83;450",
+                "route_ref:De_Lijn": "83",
                 "ref:De_Lijn": "208261",
                 "bus": "yes",
                 "name": "Kruishoutem Duifhuisstraat",

@@ -46,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "501126",
-                "bus": "yes",
-                "name": "Houtave Weg Op Zuienkerke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSE STEENWEG HOUTAVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.119072,
-                    51.25531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "31;36",
                 "ref:De_Lijn": "501125",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.100787,
                     51.26184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "506121",
+                "bus": "yes",
+                "name": "Houtave Huis nummer 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.109352,
+                    51.258228
                 ]
             }
         },
@@ -110,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "506121",
+                "ref:De_Lijn": "501126",
                 "bus": "yes",
-                "name": "Houtave Huis nummer 10",
+                "name": "Houtave Weg Op Zuienkerke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUGSE STEENWEG HOUTAVE",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.109352,
-                    51.258228
+                    3.119072,
+                    51.25531
                 ]
             }
         }

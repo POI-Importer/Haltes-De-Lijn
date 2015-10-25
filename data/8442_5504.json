@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404682",
+                "ref:De_Lijn": "404683",
                 "bus": "yes",
                 "name": "Wihogne Moulin Bare",
                 "public_transport": "platform",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.512525,
-                    50.727701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404681",
-                "bus": "yes",
-                "name": "Wihogne Dépôt Vicinal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.509667,
-                    50.732513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404680",
-                "bus": "yes",
-                "name": "Wihogne Dépôt Vicinal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.509208,
-                    50.732841
+                    5.512561,
+                    50.728016
                 ]
             }
         },
@@ -89,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "408727",
+                "ref:De_Lijn": "404682",
                 "bus": "yes",
-                "name": "Vreren Molenweg",
+                "name": "Wihogne Moulin Bare",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG VREREN",
+                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.50545,
-                    50.736213
+                    5.512525,
+                    50.727701
                 ]
             }
         },
@@ -131,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404683",
+                "ref:De_Lijn": "408727",
                 "bus": "yes",
-                "name": "Wihogne Moulin Bare",
+                "name": "Vreren Molenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
+                "created_by": "LUIKERSTEENWEG VREREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.512561,
-                    50.728016
+                    5.50545,
+                    50.736213
                 ]
             }
         },
@@ -166,6 +124,48 @@
                 "coordinates": [
                     5.505445,
                     50.735997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404680",
+                "bus": "yes",
+                "name": "Wihogne Dépôt Vicinal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.509208,
+                    50.732841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404681",
+                "bus": "yes",
+                "name": "Wihogne Dépôt Vicinal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.509667,
+                    50.732513
                 ]
             }
         }

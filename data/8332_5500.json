@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "43;48",
-                "ref:De_Lijn": "509555",
+                "ref:De_Lijn": "504555",
                 "bus": "yes",
                 "name": "Wervik Basse Flandre",
                 "public_transport": "platform",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.088419,
-                    50.782063
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;48",
-                "ref:De_Lijn": "509565",
-                "bus": "yes",
-                "name": "Wervik Roterij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MENENSESTEENWEG WERVIK (WEST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.093033,
-                    50.781862
+                    3.088222,
+                    50.781989
                 ]
             }
         },
@@ -89,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "43;48",
+                "ref:De_Lijn": "509555",
+                "bus": "yes",
+                "name": "Wervik Basse Flandre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MENENSESTEENWEG WERVIK (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.088419,
+                    50.782063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;48",
                 "ref:De_Lijn": "504561",
                 "bus": "yes",
                 "name": "Wervik Huis nummer 288",
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44",
-                "ref:De_Lijn": "503606",
+                "route_ref:De_Lijn": "43;48",
+                "ref:De_Lijn": "509565",
                 "bus": "yes",
-                "name": "Menen Betlehem",
+                "name": "Wervik Roterij",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LAGEWEG MENEN",
+                "created_by": "MENENSESTEENWEG WERVIK (WEST-VLAANDEREN)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.096662,
-                    50.790865
+                    3.093033,
+                    50.781862
                 ]
             }
         },
@@ -151,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;48",
-                "ref:De_Lijn": "504555",
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "503606",
                 "bus": "yes",
-                "name": "Wervik Basse Flandre",
+                "name": "Menen Betlehem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MENENSESTEENWEG WERVIK (WEST-VLAANDEREN)",
+                "created_by": "LAGEWEG MENEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.088222,
-                    50.781989
+                    3.096662,
+                    50.790865
                 ]
             }
         }

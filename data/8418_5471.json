@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "108963",
+                "bus": "yes",
+                "name": "Geel Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.984422,
+                    51.184064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107613",
                 "bus": "yes",
                 "name": "Geel Kruisendonk",
@@ -24,28 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;492;493",
-                "ref:De_Lijn": "108962",
-                "bus": "yes",
-                "name": "Geel Elzenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.984291,
-                    51.183894
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "490;492;493",
                 "ref:De_Lijn": "108959",
                 "bus": "yes",
                 "name": "Geel Speenwaverdreef",
@@ -66,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;492;493",
                 "ref:De_Lijn": "108961",
                 "bus": "yes",
                 "name": "Geel Speenwaverdreef",
@@ -108,8 +105,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;492;493",
-                "ref:De_Lijn": "108963",
+                "ref:De_Lijn": "108962",
                 "bus": "yes",
                 "name": "Geel Elzenstraat",
                 "public_transport": "platform",
@@ -121,8 +117,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.984422,
-                    51.184064
+                    4.984291,
+                    51.183894
                 ]
             }
         }

@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;66;160;185",
-                "ref:De_Lijn": "202388",
+                "ref:De_Lijn": "209947",
                 "bus": "yes",
-                "name": "Adegem Kruipuit",
+                "name": "Oostwinkel Kasteeldreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VELDEKENS ADEGEM",
+                "created_by": "KASTEELDREEF OOSTWINKEL",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.51722,
-                    51.157798
+                    3.529769,
+                    51.153923
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
                 "ref:De_Lijn": "201696",
                 "bus": "yes",
                 "name": "Oostwinkel Vijverstraat",
@@ -67,21 +65,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
-                "ref:De_Lijn": "209947",
+                "route_ref:De_Lijn": "64;66",
+                "ref:De_Lijn": "202388",
                 "bus": "yes",
-                "name": "Oostwinkel Kasteeldreef",
+                "name": "Adegem Kruipuit",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KASTEELDREEF OOSTWINKEL",
+                "created_by": "VELDEKENS ADEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.529769,
-                    51.153923
+                    3.51722,
+                    51.157798
                 ]
             }
         }

@@ -4,91 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "202515",
-                "bus": "yes",
-                "name": "Laarne Kerkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.874857,
-                    51.043938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "202514",
-                "bus": "yes",
-                "name": "Laarne Ascopstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.868584,
-                    51.045161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "203516",
-                "bus": "yes",
-                "name": "Laarne Steentjesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.881202,
-                    51.042634
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "203515",
-                "bus": "yes",
-                "name": "Laarne Kerkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.874658,
-                    51.043838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "201905",
                 "bus": "yes",
                 "name": "Laarne Beddeneedstraat",
@@ -109,7 +24,70 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203515",
+                "bus": "yes",
+                "name": "Laarne Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.874658,
+                    51.043838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203516",
+                "bus": "yes",
+                "name": "Laarne Steentjesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.881202,
+                    51.042634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202516",
+                "bus": "yes",
+                "name": "Laarne Steentjesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.880515,
+                    51.042883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
                 "ref:De_Lijn": "203514",
                 "bus": "yes",
                 "name": "Laarne Ascopstraat",
@@ -130,10 +108,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "202516",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202514",
                 "bus": "yes",
-                "name": "Laarne Steentjesstraat",
+                "name": "Laarne Ascopstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HEIRWEG LAARNE",
@@ -143,8 +121,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.880515,
-                    51.042883
+                    3.868584,
+                    51.045161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202515",
+                "bus": "yes",
+                "name": "Laarne Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.874857,
+                    51.043938
                 ]
             }
         }

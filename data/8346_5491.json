@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54;81;88",
-                "ref:De_Lijn": "503887",
+                "route_ref:De_Lijn": "54;75;88",
+                "ref:De_Lijn": "508777",
                 "bus": "yes",
-                "name": "Wielsbeke Waterstraat",
+                "name": "Sint-Baafs-Vijve Electrische Kabien",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJKSWEG WIELSBEKE",
+                "created_by": "LOVERSTRAAT SINT-BAAFS-VIJVE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.383905,
-                    50.910891
+                    3.398702,
+                    50.911203
                 ]
             }
         },
@@ -46,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;81",
-                "ref:De_Lijn": "503776",
-                "bus": "yes",
-                "name": "Sint-Baafs-Vijve Electrische Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG SINT-BAAFS-VIJVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.396197,
-                    50.910616
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "53;54;75;88",
                 "ref:De_Lijn": "503780",
                 "bus": "yes",
@@ -82,27 +61,6 @@
                 "coordinates": [
                     3.399499,
                     50.915965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;54;75;88",
-                "ref:De_Lijn": "503777",
-                "bus": "yes",
-                "name": "Sint-Baafs-Vijve Electrische Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOVERSTRAAT SINT-BAAFS-VIJVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.398559,
-                    50.911247
                 ]
             }
         },
@@ -130,10 +88,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54;81;88",
-                "ref:De_Lijn": "503781",
+                "route_ref:De_Lijn": "53;81",
+                "ref:De_Lijn": "503776",
                 "bus": "yes",
-                "name": "Sint-Baafs-Vijve Plaats",
+                "name": "Sint-Baafs-Vijve Electrische Kabien",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RIJKSWEG SINT-BAAFS-VIJVE",
@@ -143,29 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.390298,
-                    50.910486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54;75;88",
-                "ref:De_Lijn": "508777",
-                "bus": "yes",
-                "name": "Sint-Baafs-Vijve Electrische Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOVERSTRAAT SINT-BAAFS-VIJVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.398702,
-                    50.911203
+                    3.396197,
+                    50.910616
                 ]
             }
         },
@@ -187,6 +124,27 @@
                 "coordinates": [
                     3.39591,
                     50.910721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;75;88",
+                "ref:De_Lijn": "508780",
+                "bus": "yes",
+                "name": "Sint-Baafs-Vijve Kraaienhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOVERSTRAAT SINT-BAAFS-VIJVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.399592,
+                    50.915616
                 ]
             }
         },
@@ -215,9 +173,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;54;75;88",
-                "ref:De_Lijn": "508780",
+                "ref:De_Lijn": "503777",
                 "bus": "yes",
-                "name": "Sint-Baafs-Vijve Kraaienhof",
+                "name": "Sint-Baafs-Vijve Electrische Kabien",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LOVERSTRAAT SINT-BAAFS-VIJVE",
@@ -227,8 +185,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.399592,
-                    50.915616
+                    3.398559,
+                    50.911247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;81;88",
+                "ref:De_Lijn": "503887",
+                "bus": "yes",
+                "name": "Wielsbeke Waterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.383905,
+                    50.910891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;81;88",
+                "ref:De_Lijn": "503781",
+                "bus": "yes",
+                "name": "Sint-Baafs-Vijve Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG SINT-BAAFS-VIJVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.390298,
+                    50.910486
                 ]
             }
         }

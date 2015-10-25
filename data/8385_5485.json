@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "303404",
+                "bus": "yes",
+                "name": "Steenhuffel Rond Punt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENHUFFELDORP STEENHUFFEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.262125,
+                    50.993425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "206167",
                 "bus": "yes",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     4.260432,
                     50.992902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;44",
-                "ref:De_Lijn": "207167",
-                "bus": "yes",
-                "name": "Steenhuffel Rond Punt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERBAAN STEENHUFFEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.260248,
-                    50.992353
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "251",
-                "ref:De_Lijn": "303404",
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "207167",
                 "bus": "yes",
                 "name": "Steenhuffel Rond Punt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENHUFFELDORP STEENHUFFEL",
+                "created_by": "HEERBAAN STEENHUFFEL",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.262125,
-                    50.993425
+                    4.260248,
+                    50.992353
                 ]
             }
         }

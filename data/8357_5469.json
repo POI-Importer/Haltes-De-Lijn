@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "96;195",
+                "route_ref:De_Lijn": "96",
                 "ref:De_Lijn": "202690",
                 "bus": "yes",
                 "name": "Kaprijke Wauterstraat",

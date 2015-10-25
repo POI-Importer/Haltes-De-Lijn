@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;93;95;97;99;99S",
-                "ref:De_Lijn": "204612",
-                "bus": "yes",
-                "name": "Kerkplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSTRAAT BURCHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.345136,
-                    51.201822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93;95;97;99;99S",
-                "ref:De_Lijn": "102857",
-                "bus": "yes",
-                "name": "Kampstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRBAAN BURCHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.335637,
-                    51.200498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;93;95;97;99;99S",
+                "route_ref:De_Lijn": "87;93;95;97;99",
                 "ref:De_Lijn": "205611",
                 "bus": "yes",
                 "name": "Kaai",
@@ -67,28 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "205622",
-                "bus": "yes",
-                "name": "Zwijndrechtsestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR COPLAAN BURCHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.338222,
-                    51.206512
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "102856",
                 "bus": "yes",
                 "name": "Kloosterstraat",
@@ -109,42 +45,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;93;95;97;99;99S",
-                "ref:De_Lijn": "205612",
+                "ref:De_Lijn": "102854",
                 "bus": "yes",
-                "name": "Kerkplein",
+                "name": "Boomgaardstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSTRAAT BURCHT",
+                "created_by": "PASTOOR COPLAAN BURCHT",
                 "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.345737,
-                    51.201624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93;95;97;99;99S",
-                "ref:De_Lijn": "204625",
-                "bus": "yes",
-                "name": "Kampstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRBAAN BURCHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.335865,
-                    51.200714
+                    4.340055,
+                    51.204751
                 ]
             }
         },
@@ -172,10 +86,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "204624",
+                "route_ref:De_Lijn": "87;93;95;97;99",
+                "ref:De_Lijn": "205612",
                 "bus": "yes",
-                "name": "Kloosterstraat",
+                "name": "Kerkplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT BURCHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345737,
+                    51.201624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "204623",
+                "bus": "yes",
+                "name": "Boomgaardstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PASTOOR COPLAAN BURCHT",
@@ -185,29 +120,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.343147,
-                    51.202459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "102854",
-                "bus": "yes",
-                "name": "Boomgaardstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR COPLAAN BURCHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.340055,
-                    51.204751
+                    4.340155,
+                    51.204481
                 ]
             }
         },
@@ -235,10 +149,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "204623",
+                "route_ref:De_Lijn": "93;95;97;99;99S",
+                "ref:De_Lijn": "204625",
                 "bus": "yes",
-                "name": "Boomgaardstraat",
+                "name": "Kampstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN BURCHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335865,
+                    51.200714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "205622",
+                "bus": "yes",
+                "name": "Zwijndrechtsestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PASTOOR COPLAAN BURCHT",
@@ -248,8 +183,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.340155,
-                    51.204481
+                    4.338222,
+                    51.206512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;93;95;97;99;99S",
+                "ref:De_Lijn": "204612",
+                "bus": "yes",
+                "name": "Kerkplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT BURCHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345136,
+                    51.201822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99",
+                "ref:De_Lijn": "102857",
+                "bus": "yes",
+                "name": "Kampstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN BURCHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335637,
+                    51.200498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "204624",
+                "bus": "yes",
+                "name": "Kloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR COPLAAN BURCHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.343147,
+                    51.202459
                 ]
             }
         }

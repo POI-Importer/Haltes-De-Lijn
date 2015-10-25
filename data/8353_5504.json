@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460;470",
-                "ref:De_Lijn": "208767",
-                "bus": "yes",
-                "name": "Wattripont Crucifix",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNIKSESTEENWEG RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.559532,
-                    50.7343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "209767",
                 "bus": "yes",
                 "name": "Wattripont Crucifix",
@@ -39,6 +18,26 @@
                 "coordinates": [
                     3.559249,
                     50.734298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208767",
+                "bus": "yes",
+                "name": "Wattripont Crucifix",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.559532,
+                    50.7343
                 ]
             }
         }

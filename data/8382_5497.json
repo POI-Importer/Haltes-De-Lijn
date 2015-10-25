@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "118;570;573",
+                "ref:De_Lijn": "301354",
+                "bus": "yes",
+                "name": "Schepdaal Levenslust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEESTRAAT SCHEPDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.196466,
+                    50.828842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "118;570;573",
                 "ref:De_Lijn": "306129",
                 "bus": "yes",
                 "name": "Schepdaal Caerenbergveld",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     4.195077,
                     50.831995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "118;570;573",
-                "ref:De_Lijn": "301354",
-                "bus": "yes",
-                "name": "Schepdaal Levenslust",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHEESTRAAT SCHEPDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.196466,
-                    50.828842
                 ]
             }
         }

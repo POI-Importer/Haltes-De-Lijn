@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150",
                 "ref:De_Lijn": "201874",
                 "bus": "yes",
                 "name": "Evergem Meerbeke",

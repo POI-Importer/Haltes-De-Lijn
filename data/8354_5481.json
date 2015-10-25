@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "200697",
-                "bus": "yes",
-                "name": "Landegem Houtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTSTRAAT LANDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.580785,
-                    51.047796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "86;125",
                 "ref:De_Lijn": "200745",
                 "bus": "yes",
                 "name": "Vosselare Tempeliersstraat",
@@ -45,7 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200697",
+                "bus": "yes",
+                "name": "Landegem Houtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580785,
+                    51.047796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "200690",
                 "bus": "yes",
                 "name": "Landegem Ter Varent",

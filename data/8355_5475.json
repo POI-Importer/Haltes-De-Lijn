@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
-                "ref:De_Lijn": "201725",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "202980",
                 "bus": "yes",
-                "name": "Zomergem Kerhoek",
+                "name": "Waarschoot Beke Center",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEIRLARE ZOMERGEM",
+                "created_by": "BEKE BEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.584237,
-                    51.129523
+                    3.602414,
+                    51.132708
                 ]
             }
         },
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69;160",
+                "route_ref:De_Lijn": "69",
                 "ref:De_Lijn": "202981",
                 "bus": "yes",
                 "name": "Waarschoot Beke Fabriek",
@@ -88,21 +88,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69;160",
-                "ref:De_Lijn": "202980",
+                "ref:De_Lijn": "201725",
                 "bus": "yes",
-                "name": "Waarschoot Beke Center",
+                "name": "Zomergem Kerhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEKE BEKE",
+                "created_by": "MEIRLARE ZOMERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.602414,
-                    51.132708
+                    3.584237,
+                    51.129523
                 ]
             }
         }

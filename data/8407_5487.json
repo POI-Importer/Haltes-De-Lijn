@@ -4,62 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "335;512",
-                "ref:De_Lijn": "304302",
+                "ref:De_Lijn": "307179",
                 "bus": "yes",
-                "name": "Rotselaar Heirbaan",
+                "name": "Rotselaar Schoolstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP WEZEMAAL HEIKANT (ROTSELAAR)",
+                "created_by": "SCHOOLSTRAAT HEIKANT (ROTSELAAR)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.744196,
-                    50.959917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306358",
-                "bus": "yes",
-                "name": "Rotselaar Steenweg op Gelrode",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP GELRODE HEIKANT (ROTSELAAR)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.738776,
-                    50.965786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "335;512",
-                "ref:De_Lijn": "304303",
-                "bus": "yes",
-                "name": "Rotselaar Heirbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP WEZEMAAL HEIKANT (ROTSELAAR)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.744228,
-                    50.960402
+                    4.738184,
+                    50.959306
                 ]
             }
         },
@@ -86,20 +44,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307179",
+                "ref:De_Lijn": "306357",
                 "bus": "yes",
-                "name": "Rotselaar Schoolstraat",
+                "name": "Rotselaar Steenweg op Gelrode",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "SCHOOLSTRAAT HEIKANT (ROTSELAAR)",
+                "created_by": "STEENWEG OP GELRODE HEIKANT (ROTSELAAR)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.738184,
-                    50.959306
+                    4.738818,
+                    50.965678
                 ]
             }
         },
@@ -148,11 +107,52 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306357",
+                "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "304302",
+                "bus": "yes",
+                "name": "Rotselaar Heirbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP WEZEMAAL HEIKANT (ROTSELAAR)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.744196,
+                    50.959917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "304303",
+                "bus": "yes",
+                "name": "Rotselaar Heirbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP WEZEMAAL HEIKANT (ROTSELAAR)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.744228,
+                    50.960402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306358",
                 "bus": "yes",
                 "name": "Rotselaar Steenweg op Gelrode",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "STEENWEG OP GELRODE HEIKANT (ROTSELAAR)",
                 "operator": "De Lijn",
@@ -161,8 +161,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.738818,
-                    50.965678
+                    4.738776,
+                    50.965786
                 ]
             }
         }

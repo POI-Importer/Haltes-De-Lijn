@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
-                "ref:De_Lijn": "105327",
-                "bus": "yes",
-                "name": "Berendrecht Zoutestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZOUTESTRAAT ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.306036,
-                    51.350481
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
                 "ref:De_Lijn": "105331",
                 "bus": "yes",
                 "name": "Zandvliet Bakkerstraat",
@@ -46,8 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
-                "ref:De_Lijn": "105328",
+                "ref:De_Lijn": "105327",
                 "bus": "yes",
                 "name": "Berendrecht Zoutestraat",
                 "public_transport": "platform",
@@ -59,15 +36,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.30618,
-                    51.350068
+                    4.306036,
+                    51.350481
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
                 "ref:De_Lijn": "105329",
                 "bus": "yes",
                 "name": "Zandvliet Bakkerstraat",
@@ -82,6 +58,26 @@
                 "coordinates": [
                     4.306402,
                     51.355847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105328",
+                "bus": "yes",
+                "name": "Berendrecht Zoutestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOUTESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.30618,
+                    51.350068
                 ]
             }
         }

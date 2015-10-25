@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;89",
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "503819",
+                "bus": "yes",
+                "name": "Tiegem Ommegangstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT TIEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.47089,
+                    50.812598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
                 "ref:De_Lijn": "503817",
                 "bus": "yes",
                 "name": "Tiegem Baskuul",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;89",
-                "ref:De_Lijn": "503819",
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "503821",
                 "bus": "yes",
-                "name": "Tiegem Ommegangstraat",
+                "name": "Tiegem Sint Arnolduspark",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAPELLESTRAAT TIEGEM",
+                "created_by": "N494 TIEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.47089,
-                    50.812598
+                    3.468896,
+                    50.814443
                 ]
             }
         },
@@ -68,48 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "72;81;89",
-                "ref:De_Lijn": "508821",
-                "bus": "yes",
-                "name": "Tiegem Sint Arnolduspark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N494 TIEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.468741,
-                    50.814406
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;81;89",
-                "ref:De_Lijn": "508816",
-                "bus": "yes",
-                "name": "Tiegem Barrière",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N36 TIEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.452412,
-                    50.806872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;81;89",
                 "ref:De_Lijn": "508819",
                 "bus": "yes",
                 "name": "Tiegem Ommegangstraat",
@@ -130,7 +109,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;89",
+                "route_ref:De_Lijn": "72;81;89",
+                "ref:De_Lijn": "508821",
+                "bus": "yes",
+                "name": "Tiegem Sint Arnolduspark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N494 TIEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.468741,
+                    50.814406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
                 "ref:De_Lijn": "503818",
                 "bus": "yes",
                 "name": "Tiegem Bomstraat",
@@ -172,28 +172,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;89",
-                "ref:De_Lijn": "503821",
+                "route_ref:De_Lijn": "72;81;89",
+                "ref:De_Lijn": "508816",
                 "bus": "yes",
-                "name": "Tiegem Sint Arnolduspark",
+                "name": "Tiegem Barrière",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N494 TIEGEM",
+                "created_by": "N36 TIEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.468896,
-                    50.814443
+                    3.452412,
+                    50.806872
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;89",
+                "route_ref:De_Lijn": "72",
                 "ref:De_Lijn": "503816",
                 "bus": "yes",
                 "name": "Tiegem Barrière",

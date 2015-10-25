@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408858",
+                "ref:De_Lijn": "408893",
                 "bus": "yes",
-                "name": "'s Gravenvoeren Ottegraeven",
+                "name": "Sint-Martens-Voeren Vogelstang",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OTTEGRAEVEN 'S-GRAVENVOEREN",
+                "created_by": "SINT-MARTENSTRAAT SINT-MARTENS-VOEREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.801281,
-                    50.749732
+                    5.814112,
+                    50.748009
                 ]
             }
         },
@@ -26,49 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408903",
-                "bus": "yes",
-                "name": "Sint-Pieters-Voeren Knap",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KNAP SINT-MARTENS-VOEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.817165,
-                    50.744069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408884",
-                "bus": "yes",
-                "name": "Sint-Martens-Voeren Rijkswacht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EINDE SINT-MARTENS-VOEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.808507,
-                    50.748717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408888",
+                "ref:De_Lijn": "408889",
                 "bus": "yes",
                 "name": "Sint-Martens-Voeren Station",
                 "public_transport": "platform",
@@ -80,50 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.815541,
-                    50.746553
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408907",
-                "bus": "yes",
-                "name": "Sint-Pieters-Voeren Sint-Annakapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CRUTZBERG SINT-PIETERS-VOEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.822564,
-                    50.740379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408885",
-                "bus": "yes",
-                "name": "Sint-Martens-Voeren Rijkswacht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EINDE SINT-MARTENS-VOEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.808271,
-                    50.748882
+                    5.815698,
+                    50.746587
                 ]
             }
         },
@@ -152,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408892",
+                "ref:De_Lijn": "408884",
                 "bus": "yes",
-                "name": "Sint-Martens-Voeren Vogelstang",
+                "name": "Sint-Martens-Voeren Rijkswacht",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-MARTENSTRAAT SINT-MARTENS-VOEREN",
+                "created_by": "EINDE SINT-MARTENS-VOEREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.814432,
-                    50.747826
+                    5.808507,
+                    50.748717
                 ]
             }
         },
@@ -173,41 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408859",
+                "ref:De_Lijn": "408903",
                 "bus": "yes",
-                "name": "'s Gravenvoeren Ottegraeven",
+                "name": "Sint-Pieters-Voeren Knap",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OTTEGRAEVEN 'S-GRAVENVOEREN",
+                "created_by": "KNAP SINT-MARTENS-VOEREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.801145,
-                    50.749904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408893",
-                "bus": "yes",
-                "name": "Sint-Martens-Voeren Vogelstang",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-MARTENSTRAAT SINT-MARTENS-VOEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.814112,
-                    50.748009
+                    5.817165,
+                    50.744069
                 ]
             }
         },
@@ -236,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408889",
+                "ref:De_Lijn": "408888",
                 "bus": "yes",
                 "name": "Sint-Martens-Voeren Station",
                 "public_transport": "platform",
@@ -248,8 +143,113 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.815698,
-                    50.746587
+                    5.815541,
+                    50.746553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408885",
+                "bus": "yes",
+                "name": "Sint-Martens-Voeren Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDE SINT-MARTENS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.808271,
+                    50.748882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408859",
+                "bus": "yes",
+                "name": "'s Gravenvoeren Ottegraeven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OTTEGRAEVEN 'S-GRAVENVOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.801145,
+                    50.749904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408892",
+                "bus": "yes",
+                "name": "Sint-Martens-Voeren Vogelstang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MARTENSTRAAT SINT-MARTENS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.814432,
+                    50.747826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408907",
+                "bus": "yes",
+                "name": "Sint-Pieters-Voeren Sint-Annakapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CRUTZBERG SINT-PIETERS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.822564,
+                    50.740379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408858",
+                "bus": "yes",
+                "name": "'s Gravenvoeren Ottegraeven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OTTEGRAEVEN 'S-GRAVENVOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.801281,
+                    50.749732
                 ]
             }
         }

@@ -4,7 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385",
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "202885",
+                "bus": "yes",
+                "name": "Bavegem Parochiecentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKKOUTERSTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.867573,
+                    50.944971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "206998",
                 "bus": "yes",
                 "name": "Oordegem Ouden Heirweg",
@@ -25,7 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385;390",
                 "ref:De_Lijn": "207868",
                 "bus": "yes",
                 "name": "Vlierzele Bussegem",
@@ -46,7 +65,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "47;390",
+                "route_ref:De_Lijn": "47",
                 "ref:De_Lijn": "202886",
                 "bus": "yes",
                 "name": "Bavegem Lindestraat",
@@ -82,27 +101,6 @@
                 "coordinates": [
                     3.86766,
                     50.944881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "47;390",
-                "ref:De_Lijn": "202885",
-                "bus": "yes",
-                "name": "Bavegem Parochiecentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKKOUTERSTRAAT BAVEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.867573,
-                    50.944971
                 ]
             }
         }

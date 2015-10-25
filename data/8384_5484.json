@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207710",
                 "bus": "yes",
                 "name": "Buggenhout Eikendreef",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207732",
                 "bus": "yes",
                 "name": "Malderen Kapel Zwaluwstraat",

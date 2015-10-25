@@ -4,30 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "501507",
-                "zone:De_Lijn": "01",
-                "name": "De Panne Kerk",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "WESTHOEKLAAN DE PANNE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.588845,
-                    51.093364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "501072",
+                "ref:De_Lijn": "506072",
                 "bus": "yes",
                 "name": "De Panne Kerk",
                 "public_transport": "platform",
@@ -39,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.589779,
-                    51.09283
+                    2.589928,
+                    51.093048
                 ]
             }
         },
@@ -91,6 +69,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "501072",
+                "bus": "yes",
+                "name": "De Panne Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.589779,
+                    51.09283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "505824",
                 "bus": "yes",
                 "name": "De Panne De Boare",
@@ -111,21 +110,22 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "506072",
-                "bus": "yes",
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501507",
+                "zone:De_Lijn": "01",
                 "name": "De Panne Kerk",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT DE PANNE",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "WESTHOEKLAAN DE PANNE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.589928,
-                    51.093048
+                    2.588845,
+                    51.093364
                 ]
             }
         }

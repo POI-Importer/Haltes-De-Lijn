@@ -4,70 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207778",
-                "bus": "yes",
-                "name": "Robert Schumanstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAUL-HENRI SPAAKSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.620683,
-                    50.746259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71",
-                "ref:De_Lijn": "207768",
-                "bus": "yes",
-                "name": "Hendrik Consciencestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELZEELSESTEENWEG RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.615149,
-                    50.742285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;23;24;61;62;63;460;470;62S",
-                "ref:De_Lijn": "208189",
-                "bus": "yes",
-                "name": "Veemarkt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N48 RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.6044,
-                    50.748958
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;460",
+                "route_ref:De_Lijn": "72",
                 "ref:De_Lijn": "207760",
                 "bus": "yes",
                 "name": "Bredestraat",
@@ -88,157 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207780",
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207751",
                 "bus": "yes",
-                "name": "Hendrik Consciencestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELZEELSESTEENWEG RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.615275,
-                    50.742376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207773",
-                "bus": "yes",
-                "name": "Grote Marijve",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.607579,
-                    50.746938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207767",
-                "bus": "yes",
-                "name": "Van Wynghenestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVIDE DECROLYLAAN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.610745,
-                    50.742122
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207759",
-                "bus": "yes",
-                "name": "Lorettestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GERAARDSBERGENSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.624127,
-                    50.749751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;73;74;460;470",
-                "ref:De_Lijn": "207783",
-                "bus": "yes",
-                "name": "Eugène Soudansquare",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE BIESESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.603556,
-                    50.749474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;23;24;25;61;62;63;72;62S",
-                "ref:De_Lijn": "209190",
-                "bus": "yes",
-                "name": "Olifantstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OLIFANTSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.605757,
-                    50.745677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "207781",
-                "bus": "yes",
-                "name": "Nijverheidstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELZEELSESTEENWEG RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.611675,
-                    50.744205
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207756",
-                "bus": "yes",
-                "name": "Elzeelsesteenweg",
+                "name": "Scheldekouter",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SCHELDEKOUTER RONSE",
@@ -248,15 +38,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.615913,
-                    50.740609
+                    3.613289,
+                    50.741626
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;460",
+                "route_ref:De_Lijn": "71",
                 "ref:De_Lijn": "207752",
                 "bus": "yes",
                 "name": "Aatstraat",
@@ -291,6 +81,132 @@
                 "coordinates": [
                     3.620148,
                     50.739773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207774",
+                "bus": "yes",
+                "name": "OCMW",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OSCAR DELGHUSTSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614507,
+                    50.748745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;73;74",
+                "ref:De_Lijn": "207782",
+                "bus": "yes",
+                "name": "Zuidstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604482,
+                    50.744761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207769",
+                "bus": "yes",
+                "name": "Nijverheidstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEELSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.611592,
+                    50.744096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207777",
+                "bus": "yes",
+                "name": "Rotterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERMINAL RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.621887,
+                    50.747156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207778",
+                "bus": "yes",
+                "name": "Robert Schumanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAUL-HENRI SPAAKSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.620683,
+                    50.746259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207780",
+                "bus": "yes",
+                "name": "Hendrik Consciencestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEELSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615275,
+                    50.742376
                 ]
             }
         },
@@ -339,175 +255,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207777",
-                "bus": "yes",
-                "name": "Rotterij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GERMINAL RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.621887,
-                    50.747156
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207751",
-                "bus": "yes",
-                "name": "Scheldekouter",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHELDEKOUTER RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.613289,
-                    50.741626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207776",
-                "bus": "yes",
-                "name": "Geraardsbergenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GERAARDSBERGENSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.619299,
-                    50.748623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207769",
-                "bus": "yes",
-                "name": "Nijverheidstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELZEELSESTEENWEG RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.611592,
-                    50.744096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;73;74;460;470",
-                "ref:De_Lijn": "207782",
-                "bus": "yes",
-                "name": "Zuidstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZUIDSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.604482,
-                    50.744761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207766",
-                "bus": "yes",
-                "name": "Rode Broeckstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RODE BROECKSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.605772,
-                    50.739519
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207757",
-                "bus": "yes",
-                "name": "Europastraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EUROPASTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.617898,
-                    50.744946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207779",
-                "bus": "yes",
-                "name": "Blauwe Steen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HENDRIK CONSCIENCESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.615647,
-                    50.743952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;23;24;61;62;63;71;72;460;470;62S",
+                "route_ref:De_Lijn": "21;22;23;24;61;62;71;72",
                 "ref:De_Lijn": "208190",
                 "bus": "yes",
                 "name": "Olifantstraat",
@@ -528,7 +276,174 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207768",
+                "bus": "yes",
+                "name": "Hendrik Consciencestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEELSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615149,
+                    50.742285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207779",
+                "bus": "yes",
+                "name": "Blauwe Steen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615647,
+                    50.743952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207766",
+                "bus": "yes",
+                "name": "Rode Broeckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODE BROECKSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.605772,
+                    50.739519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207757",
+                "bus": "yes",
+                "name": "Europastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPASTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.617898,
+                    50.744946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207776",
+                "bus": "yes",
+                "name": "Geraardsbergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGENSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619299,
+                    50.748623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207756",
+                "bus": "yes",
+                "name": "Elzeelsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDEKOUTER RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615913,
+                    50.740609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207767",
+                "bus": "yes",
+                "name": "Van Wynghenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVIDE DECROLYLAAN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.610745,
+                    50.742122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207759",
+                "bus": "yes",
+                "name": "Lorettestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGENSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.624127,
+                    50.749751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "208757",
                 "bus": "yes",
                 "name": "Sint-Antoniuskerk",
@@ -549,21 +464,105 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;460",
-                "ref:De_Lijn": "207774",
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207781",
                 "bus": "yes",
-                "name": "OCMW",
+                "name": "Nijverheidstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OSCAR DELGHUSTSTRAAT RONSE",
+                "created_by": "ELZEELSESTEENWEG RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.614507,
-                    50.748745
+                    3.611675,
+                    50.744205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25;61;62;63;72;62S",
+                "ref:De_Lijn": "209190",
+                "bus": "yes",
+                "name": "Olifantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLIFANTSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.605757,
+                    50.745677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;73;74",
+                "ref:De_Lijn": "207783",
+                "bus": "yes",
+                "name": "Eugène Soudansquare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE BIESESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603556,
+                    50.749474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "207773",
+                "bus": "yes",
+                "name": "Grote Marijve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607579,
+                    50.746938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;61;62",
+                "ref:De_Lijn": "208189",
+                "bus": "yes",
+                "name": "Veemarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N48 RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6044,
+                    50.748958
                 ]
             }
         }

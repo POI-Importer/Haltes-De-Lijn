@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "200385",
-                "bus": "yes",
-                "name": "De Pinte Oude Gentweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE GENTWEG DE PINTE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.664122,
-                    51.002613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;78;145",
+                "route_ref:De_Lijn": "76;78",
                 "ref:De_Lijn": "200081",
                 "bus": "yes",
                 "name": "De Pinte Te Lande",
@@ -46,7 +25,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201282",
+                "bus": "yes",
+                "name": "De Pinte Den Duiver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEISTRAAT SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.650161,
+                    51.005324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "200475",
                 "bus": "yes",
                 "name": "Sint-Denijs-Westrem Belgielaan",
@@ -67,7 +65,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;78;145",
+                "route_ref:De_Lijn": "76;78",
+                "ref:De_Lijn": "201081",
+                "bus": "yes",
+                "name": "De Pinte Te Lande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARON DE GIEYLAAN DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.658222,
+                    51.008393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200385",
+                "bus": "yes",
+                "name": "De Pinte Oude Gentweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE GENTWEG DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.664122,
+                    51.002613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;78",
                 "ref:De_Lijn": "208958",
                 "bus": "yes",
                 "name": "De Pinte Florastraat",
@@ -103,48 +142,6 @@
                 "coordinates": [
                     3.657855,
                     51.004391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;78",
-                "ref:De_Lijn": "201081",
-                "bus": "yes",
-                "name": "De Pinte Te Lande",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BARON DE GIEYLAAN DE PINTE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.658222,
-                    51.008393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "201282",
-                "bus": "yes",
-                "name": "De Pinte Den Duiver",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEISTRAAT SINT-MARTENS-LATEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.650161,
-                    51.005324
                 ]
             }
         }

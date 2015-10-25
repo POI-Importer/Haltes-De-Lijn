@@ -5,20 +5,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400015",
+                "ref:De_Lijn": "400199",
                 "bus": "yes",
-                "name": "Hulsen Bergen",
+                "name": "Balen Grees Karrestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERGEN HULSEN",
+                "created_by": "GREES HULSEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.114092,
-                    51.152061
+                    5.105491,
+                    51.154066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400431",
+                "bus": "yes",
+                "name": "Balen Grees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GREES HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11465,
+                    51.156525
                 ]
             }
         },
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.101845,
                     51.161289
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400199",
-                "bus": "yes",
-                "name": "Balen Grees Karrestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GREES HULSEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.105491,
-                    51.154066
                 ]
             }
         },
@@ -110,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400431",
+                "ref:De_Lijn": "400015",
                 "bus": "yes",
-                "name": "Balen Grees",
+                "name": "Hulsen Bergen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GREES HULSEN",
+                "created_by": "BERGEN HULSEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.11465,
-                    51.156525
+                    5.114092,
+                    51.152061
                 ]
             }
         }

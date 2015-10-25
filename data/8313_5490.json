@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "24;59;69",
-                "ref:De_Lijn": "509486",
-                "bus": "yes",
-                "name": "Stavele Hondspootstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROMBEKESTRAAT STAVELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.671792,
-                    50.930701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24;59;69",
-                "ref:De_Lijn": "509489",
-                "bus": "yes",
-                "name": "Stavele Zuidhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROMBEKESTRAAT STAVELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.673765,
-                    50.927285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "59;69",
                 "ref:De_Lijn": "504723",
                 "bus": "yes",
@@ -82,6 +40,48 @@
                 "coordinates": [
                     2.67395,
                     50.92727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;59;69",
+                "ref:De_Lijn": "509486",
+                "bus": "yes",
+                "name": "Stavele Hondspootstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMBEKESTRAAT STAVELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.671792,
+                    50.930701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;59;69",
+                "ref:De_Lijn": "509489",
+                "bus": "yes",
+                "name": "Stavele Zuidhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMBEKESTRAAT STAVELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.673765,
+                    50.927285
                 ]
             }
         }

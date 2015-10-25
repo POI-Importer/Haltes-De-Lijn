@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;24;28;30",
-                "ref:De_Lijn": "504283",
-                "bus": "yes",
-                "name": "Merkem Kippe",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT MERKEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.865496,
-                    50.956804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "20;28",
                 "ref:De_Lijn": "504280",
                 "bus": "yes",
@@ -47,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20;24;28;30",
-                "ref:De_Lijn": "509283",
+                "ref:De_Lijn": "504283",
                 "bus": "yes",
                 "name": "Merkem Kippe",
                 "public_transport": "platform",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.86545,
-                    50.956921
+                    2.865496,
+                    50.956804
                 ]
             }
         },
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.861376,
                     50.947698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;24;28;30",
+                "ref:De_Lijn": "509283",
+                "bus": "yes",
+                "name": "Merkem Kippe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.86545,
+                    50.956921
                 ]
             }
         }

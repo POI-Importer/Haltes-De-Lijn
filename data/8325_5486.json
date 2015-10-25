@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "509148",
-                "bus": "yes",
-                "name": "Houthulst Zegestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.941095,
-                    50.975692
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "509147",
-                "bus": "yes",
-                "name": "Houthulst Vijverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.936028,
-                    50.973725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "504147",
-                "bus": "yes",
-                "name": "Houthulst Vijverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.936033,
-                    50.973572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "28",
                 "ref:De_Lijn": "505708",
                 "bus": "yes",
@@ -109,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509147",
+                "bus": "yes",
+                "name": "Houthulst Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.936028,
+                    50.973725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "28",
                 "ref:De_Lijn": "505709",
                 "bus": "yes",
@@ -124,6 +82,48 @@
                 "coordinates": [
                     2.931621,
                     50.98045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "504147",
+                "bus": "yes",
+                "name": "Houthulst Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.936033,
+                    50.973572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509148",
+                "bus": "yes",
+                "name": "Houthulst Zegestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.941095,
+                    50.975692
                 ]
             }
         }

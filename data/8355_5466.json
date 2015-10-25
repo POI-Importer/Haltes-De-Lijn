@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
-                "ref:De_Lijn": "200905",
-                "bus": "yes",
-                "name": "Sint-Jan-In-Eremo Oostpolderkreek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT SINT-JAN-IN-EREMO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.582382,
-                    51.260202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200932",
                 "bus": "yes",
                 "name": "Bentille Sint-Jan",
@@ -40,6 +18,26 @@
                 "coordinates": [
                     3.595275,
                     51.248997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200905",
+                "bus": "yes",
+                "name": "Sint-Jan-In-Eremo Oostpolderkreek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT SINT-JAN-IN-EREMO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.582382,
+                    51.260202
                 ]
             }
         }

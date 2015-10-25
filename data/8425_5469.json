@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "107664",
-                "bus": "yes",
-                "name": "Mol Boerestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRANDSTRAAT SLUIS (MOL)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.135623,
-                    51.209803
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "108887",
                 "bus": "yes",
                 "name": "Mol Holleweg",
@@ -65,6 +44,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "107667",
+                "bus": "yes",
+                "name": "Mol Sint-Bernardusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUIS SLUIS (MOL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.133369,
+                    51.211103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107669",
                 "bus": "yes",
                 "name": "Mol Katerat",
@@ -85,7 +84,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;475",
+                "ref:De_Lijn": "107664",
+                "bus": "yes",
+                "name": "Mol Boerestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRANDSTRAAT SLUIS (MOL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.135623,
+                    51.209803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107666",
                 "bus": "yes",
                 "name": "Mol Boerestraat",
@@ -100,26 +118,6 @@
                 "coordinates": [
                     5.135561,
                     51.209534
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "107667",
-                "bus": "yes",
-                "name": "Mol Sint-Bernardusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SLUIS SLUIS (MOL)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.133369,
-                    51.211103
                 ]
             }
         }

@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "208771",
+                "bus": "yes",
+                "name": "Mater Boskantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKANT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.652935,
+                    50.856291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "209313",
                 "bus": "yes",
                 "name": "Mater Casterstraat",
@@ -47,48 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "209771",
-                "bus": "yes",
-                "name": "Mater Boskantstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSKANT OUDENAARDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.65299,
-                    50.856373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;445",
-                "ref:De_Lijn": "208771",
-                "bus": "yes",
-                "name": "Mater Boskantstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSKANT OUDENAARDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.652935,
-                    50.856291
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;445",
                 "ref:De_Lijn": "208313",
                 "bus": "yes",
                 "name": "Mater Casterstraat",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     3.655189,
                     50.854642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "209771",
+                "bus": "yes",
+                "name": "Mater Boskantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKANT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65299,
+                    50.856373
                 ]
             }
         }

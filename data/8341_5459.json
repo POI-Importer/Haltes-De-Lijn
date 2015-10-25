@@ -5,28 +5,49 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "501166",
+                "ref:De_Lijn": "501165",
                 "bus": "yes",
-                "name": "Knokke Zoutelaan",
+                "name": "Knokke Meerlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BAYAUXLAAN ALBERTSTRAND",
+                "created_by": "MEERLAAN KNOKKE (KNOKKE-HEIST)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.288052,
-                    51.348832
+                    3.275836,
+                    51.345808
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "501142",
+                "route_ref:De_Lijn": "12;41",
+                "ref:De_Lijn": "509838",
+                "bus": "yes",
+                "name": "Knokke Elizabetlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOUTELAAN HET ZOUTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.294838,
+                    51.350242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;41",
+                "ref:De_Lijn": "506142",
                 "bus": "yes",
                 "name": "Knokke Casino",
                 "public_transport": "platform",
@@ -38,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.280098,
-                    51.347681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;41",
-                "ref:De_Lijn": "506154",
-                "bus": "yes",
-                "name": "Knokke Meerminlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAYAUXLAAN ALBERTSTRAND",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.284162,
-                    51.348851
+                    3.27944,
+                    51.347612
                 ]
             }
         },
@@ -109,21 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12;41",
-                "ref:De_Lijn": "509838",
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "501154",
                 "bus": "yes",
-                "name": "Knokke Elizabetlaan",
+                "name": "Knokke Meerminlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZOUTELAAN HET ZOUTE",
+                "created_by": "BAYAUXLAAN ALBERTSTRAND",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.294838,
-                    51.350242
+                    3.284792,
+                    51.34892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "501142",
+                "bus": "yes",
+                "name": "Knokke Casino",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAYAUXLAAN ALBERTSTRAND",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.280098,
+                    51.347681
                 ]
             }
         },
@@ -152,7 +173,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "501154",
+                "ref:De_Lijn": "501166",
+                "bus": "yes",
+                "name": "Knokke Zoutelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAYAUXLAAN ALBERTSTRAND",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.288052,
+                    51.348832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;41",
+                "ref:De_Lijn": "506154",
                 "bus": "yes",
                 "name": "Knokke Meerminlaan",
                 "public_transport": "platform",
@@ -164,50 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.284792,
-                    51.34892
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "501165",
-                "bus": "yes",
-                "name": "Knokke Meerlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEERLAAN KNOKKE (KNOKKE-HEIST)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.275836,
-                    51.345808
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;41",
-                "ref:De_Lijn": "506142",
-                "bus": "yes",
-                "name": "Knokke Casino",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAYAUXLAAN ALBERTSTRAND",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.27944,
-                    51.347612
+                    3.284162,
+                    51.348851
                 ]
             }
         }

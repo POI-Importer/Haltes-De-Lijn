@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "201920",
-                "bus": "yes",
-                "name": "Wetteren Driebunderstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SMETLEDESTRAAT WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.896931,
-                    50.995667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "201919",
                 "bus": "yes",
                 "name": "Massemen Papeleustraat",
@@ -46,7 +24,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;130",
+                "ref:De_Lijn": "201920",
+                "bus": "yes",
+                "name": "Wetteren Driebunderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMETLEDESTRAAT WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.896931,
+                    50.995667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "201088",
                 "bus": "yes",
                 "name": "Wetteren Peyzershoek",
@@ -67,28 +65,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "206870",
-                "bus": "yes",
-                "name": "Wetteren Baeveweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ADOLF PAPELEUSTRAAT WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.907018,
-                    50.989729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;130",
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "200088",
                 "bus": "yes",
                 "name": "Wetteren Peyzershoek",
@@ -103,6 +80,26 @@
                 "coordinates": [
                     3.908563,
                     50.997798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206870",
+                "bus": "yes",
+                "name": "Wetteren Baeveweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ADOLF PAPELEUSTRAAT WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.907018,
+                    50.989729
                 ]
             }
         }

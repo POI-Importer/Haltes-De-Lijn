@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "201814",
+                "bus": "yes",
+                "name": "Kruishoutem Tsjoenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOKEREDORPSTRAAT NOKERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.522722,
+                    50.881505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "209328",
                 "bus": "yes",
@@ -25,28 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "201814",
-                "bus": "yes",
-                "name": "Kruishoutem Tsjoenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NOKEREDORPSTRAAT NOKERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.522722,
-                    50.881505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "201774",
                 "bus": "yes",
                 "name": "Nokere Gapaardstraat",
@@ -67,7 +65,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;450",
+                "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "208328",
                 "bus": "yes",
                 "name": "Kruishoutem Anzegemsesteenweg",

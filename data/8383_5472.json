@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "204311",
                 "bus": "yes",
                 "name": "Sint-Niklaas Krekel",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "205311",
                 "bus": "yes",
                 "name": "Sint-Niklaas Krekel",
@@ -46,7 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "204449",
                 "bus": "yes",
                 "name": "Haasdonk Dennenlaan",

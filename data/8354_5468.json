@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
+                "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "202251",
                 "bus": "yes",
                 "name": "Kaprijke Eerstestraat",

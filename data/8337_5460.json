@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "505781",
-                "bus": "yes",
-                "name": "Zeebrugge Appelzak",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRAAF JANSDIJK ZEEBRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.203324,
-                    51.33487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "47",
                 "ref:De_Lijn": "500601",
                 "bus": "yes",
@@ -46,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;45;47;92",
-                "ref:De_Lijn": "501456",
-                "bus": "yes",
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501457",
                 "name": "Zeebrugge Kerk",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-DONAASSTRAAT ZEEBRUGGE",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KUSTLAAN ZEEBRUGGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.206907,
-                    51.331598
+                    3.206245,
+                    51.331681
                 ]
             }
         },
@@ -110,21 +89,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "501457",
-                "name": "Zeebrugge Kerk",
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "505781",
+                "bus": "yes",
+                "name": "Zeebrugge Appelzak",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "KUSTLAAN ZEEBRUGGE",
+                "highway": "bus_stop",
+                "created_by": "GRAAF JANSDIJK ZEEBRUGGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.206245,
-                    51.331681
+                    3.203324,
+                    51.33487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;45;47;92",
+                "ref:De_Lijn": "501456",
+                "bus": "yes",
+                "name": "Zeebrugge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-DONAASSTRAAT ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.206907,
+                    51.331598
                 ]
             }
         }

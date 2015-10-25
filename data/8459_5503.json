@@ -26,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408842",
+                "bus": "yes",
+                "name": "Remersdaal Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OBSINNICH REMERSDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.886945,
+                    50.740577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
                 "ref:De_Lijn": "408843",
                 "bus": "yes",
                 "name": "Remersdaal Station",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.882489,
                     50.747441
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408842",
-                "bus": "yes",
-                "name": "Remersdaal Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OBSINNICH REMERSDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.886945,
-                    50.740577
                 ]
             }
         }

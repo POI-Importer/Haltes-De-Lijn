@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;32;33;34",
-                "ref:De_Lijn": "206119",
+                "ref:De_Lijn": "206126",
                 "bus": "yes",
-                "name": "Aalst De Haring",
+                "name": "Erembodegem Orangeriestraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GERAARDSBERGSESTRAAT EREMBODEGEM",
+                "created_by": "NINOVESTEENWEG EREMBODEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.035724,
-                    50.9265
+                    4.042055,
+                    50.918077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;31;32;33",
+                "ref:De_Lijn": "207810",
+                "bus": "yes",
+                "name": "Erembodegem Orangeriestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NINOVESTEENWEG EREMBODEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.042042,
+                    50.917933
                 ]
             }
         },
@@ -47,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;32;33;34",
-                "ref:De_Lijn": "207119",
-                "bus": "yes",
-                "name": "Aalst De Haring",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GERAARDSBERGSESTRAAT AALST (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.035279,
-                    50.927065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;32;33;34",
                 "ref:De_Lijn": "207117",
                 "bus": "yes",
                 "name": "Erembodegem Villalaan",
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "2;31;32;33",
-                "ref:De_Lijn": "207810",
+                "ref:De_Lijn": "206810",
                 "bus": "yes",
                 "name": "Erembodegem Orangeriestraat",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.042042,
-                    50.917933
+                    4.042098,
+                    50.918059
                 ]
             }
         },
@@ -110,28 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;32;33;34",
-                "ref:De_Lijn": "206117",
-                "bus": "yes",
-                "name": "Erembodegem Villalaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NINOVESTEENWEG EREMBODEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.038457,
-                    50.920027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;32;33;34",
-                "ref:De_Lijn": "207118",
+                "ref:De_Lijn": "206118",
                 "bus": "yes",
                 "name": "Erembodegem Ninovesteenweg",
                 "public_transport": "platform",
@@ -143,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.036223,
-                    50.922322
+                    4.036422,
+                    50.922286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;33;34",
+                "ref:De_Lijn": "207120",
+                "bus": "yes",
+                "name": "Aalst Blanckaertdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKLAAN AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.04062,
+                    50.930074
                 ]
             }
         },
@@ -173,9 +173,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;32;33;34",
-                "ref:De_Lijn": "206118",
+                "ref:De_Lijn": "206117",
                 "bus": "yes",
-                "name": "Erembodegem Ninovesteenweg",
+                "name": "Erembodegem Villalaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NINOVESTEENWEG EREMBODEGEM",
@@ -185,29 +185,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.036422,
-                    50.922286
+                    4.038457,
+                    50.920027
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "2;31;34",
-                "ref:De_Lijn": "206116",
+                "route_ref:De_Lijn": "31;32;33;34",
+                "ref:De_Lijn": "206119",
                 "bus": "yes",
-                "name": "Erembodegem Groene Weg",
+                "name": "Aalst De Haring",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROENEWEG EREMBODEGEM",
+                "created_by": "GERAARDSBERGSESTRAAT EREMBODEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.040524,
-                    50.9173
+                    4.035724,
+                    50.9265
                 ]
             }
         },
@@ -236,31 +236,52 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;32;33;34",
-                "ref:De_Lijn": "207120",
+                "ref:De_Lijn": "207119",
                 "bus": "yes",
-                "name": "Aalst Blanckaertdreef",
+                "name": "Aalst De Haring",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PARKLAAN AALST (OOST-VLAANDEREN)",
+                "created_by": "GERAARDSBERGSESTRAAT AALST (OOST-VLAANDEREN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.04062,
-                    50.930074
+                    4.035279,
+                    50.927065
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206126",
+                "route_ref:De_Lijn": "2;31;34",
+                "ref:De_Lijn": "206116",
                 "bus": "yes",
-                "name": "Erembodegem Orangeriestraat",
+                "name": "Erembodegem Groene Weg",
                 "public_transport": "platform",
-                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROENEWEG EREMBODEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.040524,
+                    50.9173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;33;34",
+                "ref:De_Lijn": "207118",
+                "bus": "yes",
+                "name": "Erembodegem Ninovesteenweg",
+                "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NINOVESTEENWEG EREMBODEGEM",
                 "operator": "De Lijn",
@@ -269,29 +290,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.042055,
-                    50.918077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "2;31;32;33",
-                "ref:De_Lijn": "206810",
-                "bus": "yes",
-                "name": "Erembodegem Orangeriestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NINOVESTEENWEG EREMBODEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.042098,
-                    50.918059
+                    4.036223,
+                    50.922322
                 ]
             }
         }

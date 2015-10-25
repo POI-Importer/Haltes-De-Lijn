@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;195",
+                "route_ref:De_Lijn": "66",
                 "ref:De_Lijn": "202395",
                 "bus": "yes",
                 "name": "Eeklo Revam",
@@ -25,28 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "203436",
-                "bus": "yes",
-                "name": "Eeklo Raverschootbrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RAVERSCHOOT ADEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.525952,
-                    51.189619
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;62;195",
+                "route_ref:De_Lijn": "58;62",
                 "ref:De_Lijn": "202138",
                 "bus": "yes",
                 "name": "Eeklo Galgenakker",
@@ -88,7 +67,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "203436",
+                "bus": "yes",
+                "name": "Eeklo Raverschootbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAVERSCHOOT ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.525952,
+                    51.189619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "200953",
                 "bus": "yes",
                 "name": "Eeklo Raverschootbrug",

@@ -4,26 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "107579",
-                "bus": "yes",
-                "name": "Dessel Kuilstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TURNHOUTSEBAAN DESSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.107568,
-                    51.25
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "107581",
                 "bus": "yes",
                 "name": "Dessel Kuilstraat",
@@ -58,6 +38,26 @@
                 "coordinates": [
                     5.098144,
                     51.258302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107579",
+                "bus": "yes",
+                "name": "Dessel Kuilstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.107568,
+                    51.25
                 ]
             }
         }

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "504077",
-                "bus": "yes",
-                "name": "Dranouter Steenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRANOUTERSTRAAT DRANOUTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.793294,
-                    50.760906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "61;68;79",
                 "ref:De_Lijn": "504076",
                 "bus": "yes",
@@ -47,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "509077",
+                "ref:De_Lijn": "504077",
                 "bus": "yes",
                 "name": "Dranouter Steenstraat",
                 "public_transport": "platform",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.793478,
-                    50.760935
+                    2.793294,
+                    50.760906
                 ]
             }
         },
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.803267,
                     50.764123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "509077",
+                "bus": "yes",
+                "name": "Dranouter Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRANOUTERSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793478,
+                    50.760935
                 ]
             }
         },

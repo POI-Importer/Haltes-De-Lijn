@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "508523",
+                "bus": "yes",
+                "name": "Marke Carlton",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORKONJESTRAAT MARKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.235924,
+                    50.788482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
                 "ref:De_Lijn": "509001",
                 "bus": "yes",
                 "name": "Aalbeke Centrum",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     3.23068,
                     50.778937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "508523",
-                "bus": "yes",
-                "name": "Marke Carlton",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORKONJESTRAAT MARKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.235924,
-                    50.788482
                 ]
             }
         },

@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "533;681;931",
-                "ref:De_Lijn": "108614",
+                "route_ref:De_Lijn": "681;931",
+                "ref:De_Lijn": "108613",
                 "bus": "yes",
                 "name": "Rijmenam Brug",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.58655,
-                    50.998142
+                    4.586464,
+                    50.998034
                 ]
             }
         },
@@ -88,6 +88,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "681;931",
+                "ref:De_Lijn": "108614",
+                "bus": "yes",
+                "name": "Rijmenam Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLAKENBAAN RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.58655,
+                    50.998142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "681",
                 "ref:De_Lijn": "305814",
                 "bus": "yes",
@@ -103,27 +124,6 @@
                 "coordinates": [
                     4.577157,
                     50.987453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "533;681;931",
-                "ref:De_Lijn": "108613",
-                "bus": "yes",
-                "name": "Rijmenam Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOLLAKENBAAN RIJMENAM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.586464,
-                    50.998034
                 ]
             }
         }

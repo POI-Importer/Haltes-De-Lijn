@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "203612",
                 "bus": "yes",
                 "name": "Nevele Veldeken/E40",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "200683",
                 "bus": "yes",
                 "name": "Hansbeke Dalestraat",

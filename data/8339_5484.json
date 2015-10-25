@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;73",
-                "ref:De_Lijn": "507170",
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "505419",
                 "bus": "yes",
-                "name": "Egem Kapel",
+                "name": "Pittem Balplas",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KASTEELDREEF EGEM",
+                "created_by": "BRUGSESTEENWEG PITTEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.236629,
-                    51.011065
+                    3.235817,
+                    51.004575
                 ]
             }
         },
@@ -26,20 +26,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59;73",
-                "ref:De_Lijn": "502170",
+                "ref:De_Lijn": "505418",
                 "bus": "yes",
-                "name": "Egem Kapel",
+                "name": "Pittem Balplas",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KASTEELDREEF EGEM",
+                "created_by": "BRUGSESTEENWEG PITTEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.237279,
-                    51.011305
+                    3.236016,
+                    51.004595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "507171",
+                "bus": "yes",
+                "name": "Egem Kruiske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOLONEL NAESSENSSTRAAT EGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.249194,
+                    51.013657
                 ]
             }
         },
@@ -68,41 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59;73",
-                "ref:De_Lijn": "505419",
+                "ref:De_Lijn": "502170",
                 "bus": "yes",
-                "name": "Pittem Balplas",
+                "name": "Egem Kapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGSESTEENWEG PITTEM",
+                "created_by": "KASTEELDREEF EGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.235817,
-                    51.004575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "507171",
-                "bus": "yes",
-                "name": "Egem Kruiske",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOLONEL NAESSENSSTRAAT EGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.249194,
-                    51.013657
+                    3.237279,
+                    51.011305
                 ]
             }
         },
@@ -110,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59;73",
-                "ref:De_Lijn": "505418",
+                "ref:De_Lijn": "507170",
                 "bus": "yes",
-                "name": "Pittem Balplas",
+                "name": "Egem Kapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGSESTEENWEG PITTEM",
+                "created_by": "KASTEELDREEF EGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.236016,
-                    51.004595
+                    3.236629,
+                    51.011065
                 ]
             }
         }

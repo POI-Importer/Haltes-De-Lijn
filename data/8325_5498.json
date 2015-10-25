@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39;89",
-                "ref:De_Lijn": "509116",
+                "ref:De_Lijn": "504116",
                 "bus": "yes",
                 "name": "Hollebeke Huis nummer 133",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.938445,
-                    50.809047
+                    2.938201,
+                    50.809134
                 ]
             }
         },
@@ -61,6 +61,27 @@
                 "coordinates": [
                     2.938612,
                     50.80636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "509116",
+                "bus": "yes",
+                "name": "Hollebeke Huis nummer 133",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOMENSEWEG HOLLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938445,
+                    50.809047
                 ]
             }
         },
@@ -124,27 +145,6 @@
                 "coordinates": [
                     2.936246,
                     50.812751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39;89",
-                "ref:De_Lijn": "504116",
-                "bus": "yes",
-                "name": "Hollebeke Huis nummer 133",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOMENSEWEG HOLLEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.938201,
-                    50.809134
                 ]
             }
         }

@@ -4,6 +4,66 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "109639",
+                "bus": "yes",
+                "name": "Hoogstraten 't Spijker Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELMELSTRAAT HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.77154,
+                    51.403334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106357",
+                "bus": "yes",
+                "name": "Hoogstraten Lindendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELMELSTRAAT HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.775667,
+                    51.40208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106358",
+                "bus": "yes",
+                "name": "Hoogstraten Lindendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELMELSTRAAT HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.775966,
+                    51.401737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "102990",
                 "bus": "yes",
                 "name": "Hoogstraten 't Spijker",
@@ -25,28 +85,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "102991",
-                "bus": "yes",
-                "name": "Hoogstraten 't Spijker",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GELMELSTRAAT HOOGSTRATEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.771927,
-                    51.403243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "400;401;408;409;433;600;608;620",
                 "ref:De_Lijn": "109641",
                 "bus": "yes",
                 "name": "Hoogstraten 't Spijker Perron 3",
@@ -67,49 +105,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;434;608;649;659;679",
-                "ref:De_Lijn": "109639",
-                "bus": "yes",
-                "name": "Hoogstraten 't Spijker Perron 2",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GELMELSTRAAT HOOGSTRATEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.77154,
-                    51.403334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;434;458;459",
-                "ref:De_Lijn": "106358",
-                "bus": "yes",
-                "name": "Hoogstraten Lindendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GELMELSTRAAT HOOGSTRATEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.775966,
-                    51.401737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;434;457;458;459",
                 "ref:De_Lijn": "109638",
                 "bus": "yes",
                 "name": "Hoogstraten 't Spijker Perron 1",
@@ -130,11 +125,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;434;458;459",
-                "ref:De_Lijn": "106357",
+                "ref:De_Lijn": "102991",
                 "bus": "yes",
-                "name": "Hoogstraten Lindendreef",
+                "name": "Hoogstraten 't Spijker",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "GELMELSTRAAT HOOGSTRATEN",
                 "operator": "De Lijn",
@@ -143,8 +138,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.775667,
-                    51.40208
+                    4.771927,
+                    51.403243
                 ]
             }
         }

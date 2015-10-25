@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "610;620;621;629",
-                "ref:De_Lijn": "107115",
-                "bus": "yes",
-                "name": "Schoten Boekenborglei",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEUZELDLAAN DEUZELD",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.461585,
-                    51.245003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "610;620;621;629",
                 "ref:De_Lijn": "107120",
                 "bus": "yes",
                 "name": "Schoten Boekenborglei",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "610;620;621;629",
                 "ref:De_Lijn": "108860",
                 "bus": "yes",
                 "name": "Schoten Eduard Steursstraat",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "413",
+                "ref:De_Lijn": "108075",
+                "bus": "yes",
+                "name": "Kruiningestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BISSCHOPPENHOFLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.476858,
+                    51.236056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108080",
                 "bus": "yes",
                 "name": "Kruiningestraat",
@@ -88,49 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "104946",
-                "bus": "yes",
-                "name": "Santvoortbeeklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MIDDELMOLENLAAN DEURNE (ANTWERPEN)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.469298,
-                    51.235577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "104256",
-                "bus": "yes",
-                "name": "Middelmolenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEESINGLAAN DEURNE (ANTWERPEN)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.465186,
-                    51.234556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "610;620;621;629",
                 "ref:De_Lijn": "107305",
                 "bus": "yes",
                 "name": "Schoten De Lek",
@@ -151,7 +104,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "610;620;621;629",
+                "ref:De_Lijn": "104256",
+                "bus": "yes",
+                "name": "Middelmolenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEESINGLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.465186,
+                    51.234556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108865",
                 "bus": "yes",
                 "name": "Schoten Eduard Steursstraat",
@@ -172,7 +144,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "610;620;621;629",
+                "ref:De_Lijn": "107115",
+                "bus": "yes",
+                "name": "Schoten Boekenborglei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEUZELDLAAN DEUZELD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.461585,
+                    51.245003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104946",
+                "bus": "yes",
+                "name": "Santvoortbeeklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDELMOLENLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.469298,
+                    51.235577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107310",
                 "bus": "yes",
                 "name": "Schoten De Lek",
@@ -187,27 +198,6 @@
                 "coordinates": [
                     4.475607,
                     51.246124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "413",
-                "ref:De_Lijn": "108075",
-                "bus": "yes",
-                "name": "Kruiningestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BISSCHOPPENHOFLAAN DEURNE (ANTWERPEN)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.476858,
-                    51.236056
                 ]
             }
         }

@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "250",
-                "ref:De_Lijn": "303370",
+                "ref:De_Lijn": "303369",
                 "bus": "yes",
                 "name": "Londerzeel De Zon",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.301419,
-                    50.997085
+                    4.301604,
+                    50.997139
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "250",
-                "ref:De_Lijn": "303369",
+                "ref:De_Lijn": "303370",
                 "bus": "yes",
                 "name": "Londerzeel De Zon",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.301604,
-                    50.997139
+                    4.301419,
+                    50.997085
                 ]
             }
         },

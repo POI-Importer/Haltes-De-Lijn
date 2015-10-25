@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505773",
+                "ref:De_Lijn": "505057",
                 "bus": "yes",
-                "name": "Ruiselede Tromar",
+                "name": "Ruiselede Dubbele Buis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "INDUSTRIESTRAAT RUISELEDE",
+                "created_by": "BUISSTRAAT RUISELEDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.411772,
-                    51.050015
+                    3.406309,
+                    51.045179
                 ]
             }
         },
@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15;77",
-                "ref:De_Lijn": "507472",
+                "ref:De_Lijn": "507468",
                 "bus": "yes",
                 "name": "Ruiselede Vossenhol",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.414636,
-                    51.042451
+                    3.414577,
+                    51.04255
                 ]
             }
         },
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15;77",
-                "ref:De_Lijn": "507468",
+                "ref:De_Lijn": "507472",
                 "bus": "yes",
                 "name": "Ruiselede Vossenhol",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.414577,
-                    51.04255
+                    3.414636,
+                    51.042451
                 ]
             }
         },
@@ -110,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505057",
+                "ref:De_Lijn": "505773",
                 "bus": "yes",
-                "name": "Ruiselede Dubbele Buis",
+                "name": "Ruiselede Tromar",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BUISSTRAAT RUISELEDE",
+                "created_by": "INDUSTRIESTRAAT RUISELEDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.406309,
-                    51.045179
+                    3.411772,
+                    51.050015
                 ]
             }
         },

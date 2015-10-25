@@ -5,111 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "33;48;283;752",
-                "ref:De_Lijn": "407455",
-                "bus": "yes",
-                "name": "Linde Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDEDORP LINDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.446201,
-                    51.097149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407430",
-                "bus": "yes",
-                "name": "Linde Cremerdijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CREMERDIJK LINDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.447044,
-                    51.098435
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407243",
-                "bus": "yes",
-                "name": "Linde Linderveld 36",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDEVELD PEER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.440695,
-                    51.097999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407460",
-                "bus": "yes",
-                "name": "Linde Linderveld 40",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDEVELD PEER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.435963,
-                    51.098347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407450",
-                "bus": "yes",
-                "name": "Linde Driekoningenplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIEKONINGENPLEIN LINDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.445307,
-                    51.097399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33;48;283;752",
                 "ref:De_Lijn": "407466",
                 "bus": "yes",
                 "name": "Linde Smid",
@@ -151,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33;48;283;752",
-                "ref:De_Lijn": "407454",
-                "bus": "yes",
-                "name": "Linde Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDEDORP LINDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.446111,
-                    51.097608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "752",
                 "ref:De_Lijn": "407242",
                 "bus": "yes",
@@ -194,7 +68,49 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407458",
+                "ref:De_Lijn": "407450",
+                "bus": "yes",
+                "name": "Linde Driekoningenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEKONINGENPLEIN LINDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.445307,
+                    51.097399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;48;283;752",
+                "ref:De_Lijn": "407454",
+                "bus": "yes",
+                "name": "Linde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEDORP LINDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.446111,
+                    51.097608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407243",
                 "bus": "yes",
                 "name": "Linde Linderveld 36",
                 "public_transport": "platform",
@@ -206,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.44065,
-                    51.097909
+                    5.440695,
+                    51.097999
                 ]
             }
         },
@@ -229,6 +145,90 @@
                 "coordinates": [
                     5.448505,
                     51.104814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407430",
+                "bus": "yes",
+                "name": "Linde Cremerdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CREMERDIJK LINDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.447044,
+                    51.098435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407460",
+                "bus": "yes",
+                "name": "Linde Linderveld 40",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEVELD PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.435963,
+                    51.098347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;48;283;752",
+                "ref:De_Lijn": "407455",
+                "bus": "yes",
+                "name": "Linde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEDORP LINDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.446201,
+                    51.097149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407458",
+                "bus": "yes",
+                "name": "Linde Linderveld 36",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEVELD PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44065,
+                    51.097909
                 ]
             }
         }

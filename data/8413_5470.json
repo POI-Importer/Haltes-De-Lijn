@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;215;305",
+                "route_ref:De_Lijn": "215;305",
                 "ref:De_Lijn": "109177",
                 "bus": "yes",
                 "name": "Lichtaart Snepkenshof",
@@ -25,7 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;215;305",
+                "route_ref:De_Lijn": "215",
+                "ref:De_Lijn": "109178",
+                "bus": "yes",
+                "name": "Herentals Snepkenshoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.866273,
+                    51.199111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "215;305",
                 "ref:De_Lijn": "109179",
                 "bus": "yes",
                 "name": "Herentals Snepkenshoeve",
@@ -46,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;215;305",
+                "route_ref:De_Lijn": "215",
                 "ref:De_Lijn": "109176",
                 "bus": "yes",
                 "name": "Lichtaart Snepkenshof",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     4.873896,
                     51.201523
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "212;215;305",
-                "ref:De_Lijn": "109178",
-                "bus": "yes",
-                "name": "Herentals Snepkenshoeve",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LICHTAARTSEWEG HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.866273,
-                    51.199111
                 ]
             }
         }

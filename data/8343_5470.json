@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "502599",
-                "bus": "yes",
-                "name": "Sijsele Zwaanstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT SIJSELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.332204,
-                    51.201986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "98",
-                "ref:De_Lijn": "500026",
-                "bus": "yes",
-                "name": "Sijsele Woonzorgcentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT SIJSELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.318018,
-                    51.206724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "26;49;58;58S",
                 "ref:De_Lijn": "502769",
                 "bus": "yes",
@@ -67,6 +25,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "502599",
+                "bus": "yes",
+                "name": "Sijsele Zwaanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332204,
+                    51.201986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "58;58S",
                 "ref:De_Lijn": "507769",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.3233,
                     51.201521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "500026",
+                "bus": "yes",
+                "name": "Sijsele Woonzorgcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.318018,
+                    51.206724
                 ]
             }
         },
@@ -130,27 +130,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;49",
-                "ref:De_Lijn": "505437",
-                "bus": "yes",
-                "name": "Sijsele Woonzorgcentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROUWERIJSTRAAT SIJSELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.318233,
-                    51.206717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "26;49;98",
                 "ref:De_Lijn": "501692",
                 "bus": "yes",
@@ -166,6 +145,27 @@
                 "coordinates": [
                     3.321001,
                     51.201986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505437",
+                "bus": "yes",
+                "name": "Sijsele Woonzorgcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.318233,
+                    51.206717
                 ]
             }
         }

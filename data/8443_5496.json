@@ -4,6 +4,111 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "400691",
+                "bus": "yes",
+                "name": "Rijkhoven Pleinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLEINSTRAAT RIJKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516381,
+                    50.835373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409560",
+                "bus": "yes",
+                "name": "Rijkhoven Apostelhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS VANGRONSVELDDREEF KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.529582,
+                    50.840421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704",
+                "ref:De_Lijn": "409566",
+                "bus": "yes",
+                "name": "Rijkhoven Winterberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALDEN BIESENSTRAAT RIJKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520163,
+                    50.836163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409558",
+                "bus": "yes",
+                "name": "Rijkhoven Alden Biesen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT RIJKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520317,
+                    50.842455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409562",
+                "bus": "yes",
+                "name": "Rijkhoven Souveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SOUWVELD RIJKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516841,
+                    50.838479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "34a;704;706",
                 "ref:De_Lijn": "400838",
                 "bus": "yes",
@@ -47,48 +152,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "409562",
-                "bus": "yes",
-                "name": "Rijkhoven Souveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SOUWVELD RIJKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.516841,
-                    50.838479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "400839",
-                "bus": "yes",
-                "name": "Rijkhoven Weerterveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ALDEN BIESENSTRAAT RIJKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.520906,
-                    50.834627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
                 "ref:De_Lijn": "409563",
                 "bus": "yes",
                 "name": "Rijkhoven Souveld",
@@ -103,27 +166,6 @@
                 "coordinates": [
                     5.516894,
                     50.838335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "409558",
-                "bus": "yes",
-                "name": "Rijkhoven Alden Biesen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT RIJKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.520317,
-                    50.842455
                 ]
             }
         },
@@ -151,8 +193,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "704",
-                "ref:De_Lijn": "409566",
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409567",
                 "bus": "yes",
                 "name": "Rijkhoven Winterberg",
                 "public_transport": "platform",
@@ -164,50 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.520163,
-                    50.836163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "409570",
-                "bus": "yes",
-                "name": "Rijkhoven Bosselaar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WINTERBERGSTRAAT RIJKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.526371,
-                    50.838044
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "409560",
-                "bus": "yes",
-                "name": "Rijkhoven Apostelhuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FRANS VANGRONSVELDDREEF KLEINE-SPOUWEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.529582,
-                    50.840421
+                    5.520151,
+                    50.836262
                 ]
             }
         },
@@ -229,27 +229,6 @@
                 "coordinates": [
                     5.520308,
                     50.846707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "400691",
-                "bus": "yes",
-                "name": "Rijkhoven Pleinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PLEINSTRAAT RIJKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.516381,
-                    50.835373
                 ]
             }
         },
@@ -278,9 +257,30 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "409567",
+                "ref:De_Lijn": "409570",
                 "bus": "yes",
-                "name": "Rijkhoven Winterberg",
+                "name": "Rijkhoven Bosselaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINTERBERGSTRAAT RIJKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.526371,
+                    50.838044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "400839",
+                "bus": "yes",
+                "name": "Rijkhoven Weerterveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ALDEN BIESENSTRAAT RIJKHOVEN",
@@ -290,8 +290,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.520151,
-                    50.836262
+                    5.520906,
+                    50.834627
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "764",
                 "ref:De_Lijn": "101278",
                 "bus": "yes",
                 "name": "Fina Poort 1",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "764",
                 "ref:De_Lijn": "101279",
                 "bus": "yes",
                 "name": "Fina Poort 1",

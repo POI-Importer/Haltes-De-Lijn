@@ -4,70 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "100222",
-                "bus": "yes",
-                "name": "Loenhout Kerk NB2000",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "STOFFEZANDSTRAAT LOENHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.643366,
-                    51.399108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;446;640",
-                "ref:De_Lijn": "102204",
-                "bus": "yes",
-                "name": "Loenhout Begraafplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRECHTSEWEG LOENHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.644296,
-                    51.393596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "100236",
-                "bus": "yes",
-                "name": "Loenhout Dorensweg NB2000",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BRECHTSEWEG LOENHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.644377,
-                    51.392778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;446;640;648;649;659;679",
                 "ref:De_Lijn": "105817",
                 "bus": "yes",
                 "name": "Loenhout Kerk",
@@ -82,48 +18,6 @@
                 "coordinates": [
                     4.642871,
                     51.398075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;446;640",
-                "ref:De_Lijn": "102206",
-                "bus": "yes",
-                "name": "Loenhout Begraafplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRECHTSEWEG LOENHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.644123,
-                    51.393579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;446;640",
-                "ref:De_Lijn": "102203",
-                "bus": "yes",
-                "name": "Loenhout Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRECHTSEWEG LOENHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.643589,
-                    51.397921
                 ]
             }
         },
@@ -151,11 +45,31 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "100280",
+                "ref:De_Lijn": "100221",
                 "bus": "yes",
                 "name": "Loenhout Kerk NB2000",
                 "public_transport": "platform",
                 "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STOFFEZANDSTRAAT LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643423,
+                    51.398991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102204",
+                "bus": "yes",
+                "name": "Loenhout Begraafplaats",
+                "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRECHTSEWEG LOENHOUT",
                 "operator": "De Lijn",
@@ -164,8 +78,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.643264,
-                    51.398874
+                    4.644296,
+                    51.393596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102203",
+                "bus": "yes",
+                "name": "Loenhout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643589,
+                    51.397921
                 ]
             }
         },
@@ -193,7 +127,49 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "100221",
+                "ref:De_Lijn": "100236",
+                "bus": "yes",
+                "name": "Loenhout Dorensweg NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.644377,
+                    51.392778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100280",
+                "bus": "yes",
+                "name": "Loenhout Kerk NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643264,
+                    51.398874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100222",
                 "bus": "yes",
                 "name": "Loenhout Kerk NB2000",
                 "public_transport": "platform",
@@ -206,8 +182,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.643423,
-                    51.398991
+                    4.643366,
+                    51.399108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102206",
+                "bus": "yes",
+                "name": "Loenhout Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.644123,
+                    51.393579
                 ]
             }
         }

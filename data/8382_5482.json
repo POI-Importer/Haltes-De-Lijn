@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257;320",
-                "ref:De_Lijn": "206899",
+                "route_ref:De_Lijn": "245",
+                "ref:De_Lijn": "207899",
                 "bus": "yes",
                 "name": "Baasrode Noord Station",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.17891,
-                    51.029412
+                    4.17941,
+                    51.029269
                 ]
             }
         },
@@ -46,7 +46,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257;320",
+                "ref:De_Lijn": "207734",
+                "bus": "yes",
+                "name": "Buggenhout Diepmeerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIALEBAAN BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.187845,
+                    51.030055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245",
                 "ref:De_Lijn": "206749",
                 "bus": "yes",
                 "name": "Buggenhout Diepmeerstraat",
@@ -67,28 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257;320",
-                "ref:De_Lijn": "206699",
-                "bus": "yes",
-                "name": "Buggenhout Brielstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIALEBAAN BUGGENHOUT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.194782,
-                    51.031504
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207365",
                 "bus": "yes",
                 "name": "Buggenhout Veerstraat",
@@ -109,10 +107,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
-                "ref:De_Lijn": "207734",
+                "ref:De_Lijn": "206699",
                 "bus": "yes",
-                "name": "Buggenhout Diepmeerstraat",
+                "name": "Buggenhout Brielstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PROVINCIALEBAAN BUGGENHOUT",
@@ -122,8 +119,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.187845,
-                    51.030055
+                    4.194782,
+                    51.031504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207699",
+                "bus": "yes",
+                "name": "Buggenhout Brielstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIALEBAAN BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.19484,
+                    51.03136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245",
+                "ref:De_Lijn": "206899",
+                "bus": "yes",
+                "name": "Baasrode Noord Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FABRIEKSTRAAT BAASRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17891,
+                    51.029412
                 ]
             }
         },
@@ -145,48 +183,6 @@
                 "coordinates": [
                     4.194005,
                     51.041283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
-                "ref:De_Lijn": "207699",
-                "bus": "yes",
-                "name": "Buggenhout Brielstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIALEBAAN BUGGENHOUT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.19484,
-                    51.03136
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257",
-                "ref:De_Lijn": "207899",
-                "bus": "yes",
-                "name": "Baasrode Noord Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FABRIEKSTRAAT BAASRODE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.17941,
-                    51.029269
                 ]
             }
         }

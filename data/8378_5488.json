@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206211",
+                "ref:De_Lijn": "207211",
                 "bus": "yes",
                 "name": "Moorsel Leirekenstraat",
                 "public_transport": "platform",
@@ -17,113 +17,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.10231,
-                    50.950689
+                    4.10241,
+                    50.9506
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;44",
-                "ref:De_Lijn": "207924",
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "206820",
                 "bus": "yes",
-                "name": "Moorsel Onze-Lieve-Vrouwkapel",
+                "name": "Moorsel Avouestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAVERSTRAAT MOORSEL (AALST)",
+                "created_by": "RIJGERSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.099972,
-                    50.946369
+                    4.086983,
+                    50.950645
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;42;43",
-                "ref:De_Lijn": "207212",
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "207820",
                 "bus": "yes",
-                "name": "Moorsel Dorp",
+                "name": "Moorsel Avouestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PACHTING MOORSEL (AALST)",
+                "created_by": "RIJGERSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.098043,
-                    50.94774
+                    4.087282,
+                    50.950591
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;43;340",
-                "ref:De_Lijn": "206213",
+                "ref:De_Lijn": "204983",
                 "bus": "yes",
-                "name": "Moorsel Ten Berg",
+                "name": "Moorsel Heidebosstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PACHTING MOORSEL (AALST)",
+                "created_by": "RAVENAKKERSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.09269,
-                    50.945714
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;44",
-                "ref:De_Lijn": "207925",
-                "bus": "yes",
-                "name": "Moorsel Opwijksesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPWIJKSE STEENWEG MOORSEL (AALST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.108241,
-                    50.94601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;44;340",
-                "ref:De_Lijn": "206924",
-                "bus": "yes",
-                "name": "Moorsel Onze-Lieve-Vrouwkapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAVERSTRAAT MOORSEL (AALST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.099844,
-                    50.946387
+                    4.10639,
+                    50.956568
                 ]
             }
         },
@@ -151,21 +108,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;340",
-                "ref:De_Lijn": "206820",
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "206815",
                 "bus": "yes",
-                "name": "Moorsel Avouestraat",
+                "name": "Moorsel Berggouw",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJGERSTRAAT MOORSEL (AALST)",
+                "created_by": "EXTERKENSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.086983,
-                    50.950645
+                    4.108132,
+                    50.950334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "206210",
+                "bus": "yes",
+                "name": "Moorsel Kortenbosdries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEENSBEEKSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.103319,
+                    50.953343
                 ]
             }
         },
@@ -193,21 +171,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "340",
-                "ref:De_Lijn": "204983",
+                "route_ref:De_Lijn": "41;42;44",
+                "ref:De_Lijn": "207925",
                 "bus": "yes",
-                "name": "Moorsel Heidebosstraat",
+                "name": "Moorsel Opwijksesteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RAVENAKKERSTRAAT MOORSEL (AALST)",
+                "created_by": "OPWIJKSE STEENWEG MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.10639,
-                    50.956568
+                    4.108241,
+                    50.94601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206211",
+                "bus": "yes",
+                "name": "Moorsel Leirekenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEIREKENSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.10231,
+                    50.950689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;43",
+                "ref:De_Lijn": "207814",
+                "bus": "yes",
+                "name": "Moorsel Leirekenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEIREKENSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.10241,
+                    50.950591
                 ]
             }
         },
@@ -235,28 +255,49 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "207211",
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "206818",
                 "bus": "yes",
-                "name": "Moorsel Leirekenstraat",
+                "name": "Moorsel Rijgerstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LEIREKENSTRAAT MOORSEL (AALST)",
+                "created_by": "RIJGERSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.10241,
-                    50.9506
+                    4.090642,
+                    50.952865
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;44;340",
+                "ref:De_Lijn": "207200",
+                "bus": "yes",
+                "name": "Moorsel Berggouw",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EXTERKENSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108147,
+                    50.950199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;44",
                 "ref:De_Lijn": "206925",
                 "bus": "yes",
                 "name": "Moorsel Opwijksesteenweg",
@@ -277,21 +318,84 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;43;340",
-                "ref:De_Lijn": "206814",
+                "route_ref:De_Lijn": "41;42;43",
+                "ref:De_Lijn": "206212",
                 "bus": "yes",
-                "name": "Moorsel Leirekenstraat",
+                "name": "Moorsel Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEIREKENSTRAAT MOORSEL (AALST)",
+                "created_by": "PACHTING MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.10231,
-                    50.95068
+                    4.097929,
+                    50.947857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;44",
+                "ref:De_Lijn": "206924",
+                "bus": "yes",
+                "name": "Moorsel Onze-Lieve-Vrouwkapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.099844,
+                    50.946387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "206819",
+                "bus": "yes",
+                "name": "Moorsel Kattenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTENBROEKSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.088001,
+                    50.956499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206200",
+                "bus": "yes",
+                "name": "Moorsel Berggouw",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EXTERKENSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108161,
+                    50.950325
                 ]
             }
         },
@@ -320,48 +424,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "26",
-                "ref:De_Lijn": "207820",
-                "bus": "yes",
-                "name": "Moorsel Avouestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJGERSTRAAT MOORSEL (AALST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.087282,
-                    50.950591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;43;340",
-                "ref:De_Lijn": "206212",
-                "bus": "yes",
-                "name": "Moorsel Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PACHTING MOORSEL (AALST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.097929,
-                    50.947857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26",
                 "ref:De_Lijn": "207819",
                 "bus": "yes",
                 "name": "Moorsel Kattenbroek",
@@ -382,42 +444,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "207200",
+                "route_ref:De_Lijn": "41;43",
+                "ref:De_Lijn": "206213",
                 "bus": "yes",
-                "name": "Moorsel Berggouw",
+                "name": "Moorsel Ten Berg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "EXTERKENSTRAAT MOORSEL (AALST)",
+                "created_by": "PACHTING MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.108147,
-                    50.950199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26;340",
-                "ref:De_Lijn": "206818",
-                "bus": "yes",
-                "name": "Moorsel Rijgerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJGERSTRAAT MOORSEL (AALST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.090642,
-                    50.952865
+                    4.09269,
+                    50.945714
                 ]
             }
         },
@@ -425,7 +466,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;43",
-                "ref:De_Lijn": "207814",
+                "ref:De_Lijn": "206814",
                 "bus": "yes",
                 "name": "Moorsel Leirekenstraat",
                 "public_transport": "platform",
@@ -437,92 +478,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.10241,
-                    50.950591
+                    4.10231,
+                    50.95068
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206200",
+                "route_ref:De_Lijn": "41;42;43",
+                "ref:De_Lijn": "207212",
                 "bus": "yes",
-                "name": "Moorsel Berggouw",
+                "name": "Moorsel Dorp",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "EXTERKENSTRAAT MOORSEL (AALST)",
+                "created_by": "PACHTING MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.108161,
-                    50.950325
+                    4.098043,
+                    50.94774
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;340",
-                "ref:De_Lijn": "206819",
+                "route_ref:De_Lijn": "42;44",
+                "ref:De_Lijn": "207924",
                 "bus": "yes",
-                "name": "Moorsel Kattenbroek",
+                "name": "Moorsel Onze-Lieve-Vrouwkapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KATTENBROEKSTRAAT MOORSEL (AALST)",
+                "created_by": "WAVERSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.088001,
-                    50.956499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;340",
-                "ref:De_Lijn": "206210",
-                "bus": "yes",
-                "name": "Moorsel Kortenbosdries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GEENSBEEKSTRAAT MOORSEL (AALST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.103319,
-                    50.953343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;340",
-                "ref:De_Lijn": "206815",
-                "bus": "yes",
-                "name": "Moorsel Berggouw",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EXTERKENSTRAAT MOORSEL (AALST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.108132,
-                    50.950334
+                    4.099972,
+                    50.946369
                 ]
             }
         }

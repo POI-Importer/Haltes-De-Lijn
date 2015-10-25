@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200924",
                 "bus": "yes",
                 "name": "Boekhoute Haven",

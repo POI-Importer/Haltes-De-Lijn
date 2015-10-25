@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "165",
-                "ref:De_Lijn": "303640",
+                "route_ref:De_Lijn": "118;165",
+                "ref:De_Lijn": "302005",
                 "bus": "yes",
-                "name": "Schepdaal Kapellestraat",
+                "name": "Schepdaal Goudveerdegem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GALGESTRAAT SINT-MARTENS-LENNIK",
+                "created_by": "SCHAPENSTRAAT SINT-MARTENS-LENNIK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.169515,
-                    50.838068
+                    4.173057,
+                    50.836375
                 ]
             }
         },
@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "165",
+                "ref:De_Lijn": "303279",
+                "bus": "yes",
+                "name": "Schepdaal Goudveerdegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAPENSTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.173242,
+                    50.836357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "165",
                 "ref:De_Lijn": "303638",
                 "bus": "yes",
                 "name": "Wambeek Massestraat",
@@ -67,21 +88,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "118;165",
-                "ref:De_Lijn": "302005",
+                "route_ref:De_Lijn": "128",
+                "ref:De_Lijn": "304521",
                 "bus": "yes",
-                "name": "Schepdaal Goudveerdegem",
+                "name": "Sint-Martens-Lennik Breynaert",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHAPENSTRAAT SINT-MARTENS-LENNIK",
+                "created_by": "NINOOFSESTEENWEG SINT-MARTENS-LENNIK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.173057,
-                    50.836375
+                    4.158523,
+                    50.835765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "165",
+                "ref:De_Lijn": "303639",
+                "bus": "yes",
+                "name": "Wambeek Massestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOELSTRAAT WAMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.166682,
+                    50.846513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "128",
+                "ref:De_Lijn": "304522",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Breynaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NINOOFSESTEENWEG SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.157558,
+                    50.835566
                 ]
             }
         },
@@ -131,83 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "165",
-                "ref:De_Lijn": "303639",
+                "ref:De_Lijn": "303640",
                 "bus": "yes",
-                "name": "Wambeek Massestraat",
+                "name": "Schepdaal Kapellestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOELSTRAAT WAMBEEK",
+                "created_by": "GALGESTRAAT SINT-MARTENS-LENNIK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.166682,
-                    50.846513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "128",
-                "ref:De_Lijn": "304521",
-                "bus": "yes",
-                "name": "Sint-Martens-Lennik Breynaert",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NINOOFSESTEENWEG SINT-MARTENS-LENNIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.158523,
-                    50.835765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "165",
-                "ref:De_Lijn": "303279",
-                "bus": "yes",
-                "name": "Schepdaal Goudveerdegem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHAPENSTRAAT SINT-MARTENS-LENNIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.173242,
-                    50.836357
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "128",
-                "ref:De_Lijn": "304522",
-                "bus": "yes",
-                "name": "Sint-Martens-Lennik Breynaert",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NINOOFSESTEENWEG SINT-MARTENS-LENNIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.157558,
-                    50.835566
+                    4.169515,
+                    50.838068
                 ]
             }
         }

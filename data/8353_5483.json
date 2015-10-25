@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "201699",
                 "bus": "yes",
                 "name": "Vosselare Kerk",
@@ -46,7 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;86;125",
+                "route_ref:De_Lijn": "16",
                 "ref:De_Lijn": "208641",
                 "bus": "yes",
                 "name": "Meigem Dorp",

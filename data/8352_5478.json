@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "86",
                 "ref:De_Lijn": "209652",
                 "bus": "yes",
                 "name": "Hansbeke Warandestraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "86;125;160",
                 "ref:De_Lijn": "208652",
                 "bus": "yes",
                 "name": "Hansbeke Warandestraat",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125;160",
                 "ref:De_Lijn": "200685",
                 "bus": "yes",
                 "name": "Hansbeke Vaartstraat",

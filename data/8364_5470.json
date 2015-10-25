@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "96;97",
-                "ref:De_Lijn": "202716",
-                "bus": "yes",
-                "name": "Zelzate Ooievaarslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASSENEDESTEENWEG ZELZATE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.785635,
-                    51.20207
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "55;56;55S",
                 "ref:De_Lijn": "203432",
                 "bus": "yes",
@@ -40,6 +19,48 @@
                 "coordinates": [
                     3.799024,
                     51.197605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;97",
+                "ref:De_Lijn": "202715",
+                "bus": "yes",
+                "name": "Zelzate Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSENEDESTEENWEG ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.779711,
+                    51.203218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200740",
+                "bus": "yes",
+                "name": "Zelzate NMBS-Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BENELUXLAAN ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.800211,
+                    51.197655
                 ]
             }
         },
@@ -68,48 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "96;97",
-                "ref:De_Lijn": "203716",
-                "bus": "yes",
-                "name": "Zelzate Ooievaarslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASSENEDESTEENWEG ZELZATE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.785763,
-                    51.202151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;55S",
-                "ref:De_Lijn": "203433",
-                "bus": "yes",
-                "name": "Zelzate De Keyserstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASSENEDESTEENWEG ZELZATE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.79505,
-                    51.197406
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "96;97",
                 "ref:De_Lijn": "202717",
                 "bus": "yes",
                 "name": "Zelzate Debbautshoek",
@@ -124,27 +103,6 @@
                 "coordinates": [
                     3.788679,
                     51.200053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "96;97",
-                "ref:De_Lijn": "203715",
-                "bus": "yes",
-                "name": "Zelzate Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASSENEDESTEENWEG ZELZATE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.779696,
-                    51.203335
                 ]
             }
         },
@@ -172,8 +130,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "55;56;55S",
+                "ref:De_Lijn": "202434",
+                "bus": "yes",
+                "name": "Zelzate Debbautshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSENEDESTEENWEG ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.790938,
+                    51.199004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;55S",
+                "ref:De_Lijn": "202433",
+                "bus": "yes",
+                "name": "Zelzate De Keyserstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSENEDESTEENWEG ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.794922,
+                    51.197333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "96;97",
-                "ref:De_Lijn": "202715",
+                "ref:De_Lijn": "203715",
                 "bus": "yes",
                 "name": "Zelzate Molenstraat",
                 "public_transport": "platform",
@@ -185,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.779711,
-                    51.203218
+                    3.779696,
+                    51.203335
                 ]
             }
         },
@@ -208,6 +208,27 @@
                 "coordinates": [
                     3.795715,
                     51.20033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;97",
+                "ref:De_Lijn": "202716",
+                "bus": "yes",
+                "name": "Zelzate Ooievaarslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSENEDESTEENWEG ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.785635,
+                    51.20207
                 ]
             }
         },
@@ -256,69 +277,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "200740",
-                "bus": "yes",
-                "name": "Zelzate NMBS-Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BENELUXLAAN ZELZATE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.800211,
-                    51.197655
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;55S",
-                "ref:De_Lijn": "202433",
-                "bus": "yes",
-                "name": "Zelzate De Keyserstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASSENEDESTEENWEG ZELZATE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.794922,
-                    51.197333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;55S",
-                "ref:De_Lijn": "202434",
-                "bus": "yes",
-                "name": "Zelzate Debbautshoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASSENEDESTEENWEG ZELZATE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.790938,
-                    51.199004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "201740",
                 "bus": "yes",
                 "name": "Zelzate Nmbs-Station",
@@ -334,6 +292,48 @@
                 "coordinates": [
                     3.800512,
                     51.197666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;55S",
+                "ref:De_Lijn": "203433",
+                "bus": "yes",
+                "name": "Zelzate De Keyserstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSENEDESTEENWEG ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.79505,
+                    51.197406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;97",
+                "ref:De_Lijn": "203716",
+                "bus": "yes",
+                "name": "Zelzate Ooievaarslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSENEDESTEENWEG ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.785763,
+                    51.202151
                 ]
             }
         }

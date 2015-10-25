@@ -5,111 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "946",
-                "ref:De_Lijn": "102732",
-                "bus": "yes",
-                "name": "Herentals Vogelzang",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOGELZANG HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.815421,
-                    51.179198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;946",
-                "ref:De_Lijn": "107060",
-                "bus": "yes",
-                "name": "Herentals Zandpoort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIERSEWEG HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.829557,
-                    51.176941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;159;15b;210;212;219;220;221;305;409;418;420;421;427;429;511;540;541;542;946",
-                "ref:De_Lijn": "106496",
-                "bus": "yes",
-                "name": "Herentals Belgiëlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BELGIËLAAN HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.833183,
-                    51.179219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;946",
-                "ref:De_Lijn": "107056",
-                "bus": "yes",
-                "name": "Herentals Kanaalbrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIERSEWEG HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.81576,
-                    51.174289
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;420;946",
-                "ref:De_Lijn": "104943",
-                "bus": "yes",
-                "name": "Herentals Markt Zandstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.833575,
-                    51.176916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;946",
                 "ref:De_Lijn": "107058",
                 "bus": "yes",
                 "name": "Herentals Veldstraat",
@@ -130,7 +25,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;946",
+                "ref:De_Lijn": "107056",
+                "bus": "yes",
+                "name": "Herentals Kanaalbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.81576,
+                    51.174289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "102732",
+                "bus": "yes",
+                "name": "Herentals Vogelzang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELZANG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.815421,
+                    51.179198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102757",
+                "bus": "yes",
+                "name": "Herentals Markthalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOLENVEST HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.830057,
+                    51.176939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "107059",
                 "bus": "yes",
                 "name": "Herentals Veldstraat",
@@ -151,8 +108,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "159;511;946",
-                "ref:De_Lijn": "108226",
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "108223",
+                "bus": "yes",
+                "name": "Herentals Meidoornlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTHOUTSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828062,
+                    51.166062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "108227",
                 "bus": "yes",
                 "name": "Herentals Sas",
                 "public_transport": "platform",
@@ -164,8 +142,68 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.83207,
-                    51.17081
+                    4.832088,
+                    51.171241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106496",
+                "bus": "yes",
+                "name": "Herentals Belgiëlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELGIËLAAN HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.833183,
+                    51.179219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107061",
+                "bus": "yes",
+                "name": "Herentals Zandpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.829486,
+                    51.177022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105072",
+                "bus": "yes",
+                "name": "Herentals Markt Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.833162,
+                    51.177143
                 ]
             }
         },
@@ -193,70 +231,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "159;511;946",
-                "ref:De_Lijn": "108223",
+                "ref:De_Lijn": "101456",
                 "bus": "yes",
-                "name": "Herentals Meidoornlaan",
+                "name": "Herentals Krakelaarsveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HERENTHOUTSEWEG HERENTALS",
+                "created_by": "LANGE EERSELSSTRAAT HERENTALS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.828062,
-                    51.166062
+                    4.814548,
+                    51.167129
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;946",
-                "ref:De_Lijn": "105072",
-                "bus": "yes",
-                "name": "Herentals Markt Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWSTRAAT HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.833162,
-                    51.177143
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;420;946",
-                "ref:De_Lijn": "107061",
-                "bus": "yes",
-                "name": "Herentals Zandpoort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIERSEWEG HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.829486,
-                    51.177022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;946",
                 "ref:De_Lijn": "107057",
                 "bus": "yes",
                 "name": "Herentals Kanaalbrug",
@@ -278,28 +272,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "946",
-                "ref:De_Lijn": "101456",
-                "bus": "yes",
-                "name": "Herentals Krakelaarsveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGE EERSELSSTRAAT HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.814548,
-                    51.167129
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "159;511;946",
-                "ref:De_Lijn": "108227",
+                "ref:De_Lijn": "108226",
                 "bus": "yes",
                 "name": "Herentals Sas",
                 "public_transport": "platform",
@@ -311,15 +284,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.832088,
-                    51.171241
+                    4.83207,
+                    51.17081
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "159;511;946",
+                "ref:De_Lijn": "104943",
+                "bus": "yes",
+                "name": "Herentals Markt Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.833575,
+                    51.176916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "108224",
                 "bus": "yes",
                 "name": "Herentals Meidoornlaan",
@@ -340,21 +333,20 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "102757",
+                "ref:De_Lijn": "107060",
                 "bus": "yes",
-                "name": "Herentals Markthalte",
+                "name": "Herentals Zandpoort",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "MOLENVEST HERENTALS",
+                "created_by": "LIERSEWEG HERENTALS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.830057,
-                    51.176939
+                    4.829557,
+                    51.176941
                 ]
             }
         }

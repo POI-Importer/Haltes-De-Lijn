@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;681",
-                "ref:De_Lijn": "108504",
-                "bus": "yes",
-                "name": "Bonheiden Peter Benoitlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG BONHEIDEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.527822,
-                    51.029042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "512;520;528",
-                "ref:De_Lijn": "108366",
-                "bus": "yes",
-                "name": "Bonheiden Eksterveldlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PUTSESTEENWEG BONHEIDEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.538525,
-                    51.036128
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;681",
-                "ref:De_Lijn": "108503",
-                "bus": "yes",
-                "name": "Bonheiden Peter Benoitlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG BONHEIDEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.526598,
-                    51.029403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "512;520;528;931",
-                "ref:De_Lijn": "108362",
-                "bus": "yes",
-                "name": "Bonheiden Zwarte Leeuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PUTSESTEENWEG BONHEIDEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.530411,
-                    51.035564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "931",
                 "ref:De_Lijn": "101344",
                 "bus": "yes",
@@ -109,8 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "512;520;528",
-                "ref:De_Lijn": "108364",
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "108362",
+                "bus": "yes",
+                "name": "Bonheiden Zwarte Leeuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTSESTEENWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.530411,
+                    51.035564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108366",
                 "bus": "yes",
                 "name": "Bonheiden Eksterveldlaan",
                 "public_transport": "platform",
@@ -122,8 +58,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.538496,
-                    51.036002
+                    4.538525,
+                    51.036128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "681",
+                "ref:De_Lijn": "108504",
+                "bus": "yes",
+                "name": "Bonheiden Peter Benoitlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.527822,
+                    51.029042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "681",
+                "ref:De_Lijn": "108503",
+                "bus": "yes",
+                "name": "Bonheiden Peter Benoitlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.526598,
+                    51.029403
                 ]
             }
         },
@@ -151,7 +129,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "512;520;528;931",
+                "ref:De_Lijn": "108364",
+                "bus": "yes",
+                "name": "Bonheiden Eksterveldlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTSESTEENWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.538496,
+                    51.036002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
                 "ref:De_Lijn": "108363",
                 "bus": "yes",
                 "name": "Bonheiden Zwarte Leeuwstraat",

@@ -4,119 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15",
-                "ref:De_Lijn": "104033",
-                "name": "P+R Linkeroever",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.362889,
-                    51.220412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85",
-                "ref:De_Lijn": "102689",
-                "bus": "yes",
-                "name": "Sporthal Linkeroever",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.370289,
-                    51.220466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;93;95;97;99",
-                "ref:De_Lijn": "204609",
-                "bus": "yes",
-                "name": "Burchtse Weel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEATRIJSLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.365967,
-                    51.207379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85",
-                "ref:De_Lijn": "205279",
-                "bus": "yes",
-                "name": "Sporthal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.369846,
-                    51.21998
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;93;95;97;99",
-                "ref:De_Lijn": "205609",
-                "bus": "yes",
-                "name": "Burchtse Weel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEATRIJSLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.365681,
-                    51.207154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;9;81;82;83;84;85",
-                "ref:De_Lijn": "104032",
+                "ref:De_Lijn": "104031",
                 "bus": "yes",
                 "name": "P+R Linkeroever",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "highway": "bus_stop",
-                "tram": "yes",
                 "created_by": "BLANCEFLOERLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -124,51 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.362889,
-                    51.220412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;5;15",
-                "ref:De_Lijn": "104034",
-                "name": "P+R Linkeroever",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.363076,
-                    51.219792
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "103064",
-                "zone:De_Lijn": "01",
-                "name": "P+R Linkeroever",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.362918,
-                    51.219774
+                    4.362947,
+                    51.220403
                 ]
             }
         },
@@ -196,7 +45,68 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "105083",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.367641,
+                    51.22043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;93;95;97;99",
+                "ref:De_Lijn": "204609",
+                "bus": "yes",
+                "name": "Burchtse Weel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEATRIJSLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365967,
+                    51.207379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104033",
+                "bus": "yes",
+                "name": "P+R Linkeroever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362889,
+                    51.220412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105084",
                 "zone:De_Lijn": "01",
                 "name": "Sporthal",
@@ -218,34 +128,32 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;5;9;15",
-                "ref:De_Lijn": "105083",
-                "zone:De_Lijn": "01",
-                "name": "Sporthal",
+                "route_ref:De_Lijn": "87;93;95;97;99",
+                "ref:De_Lijn": "205609",
+                "bus": "yes",
+                "name": "Burchtse Weel",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "highway": "bus_stop",
+                "created_by": "BEATRIJSLAAN ANTWERPEN",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.367641,
-                    51.22043
+                    4.365681,
+                    51.207154
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "104031",
-                "name": "P+R Linkeroever",
+                "ref:De_Lijn": "102689",
+                "bus": "yes",
+                "name": "Sporthal Linkeroever",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
+                "highway": "bus_stop",
                 "created_by": "BLANCEFLOERLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -253,8 +161,90 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.362947,
-                    51.220403
+                    4.370289,
+                    51.220466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104034",
+                "bus": "yes",
+                "name": "P+R Linkeroever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.363076,
+                    51.219792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85",
+                "ref:De_Lijn": "205279",
+                "bus": "yes",
+                "name": "Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369846,
+                    51.21998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104032",
+                "bus": "yes",
+                "name": "P+R Linkeroever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362889,
+                    51.220412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103064",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "P+R Linkeroever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362918,
+                    51.219774
                 ]
             }
         }

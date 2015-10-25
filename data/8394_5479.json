@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "500",
+                "ref:De_Lijn": "106819",
+                "name": "Walem Baron Coppenslaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KONING ALBERTSTRAAT WALEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.454229,
+                    51.069776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106818",
                 "bus": "yes",
                 "name": "Rumst Varenstraat",
@@ -25,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "500",
                 "ref:De_Lijn": "106820",
                 "bus": "yes",
                 "name": "Walem Baron Coppenslaan",
@@ -46,28 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "500",
-                "ref:De_Lijn": "106819",
-                "bus": "yes",
-                "name": "Walem Baron Coppenslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONING ALBERTSTRAAT WALEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.454229,
-                    51.069776
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "500",
                 "ref:De_Lijn": "106817",
                 "bus": "yes",
                 "name": "Rumst Varenstraat",

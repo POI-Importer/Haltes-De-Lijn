@@ -4,89 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "373;392",
-                "ref:De_Lijn": "303429",
-                "bus": "yes",
-                "name": "Binkom Sint-Rochusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEENSELSTRAAT BINKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.89252,
-                    50.877885
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;392",
-                "ref:De_Lijn": "303425",
-                "bus": "yes",
-                "name": "Binkom Parijsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEENSELSTRAAT BINKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.885981,
-                    50.8776
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308890",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Lubbeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTEENWEG BINKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.87949,
-                    50.885647
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;485;590",
-                "ref:De_Lijn": "303417",
-                "bus": "yes",
-                "name": "Binkom In den Haan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTEENWEG BINKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.881531,
-                    50.876073
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "308891",
                 "bus": "yes",
                 "name": "Sint-Joris-Winge Lubbeekstraat",
@@ -130,6 +47,68 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "373;485;590",
+                "ref:De_Lijn": "303417",
+                "bus": "yes",
+                "name": "Binkom In den Haan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.881531,
+                    50.876073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308890",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Lubbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87949,
+                    50.885647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "303425",
+                "bus": "yes",
+                "name": "Binkom Parijsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSELSTRAAT BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885981,
+                    50.8776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;485;590",
                 "ref:De_Lijn": "303416",
                 "bus": "yes",
                 "name": "Binkom In den Haan",
@@ -144,6 +123,27 @@
                 "coordinates": [
                     4.881386,
                     50.875831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "303429",
+                "bus": "yes",
+                "name": "Binkom Sint-Rochusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSELSTRAAT BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89252,
+                    50.877885
                 ]
             }
         },

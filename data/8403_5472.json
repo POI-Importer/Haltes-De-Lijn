@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "107116",
-                "bus": "yes",
-                "name": "Nijlen Achterbist",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROECHEMSESTEENWEG NIJLEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.646132,
-                    51.169893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;943",
                 "ref:De_Lijn": "107113",
                 "bus": "yes",
                 "name": "Nijlen Heibloemstraat",
@@ -67,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "107114",
                 "bus": "yes",
                 "name": "Nijlen Heibloemstraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.658076,
                     51.166116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107116",
+                "bus": "yes",
+                "name": "Nijlen Achterbist",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROECHEMSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.646132,
+                    51.169893
                 ]
             }
         }

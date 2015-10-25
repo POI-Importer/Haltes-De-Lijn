@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
-                "ref:De_Lijn": "202214",
-                "bus": "yes",
-                "name": "Maldegem Kleitkalseide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEITKALSEIDE MALDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.453548,
-                    51.189314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;185",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "202224",
                 "bus": "yes",
                 "name": "Maldegem Krakkeveld",
@@ -40,6 +19,26 @@
                 "coordinates": [
                     3.453144,
                     51.182147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200814",
+                "bus": "yes",
+                "name": "Maldegem Baaikensedestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "URSELWEG KLEIT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.460949,
+                    51.179438
                 ]
             }
         },
@@ -68,7 +67,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "203214",
+                "ref:De_Lijn": "202214",
                 "bus": "yes",
                 "name": "Maldegem Kleitkalseide",
                 "public_transport": "platform",
@@ -80,8 +79,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.453376,
-                    51.189295
+                    3.453548,
+                    51.189314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203215",
+                "bus": "yes",
+                "name": "Maldegem Thyskensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEITKALSEIDE KLEIT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.454463,
+                    51.184935
                 ]
             }
         },
@@ -109,49 +129,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200814",
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203214",
                 "bus": "yes",
-                "name": "Maldegem Baaikensedestraat",
+                "name": "Maldegem Kleitkalseide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "URSELWEG KLEIT",
+                "created_by": "KLEITKALSEIDE MALDEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.460949,
-                    51.179438
+                    3.453376,
+                    51.189295
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
-                "ref:De_Lijn": "202215",
-                "bus": "yes",
-                "name": "Maldegem Thyskensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEITKALSEIDE KLEIT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.454305,
-                    51.185698
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;185",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "202225",
                 "bus": "yes",
                 "name": "Maldegem Halledreef",
@@ -173,7 +172,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "203215",
+                "ref:De_Lijn": "202215",
                 "bus": "yes",
                 "name": "Maldegem Thyskensstraat",
                 "public_transport": "platform",
@@ -185,8 +184,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.454463,
-                    51.184935
+                    3.454305,
+                    51.185698
                 ]
             }
         }

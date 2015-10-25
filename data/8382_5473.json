@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95;280",
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "204676",
+                "bus": "yes",
+                "name": "Sint-Niklaas De Cauwerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE CAUWERSTRAAT SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190018,
+                    51.159839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
                 "ref:De_Lijn": "205674",
                 "bus": "yes",
                 "name": "Temse Eigenlo",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     4.192462,
                     51.152121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "205676",
-                "bus": "yes",
-                "name": "Sint-Niklaas De Cauwerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE CAUWERSTRAAT SINT-NIKLAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.190218,
-                    51.159776
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "205678",
+                "ref:De_Lijn": "205676",
                 "bus": "yes",
-                "name": "Sint-Niklaas Damstraat",
+                "name": "Sint-Niklaas De Cauwerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DAMSTRAAT SINT-NIKLAAS",
+                "created_by": "DE CAUWERSTRAAT SINT-NIKLAAS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.175148,
-                    51.157245
+                    4.190218,
+                    51.159776
                 ]
             }
         },
@@ -110,27 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "204676",
-                "bus": "yes",
-                "name": "Sint-Niklaas De Cauwerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE CAUWERSTRAAT SINT-NIKLAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.190018,
-                    51.159839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "95;280",
                 "ref:De_Lijn": "204674",
                 "bus": "yes",
                 "name": "Temse Eigenlo",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     4.19269,
                     51.152275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "205678",
+                "bus": "yes",
+                "name": "Sint-Niklaas Damstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMSTRAAT SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.175148,
+                    51.157245
                 ]
             }
         }

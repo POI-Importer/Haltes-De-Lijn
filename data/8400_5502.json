@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "341;504",
+                "ref:De_Lijn": "304082",
+                "bus": "yes",
+                "name": "Overijse Schaesbroeckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABSTRAAT OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.589783,
+                    50.763169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;504",
                 "ref:De_Lijn": "304083",
                 "bus": "yes",
                 "name": "Overijse Schaesbroeckstraat",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     4.590408,
                     50.763384
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "341;504",
-                "ref:De_Lijn": "304062",
-                "bus": "yes",
-                "name": "Overijse Mommaertstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ABSTRAAT OVERIJSE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.581746,
-                    50.759894
                 ]
             }
         },
@@ -68,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "341;504",
-                "ref:De_Lijn": "304082",
+                "ref:De_Lijn": "304062",
                 "bus": "yes",
-                "name": "Overijse Schaesbroeckstraat",
+                "name": "Overijse Mommaertstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ABSTRAAT OVERIJSE",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.589783,
-                    50.763169
+                    4.581746,
+                    50.759894
                 ]
             }
         }

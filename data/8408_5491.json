@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "520",
-                "ref:De_Lijn": "306370",
+                "route_ref:De_Lijn": "371;520",
+                "ref:De_Lijn": "303441",
                 "bus": "yes",
-                "name": "Kessel-Lo Lemingstraat",
+                "name": "Linden Hoog Linden",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEMING KESSEL-LO",
+                "created_by": "SLANGENSTRAAT KESSEL-LO",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.756929,
-                    50.907674
+                    4.759483,
+                    50.9054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "520",
+                "ref:De_Lijn": "306369",
+                "bus": "yes",
+                "name": "Linden Hoog-Linden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURCHTLAAN LINDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.759753,
+                    50.905408
                 ]
             }
         },
@@ -47,41 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "520",
-                "ref:De_Lijn": "306369",
+                "ref:De_Lijn": "306370",
                 "bus": "yes",
-                "name": "Linden Hoog-Linden",
+                "name": "Kessel-Lo Lemingstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BURCHTLAAN LINDEN",
+                "created_by": "LEMING KESSEL-LO",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.759753,
-                    50.905408
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "371;520",
-                "ref:De_Lijn": "303441",
-                "bus": "yes",
-                "name": "Linden Hoog Linden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SLANGENSTRAAT KESSEL-LO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.759483,
-                    50.9054
+                    4.756929,
+                    50.907674
                 ]
             }
         }

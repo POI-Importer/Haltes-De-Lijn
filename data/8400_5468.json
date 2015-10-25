@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "424;610;619",
                 "ref:De_Lijn": "105709",
                 "bus": "yes",
                 "name": "Schilde Puttenhoflaan",
@@ -25,28 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "424;610;619",
-                "ref:De_Lijn": "105712",
+                "ref:De_Lijn": "105708",
                 "bus": "yes",
-                "name": "Schilde Puttenhoflaan",
+                "name": "Schilde Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OELEGEMSTEENWEG SCHILDE",
+                "created_by": "KERKPLEIN SCHILDE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.588723,
-                    51.232682
+                    4.583208,
+                    51.232099
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "424;610;619",
                 "ref:De_Lijn": "105707",
                 "bus": "yes",
                 "name": "Schilde Kerk",
@@ -67,21 +64,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "424;610;619",
-                "ref:De_Lijn": "105708",
+                "ref:De_Lijn": "105712",
                 "bus": "yes",
-                "name": "Schilde Kerk",
+                "name": "Schilde Puttenhoflaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KERKPLEIN SCHILDE",
+                "created_by": "OELEGEMSTEENWEG SCHILDE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.583208,
-                    51.232099
+                    4.588723,
+                    51.232682
                 ]
             }
         }

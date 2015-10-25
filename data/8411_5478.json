@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;946",
-                "ref:De_Lijn": "108341",
-                "bus": "yes",
-                "name": "Heultje A. Cannaertsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AUGUST CANNAERTSSTRAAT HEULTJE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.817853,
-                    51.094657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "221;946",
-                "ref:De_Lijn": "108323",
-                "bus": "yes",
-                "name": "Heultje Wittegracht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AUGUST CANNAERTSSTRAAT HEULTJE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.830076,
-                    51.093576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "221;946",
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "108342",
                 "bus": "yes",
                 "name": "Heultje A. Cannaertsstraat",
@@ -67,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;946",
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "108324",
                 "bus": "yes",
                 "name": "Heultje Wittegracht",
@@ -88,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "944;946",
-                "ref:De_Lijn": "102174",
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "108323",
                 "bus": "yes",
-                "name": "Heultje Hof Van Eden",
+                "name": "Heultje Wittegracht",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KEMPISCHE ARDENNEN WESTERLO",
+                "created_by": "AUGUST CANNAERTSSTRAAT HEULTJE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.820836,
-                    51.084327
+                    4.830076,
+                    51.093576
                 ]
             }
         },
@@ -124,6 +82,48 @@
                 "coordinates": [
                     4.826979,
                     51.08931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "108341",
+                "bus": "yes",
+                "name": "Heultje A. Cannaertsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AUGUST CANNAERTSSTRAAT HEULTJE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.817853,
+                    51.094657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944;946",
+                "ref:De_Lijn": "102174",
+                "bus": "yes",
+                "name": "Heultje Hof Van Eden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPISCHE ARDENNEN WESTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.820836,
+                    51.084327
                 ]
             }
         }

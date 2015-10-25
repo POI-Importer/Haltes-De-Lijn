@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;707;708",
+                "route_ref:De_Lijn": "707;708",
                 "ref:De_Lijn": "300109",
                 "bus": "yes",
                 "name": "Langdorp Solide",
@@ -25,8 +25,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;707;708",
-                "ref:De_Lijn": "300150",
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "300149",
                 "bus": "yes",
                 "name": "Wolfsdonk School",
                 "public_transport": "platform",
@@ -38,15 +38,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.91693,
-                    51.029714
+                    4.916515,
+                    51.029653
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "300110",
                 "bus": "yes",
                 "name": "Langdorp Solide",
@@ -67,8 +67,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;707;708",
-                "ref:De_Lijn": "300149",
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "300150",
                 "bus": "yes",
                 "name": "Wolfsdonk School",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.916515,
-                    51.029653
+                    4.91693,
+                    51.029714
                 ]
             }
         }

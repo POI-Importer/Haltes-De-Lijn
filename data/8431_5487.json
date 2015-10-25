@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H3",
-                "ref:De_Lijn": "403552",
+                "ref:De_Lijn": "403553",
                 "bus": "yes",
                 "name": "Stokrooie Waterlozestraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.27046,
-                    50.966494
+                    5.270712,
+                    50.966304
                 ]
             }
         },
@@ -40,6 +40,27 @@
                 "coordinates": [
                     5.272397,
                     50.965086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403552",
+                "bus": "yes",
+                "name": "Stokrooie Waterlozestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOZESTRAAT STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27046,
+                    50.966494
                 ]
             }
         },
@@ -82,27 +103,6 @@
                 "coordinates": [
                     5.263819,
                     50.969898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H3",
-                "ref:De_Lijn": "403553",
-                "bus": "yes",
-                "name": "Stokrooie Waterlozestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOZESTRAAT STOKROOIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.270712,
-                    50.966304
                 ]
             }
         }

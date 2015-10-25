@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
                 "ref:De_Lijn": "105349",
                 "bus": "yes",
                 "name": "Zandvliet Stelplaats",

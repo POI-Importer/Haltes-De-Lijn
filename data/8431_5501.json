@@ -4,63 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;734;S12",
-                "ref:De_Lijn": "407889",
-                "bus": "yes",
-                "name": "Gelinden Sint-Jansberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG GELINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.25988,
-                    50.770294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26;734",
-                "ref:De_Lijn": "407866",
-                "bus": "yes",
-                "name": "Engelmanshoven Groot-Gelmenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG ENGELMANSHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.252378,
-                    50.774693
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "408178",
+                "ref:De_Lijn": "408182",
                 "bus": "yes",
-                "name": "Engelmanshoven Populierenstraat",
+                "name": "Gelinden Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VRIJHEERSSTRAAT GELINDEN",
+                "created_by": "GELINDEN-DORP GELINDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.251793,
-                    50.764701
+                    5.261308,
+                    50.764826
                 ]
             }
         },
@@ -82,48 +40,6 @@
                 "coordinates": [
                     5.268266,
                     50.767695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "408443",
-                "bus": "yes",
-                "name": "Gelinden Schepenbank",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ENGELMANSHOVENSTRAAT GELINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.268496,
-                    50.770075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26;734;S12",
-                "ref:De_Lijn": "407882",
-                "bus": "yes",
-                "name": "Gelinden Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG GELINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.265419,
-                    50.767069
                 ]
             }
         },
@@ -152,41 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "408189",
+                "ref:De_Lijn": "408443",
                 "bus": "yes",
-                "name": "Gelinden Kerk",
+                "name": "Gelinden Schepenbank",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GELINDEN-DORP GELINDEN",
+                "created_by": "ENGELMANSHOVENSTRAAT GELINDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.262952,
-                    50.767043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "408175",
-                "bus": "yes",
-                "name": "Engelmanshoven Groot-Gelmenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIEWILGENSTRAAT ENGELMANSHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.252842,
-                    50.77371
+                    5.268496,
+                    50.770075
                 ]
             }
         },
@@ -215,9 +110,51 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "408182",
+                "ref:De_Lijn": "408178",
                 "bus": "yes",
-                "name": "Gelinden Gemeentehuis",
+                "name": "Engelmanshoven Populierenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRIJHEERSSTRAAT GELINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.251793,
+                    50.764701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;734",
+                "ref:De_Lijn": "407866",
+                "bus": "yes",
+                "name": "Engelmanshoven Groot-Gelmenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG ENGELMANSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.252378,
+                    50.774693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408189",
+                "bus": "yes",
+                "name": "Gelinden Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GELINDEN-DORP GELINDEN",
@@ -227,8 +164,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.261308,
-                    50.764826
+                    5.262952,
+                    50.767043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;734;S12",
+                "ref:De_Lijn": "407889",
+                "bus": "yes",
+                "name": "Gelinden Sint-Jansberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG GELINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.25988,
+                    50.770294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408175",
+                "bus": "yes",
+                "name": "Engelmanshoven Groot-Gelmenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEWILGENSTRAAT ENGELMANSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.252842,
+                    50.77371
                 ]
             }
         },
@@ -250,6 +229,27 @@
                 "coordinates": [
                     5.259498,
                     50.770333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;734;S12",
+                "ref:De_Lijn": "407882",
+                "bus": "yes",
+                "name": "Gelinden Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG GELINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.265419,
+                    50.767069
                 ]
             }
         }

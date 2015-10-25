@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "107624",
-                "bus": "yes",
-                "name": "Rijmenam Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEYNESBAAN RIJMENAM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.601556,
-                    51.019255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "107626",
                 "bus": "yes",
                 "name": "Rijmenam Kerkhof",
@@ -67,27 +46,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "104038",
-                "bus": "yes",
-                "name": "Rijmenam Louterman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOUTERMAN MART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.606307,
-                    51.02312
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "931",
                 "ref:De_Lijn": "107622",
                 "bus": "yes",
                 "name": "Rijmenam Mart",
@@ -102,6 +60,48 @@
                 "coordinates": [
                     4.603389,
                     51.023935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "107624",
+                "bus": "yes",
+                "name": "Rijmenam Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEYNESBAAN RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.601556,
+                    51.019255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104038",
+                "bus": "yes",
+                "name": "Rijmenam Louterman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOUTERMAN MART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.606307,
+                    51.02312
                 ]
             }
         },

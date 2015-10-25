@@ -25,69 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;55;56;59",
-                "ref:De_Lijn": "502237",
-                "bus": "yes",
-                "name": "Koekelare Westrand",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEKESTRAAT MOKKER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.938181,
-                    51.089425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;55;56;59",
-                "ref:De_Lijn": "507231",
-                "bus": "yes",
-                "name": "Koekelare Mokker",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEKESTRAAT MOKKER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.941972,
-                    51.085874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;59",
-                "ref:De_Lijn": "505754",
-                "bus": "yes",
-                "name": "Koekelare Tuinwijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TUINWIJK MOKKER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.94164,
-                    51.089763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "53;55;59",
                 "ref:De_Lijn": "502254",
                 "bus": "yes",
@@ -130,6 +67,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "502237",
+                "bus": "yes",
+                "name": "Koekelare Westrand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEKESTRAAT MOKKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938181,
+                    51.089425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "507231",
+                "bus": "yes",
+                "name": "Koekelare Mokker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEKESTRAAT MOKKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.941972,
+                    51.085874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "53;55",
                 "ref:De_Lijn": "507254",
                 "bus": "yes",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     2.924128,
                     51.093776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505754",
+                "bus": "yes",
+                "name": "Koekelare Tuinwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TUINWIJK MOKKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.94164,
+                    51.089763
                 ]
             }
         }

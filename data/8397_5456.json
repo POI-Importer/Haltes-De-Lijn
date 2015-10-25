@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;446;447;659;679;934",
                 "ref:De_Lijn": "105934",
                 "bus": "yes",
                 "name": "Achterbroek Duffelaarstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;446;447;659;679;934",
                 "ref:De_Lijn": "105933",
                 "bus": "yes",
                 "name": "Achterbroek Duffelaarstraat",

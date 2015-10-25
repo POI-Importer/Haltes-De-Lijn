@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;92;93",
-                "ref:De_Lijn": "503351",
-                "bus": "yes",
-                "name": "Kortrijk Autosnelweg E17",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENAARDSESTEENWEG KORTRIJK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.301396,
-                    50.816599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "91;92;93;99",
                 "ref:De_Lijn": "508930",
                 "bus": "yes",
@@ -61,27 +40,6 @@
                 "coordinates": [
                     3.317393,
                     50.815188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "2",
-                "ref:De_Lijn": "509767",
-                "bus": "yes",
-                "name": "Kortrijk Lange Munte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AMBASSADEUR BAERTLAAN KORTRIJK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.299119,
-                    50.807498
                 ]
             }
         },
@@ -109,6 +67,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "91;92;93",
+                "ref:De_Lijn": "503351",
+                "bus": "yes",
+                "name": "Kortrijk Autosnelweg E17",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.301396,
+                    50.816599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "2",
                 "ref:De_Lijn": "509757",
                 "bus": "yes",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.299275,
                     50.807472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "509767",
+                "bus": "yes",
+                "name": "Kortrijk Lange Munte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMBASSADEUR BAERTLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.299119,
+                    50.807498
                 ]
             }
         },

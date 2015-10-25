@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200897",
                 "bus": "yes",
                 "name": "Adegem Broekelken",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200812",
                 "bus": "yes",
                 "name": "Adegem Vierklaver",

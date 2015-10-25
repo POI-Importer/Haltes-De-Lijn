@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "159",
                 "ref:De_Lijn": "102616",
                 "bus": "yes",
                 "name": "Herentals Saffierstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "159",
                 "ref:De_Lijn": "102617",
                 "bus": "yes",
                 "name": "Herentals Saffierstraat",

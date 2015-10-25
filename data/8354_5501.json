@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;470",
+                "route_ref:De_Lijn": "65",
                 "ref:De_Lijn": "209454",
                 "bus": "yes",
                 "name": "Zulzeke Beiaardstraat",
@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65",
                 "ref:De_Lijn": "209449",
                 "bus": "yes",
                 "name": "Zulzeke Beiaardstraat",

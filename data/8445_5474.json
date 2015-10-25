@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "14;302",
-                "ref:De_Lijn": "401249",
+                "ref:De_Lijn": "401248",
                 "bus": "yes",
                 "name": "Gerdingen Barrierstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.570596,
-                    51.139295
+                    5.570421,
+                    51.139162
                 ]
             }
         },
@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "401249",
+                "bus": "yes",
+                "name": "Gerdingen Barrierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 GERDINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.570596,
+                    51.139295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
                 "ref:De_Lijn": "401251",
                 "bus": "yes",
                 "name": "Gerdingen Industrieterrein",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.564454,
                     51.138845
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;302",
-                "ref:De_Lijn": "401248",
-                "bus": "yes",
-                "name": "Gerdingen Barrierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N73 GERDINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.570421,
-                    51.139162
                 ]
             }
         }

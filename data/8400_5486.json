@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "284;501;510;681",
-                "ref:De_Lijn": "300646",
-                "bus": "yes",
-                "name": "Boortmeerbeek Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTORIJSTRAAT BOORTMEERBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.57175,
-                    50.981952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "284;501;510",
-                "ref:De_Lijn": "300652",
+                "ref:De_Lijn": "300647",
                 "bus": "yes",
-                "name": "Boortmeerbeek Hollestraat",
+                "name": "Boortmeerbeek Genninckstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WESPELAARSEBAAN BOORTMEERBEEK",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.584742,
-                    50.976823
+                    4.589246,
+                    50.974783
                 ]
             }
         },
@@ -68,41 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "284;501;510;681",
-                "ref:De_Lijn": "300645",
+                "ref:De_Lijn": "300646",
                 "bus": "yes",
                 "name": "Boortmeerbeek Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HANSWIJKSTRAAT BOORTMEERBEEK",
+                "created_by": "PASTORIJSTRAAT BOORTMEERBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.570709,
-                    50.98163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "284;501;510",
-                "ref:De_Lijn": "300647",
-                "bus": "yes",
-                "name": "Boortmeerbeek Genninckstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESPELAARSEBAAN BOORTMEERBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.589246,
-                    50.974783
+                    4.57175,
+                    50.981952
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     4.583932,
                     50.977067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "284;501;510",
+                "ref:De_Lijn": "300652",
+                "bus": "yes",
+                "name": "Boortmeerbeek Hollestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESPELAARSEBAAN BOORTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.584742,
+                    50.976823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "284;501;510;681",
+                "ref:De_Lijn": "300645",
+                "bus": "yes",
+                "name": "Boortmeerbeek Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANSWIJKSTRAAT BOORTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.570709,
+                    50.98163
                 ]
             }
         },

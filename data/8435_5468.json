@@ -5,9 +5,30 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "401602",
+                "ref:De_Lijn": "409429",
                 "bus": "yes",
-                "name": "Lutlommel Landbouwstraat",
+                "name": "Lutlommel Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAMPROOD LUTLOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34312,
+                    51.229147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "405853",
+                "bus": "yes",
+                "name": "Lutlommel School",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LUTLOMMEL LUTLOMMEL",
@@ -17,50 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.356583,
-                    51.232738
+                    5.35138,
+                    51.232476
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "405805",
+                "route_ref:De_Lijn": "84;711",
+                "ref:De_Lijn": "405801",
                 "bus": "yes",
-                "name": "Lutlommel Lijsterbesstraat Enneven",
+                "name": "Lutlommel Enneven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ENNEVEN LUTLOMMEL",
+                "created_by": "LUTLOMMEL LUTLOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.34401,
-                    51.233337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "405898",
-                "bus": "yes",
-                "name": "Grote-Barrier Weidestraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "NORBERT NEECKXLAAN LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.34825,
-                    51.221185
+                    5.340148,
+                    51.231508
                 ]
             }
         },
@@ -82,48 +82,6 @@
                 "coordinates": [
                     5.357694,
                     51.227084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "405892",
-                "bus": "yes",
-                "name": "Grote-Barrier Weidestraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N712 LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.347426,
-                    51.221488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;711",
-                "ref:De_Lijn": "405800",
-                "bus": "yes",
-                "name": "Lutlommel Enneven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUTLOMMEL LUTLOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.340839,
-                    51.231682
                 ]
             }
         },
@@ -152,30 +110,30 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "409428",
+                "ref:De_Lijn": "404441",
                 "bus": "yes",
-                "name": "Lutlommel Schamprood",
+                "name": "Lommel Kerkhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHAMPROOD LUTLOMMEL",
+                "created_by": "NORBERT NEECKXLAAN LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.349911,
-                    51.228677
+                    5.343572,
+                    51.220657
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "405853",
+                "route_ref:De_Lijn": "84;711",
+                "ref:De_Lijn": "405800",
                 "bus": "yes",
-                "name": "Lutlommel School",
+                "name": "Lutlommel Enneven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LUTLOMMEL LUTLOMMEL",
@@ -185,8 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.35138,
-                    51.232476
+                    5.340839,
+                    51.231682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405898",
+                "bus": "yes",
+                "name": "Grote-Barrier Weidestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NORBERT NEECKXLAAN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34825,
+                    51.221185
                 ]
             }
         },
@@ -194,7 +173,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "405793",
+                "ref:De_Lijn": "405805",
                 "bus": "yes",
                 "name": "Lutlommel Lijsterbesstraat Enneven",
                 "public_transport": "platform",
@@ -206,8 +185,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.344238,
-                    51.233326
+                    5.34401,
+                    51.233337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405892",
+                "bus": "yes",
+                "name": "Grote-Barrier Weidestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N712 LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347426,
+                    51.221488
                 ]
             }
         },
@@ -236,20 +236,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "404441",
+                "ref:De_Lijn": "405793",
                 "bus": "yes",
-                "name": "Lommel Kerkhof",
+                "name": "Lutlommel Lijsterbesstraat Enneven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NORBERT NEECKXLAAN LOMMEL",
+                "created_by": "ENNEVEN LUTLOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.343572,
-                    51.220657
+                    5.344238,
+                    51.233326
                 ]
             }
         },
@@ -257,30 +257,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "409429",
+                "ref:De_Lijn": "401602",
                 "bus": "yes",
-                "name": "Lutlommel Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHAMPROOD LUTLOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.34312,
-                    51.229147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;711",
-                "ref:De_Lijn": "405801",
-                "bus": "yes",
-                "name": "Lutlommel Enneven",
+                "name": "Lutlommel Landbouwstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LUTLOMMEL LUTLOMMEL",
@@ -290,8 +269,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.340148,
-                    51.231508
+                    5.356583,
+                    51.232738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "409428",
+                "bus": "yes",
+                "name": "Lutlommel Schamprood",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAMPROOD LUTLOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.349911,
+                    51.228677
                 ]
             }
         }

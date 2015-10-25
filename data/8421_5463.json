@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;436;437",
                 "ref:De_Lijn": "107557",
                 "bus": "yes",
                 "name": "Retie Hofstraat",

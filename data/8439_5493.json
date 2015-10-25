@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20a;741",
-                "ref:De_Lijn": "401506",
+                "ref:De_Lijn": "401507",
                 "bus": "yes",
                 "name": "Diepenbeek Reitje brug",
                 "public_transport": "platform",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.43915,
-                    50.886621
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "741",
-                "ref:De_Lijn": "401894",
-                "bus": "yes",
-                "name": "Diepenbeek Kukkelbos I",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KUKKELBOSSTRAAT DIEPENBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.432108,
-                    50.887575
+                    5.439159,
+                    50.886396
                 ]
             }
         },
@@ -67,8 +46,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "401894",
+                "bus": "yes",
+                "name": "Diepenbeek Kukkelbos I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUKKELBOSSTRAAT DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.432108,
+                    50.887575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "20a;741",
-                "ref:De_Lijn": "401507",
+                "ref:De_Lijn": "401506",
                 "bus": "yes",
                 "name": "Diepenbeek Reitje brug",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.439159,
-                    50.886396
+                    5.43915,
+                    50.886621
                 ]
             }
         }

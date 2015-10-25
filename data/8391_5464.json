@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
-                "ref:De_Lijn": "109880",
-                "bus": "yes",
-                "name": "Goederenstation NMBS",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NOORDERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.379108,
-                    51.28919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "760",
-                "ref:De_Lijn": "108465",
-                "bus": "yes",
-                "name": "Pays",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NOORDERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.385155,
-                    51.28305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "760",
                 "ref:De_Lijn": "109881",
                 "bus": "yes",
                 "name": "Goederenstation NMBS",
@@ -67,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
                 "ref:De_Lijn": "108955",
                 "bus": "yes",
                 "name": "Treurenborg",
@@ -88,7 +44,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "108950",
+                "bus": "yes",
+                "name": "Treurenborg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.385139,
+                    51.278565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109880",
+                "bus": "yes",
+                "name": "Goederenstation NMBS",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379108,
+                    51.28919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108460",
                 "bus": "yes",
                 "name": "Pays",
@@ -109,10 +104,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
-                "ref:De_Lijn": "108950",
+                "ref:De_Lijn": "108465",
                 "bus": "yes",
-                "name": "Treurenborg",
+                "name": "Pays",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NOORDERLAAN ANTWERPEN",
@@ -122,8 +116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.385139,
-                    51.278565
+                    4.385155,
+                    51.28305
                 ]
             }
         }

@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
-                "ref:De_Lijn": "204188",
-                "bus": "yes",
-                "name": "Sinaai Helsvuurstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PUIVELDESTRAAT SINAAI",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.056709,
-                    51.165747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;270",
-                "ref:De_Lijn": "205188",
-                "bus": "yes",
-                "name": "Sinaai Helsvuurstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PUIVELDESTRAAT SINAAI",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.056922,
-                    51.166017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "204187",
                 "bus": "yes",
                 "name": "Belsele Kruisstraat",
@@ -67,7 +25,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "204188",
+                "bus": "yes",
+                "name": "Sinaai Helsvuurstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUIVELDESTRAAT SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.056709,
+                    51.165747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "205188",
+                "bus": "yes",
+                "name": "Sinaai Helsvuurstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUIVELDESTRAAT SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.056922,
+                    51.166017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "205187",
                 "bus": "yes",
                 "name": "Belsele Kruisstraat",

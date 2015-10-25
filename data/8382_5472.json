@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82",
-                "ref:De_Lijn": "205709",
-                "bus": "yes",
-                "name": "Sint-Niklaas Ster",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STER SINT-NIKLAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.19155,
-                    51.177953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "3;4",
                 "ref:De_Lijn": "205708",
                 "bus": "yes",
@@ -46,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "205354",
                 "bus": "yes",
                 "name": "Sint-Niklaas Parking De Ster",
@@ -67,21 +45,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;4",
-                "ref:De_Lijn": "205314",
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "204312",
                 "bus": "yes",
-                "name": "Sint-Niklaas Ster",
+                "name": "Sint-Niklaas Domein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIDEBAAN SINT-NIKLAAS",
+                "created_by": "VOSSEKOTSTRAAT SINT-NIKLAAS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.191852,
-                    51.177379
+                    4.196058,
+                    51.17707
                 ]
             }
         },
@@ -130,6 +108,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "204315",
+                "bus": "yes",
+                "name": "Sint-Niklaas Uilestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKHOORNSTRAAT SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.182034,
+                    51.176096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82",
+                "ref:De_Lijn": "205709",
+                "bus": "yes",
+                "name": "Sint-Niklaas Ster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STER SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.19155,
+                    51.177953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "81;82",
                 "ref:De_Lijn": "204709",
                 "bus": "yes",
@@ -151,31 +171,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "204354",
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "204314",
                 "bus": "yes",
-                "name": "Sint-Niklaas Parking De Ster",
+                "name": "Sint-Niklaas Lange Rekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BROKKELINGENSTRAAT SINT-NIKLAAS",
+                "created_by": "EEKHOORNSTRAAT SINT-NIKLAAS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.195718,
-                    51.176288
+                    4.183463,
+                    51.172719
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "205338",
+                "route_ref:De_Lijn": "3;4",
+                "ref:De_Lijn": "205314",
                 "bus": "yes",
-                "name": "Sint-Niklaas Lange Rekstraat",
+                "name": "Sint-Niklaas Ster",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HEIDEBAAN SINT-NIKLAAS",
@@ -185,8 +205,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.183849,
-                    51.172512
+                    4.191852,
+                    51.177379
                 ]
             }
         },
@@ -215,20 +235,82 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "204314",
+                "ref:De_Lijn": "205338",
                 "bus": "yes",
                 "name": "Sint-Niklaas Lange Rekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EEKHOORNSTRAAT SINT-NIKLAAS",
+                "created_by": "HEIDEBAAN SINT-NIKLAAS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.183463,
-                    51.172719
+                    4.183849,
+                    51.172512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "205312",
+                "bus": "yes",
+                "name": "Sint-Niklaas Domein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSEKOTSTRAAT SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.196617,
+                    51.17663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204354",
+                "bus": "yes",
+                "name": "Sint-Niklaas Parking De Ster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROKKELINGENSTRAAT SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.195718,
+                    51.176288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4",
+                "ref:De_Lijn": "204313",
+                "bus": "yes",
+                "name": "Sint-Niklaas Ster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDEBAAN SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.191481,
+                    51.177351
                 ]
             }
         },
@@ -271,90 +353,6 @@
                 "coordinates": [
                     4.181461,
                     51.176212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;4",
-                "ref:De_Lijn": "204313",
-                "bus": "yes",
-                "name": "Sint-Niklaas Ster",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDEBAAN SINT-NIKLAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.191481,
-                    51.177351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "205312",
-                "bus": "yes",
-                "name": "Sint-Niklaas Domein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOSSEKOTSTRAAT SINT-NIKLAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.196617,
-                    51.17663
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "204315",
-                "bus": "yes",
-                "name": "Sint-Niklaas Uilestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EEKHOORNSTRAAT SINT-NIKLAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.182034,
-                    51.176096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "204312",
-                "bus": "yes",
-                "name": "Sint-Niklaas Domein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOSSEKOTSTRAAT SINT-NIKLAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.196058,
-                    51.17707
                 ]
             }
         }

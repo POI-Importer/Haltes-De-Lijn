@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "504445",
-                "bus": "yes",
-                "name": "Proven Grote Kiezel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLEKERIJWEG PROVEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.658244,
-                    50.887425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;69",
                 "ref:De_Lijn": "509439",
                 "bus": "yes",
                 "name": "Proven Blekerij",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     2.645257,
                     50.881453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504445",
+                "bus": "yes",
+                "name": "Proven Grote Kiezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLEKERIJWEG PROVEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.658244,
+                    50.887425
                 ]
             }
         }

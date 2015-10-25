@@ -4,110 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "373;392",
-                "ref:De_Lijn": "304957",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Binkomstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BINKOMSTRAAT MEENSEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.921858,
-                    50.894363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;392",
-                "ref:De_Lijn": "304959",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Binkomstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BINKOMSTRAAT MEENSEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.921745,
-                    50.894454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "304963",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Café Pijpen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSESTRAAT TIELT-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.903549,
-                    50.901784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "304964",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Meensel Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELLEKENSWEG TIELT-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.916798,
-                    50.8981
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;392",
-                "ref:De_Lijn": "304967",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Kapelleke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BINKOMSTRAAT MEENSEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.917002,
-                    50.890017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "304954",
                 "bus": "yes",
@@ -129,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "373",
-                "ref:De_Lijn": "304969",
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "304966",
                 "bus": "yes",
-                "name": "Meensel-Kiezegem Keelstraat",
+                "name": "Meensel-Kiezegem Kapelleke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIESTRAAT TIELT-WINGE",
+                "created_by": "BINKOMSTRAAT MEENSEL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.921201,
-                    50.900201
+                    4.917387,
+                    50.890069
                 ]
             }
         },
@@ -172,7 +68,70 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "304965",
+                "ref:De_Lijn": "304956",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Binkomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLEKENSWEG MEENSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921735,
+                    50.894786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "304953",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Kiezegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT KIEZEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.90159,
+                    50.898314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373",
+                "ref:De_Lijn": "304969",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Keelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIESTRAAT TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921201,
+                    50.900201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "304964",
                 "bus": "yes",
                 "name": "Meensel-Kiezegem Meensel Gemeentehuis",
                 "public_transport": "platform",
@@ -184,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.917012,
-                    50.898126
+                    4.916798,
+                    50.8981
                 ]
             }
         },
@@ -213,8 +172,70 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "304967",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINKOMSTRAAT MEENSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.917002,
+                    50.890017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308032",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Neckerspoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT KIEZEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.904413,
+                    50.892799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "304956",
+                "ref:De_Lijn": "304965",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Meensel Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLEKENSWEG TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.917012,
+                    50.898126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "304958",
                 "bus": "yes",
                 "name": "Meensel-Kiezegem Binkomstraat",
                 "public_transport": "platform",
@@ -226,8 +247,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.921735,
-                    50.894786
+                    4.921733,
+                    50.894634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304963",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Café Pijpen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTRAAT TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.903549,
+                    50.901784
                 ]
             }
         },
@@ -256,9 +297,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "373;392",
-                "ref:De_Lijn": "304966",
+                "ref:De_Lijn": "304959",
                 "bus": "yes",
-                "name": "Meensel-Kiezegem Kapelleke",
+                "name": "Meensel-Kiezegem Binkomstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BINKOMSTRAAT MEENSEL",
@@ -268,8 +309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.917387,
-                    50.890069
+                    4.921745,
+                    50.894454
                 ]
             }
         },
@@ -297,62 +338,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "304953",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Kiezegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT KIEZEGEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.90159,
-                    50.898314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308032",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Neckerspoel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT KIEZEGEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.904413,
-                    50.892799
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "304958",
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "304957",
                 "bus": "yes",
                 "name": "Meensel-Kiezegem Binkomstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAPELLEKENSWEG MEENSEL",
+                "created_by": "BINKOMSTRAAT MEENSEL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.921733,
-                    50.894634
+                    4.921858,
+                    50.894363
                 ]
             }
         }

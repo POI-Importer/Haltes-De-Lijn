@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "710",
-                "ref:De_Lijn": "404905",
+                "ref:De_Lijn": "404966",
                 "bus": "yes",
-                "name": "Vliermaal Sint-Jansstraat",
+                "name": "Vliermaal Beekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-JANSTRAAT VLIERMAAL",
+                "created_by": "BEEKSTRAAT VLIERMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.426626,
-                    50.841117
+                    5.423645,
+                    50.837332
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "710",
-                "ref:De_Lijn": "404966",
+                "ref:De_Lijn": "404905",
                 "bus": "yes",
-                "name": "Vliermaal Beekstraat",
+                "name": "Vliermaal Sint-Jansstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEEKSTRAAT VLIERMAAL",
+                "created_by": "SINT-JANSTRAAT VLIERMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.423645,
-                    50.837332
+                    5.426626,
+                    50.841117
                 ]
             }
         },

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22",
                 "ref:De_Lijn": "507022",
                 "bus": "yes",
                 "name": "Ardooie Station",

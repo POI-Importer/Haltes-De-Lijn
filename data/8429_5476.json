@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c;718",
-                "ref:De_Lijn": "405573",
+                "ref:De_Lijn": "405572",
                 "bus": "yes",
                 "name": "Heppen Meerhoef",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.225181,
-                    51.121094
+                    5.225908,
+                    51.121053
                 ]
             }
         },
@@ -26,20 +26,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "718",
-                "ref:De_Lijn": "408485",
+                "ref:De_Lijn": "402612",
                 "bus": "yes",
-                "name": "Heppen Heidestraat II",
+                "name": "Heppen Kruisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT HEPPEN",
+                "created_by": "KRUISSTRAAT HEPPEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.225978,
-                    51.112396
+                    5.221731,
+                    51.110503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "402323",
+                "bus": "yes",
+                "name": "Heppen De Merel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTE SPECHTSTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.217414,
+                    51.116566
                 ]
             }
         },
@@ -88,42 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "718",
-                "ref:De_Lijn": "402613",
+                "route_ref:De_Lijn": "15c;718",
+                "ref:De_Lijn": "405573",
                 "bus": "yes",
-                "name": "Heppen Kruisstraat",
+                "name": "Heppen Meerhoef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KRUISSTRAAT HEPPEN",
+                "created_by": "MIDDENLAAN ASDONK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.221786,
-                    51.110421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "718",
-                "ref:De_Lijn": "402323",
-                "bus": "yes",
-                "name": "Heppen De Merel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWARTE SPECHTSTRAAT HEPPEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.217414,
-                    51.116566
+                    5.225181,
+                    51.121094
                 ]
             }
         },
@@ -151,48 +151,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c;718",
-                "ref:De_Lijn": "405572",
-                "bus": "yes",
-                "name": "Heppen Meerhoef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MIDDENLAAN ASDONK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.225908,
-                    51.121053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "718",
-                "ref:De_Lijn": "402612",
-                "bus": "yes",
-                "name": "Heppen Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISSTRAAT HEPPEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.221731,
-                    51.110503
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "718",
                 "ref:De_Lijn": "402369",
                 "bus": "yes",
@@ -208,6 +166,48 @@
                 "coordinates": [
                     5.226382,
                     51.115719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "408485",
+                "bus": "yes",
+                "name": "Heppen Heidestraat II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.225978,
+                    51.112396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "402613",
+                "bus": "yes",
+                "name": "Heppen Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.221786,
+                    51.110421
                 ]
             }
         }

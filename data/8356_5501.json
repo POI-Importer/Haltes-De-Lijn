@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460;470",
                 "ref:De_Lijn": "209499",
                 "bus": "yes",
                 "name": "Tenabele",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460;470",
                 "ref:De_Lijn": "209193",
                 "bus": "yes",
                 "name": "Kerkhof Hogerlucht",

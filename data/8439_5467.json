@@ -4,174 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "745",
-                "ref:De_Lijn": "409482",
-                "bus": "yes",
-                "name": "Neerpelt Onze-Lieve-Vrouwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONZE-LIEVE-VROUWSTRAAT GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.435846,
-                    51.247637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "745",
-                "ref:De_Lijn": "409481",
-                "bus": "yes",
-                "name": "Neerpelt Weidenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONHOEKSTRAAT GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.434608,
-                    51.244852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "745",
-                "ref:De_Lijn": "409465",
-                "bus": "yes",
-                "name": "Neerpelt Boelehoef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGVELDWEG GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.44187,
-                    51.244876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "745",
-                "ref:De_Lijn": "409480",
-                "bus": "yes",
-                "name": "Neerpelt Zonhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONHOEKSTRAAT GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.427469,
-                    51.240134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409483",
-                "bus": "yes",
-                "name": "Neerpelt Onze-Lieve-Vrouwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONZE-LIEVE-VROUWSTRAAT GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.436221,
-                    51.247112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409464",
-                "bus": "yes",
-                "name": "Neerpelt Hayenhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAYENHOEK GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.43588,
-                    51.240993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409466",
-                "bus": "yes",
-                "name": "Neerpelt Boelehoef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGVELDWEG GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.441929,
-                    51.244966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409486",
-                "bus": "yes",
-                "name": "Neerpelt Lommelsakker",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAYENHOEK GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.43414,
-                    51.237557
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "18a;743;745",
                 "ref:De_Lijn": "406976",
                 "bus": "yes",
@@ -187,27 +19,6 @@
                 "coordinates": [
                     5.43455,
                     51.244817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "18a;745",
-                "ref:De_Lijn": "406920",
-                "bus": "yes",
-                "name": "Neerpelt Hayenhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAYENHOEK GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.435962,
-                    51.240795
                 ]
             }
         },
@@ -236,28 +47,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409468",
+                "ref:De_Lijn": "409466",
                 "bus": "yes",
-                "name": "Neerpelt Tisselrietweg",
+                "name": "Neerpelt Boelehoef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ACHELSENDIJK GROTE HEIDE",
+                "created_by": "LANGVELDWEG GROTE HEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.446242,
-                    51.245637
+                    5.441929,
+                    51.244966
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18a;743;745",
-                "ref:De_Lijn": "406978",
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "409480",
                 "bus": "yes",
                 "name": "Neerpelt Zonhoekstraat",
                 "public_transport": "platform",
@@ -269,70 +80,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.427385,
-                    51.240243
+                    5.427469,
+                    51.240134
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406942",
+                "route_ref:De_Lijn": "18a;745",
+                "ref:De_Lijn": "406920",
                 "bus": "yes",
-                "name": "Neerpelt Kanaal",
+                "name": "Neerpelt Hayenhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "UNKNOWN NEERPELT",
+                "created_by": "HAYENHOEK GROTE HEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.42911,
-                    51.23611
+                    5.435962,
+                    51.240795
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "745",
-                "ref:De_Lijn": "409484",
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409486",
                 "bus": "yes",
-                "name": "Neerpelt Grote Heide Kerk",
+                "name": "Neerpelt Lommelsakker",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTE HEIDE GROTE HEIDE",
+                "created_by": "HAYENHOEK GROTE HEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.438933,
-                    51.246719
+                    5.43414,
+                    51.237557
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "745",
-                "ref:De_Lijn": "409467",
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409464",
                 "bus": "yes",
-                "name": "Neerpelt Tisselrietweg",
+                "name": "Neerpelt Hayenhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ACHELSENDIJK GROTE HEIDE",
+                "created_by": "HAYENHOEK GROTE HEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.446141,
-                    51.245638
+                    5.43588,
+                    51.240993
                 ]
             }
         },
@@ -361,6 +173,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "409482",
+                "bus": "yes",
+                "name": "Neerpelt Onze-Lieve-Vrouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.435846,
+                    51.247637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409468",
+                "bus": "yes",
+                "name": "Neerpelt Tisselrietweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHELSENDIJK GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.446242,
+                    51.245637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
                 "ref:De_Lijn": "409485",
                 "bus": "yes",
                 "name": "Neerpelt Lommelsakker",
@@ -382,6 +236,131 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "409484",
+                "bus": "yes",
+                "name": "Neerpelt Grote Heide Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE HEIDE GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.438933,
+                    51.246719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406942",
+                "bus": "yes",
+                "name": "Neerpelt Kanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.42911,
+                    51.23611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a;743;745",
+                "ref:De_Lijn": "406978",
+                "bus": "yes",
+                "name": "Neerpelt Zonhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONHOEKSTRAAT GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.427385,
+                    51.240243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409483",
+                "bus": "yes",
+                "name": "Neerpelt Onze-Lieve-Vrouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.436221,
+                    51.247112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "409465",
+                "bus": "yes",
+                "name": "Neerpelt Boelehoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGVELDWEG GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44187,
+                    51.244876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "409481",
+                "bus": "yes",
+                "name": "Neerpelt Weidenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONHOEKSTRAAT GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.434608,
+                    51.244852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
                 "ref:De_Lijn": "405899",
                 "bus": "yes",
                 "name": "Neerpelt Reigerstraat",
@@ -396,6 +375,27 @@
                 "coordinates": [
                     5.427454,
                     51.236952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "409467",
+                "bus": "yes",
+                "name": "Neerpelt Tisselrietweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHELSENDIJK GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.446141,
+                    51.245638
                 ]
             }
         }

@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "54;59",
-                "ref:De_Lijn": "508664",
-                "bus": "yes",
-                "name": "Meulebeke Haantje",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENOVENSTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.329478,
-                    50.951705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54;59",
                 "ref:De_Lijn": "503664",
                 "bus": "yes",
                 "name": "Meulebeke Haantje",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.326259,
                     50.956289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59",
+                "ref:De_Lijn": "508664",
+                "bus": "yes",
+                "name": "Meulebeke Haantje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENOVENSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329478,
+                    50.951705
                 ]
             }
         }

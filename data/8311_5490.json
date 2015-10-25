@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59;69",
-                "ref:De_Lijn": "509033",
-                "bus": "yes",
-                "name": "Beveren Stelplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESBRUGGESTRAAT BEVEREN-AAN-DE-IJZER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.620036,
-                    50.926291
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59;69",
                 "ref:De_Lijn": "509035",
                 "bus": "yes",
                 "name": "Beveren Weg Op Oostkappel",
@@ -47,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59;69",
-                "ref:De_Lijn": "504471",
+                "ref:De_Lijn": "509471",
                 "bus": "yes",
                 "name": "Roesbrugge Markt",
                 "public_transport": "platform",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.622972,
-                    50.920023
+                    2.623126,
+                    50.920097
                 ]
             }
         },
@@ -68,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59;69",
-                "ref:De_Lijn": "504033",
+                "ref:De_Lijn": "509033",
                 "bus": "yes",
                 "name": "Beveren Stelplaats",
                 "public_transport": "platform",
@@ -80,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.619987,
-                    50.926461
+                    2.620036,
+                    50.926291
                 ]
             }
         },
@@ -152,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59;69",
-                "ref:De_Lijn": "509471",
+                "ref:De_Lijn": "504471",
                 "bus": "yes",
                 "name": "Roesbrugge Markt",
                 "public_transport": "platform",
@@ -164,8 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.623126,
-                    50.920097
+                    2.622972,
+                    50.920023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59;69",
+                "ref:De_Lijn": "504033",
+                "bus": "yes",
+                "name": "Beveren Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESBRUGGESTRAAT BEVEREN-AAN-DE-IJZER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.619987,
+                    50.926461
                 ]
             }
         }

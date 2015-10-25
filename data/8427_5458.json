@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "480",
                 "ref:De_Lijn": "109391",
                 "bus": "yes",
                 "name": "Reusel Busstation",

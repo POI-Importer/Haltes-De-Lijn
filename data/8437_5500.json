@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23a",
-                "ref:De_Lijn": "401011",
-                "bus": "yes",
-                "name": "Bommershoven Tieckenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TONGERSESTEENWEG BOMMERSHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.395668,
-                    50.787648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "401058",
-                "bus": "yes",
-                "name": "Haren De Tiecke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE TIECKENSTRAAT HAREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.396578,
-                    50.789681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23a",
-                "ref:De_Lijn": "401007",
-                "bus": "yes",
-                "name": "Bommershoven Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TONGERSESTEENWEG BOMMERSHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.388773,
-                    50.789497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "401059",
-                "bus": "yes",
-                "name": "Haren De Tiecke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE TIECKENSTRAAT HAREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.396423,
-                    50.789754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "400995",
                 "bus": "yes",
                 "name": "Piringen Kasteel Terhoven",
@@ -150,27 +66,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "401061",
-                "bus": "yes",
-                "name": "Haren Harenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HARENSTRAAT HAREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.393889,
-                    50.789956
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
                 "ref:De_Lijn": "401008",
                 "bus": "yes",
                 "name": "Bommershoven Panishof",
@@ -192,20 +87,62 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "401009",
+                "ref:De_Lijn": "401058",
                 "bus": "yes",
-                "name": "Bommershoven Panishof",
+                "name": "Haren De Tiecke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOMMERSHOVENSTRAAT BOMMERSHOVEN",
+                "created_by": "DE TIECKENSTRAAT HAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.387561,
-                    50.787925
+                    5.396578,
+                    50.789681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "401007",
+                "bus": "yes",
+                "name": "Bommershoven Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG BOMMERSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.388773,
+                    50.789497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "401061",
+                "bus": "yes",
+                "name": "Haren Harenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HARENSTRAAT HAREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.393889,
+                    50.789956
                 ]
             }
         },
@@ -233,21 +170,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "401064",
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "401059",
                 "bus": "yes",
-                "name": "Haren Kruispunt",
+                "name": "Haren De Tiecke",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HARENSTRAAT HAREN",
+                "created_by": "DE TIECKENSTRAAT HAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.397423,
-                    50.792038
+                    5.396423,
+                    50.789754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "401011",
+                "bus": "yes",
+                "name": "Bommershoven Tieckenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG BOMMERSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.395668,
+                    50.787648
                 ]
             }
         },
@@ -269,6 +227,48 @@
                 "coordinates": [
                     5.395919,
                     50.78743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "401009",
+                "bus": "yes",
+                "name": "Bommershoven Panishof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOMMERSHOVENSTRAAT BOMMERSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.387561,
+                    50.787925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401064",
+                "bus": "yes",
+                "name": "Haren Kruispunt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HARENSTRAAT HAREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.397423,
+                    50.792038
                 ]
             }
         }

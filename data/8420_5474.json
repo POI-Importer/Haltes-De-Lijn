@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "19;20;302;921",
-                "ref:De_Lijn": "103022",
-                "bus": "yes",
-                "name": "Geel Stedelijke werkplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESSENDERLOSEWEG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.016646,
-                    51.138848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "408450",
-                "bus": "yes",
-                "name": "Winkelomheide Winkelomseheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WINKELOMSEHEIDE GEEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.010191,
-                    51.139126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;20;302;921",
                 "ref:De_Lijn": "109675",
                 "bus": "yes",
                 "name": "Geel Tessenderloseweg",
@@ -61,6 +19,27 @@
                 "coordinates": [
                     5.013819,
                     51.140032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "408449",
+                "bus": "yes",
+                "name": "Winkelomheide Winkelomseheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKELOMSEHEIDE GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.009963,
+                    51.139109
                 ]
             }
         },
@@ -89,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "19;20;302;921",
-                "ref:De_Lijn": "103023",
-                "bus": "yes",
-                "name": "Geel Stedelijke werkplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESSENDERLOSEWEG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.016388,
-                    51.138813
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;20;302;921",
                 "ref:De_Lijn": "109677",
                 "bus": "yes",
                 "name": "Geel Tessenderloseweg",
@@ -131,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "408449",
+                "ref:De_Lijn": "408450",
                 "bus": "yes",
                 "name": "Winkelomheide Winkelomseheide",
                 "public_transport": "platform",
@@ -143,8 +101,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.009963,
-                    51.139109
+                    5.010191,
+                    51.139126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "103022",
+                "bus": "yes",
+                "name": "Geel Stedelijke werkplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESSENDERLOSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.016646,
+                    51.138848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "103023",
+                "bus": "yes",
+                "name": "Geel Stedelijke werkplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESSENDERLOSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.016388,
+                    51.138813
                 ]
             }
         }

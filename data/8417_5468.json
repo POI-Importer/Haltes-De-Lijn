@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;305;493",
                 "ref:De_Lijn": "109219",
                 "bus": "yes",
                 "name": "Kasterlee Hoge Mouw",
@@ -25,7 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;219;305;493",
+                "route_ref:De_Lijn": "305",
                 "ref:De_Lijn": "109218",
                 "bus": "yes",
                 "name": "Kasterlee Hoge Mouw",

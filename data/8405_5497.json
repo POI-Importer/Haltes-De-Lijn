@@ -25,11 +25,11 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308972",
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303994",
                 "bus": "yes",
-                "name": "Vaalbeek Oud Gemeentehuis tijdelijk",
+                "name": "Vaalbeek Gemeentehuis",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "GREZSTRAAT VAALBEEK",
                 "operator": "De Lijn",
@@ -39,7 +39,7 @@
                 "type": "Point",
                 "coordinates": [
                     4.689461,
-                    50.826181
+                    50.826172
                 ]
             }
         },
@@ -67,11 +67,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "303994",
+                "ref:De_Lijn": "308972",
                 "bus": "yes",
-                "name": "Vaalbeek Gemeentehuis",
+                "name": "Vaalbeek Oud Gemeentehuis tijdelijk",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "GREZSTRAAT VAALBEEK",
                 "operator": "De Lijn",
@@ -81,7 +81,7 @@
                 "type": "Point",
                 "coordinates": [
                     4.689461,
-                    50.826172
+                    50.826181
                 ]
             }
         }

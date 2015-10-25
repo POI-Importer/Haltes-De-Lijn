@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21;96",
+                "ref:De_Lijn": "502335",
+                "bus": "yes",
+                "name": "Oostkamp Wapens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT OOSTKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.224339,
+                    51.130368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;96",
                 "ref:De_Lijn": "507318",
                 "bus": "yes",
                 "name": "Oostkamp Breideldreef",
@@ -47,48 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21;96",
-                "ref:De_Lijn": "507335",
-                "bus": "yes",
-                "name": "Oostkamp Wapens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTRAAT OOSTKAMP",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.225758,
-                    51.133106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;96",
-                "ref:De_Lijn": "502335",
-                "bus": "yes",
-                "name": "Oostkamp Wapens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTRAAT OOSTKAMP",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.224339,
-                    51.130368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;96",
                 "ref:De_Lijn": "502318",
                 "bus": "yes",
                 "name": "Oostkamp Breideldreef",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     3.222497,
                     51.12626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;96",
+                "ref:De_Lijn": "507335",
+                "bus": "yes",
+                "name": "Oostkamp Wapens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT OOSTKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.225758,
+                    51.133106
                 ]
             }
         },

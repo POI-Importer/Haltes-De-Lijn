@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;44;45",
-                "ref:De_Lijn": "506429",
+                "route_ref:De_Lijn": "41;42;45",
+                "ref:De_Lijn": "501430",
                 "bus": "yes",
-                "name": "Westkapelle Kalvekeetdijk",
+                "name": "Westkapelle Natienlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NATIËNLAAN WESTKAPELLE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.296601,
-                    51.3242
+                    3.299761,
+                    51.320273
                 ]
             }
         },
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;49",
-                "ref:De_Lijn": "506733",
+                "route_ref:De_Lijn": "41;42;44;45",
+                "ref:De_Lijn": "501428",
                 "bus": "yes",
-                "name": "Westkapelle Koekoekstraat",
+                "name": "Westkapelle Sacramentstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SLUISSTRAAT WESTKAPELLE",
+                "created_by": "NATIËNLAAN WESTKAPELLE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.316964,
-                    51.31826
+                    3.305797,
+                    51.31728
                 ]
             }
         },
@@ -109,84 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;44",
-                "ref:De_Lijn": "501679",
-                "bus": "yes",
-                "name": "Westkapelle Hazelaarsdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAGENDIJK WESTKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.299597,
-                    51.320577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "501733",
-                "bus": "yes",
-                "name": "Westkapelle Koekoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N376A WESTKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.317333,
-                    51.318408
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;44;45",
-                "ref:De_Lijn": "501428",
-                "bus": "yes",
-                "name": "Westkapelle Sacramentstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NATIËNLAAN WESTKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.305797,
-                    51.31728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;45",
-                "ref:De_Lijn": "501430",
+                "route_ref:De_Lijn": "41;44;45",
+                "ref:De_Lijn": "506430",
                 "bus": "yes",
                 "name": "Westkapelle Natienlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NATIËNLAAN WESTKAPELLE",
+                "created_by": "A11 WESTKAPELLE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.299761,
-                    51.320273
+                    3.298818,
+                    51.320759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;49",
+                "ref:De_Lijn": "506733",
+                "bus": "yes",
+                "name": "Westkapelle Koekoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUISSTRAAT WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.316964,
+                    51.31826
                 ]
             }
         },
@@ -215,20 +173,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;44;45",
-                "ref:De_Lijn": "506430",
+                "ref:De_Lijn": "506429",
                 "bus": "yes",
-                "name": "Westkapelle Natienlaan",
+                "name": "Westkapelle Kalvekeetdijk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "A11 WESTKAPELLE",
+                "created_by": "NATIËNLAAN WESTKAPELLE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.298818,
-                    51.320759
+                    3.296601,
+                    51.3242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "501733",
+                "bus": "yes",
+                "name": "Westkapelle Koekoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N376A WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.317333,
+                    51.318408
                 ]
             }
         },
@@ -250,6 +229,27 @@
                 "coordinates": [
                     3.29929,
                     51.327037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "501679",
+                "bus": "yes",
+                "name": "Westkapelle Hazelaarsdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAGENDIJK WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.299597,
+                    51.320577
                 ]
             }
         }

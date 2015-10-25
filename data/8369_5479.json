@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35",
-                "ref:De_Lijn": "203498",
+                "ref:De_Lijn": "202498",
                 "bus": "yes",
                 "name": "Beervelde Hanselaarstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.901793,
-                    51.081128
+                    3.901721,
+                    51.081226
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35",
-                "ref:De_Lijn": "202498",
+                "ref:De_Lijn": "203498",
                 "bus": "yes",
                 "name": "Beervelde Hanselaarstraat",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.901721,
-                    51.081226
+                    3.901793,
+                    51.081128
                 ]
             }
         },

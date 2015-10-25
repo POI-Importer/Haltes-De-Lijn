@@ -26,20 +26,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "508020",
+                "ref:De_Lijn": "503009",
                 "bus": "yes",
-                "name": "Anzegem Sportcentrum",
+                "name": "Anzegem Buyckstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANDERGEMSTRAAT ANZEGEM",
+                "created_by": "BUYCKSTRAAT ANZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.472996,
-                    50.838362
+                    3.477113,
+                    50.833925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;85;92",
+                "ref:De_Lijn": "508019",
+                "bus": "yes",
+                "name": "Anzegem Sint-Vincentiusinstituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.472704,
+                    50.840274
                 ]
             }
         },
@@ -68,41 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "503009",
+                "ref:De_Lijn": "508020",
                 "bus": "yes",
-                "name": "Anzegem Buyckstraat",
+                "name": "Anzegem Sportcentrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BUYCKSTRAAT ANZEGEM",
+                "created_by": "LANDERGEMSTRAAT ANZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.477113,
-                    50.833925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;81;85;89;92",
-                "ref:De_Lijn": "508019",
-                "bus": "yes",
-                "name": "Anzegem Sint-Vincentiusinstituut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT ANZEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.472704,
-                    50.840274
+                    3.472996,
+                    50.838362
                 ]
             }
         }

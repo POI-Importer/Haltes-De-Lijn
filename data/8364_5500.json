@@ -4,6 +4,46 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "208079",
+                "bus": "yes",
+                "name": "Everbeek Fayte 48",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FAYTE EVERBEEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.782951,
+                    50.784086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208027",
+                "bus": "yes",
+                "name": "Everbeek Stechelmandries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FAYTE EVERBEEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.784918,
+                    50.781013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "16",
                 "ref:De_Lijn": "209096",
                 "bus": "yes",
@@ -25,28 +65,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410",
-                "ref:De_Lijn": "208027",
-                "bus": "yes",
-                "name": "Everbeek Stechelmandries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FAYTE EVERBEEK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.784918,
-                    50.781013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;410",
+                "route_ref:De_Lijn": "16",
                 "ref:De_Lijn": "208095",
                 "bus": "yes",
                 "name": "Parike Kerk",
@@ -67,28 +86,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;410",
-                "ref:De_Lijn": "208096",
-                "bus": "yes",
-                "name": "Parike Fayte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG PARIKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.791409,
-                    50.787032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "410",
                 "ref:De_Lijn": "209404",
                 "bus": "yes",
                 "name": "Parike Rameiveld",
@@ -130,21 +127,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410",
-                "ref:De_Lijn": "208079",
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "208096",
                 "bus": "yes",
-                "name": "Everbeek Fayte 48",
+                "name": "Parike Fayte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FAYTE EVERBEEK",
+                "created_by": "STEENWEG PARIKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.782951,
-                    50.784086
+                    3.791409,
+                    50.787032
                 ]
             }
         }

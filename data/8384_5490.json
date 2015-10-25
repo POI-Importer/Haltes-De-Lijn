@@ -4,10 +4,72 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "302148",
+                "route_ref:De_Lijn": "216;242",
+                "ref:De_Lijn": "300272",
                 "bus": "yes",
-                "name": "Mollem Velm",
+                "name": "Mollem Hof te Bollebeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "Z. 5 MOLLEM MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237861,
+                    50.919006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216;242",
+                "ref:De_Lijn": "300271",
+                "bus": "yes",
+                "name": "Mollem Hof te Bollebeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "Z. 5 MOLLEM MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237776,
+                    50.919095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "303634",
+                "bus": "yes",
+                "name": "Mollem Terrein Beschutte Werkplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.219209,
+                    50.916952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "302150",
+                "bus": "yes",
+                "name": "Mollem Smidsestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VELM MOLLEM",
@@ -17,8 +79,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.232068,
-                    50.925588
+                    4.228944,
+                    50.928641
                 ]
             }
         },
@@ -47,7 +109,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "216;242",
-                "ref:De_Lijn": "300269",
+                "ref:De_Lijn": "300270",
                 "bus": "yes",
                 "name": "Mollem Ingang Z5",
                 "public_transport": "platform",
@@ -59,29 +121,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.224056,
-                    50.917695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "302150",
-                "bus": "yes",
-                "name": "Mollem Smidsestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELM MOLLEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.228944,
-                    50.928641
+                    4.223716,
+                    50.917524
                 ]
             }
         },
@@ -103,48 +144,6 @@
                 "coordinates": [
                     4.229343,
                     50.928525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "216;242",
-                "ref:De_Lijn": "300272",
-                "bus": "yes",
-                "name": "Mollem Hof te Bollebeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "Z. 5 MOLLEM MOLLEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.237861,
-                    50.919006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "216;242",
-                "ref:De_Lijn": "307112",
-                "bus": "yes",
-                "name": "Mollem Politiecommissariaat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASSESTEENWEG MOLLEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.231635,
-                    50.918118
                 ]
             }
         },
@@ -173,19 +172,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "303634",
+                "ref:De_Lijn": "302148",
                 "bus": "yes",
-                "name": "Mollem Terrein Beschutte Werkplaats",
+                "name": "Mollem Velm",
                 "public_transport": "platform",
                 "highway": "bus_stop",
+                "created_by": "VELM MOLLEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.219209,
-                    50.916952
+                    4.232068,
+                    50.925588
                 ]
             }
         },
@@ -193,7 +193,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "216;242",
-                "ref:De_Lijn": "300270",
+                "ref:De_Lijn": "300269",
                 "bus": "yes",
                 "name": "Mollem Ingang Z5",
                 "public_transport": "platform",
@@ -205,8 +205,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.223716,
-                    50.917524
+                    4.224056,
+                    50.917695
                 ]
             }
         },
@@ -214,20 +214,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "216;242",
-                "ref:De_Lijn": "300271",
+                "ref:De_Lijn": "307112",
                 "bus": "yes",
-                "name": "Mollem Hof te Bollebeek",
+                "name": "Mollem Politiecommissariaat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "Z. 5 MOLLEM MOLLEM",
+                "created_by": "ASSESTEENWEG MOLLEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.237776,
-                    50.919095
+                    4.231635,
+                    50.918118
                 ]
             }
         }

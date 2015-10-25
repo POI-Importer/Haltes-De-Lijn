@@ -4,8 +4,71 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "213;355;625",
+                "ref:De_Lijn": "306712",
+                "bus": "yes",
+                "name": "Liedekerke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AFFLIGEMSESTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.095175,
+                    50.883118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;625",
+                "ref:De_Lijn": "306714",
+                "bus": "yes",
+                "name": "Teralfene Portugeesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT TERALFENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.100146,
+                    50.888451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213",
+                "ref:De_Lijn": "306708",
+                "bus": "yes",
+                "name": "Liedekerke Muilemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUILENSTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.105908,
+                    50.879843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "355;625",
-                "ref:De_Lijn": "307983",
+                "ref:De_Lijn": "307984",
                 "bus": "yes",
                 "name": "Liedekerke Affligemstraat",
                 "public_transport": "platform",
@@ -17,8 +80,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.097708,
-                    50.877469
+                    4.097537,
+                    50.877514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;355;625",
+                "ref:De_Lijn": "306711",
+                "bus": "yes",
+                "name": "Liedekerke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AFFLIGEMSESTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.095374,
+                    50.883082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213",
+                "ref:De_Lijn": "306709",
+                "bus": "yes",
+                "name": "Liedekerke Affligemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUILENSTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.098285,
+                    50.878495
                 ]
             }
         },
@@ -47,7 +152,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "213",
-                "ref:De_Lijn": "306709",
+                "ref:De_Lijn": "306710",
                 "bus": "yes",
                 "name": "Liedekerke Affligemstraat",
                 "public_transport": "platform",
@@ -59,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.098285,
-                    50.878495
+                    4.098711,
+                    50.878478
                 ]
             }
         },
@@ -88,50 +193,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213",
-                "ref:De_Lijn": "306708",
-                "bus": "yes",
-                "name": "Liedekerke Muilemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MUILENSTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.105908,
-                    50.879843
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;355;625",
-                "ref:De_Lijn": "306712",
-                "bus": "yes",
-                "name": "Liedekerke Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AFFLIGEMSESTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.095175,
-                    50.883118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "355;625",
-                "ref:De_Lijn": "307984",
+                "ref:De_Lijn": "307983",
                 "bus": "yes",
                 "name": "Liedekerke Affligemstraat",
                 "public_transport": "platform",
@@ -143,71 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.097537,
-                    50.877514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213",
-                "ref:De_Lijn": "306710",
-                "bus": "yes",
-                "name": "Liedekerke Affligemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MUILENSTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.098711,
-                    50.878478
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;355;625",
-                "ref:De_Lijn": "306711",
-                "bus": "yes",
-                "name": "Liedekerke Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AFFLIGEMSESTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.095374,
-                    50.883082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;625",
-                "ref:De_Lijn": "306714",
-                "bus": "yes",
-                "name": "Teralfene Portugeesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIESSTRAAT TERALFENE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.100146,
-                    50.888451
+                    4.097708,
+                    50.877469
                 ]
             }
         }

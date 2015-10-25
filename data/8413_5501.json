@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "662;713",
-                "ref:De_Lijn": "302176",
-                "bus": "yes",
-                "name": "Hoegaarden Nerm Schip",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NERM HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.871788,
-                    50.771708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "713",
                 "ref:De_Lijn": "308105",
                 "bus": "yes",
@@ -46,9 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308104",
+                "route_ref:De_Lijn": "662",
+                "ref:De_Lijn": "302177",
                 "bus": "yes",
-                "name": "Hoegaarden Nerm Kapel",
+                "name": "Hoegaarden Nerm Schip",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NERM HOEGAARDEN",
@@ -58,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.866026,
-                    50.769845
+                    4.871886,
+                    50.771654
                 ]
             }
         },
@@ -87,8 +67,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "662",
-                "ref:De_Lijn": "302177",
+                "ref:De_Lijn": "308104",
+                "bus": "yes",
+                "name": "Hoegaarden Nerm Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NERM HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.866026,
+                    50.769845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "662;713",
+                "ref:De_Lijn": "302176",
                 "bus": "yes",
                 "name": "Hoegaarden Nerm Schip",
                 "public_transport": "platform",
@@ -100,8 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.871886,
-                    50.771654
+                    4.871788,
+                    50.771708
                 ]
             }
         },

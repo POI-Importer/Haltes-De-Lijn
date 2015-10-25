@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;61;63;20a;724",
-                "ref:De_Lijn": "405245",
+                "route_ref:De_Lijn": "25;45;63;20a;724",
+                "ref:De_Lijn": "405244",
                 "bus": "yes",
                 "name": "Smeermaas Kruispunt",
                 "public_transport": "platform",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.671556,
-                    50.882706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "406324",
-                "bus": "yes",
-                "name": "Maastricht Caberg Grens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSEWEG MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.673286,
-                    50.881032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;45;61;20a;724",
-                "ref:De_Lijn": "405249",
-                "bus": "yes",
-                "name": "Smeermaas Veugenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASEIKERSTEENWEG SMEERMAAS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.673477,
-                    50.887395
+                    5.672303,
+                    50.88249
                 ]
             }
         },
@@ -88,63 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "405143",
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "406324",
                 "bus": "yes",
-                "name": "Smeermaas Maaseikersteenweg 3",
+                "name": "Maastricht Caberg Grens",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "MAASEIKERSTEENWEG SMEERMAAS",
+                "created_by": "BRUSSELSEWEG MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.673096,
-                    50.881367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;61;20a;724",
-                "ref:De_Lijn": "405243",
-                "bus": "yes",
-                "name": "Smeermaas Jeugdpark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASEIKERSTEENWEG SMEERMAAS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.673243,
-                    50.883586
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "406306",
-                "bus": "yes",
-                "name": "Maastricht Bosscherweg 17",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSSCHERWEG MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.679818,
-                    50.875771
+                    5.673286,
+                    50.881032
                 ]
             }
         },
@@ -194,27 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "406307",
-                "bus": "yes",
-                "name": "Maastricht Bosscherweg 17",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSSCHERWEG MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.679526,
-                    50.87599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45",
                 "ref:De_Lijn": "406310",
                 "bus": "yes",
                 "zone:De_Lijn": "6658",
@@ -236,32 +131,32 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;63;20a;724",
-                "ref:De_Lijn": "405244",
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "406306",
                 "bus": "yes",
-                "name": "Smeermaas Kruispunt",
+                "name": "Maastricht Bosscherweg 17",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAASTRICHTERWEG SMEERMAAS",
+                "created_by": "BOSSCHERWEG MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.672303,
-                    50.88249
+                    5.679818,
+                    50.875771
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;20a;724",
-                "ref:De_Lijn": "405248",
+                "ref:De_Lijn": "405143",
                 "bus": "yes",
-                "name": "Smeermaas Veugenlaan",
+                "name": "Smeermaas Maaseikersteenweg 3",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "MAASEIKERSTEENWEG SMEERMAAS",
                 "operator": "De Lijn",
@@ -270,8 +165,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.67372,
-                    50.887977
+                    5.673096,
+                    50.881367
                 ]
             }
         },
@@ -314,6 +209,111 @@
                 "coordinates": [
                     5.673443,
                     50.883629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;61;20a;724",
+                "ref:De_Lijn": "405243",
+                "bus": "yes",
+                "name": "Smeermaas Jeugdpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASEIKERSTEENWEG SMEERMAAS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.673243,
+                    50.883586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;20a;724",
+                "ref:De_Lijn": "405248",
+                "bus": "yes",
+                "name": "Smeermaas Veugenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASEIKERSTEENWEG SMEERMAAS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67372,
+                    50.887977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;61;63;20a;724",
+                "ref:De_Lijn": "405245",
+                "bus": "yes",
+                "name": "Smeermaas Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERWEG SMEERMAAS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.671556,
+                    50.882706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;61;20a;724",
+                "ref:De_Lijn": "405249",
+                "bus": "yes",
+                "name": "Smeermaas Veugenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASEIKERSTEENWEG SMEERMAAS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.673477,
+                    50.887395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "406307",
+                "bus": "yes",
+                "name": "Maastricht Bosscherweg 17",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSCHERWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.679526,
+                    50.87599
                 ]
             }
         }

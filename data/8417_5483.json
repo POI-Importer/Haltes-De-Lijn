@@ -4,28 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "304414",
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "307356",
                 "bus": "yes",
-                "name": "Testelt Plaats Vondel",
+                "name": "Testelt Ter Hoeve",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PLAATS-VONDEL TESTELT",
+                "created_by": "MOLENBERGSTRAAT WEEFBERG",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.955249,
-                    51.016189
+                    4.950476,
+                    51.020824
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "307386",
                 "bus": "yes",
                 "name": "Testelt Bergstraat",
@@ -46,49 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306847",
-                "bus": "yes",
-                "name": "Testelt Kattestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KATTESTRAAT TESTELT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.948634,
-                    51.018253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;701;707;708",
-                "ref:De_Lijn": "304369",
-                "bus": "yes",
-                "name": "Averbode Zand",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESTELTSESTEENWEG TESTELT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.963259,
-                    51.020706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;707;708",
+                "route_ref:De_Lijn": "36;708",
                 "ref:De_Lijn": "304370",
                 "bus": "yes",
                 "name": "Averbode Zand",
@@ -103,90 +61,6 @@
                 "coordinates": [
                     4.963472,
                     51.020642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307385",
-                "bus": "yes",
-                "name": "Testelt Bergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOCHTSTRAAT TESTELT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.960928,
-                    51.015576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306857",
-                "bus": "yes",
-                "name": "Testelt Teekbroek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TEEKBROEK TESTELT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.949671,
-                    51.016828
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "304413",
-                "bus": "yes",
-                "name": "Testelt Plaats Vondel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PLAATS-VONDEL TESTELT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.955078,
-                    51.016163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307366",
-                "bus": "yes",
-                "name": "Testelt Nieuwe Mechelsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE MECHELSEBAAN WEEFBERG",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.951256,
-                    51.025117
                 ]
             }
         },
@@ -215,41 +89,83 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307356",
+                "ref:De_Lijn": "307385",
                 "bus": "yes",
-                "name": "Testelt Ter Hoeve",
+                "name": "Testelt Bergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLENBERGSTRAAT WEEFBERG",
+                "created_by": "LOCHTSTRAAT TESTELT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.950476,
-                    51.020824
+                    4.960928,
+                    51.015576
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306858",
+                "route_ref:De_Lijn": "36;701;707;708",
+                "ref:De_Lijn": "304369",
                 "bus": "yes",
-                "name": "Testelt Teekbroek",
+                "name": "Averbode Zand",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TEEKBROEK TESTELT",
+                "created_by": "TESTELTSESTEENWEG TESTELT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.949912,
-                    51.016728
+                    4.963259,
+                    51.020706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304414",
+                "bus": "yes",
+                "name": "Testelt Plaats Vondel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAATS-VONDEL TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.955249,
+                    51.016189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;708",
+                "ref:De_Lijn": "304413",
+                "bus": "yes",
+                "name": "Testelt Plaats Vondel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAATS-VONDEL TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.955078,
+                    51.016163
                 ]
             }
         },
@@ -277,6 +193,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "306847",
+                "bus": "yes",
+                "name": "Testelt Kattestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTESTRAAT TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.948634,
+                    51.018253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "707;708",
                 "ref:De_Lijn": "306848",
                 "bus": "yes",
@@ -292,6 +229,69 @@
                 "coordinates": [
                     4.948877,
                     51.018306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306857",
+                "bus": "yes",
+                "name": "Testelt Teekbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEEKBROEK TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.949671,
+                    51.016828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "306858",
+                "bus": "yes",
+                "name": "Testelt Teekbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEEKBROEK TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.949912,
+                    51.016728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "307366",
+                "bus": "yes",
+                "name": "Testelt Nieuwe Mechelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE MECHELSEBAAN WEEFBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951256,
+                    51.025117
                 ]
             }
         }

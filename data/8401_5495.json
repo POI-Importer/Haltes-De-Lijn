@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "315;558",
-                "ref:De_Lijn": "303264",
+                "route_ref:De_Lijn": "315;317;318;555",
+                "ref:De_Lijn": "300511",
                 "bus": "yes",
-                "name": "Leefdaal Boskee",
+                "name": "Leefdaal Het Bies",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOSKEE LEEFDAAL",
+                "created_by": "TERVUURSESTEENWEG LEEFDAAL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.593681,
-                    50.848932
+                    4.597553,
+                    50.856844
                 ]
             }
         },
@@ -47,41 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "315;317;318;555",
-                "ref:De_Lijn": "300514",
+                "ref:De_Lijn": "300499",
                 "bus": "yes",
-                "name": "Leefdaal Het Bies",
+                "name": "Bertem Sinte Veronica",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TERVUURSESTEENWEG LEEFDAAL",
+                "created_by": "TERVUURSESTEENWEG BERTEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.597824,
-                    50.857078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "315;558",
-                "ref:De_Lijn": "300308",
-                "bus": "yes",
-                "name": "Leefdaal Boskee",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSKEE LEEFDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.593851,
-                    50.848959
+                    4.607737,
+                    50.85962
                 ]
             }
         },
@@ -109,31 +88,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "315;317;318;555",
-                "ref:De_Lijn": "300499",
+                "route_ref:De_Lijn": "316;526;558;616",
+                "ref:De_Lijn": "300530",
                 "bus": "yes",
-                "name": "Bertem Sinte Veronica",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVUURSESTEENWEG BERTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.607737,
-                    50.85962
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "316;526;556;558;616",
-                "ref:De_Lijn": "300512",
-                "bus": "yes",
-                "name": "Leefdaal Biesstraat",
+                "name": "Leefdaal Kuiperberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DORPSTRAAT LEEFDAAL",
@@ -143,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.605634,
-                    50.853898
+                    4.609455,
+                    50.856829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;558",
+                "ref:De_Lijn": "303264",
+                "bus": "yes",
+                "name": "Leefdaal Boskee",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKEE LEEFDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.593681,
+                    50.848932
                 ]
             }
         },
@@ -172,21 +151,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "315;317;318;555",
-                "ref:De_Lijn": "300511",
+                "route_ref:De_Lijn": "316;526;556;558;616",
+                "ref:De_Lijn": "300538",
                 "bus": "yes",
-                "name": "Leefdaal Het Bies",
+                "name": "Leefdaal Voerhoekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TERVUURSESTEENWEG LEEFDAAL",
+                "created_by": "DORPSTRAAT LEEFDAAL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.597553,
-                    50.856844
+                    4.602532,
+                    50.852708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;558",
+                "ref:De_Lijn": "300308",
+                "bus": "yes",
+                "name": "Leefdaal Boskee",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKEE LEEFDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.593851,
+                    50.848959
                 ]
             }
         },
@@ -235,31 +235,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "316;526;556;558;616",
-                "ref:De_Lijn": "300538",
+                "route_ref:De_Lijn": "315;317;318;555",
+                "ref:De_Lijn": "300514",
                 "bus": "yes",
-                "name": "Leefdaal Voerhoekstraat",
+                "name": "Leefdaal Het Bies",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSTRAAT LEEFDAAL",
+                "created_by": "TERVUURSESTEENWEG LEEFDAAL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.602532,
-                    50.852708
+                    4.597824,
+                    50.857078
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "316;526;558;616",
-                "ref:De_Lijn": "300530",
+                "route_ref:De_Lijn": "316;526;556;558;616",
+                "ref:De_Lijn": "300512",
                 "bus": "yes",
-                "name": "Leefdaal Kuiperberg",
+                "name": "Leefdaal Biesstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DORPSTRAAT LEEFDAAL",
@@ -269,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.609455,
-                    50.856829
+                    4.605634,
+                    50.853898
                 ]
             }
         },

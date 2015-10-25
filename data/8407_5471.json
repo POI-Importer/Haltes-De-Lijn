@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "152;513;943",
-                "ref:De_Lijn": "109558",
-                "bus": "yes",
-                "name": "Grobbendonk Beemdenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NETESTRAAT GROBBENDONK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.738952,
-                    51.187777
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "409;420;421;427;428",
                 "ref:De_Lijn": "106462",
                 "bus": "yes",
                 "name": "Grobbendonk Dorp",
@@ -40,6 +18,26 @@
                 "coordinates": [
                     4.738564,
                     51.191104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106463",
+                "bus": "yes",
+                "name": "Grobbendonk Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDPLEIN GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.739138,
+                    51.191354
                 ]
             }
         },
@@ -67,28 +65,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "152;213;420;421;427;428;513",
-                "ref:De_Lijn": "106463",
+                "ref:De_Lijn": "109558",
                 "bus": "yes",
-                "name": "Grobbendonk Dorp",
+                "name": "Grobbendonk Beemdenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ASTRIDPLEIN GROBBENDONK",
+                "created_by": "NETESTRAAT GROBBENDONK",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.739138,
-                    51.191354
+                    4.738952,
+                    51.187777
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "152;513;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108248",
                 "bus": "yes",
                 "name": "Grobbendonk Engels Kamp",
@@ -109,28 +106,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "152;513;943",
-                "ref:De_Lijn": "108247",
-                "bus": "yes",
-                "name": "Grobbendonk Engels Kamp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSSTRAAT GROBBENDONK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.742985,
-                    51.184106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "152;427;513;943",
                 "ref:De_Lijn": "102322",
                 "bus": "yes",
                 "name": "Grobbendonk Dorp",
@@ -151,7 +126,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "152;513;943",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108247",
+                "bus": "yes",
+                "name": "Grobbendonk Engels Kamp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSSTRAAT GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.742985,
+                    51.184106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "109557",
                 "bus": "yes",
                 "name": "Grobbendonk Beemdenstraat",

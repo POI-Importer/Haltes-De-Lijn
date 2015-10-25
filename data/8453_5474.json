@@ -4,10 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404825",
+                "ref:De_Lijn": "404823",
                 "bus": "yes",
-                "name": "Kinrooi Zielderveld 30",
+                "name": "Kinrooi Zielderveld 3",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZIELDERVELD KINROOI",
@@ -17,50 +16,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.741547,
-                    51.139614
+                    5.739701,
+                    51.138538
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404791",
+                "ref:De_Lijn": "404716",
                 "bus": "yes",
-                "name": "Kinrooi Natterveld 12",
+                "name": "Kinrooi Hoverstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "NATTERVELD KINROOI",
+                "created_by": "BREEËRSTEENWEG KINROOI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.743082,
-                    51.142221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "403039",
-                "bus": "yes",
-                "name": "Kinrooi Scheyerveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHEYERVELD KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.739305,
-                    51.147452
+                    5.751516,
+                    51.145188
                 ]
             }
         },
@@ -89,151 +67,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404707",
-                "bus": "yes",
-                "name": "Kinrooi Esserstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ESSERSTRAAT KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.741101,
-                    51.149697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "404823",
-                "bus": "yes",
-                "name": "Kinrooi Zielderveld 3",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZIELDERVELD KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.739701,
-                    51.138538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404720",
-                "bus": "yes",
-                "name": "Kinrooi Kerkhofstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ESSERSTRAAT KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.736335,
-                    51.148026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "404822",
-                "bus": "yes",
-                "name": "Kinrooi Zielderveld 3",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZIELDERVELD KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.740085,
-                    51.138471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;40;14b;720",
-                "ref:De_Lijn": "404754",
-                "bus": "yes",
-                "name": "Kinrooi Molenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREEËRSTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.738491,
-                    51.145511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11;15;14b",
-                "ref:De_Lijn": "404816",
-                "bus": "yes",
-                "name": "Kinrooi Sevenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEERTERSTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.741982,
-                    51.149066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11;15;16;40",
-                "ref:De_Lijn": "404763",
-                "bus": "yes",
-                "name": "Kinrooi Leuerbroek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEERTERSTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.75158,
-                    51.139155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720",
                 "ref:De_Lijn": "404706",
                 "bus": "yes",
                 "name": "Kinrooi Esserstraat",
@@ -254,105 +87,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;16;40",
-                "ref:De_Lijn": "404762",
+                "ref:De_Lijn": "404828",
                 "bus": "yes",
-                "name": "Kinrooi Leuerbroek",
+                "name": "Kinrooi Processieweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WEERTERSTEENWEG KINROOI",
+                "created_by": "PROCESSIEWEG KINROOI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.752682,
-                    51.138243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11;15;720",
-                "ref:De_Lijn": "404710",
-                "bus": "yes",
-                "name": "Kinrooi H. Grafinstituut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.739812,
-                    51.143778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "400019",
-                "bus": "yes",
-                "name": "Kinrooi Stelplaats",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEUERBROEK KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.749176,
-                    51.139039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404790",
-                "bus": "yes",
-                "name": "Kinrooi Natterveld 12",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NATTERVELD KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.743232,
-                    51.14248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "403047",
-                "bus": "yes",
-                "name": "Kinrooi Scheyerveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHEYERVELD KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.739305,
-                    51.147452
+                    5.735093,
+                    51.142709
                 ]
             }
         },
@@ -380,47 +128,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404828",
-                "bus": "yes",
-                "name": "Kinrooi Processieweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROCESSIEWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.735093,
-                    51.142709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "404700",
-                "bus": "yes",
-                "name": "Kinrooi Bettestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEEROETERSESTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.739881,
-                    51.139795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "11;15;16;40;14b;720",
                 "ref:De_Lijn": "404758",
                 "bus": "yes",
@@ -442,83 +149,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404716",
-                "bus": "yes",
-                "name": "Kinrooi Hoverstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BREEËRSTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.751516,
-                    51.145188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;720",
-                "ref:De_Lijn": "404766",
-                "bus": "yes",
-                "name": "Kinrooi Molen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREEËRSTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.74796,
-                    51.145293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404721",
+                "ref:De_Lijn": "404790",
                 "bus": "yes",
-                "name": "Kinrooi Kerkhofstraat",
+                "name": "Kinrooi Natterveld 12",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ESSERSTRAAT KINROOI",
+                "created_by": "NATTERVELD KINROOI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.735672,
-                    51.147845
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "404701",
-                "bus": "yes",
-                "name": "Kinrooi Bettestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEEROETERSESTEENWEG KINROOI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.740155,
-                    51.139891
+                    5.743232,
+                    51.14248
                 ]
             }
         },
@@ -547,9 +192,91 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "720",
-                "ref:De_Lijn": "404824",
+                "ref:De_Lijn": "404721",
                 "bus": "yes",
-                "name": "Kinrooi Zielderveld 30",
+                "name": "Kinrooi Kerkhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSERSTRAAT KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.735672,
+                    51.147845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "403047",
+                "bus": "yes",
+                "name": "Kinrooi Scheyerveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEYERVELD KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.739305,
+                    51.147452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404701",
+                "bus": "yes",
+                "name": "Kinrooi Bettestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEEROETERSESTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.740155,
+                    51.139891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;40",
+                "ref:De_Lijn": "404762",
+                "bus": "yes",
+                "name": "Kinrooi Leuerbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.752682,
+                    51.138243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404822",
+                "bus": "yes",
+                "name": "Kinrooi Zielderveld 3",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZIELDERVELD KINROOI",
@@ -559,8 +286,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.741629,
-                    51.139496
+                    5.740085,
+                    51.138471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "404707",
+                "bus": "yes",
+                "name": "Kinrooi Esserstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSERSTRAAT KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.741101,
+                    51.149697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "404720",
+                "bus": "yes",
+                "name": "Kinrooi Kerkhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSERSTRAAT KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.736335,
+                    51.148026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404717",
+                "bus": "yes",
+                "name": "Kinrooi Hoverstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BREEËRSTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.751854,
+                    51.14504
                 ]
             }
         },
@@ -588,11 +378,32 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404717",
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "404791",
                 "bus": "yes",
-                "name": "Kinrooi Hoverstraat",
+                "name": "Kinrooi Natterveld 12",
                 "public_transport": "platform",
-                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NATTERVELD KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.743082,
+                    51.142221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;40;14b;720",
+                "ref:De_Lijn": "404754",
+                "bus": "yes",
+                "name": "Kinrooi Molenweg",
+                "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BREEËRSTEENWEG KINROOI",
                 "operator": "De Lijn",
@@ -601,8 +412,197 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.751854,
-                    51.14504
+                    5.738491,
+                    51.145511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;720",
+                "ref:De_Lijn": "404710",
+                "bus": "yes",
+                "name": "Kinrooi H. Grafinstituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.739812,
+                    51.143778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "404825",
+                "bus": "yes",
+                "name": "Kinrooi Zielderveld 30",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZIELDERVELD KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.741547,
+                    51.139614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;720",
+                "ref:De_Lijn": "404766",
+                "bus": "yes",
+                "name": "Kinrooi Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEËRSTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74796,
+                    51.145293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;14b",
+                "ref:De_Lijn": "404816",
+                "bus": "yes",
+                "name": "Kinrooi Sevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.741982,
+                    51.149066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "403039",
+                "bus": "yes",
+                "name": "Kinrooi Scheyerveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEYERVELD KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.739305,
+                    51.147452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "404700",
+                "bus": "yes",
+                "name": "Kinrooi Bettestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEEROETERSESTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.739881,
+                    51.139795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400019",
+                "bus": "yes",
+                "name": "Kinrooi Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEUERBROEK KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.749176,
+                    51.139039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;16;40",
+                "ref:De_Lijn": "404763",
+                "bus": "yes",
+                "name": "Kinrooi Leuerbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75158,
+                    51.139155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "404824",
+                "bus": "yes",
+                "name": "Kinrooi Zielderveld 30",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZIELDERVELD KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.741629,
+                    51.139496
                 ]
             }
         }

@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "55;56;64",
-                "ref:De_Lijn": "502211",
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505244",
                 "bus": "yes",
-                "name": "Ichtegem Engelstraat 238",
+                "name": "Ichtegem Industrielaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ENGELSTRAAT ICHTEGEM",
+                "created_by": "RINGLAAN ICHTEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.03032,
-                    51.100216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;59",
-                "ref:De_Lijn": "507211",
-                "bus": "yes",
-                "name": "Ichtegem Engelstraat 238",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ENGELSTRAAT ICHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.030368,
-                    51.100037
+                    3.024894,
+                    51.101736
                 ]
             }
         },
@@ -89,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56;59",
-                "ref:De_Lijn": "505244",
-                "bus": "yes",
-                "name": "Ichtegem Industrielaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RINGLAAN ICHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.024894,
-                    51.101736
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;59",
                 "ref:De_Lijn": "505149",
                 "bus": "yes",
                 "name": "Ichtegem Schilderswijk",
@@ -145,6 +103,48 @@
                 "coordinates": [
                     3.025327,
                     51.09757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;64",
+                "ref:De_Lijn": "502211",
+                "bus": "yes",
+                "name": "Ichtegem Engelstraat 238",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03032,
+                    51.100216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;59",
+                "ref:De_Lijn": "507211",
+                "bus": "yes",
+                "name": "Ichtegem Engelstraat 238",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.030368,
+                    51.100037
                 ]
             }
         }

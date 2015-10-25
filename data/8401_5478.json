@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;561;569",
                 "ref:De_Lijn": "108827",
                 "bus": "yes",
                 "name": "Koningshooikt Boerenkrijglaan",
@@ -25,28 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;561;569",
-                "ref:De_Lijn": "108828",
-                "bus": "yes",
-                "name": "Koningshooikt Grote Brand",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELBAAN KONINGSHOOIKT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.603774,
-                    51.08612
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "560;561;569;570;571;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108825",
                 "bus": "yes",
                 "name": "Koningshooikt Kerk",
@@ -67,7 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;561;569",
                 "ref:De_Lijn": "108826",
                 "bus": "yes",
                 "name": "Koningshooikt Boerenkrijglaan",
@@ -88,7 +65,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;561;569",
                 "ref:De_Lijn": "108829",
                 "bus": "yes",
                 "name": "Koningshooikt Grote Brand",
@@ -109,7 +85,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;561;569;570;571;943",
+                "ref:De_Lijn": "108828",
+                "bus": "yes",
+                "name": "Koningshooikt Grote Brand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN KONINGSHOOIKT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.603774,
+                    51.08612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108824",
                 "bus": "yes",
                 "name": "Koningshooikt Kerk",

@@ -5,90 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "200503",
-                "bus": "yes",
-                "name": "Mariakerke Vliegpleinkouter",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ORANJEBOOMSTRAAT MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.669389,
-                    51.070765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "200502",
-                "bus": "yes",
-                "name": "Mariakerke Cypresdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ORANJEBOOMSTRAAT MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.662599,
-                    51.070626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "201899",
-                "bus": "yes",
-                "name": "Mariakerke Rodonkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZUIDBROEK MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.667888,
-                    51.077588
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "205950",
-                "bus": "yes",
-                "name": "Mariakerke Uranusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TREKWEG MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.667482,
-                    51.082764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
                 "ref:De_Lijn": "201553",
                 "bus": "yes",
                 "name": "Mariakerke Verschansingstraat",
@@ -103,6 +19,27 @@
                 "coordinates": [
                     3.666812,
                     51.075101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "200503",
+                "bus": "yes",
+                "name": "Mariakerke Vliegpleinkouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORANJEBOOMSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.669389,
+                    51.070765
                 ]
             }
         },
@@ -151,8 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69;160",
-                "ref:De_Lijn": "204950",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "205950",
                 "bus": "yes",
                 "name": "Mariakerke Uranusstraat",
                 "public_transport": "platform",
@@ -164,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.667398,
-                    51.0827
+                    3.667482,
+                    51.082764
                 ]
             }
         },
@@ -208,6 +145,69 @@
                 "coordinates": [
                     3.666806,
                     51.075532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "201899",
+                "bus": "yes",
+                "name": "Mariakerke Rodonkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDBROEK MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.667888,
+                    51.077588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "200502",
+                "bus": "yes",
+                "name": "Mariakerke Cypresdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORANJEBOOMSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.662599,
+                    51.070626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "204950",
+                "bus": "yes",
+                "name": "Mariakerke Uranusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TREKWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.667398,
+                    51.0827
                 ]
             }
         }

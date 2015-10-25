@@ -26,28 +26,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506231",
-                "zone:De_Lijn": "04",
-                "name": "Nieuwpoort Bad",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ELISALAAN NIEUWPOORT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.721049,
-                    51.148781
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "69",
                 "ref:De_Lijn": "501633",
                 "bus": "yes",
@@ -63,6 +41,27 @@
                 "coordinates": [
                     2.721356,
                     51.149802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506773",
+                "bus": "yes",
+                "name": "Oostduinkerke Spreeuwenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KINDERLAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.705934,
+                    51.142905
                 ]
             }
         },
@@ -92,20 +91,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "506773",
+                "ref:De_Lijn": "506774",
                 "bus": "yes",
                 "name": "Oostduinkerke Spreeuwenberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KINDERLAAN NIEUWPOORT",
+                "created_by": "KINDERLAAN GROENENDIJK",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.705934,
-                    51.142905
+                    2.706792,
+                    51.141686
                 ]
             }
         },
@@ -133,21 +132,22 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "506774",
-                "bus": "yes",
-                "name": "Oostduinkerke Spreeuwenberg",
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506231",
+                "zone:De_Lijn": "04",
+                "name": "Nieuwpoort Bad",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KINDERLAAN GROENENDIJK",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ELISALAAN NIEUWPOORT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.706792,
-                    51.141686
+                    2.721049,
+                    51.148781
                 ]
             }
         },

@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "506389",
+                "route_ref:De_Lijn": "51;83",
+                "ref:De_Lijn": "501392",
                 "bus": "yes",
-                "name": "Snaaskerke Oprit",
+                "name": "Snaaskerke Zwarte Weg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OOSTENDSE BAAN SNAASKERKE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.93412,
-                    51.161775
+                    2.929478,
+                    51.164416
                 ]
             }
         },
@@ -46,10 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;83",
-                "ref:De_Lijn": "501392",
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "506389",
                 "bus": "yes",
-                "name": "Snaaskerke Zwarte Weg",
+                "name": "Snaaskerke Oprit",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OOSTENDSE BAAN SNAASKERKE",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.929478,
-                    51.164416
+                    2.93412,
+                    51.161775
                 ]
             }
         },

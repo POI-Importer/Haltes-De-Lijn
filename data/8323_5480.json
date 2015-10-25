@@ -46,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;55;59;64",
-                "ref:De_Lijn": "508041",
-                "bus": "yes",
-                "name": "Beerst Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HENDRIK CONSCIENCESTRAAT BEERST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.885068,
-                    51.058128
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "505409",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.89387,
                     51.059974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59;64",
+                "ref:De_Lijn": "508041",
+                "bus": "yes",
+                "name": "Beerst Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885068,
+                    51.058128
                 ]
             }
         }

@@ -4,91 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "455;456;458;459",
-                "ref:De_Lijn": "102913",
-                "bus": "yes",
-                "name": "Turnhout Regina Pacis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP ZONDEREIGEN WEELDE-STATION (TURNHOUT)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.923454,
-                    51.389859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "457;460",
-                "ref:De_Lijn": "106712",
-                "bus": "yes",
-                "name": "Weelde Stationstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.937365,
-                    51.398475
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "457;460",
-                "ref:De_Lijn": "106709",
-                "bus": "yes",
-                "name": "Weelde Steenweg op Zondereigen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.937892,
-                    51.393403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "457;460",
-                "ref:De_Lijn": "106711",
-                "bus": "yes",
-                "name": "Weelde Stationstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.937029,
-                    51.399205
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "455;458;459",
                 "ref:De_Lijn": "102912",
                 "bus": "yes",
                 "name": "Turnhout Regina Pacis",
@@ -103,27 +18,6 @@
                 "coordinates": [
                     4.92377,
                     51.389812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "457;460",
-                "ref:De_Lijn": "106710",
-                "bus": "yes",
-                "name": "Weelde Steenweg op Zondereigen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.938096,
-                    51.393609
                 ]
             }
         },
@@ -151,7 +45,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "455;458;459",
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106710",
+                "bus": "yes",
+                "name": "Weelde Steenweg op Zondereigen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.938096,
+                    51.393609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105050",
                 "bus": "yes",
                 "name": "Turnhout Steenweg op Zondereigen",
@@ -166,6 +80,26 @@
                 "coordinates": [
                     4.936917,
                     51.392383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105060",
+                "bus": "yes",
+                "name": "Turnhout Steenweg op Zondereigen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP ZONDEREIGEN WEELDE-STATION (TURNHOUT)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.936573,
+                    51.39243
                 ]
             }
         },
@@ -193,10 +127,51 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "455;456;458;459",
-                "ref:De_Lijn": "105060",
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106709",
                 "bus": "yes",
-                "name": "Turnhout Steenweg op Zondereigen",
+                "name": "Weelde Steenweg op Zondereigen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937892,
+                    51.393403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106711",
+                "bus": "yes",
+                "name": "Weelde Stationstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937029,
+                    51.399205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102913",
+                "bus": "yes",
+                "name": "Turnhout Regina Pacis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STEENWEG OP ZONDEREIGEN WEELDE-STATION (TURNHOUT)",
@@ -206,8 +181,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.936573,
-                    51.39243
+                    4.923454,
+                    51.389859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106712",
+                "bus": "yes",
+                "name": "Weelde Stationstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDASEWEG WEELDE-STATION (RAVELS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937365,
+                    51.398475
                 ]
             }
         }

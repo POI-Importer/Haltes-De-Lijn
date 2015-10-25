@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160;527;931;944",
-                "ref:De_Lijn": "108432",
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "109578",
                 "bus": "yes",
-                "name": "Heist-op-den-Berg Goor Kerk",
+                "name": "Heist-op-den-Berg Halfbunder",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PASTOOR MELLAERTSSTRAAT GOOR (HEIST-OP-DEN-BERG)",
+                "created_by": "ZANDVOORTSTRAAT ACHTERHEIDE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.723509,
-                    51.045594
+                    4.706015,
+                    51.052019
                 ]
             }
         },
@@ -26,41 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "109579",
+                "ref:De_Lijn": "109576",
                 "bus": "yes",
-                "name": "Heist-op-den-Berg Burgerheide",
+                "name": "Heist-op-den-Berg 's Gravenhagestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BURGERHEIDESTRAAT ACHTERHEIDE",
+                "created_by": "SCHALIEHOEVESTRAAT ACHTERHEIDE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.708693,
-                    51.051508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;527;931;944",
-                "ref:De_Lijn": "108433",
-                "bus": "yes",
-                "name": "Heist-op-den-Berg Goor Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR MELLAERTSSTRAAT GOOR (HEIST-OP-DEN-BERG)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.723465,
-                    51.045477
+                    4.703297,
+                    51.04879
                 ]
             }
         },
@@ -89,48 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "109578",
+                "ref:De_Lijn": "109579",
                 "bus": "yes",
-                "name": "Heist-op-den-Berg Halfbunder",
+                "name": "Heist-op-den-Berg Burgerheide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZANDVOORTSTRAAT ACHTERHEIDE",
+                "created_by": "BURGERHEIDESTRAAT ACHTERHEIDE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.706015,
-                    51.052019
+                    4.708693,
+                    51.051508
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160;931;944",
-                "ref:De_Lijn": "107968",
-                "bus": "yes",
-                "name": "Heist-op-den-Berg Gommerijnstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BRAAMSTRAAT HEIST-OP-DEN-BERG",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.723485,
-                    51.042547
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;931;944",
+                "route_ref:De_Lijn": "931;944",
                 "ref:De_Lijn": "107969",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Gommerijnstraat",
@@ -151,21 +109,62 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "109576",
+                "ref:De_Lijn": "108433",
                 "bus": "yes",
-                "name": "Heist-op-den-Berg 's Gravenhagestraat",
+                "name": "Heist-op-den-Berg Goor Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHALIEHOEVESTRAAT ACHTERHEIDE",
+                "created_by": "PASTOOR MELLAERTSSTRAAT GOOR (HEIST-OP-DEN-BERG)",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.703297,
-                    51.04879
+                    4.723465,
+                    51.045477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "108432",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Goor Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR MELLAERTSSTRAAT GOOR (HEIST-OP-DEN-BERG)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.723509,
+                    51.045594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "107968",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Gommerijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BRAAMSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.723485,
+                    51.042547
                 ]
             }
         }

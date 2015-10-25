@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "191",
-                "ref:De_Lijn": "101847",
+                "ref:De_Lijn": "106798",
                 "bus": "yes",
-                "name": "Reet Beekvelden",
+                "name": "Reet Molenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LAARSTRAAT REET",
+                "created_by": "MOLENSTRAAT REET",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.416154,
-                    51.100791
+                    4.395311,
+                    51.101759
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "132;181;182;508",
                 "ref:De_Lijn": "106801",
                 "bus": "yes",
                 "name": "Reet Beukendreef",
@@ -46,7 +44,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "132;182;507",
+                "ref:De_Lijn": "101847",
+                "bus": "yes",
+                "name": "Reet Beekvelden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416154,
+                    51.100791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "182",
                 "ref:De_Lijn": "106872",
                 "bus": "yes",
                 "name": "Reet Donkerstraat",
@@ -67,7 +85,109 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "132;181;182;508",
+                "ref:De_Lijn": "106870",
+                "bus": "yes",
+                "name": "Reet Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412357,
+                    51.101529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101852",
+                "bus": "yes",
+                "name": "Reet Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414298,
+                    51.101043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106797",
+                "bus": "yes",
+                "name": "Reet Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395625,
+                    51.101903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "182",
+                "ref:De_Lijn": "106871",
+                "bus": "yes",
+                "name": "Reet Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409364,
+                    51.107122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "182",
+                "ref:De_Lijn": "106800",
+                "bus": "yes",
+                "name": "Reet Kerremansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40289,
+                    51.099618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "182",
                 "ref:De_Lijn": "106804",
                 "bus": "yes",
                 "name": "Reet Kerk",
@@ -88,21 +208,60 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "191",
-                "ref:De_Lijn": "101852",
-                "bus": "yes",
-                "name": "Reet Kerk",
+                "ref:De_Lijn": "106799",
+                "name": "Reet Kerremansstraat",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAARSTRAAT REET",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MOLENSTRAAT REET",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.414298,
-                    51.101043
+                    4.403119,
+                    51.099789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106803",
+                "bus": "yes",
+                "name": "Reet Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413684,
+                    51.100621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106802",
+                "bus": "yes",
+                "name": "Reet Beukendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408101,
+                    51.099994
                 ]
             }
         },
@@ -124,174 +283,6 @@
                 "coordinates": [
                     4.412371,
                     51.101287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "132;181;182;508",
-                "ref:De_Lijn": "106799",
-                "bus": "yes",
-                "name": "Reet Kerremansstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.403119,
-                    51.099789
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "132;182;507",
-                "ref:De_Lijn": "106871",
-                "bus": "yes",
-                "name": "Reet Donkerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKENSTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.409364,
-                    51.107122
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "181;508",
-                "ref:De_Lijn": "106798",
-                "bus": "yes",
-                "name": "Reet Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.395311,
-                    51.101759
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "181;508",
-                "ref:De_Lijn": "106797",
-                "bus": "yes",
-                "name": "Reet Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.395625,
-                    51.101903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "132;181;182;508",
-                "ref:De_Lijn": "106802",
-                "bus": "yes",
-                "name": "Reet Beukendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.408101,
-                    51.099994
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "132;181;182;508",
-                "ref:De_Lijn": "106800",
-                "bus": "yes",
-                "name": "Reet Kerremansstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.40289,
-                    51.099618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "132;182;507",
-                "ref:De_Lijn": "106870",
-                "bus": "yes",
-                "name": "Reet Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKENSTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.412357,
-                    51.101529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
-                "ref:De_Lijn": "106803",
-                "bus": "yes",
-                "name": "Reet Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.413684,
-                    51.100621
                 ]
             }
         }

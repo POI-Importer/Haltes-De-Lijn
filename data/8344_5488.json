@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "54",
+                "ref:De_Lijn": "503493",
+                "bus": "yes",
+                "name": "Oostrozebeke De Ghinste",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTSTRAAT GINSTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.356377,
+                    50.945764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "505093",
+                "bus": "yes",
+                "name": "Oostrozebeke Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.358901,
+                    50.955459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "54;59",
                 "ref:De_Lijn": "508560",
                 "bus": "yes",
@@ -46,10 +88,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "54;59;88",
-                "ref:De_Lijn": "505138",
+                "route_ref:De_Lijn": "54",
+                "ref:De_Lijn": "503567",
                 "bus": "yes",
-                "name": "Oostrozebeke De Ghinste",
+                "name": "Oostrozebeke Kopke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTSTRAAT GINSTE",
@@ -59,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.356591,
-                    50.945748
+                    3.351892,
+                    50.947181
                 ]
             }
         },
@@ -88,50 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;88",
-                "ref:De_Lijn": "505093",
-                "bus": "yes",
-                "name": "Oostrozebeke Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISSTRAAT OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.358901,
-                    50.955459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54",
-                "ref:De_Lijn": "503567",
-                "bus": "yes",
-                "name": "Oostrozebeke Kopke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTSTRAAT GINSTE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.351892,
-                    50.947181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54",
-                "ref:De_Lijn": "503493",
+                "route_ref:De_Lijn": "54;59;88",
+                "ref:De_Lijn": "505138",
                 "bus": "yes",
                 "name": "Oostrozebeke De Ghinste",
                 "public_transport": "platform",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.356377,
-                    50.945764
+                    3.356591,
+                    50.945748
                 ]
             }
         }

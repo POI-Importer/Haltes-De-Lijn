@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "810",
+                "ref:De_Lijn": "308637",
+                "bus": "yes",
+                "name": "Lot Springael",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEDVELD HUIZINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.273634,
+                    50.760087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "810",
+                "ref:De_Lijn": "308638",
+                "bus": "yes",
+                "name": "Lot Springael",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2747,
+                    50.758946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "810",
+                "ref:De_Lijn": "300032",
+                "bus": "yes",
+                "name": "Huizingen Demeur",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.267925,
+                    50.752486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "154;574",
                 "ref:De_Lijn": "300403",
                 "bus": "yes",
@@ -46,48 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "810",
-                "ref:De_Lijn": "303323",
-                "bus": "yes",
-                "name": "Huizingen Oudstrijders",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.265463,
-                    50.750587
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "810",
-                "ref:De_Lijn": "308638",
-                "bus": "yes",
-                "name": "Lot Springael",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.2747,
-                    50.758946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "308962",
                 "bus": "yes",
                 "name": "Lot Kerk",
@@ -109,42 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "154;574",
-                "ref:De_Lijn": "300404",
+                "route_ref:De_Lijn": "810",
+                "ref:De_Lijn": "300388",
                 "bus": "yes",
-                "name": "Lot Kloosterstraat",
+                "name": "Lot Breedveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DWORPSESTRAAT LOT",
+                "created_by": "BREEDVELD HUIZINGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.279361,
-                    50.759534
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "154;574",
-                "ref:De_Lijn": "300374",
-                "bus": "yes",
-                "name": "Huizingen Begraafplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MENISBERG HUIZINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.281022,
-                    50.750662
+                    4.271136,
+                    50.761811
                 ]
             }
         },
@@ -193,42 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "810",
-                "ref:De_Lijn": "300388",
-                "bus": "yes",
-                "name": "Lot Breedveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREEDVELD HUIZINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.271136,
-                    50.761811
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "154;574",
-                "ref:De_Lijn": "300025",
+                "ref:De_Lijn": "300373",
                 "bus": "yes",
-                "name": "Lot Rijkswacht",
+                "name": "Huizingen Begraafplaats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DWORPSESTRAAT LOT",
+                "created_by": "MENISBERG HUIZINGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.276293,
-                    50.76337
+                    4.281035,
+                    50.75104
                 ]
             }
         },
@@ -257,20 +236,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "810",
-                "ref:De_Lijn": "308637",
+                "ref:De_Lijn": "306089",
                 "bus": "yes",
-                "name": "Lot Springael",
+                "name": "Huizingen Watermolen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BREEDVELD HUIZINGEN",
+                "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.273634,
-                    50.760087
+                    4.271574,
+                    50.755572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "154;574",
+                "ref:De_Lijn": "300374",
+                "bus": "yes",
+                "name": "Huizingen Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MENISBERG HUIZINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.281022,
+                    50.750662
                 ]
             }
         },
@@ -299,9 +299,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "810",
-                "ref:De_Lijn": "300032",
+                "ref:De_Lijn": "303322",
                 "bus": "yes",
-                "name": "Huizingen Demeur",
+                "name": "Huizingen Oudstrijders",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
@@ -311,19 +311,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.267925,
-                    50.752486
+                    4.265349,
+                    50.750668
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308990",
+                "route_ref:De_Lijn": "154;574",
+                "ref:De_Lijn": "300404",
                 "bus": "yes",
-                "name": "Lot Ricks Café",
+                "name": "Lot Kloosterstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "DWORPSESTRAAT LOT",
                 "operator": "De Lijn",
@@ -332,8 +332,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.2777,
-                    50.761178
+                    4.279361,
+                    50.759534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "154;574",
+                "ref:De_Lijn": "300025",
+                "bus": "yes",
+                "name": "Lot Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DWORPSESTRAAT LOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.276293,
+                    50.76337
                 ]
             }
         },
@@ -341,9 +362,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "810",
-                "ref:De_Lijn": "306089",
+                "ref:De_Lijn": "303323",
                 "bus": "yes",
-                "name": "Huizingen Watermolen",
+                "name": "Huizingen Oudstrijders",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
@@ -353,29 +374,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.271574,
-                    50.755572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "154;574",
-                "ref:De_Lijn": "300373",
-                "bus": "yes",
-                "name": "Huizingen Begraafplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MENISBERG HUIZINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.281035,
-                    50.75104
+                    4.265463,
+                    50.750587
                 ]
             }
         },
@@ -403,27 +403,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "810",
-                "ref:De_Lijn": "303322",
-                "bus": "yes",
-                "name": "Huizingen Oudstrijders",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLESTRAAT HUIZINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.265349,
-                    50.750668
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "154;574",
                 "ref:De_Lijn": "300405",
                 "bus": "yes",
@@ -439,6 +418,27 @@
                 "coordinates": [
                     4.283439,
                     50.754044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308990",
+                "bus": "yes",
+                "name": "Lot Ricks Café",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DWORPSESTRAAT LOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2777,
+                    50.761178
                 ]
             }
         }

@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "64;87",
-                "ref:De_Lijn": "203295",
-                "bus": "yes",
-                "name": "Knesselare Buntelarestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALTERWEG AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.426547,
-                    51.121646
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "64;87;185",
                 "ref:De_Lijn": "202295",
                 "bus": "yes",
                 "name": "Knesselare Buntelarestraat",
@@ -46,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200863",
                 "bus": "yes",
                 "name": "Knesselare Stekelhoek",
@@ -61,6 +39,27 @@
                 "coordinates": [
                     3.416958,
                     51.116248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;87",
+                "ref:De_Lijn": "203295",
+                "bus": "yes",
+                "name": "Knesselare Buntelarestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERWEG AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.426547,
+                    51.121646
                 ]
             }
         }

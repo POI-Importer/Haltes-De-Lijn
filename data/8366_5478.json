@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "76;77;78",
-                "ref:De_Lijn": "202148",
-                "bus": "yes",
-                "name": "Lochristi Stationsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORP-WEST LOCHRISTI",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.824535,
-                    51.094272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;77;78",
-                "ref:De_Lijn": "203148",
-                "bus": "yes",
-                "name": "Lochristi Stationsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORP-WEST LOCHRISTI",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.825719,
-                    51.094385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;77;78",
                 "ref:De_Lijn": "203149",
                 "bus": "yes",
                 "name": "Lochristi Schoolstraat",
@@ -61,6 +19,27 @@
                 "coordinates": [
                     3.828921,
                     51.095182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "202148",
+                "bus": "yes",
+                "name": "Lochristi Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP-WEST LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.824535,
+                    51.094272
                 ]
             }
         },
@@ -109,6 +88,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "203148",
+                "bus": "yes",
+                "name": "Lochristi Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP-WEST LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.825719,
+                    51.094385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "77",
                 "ref:De_Lijn": "202170",
                 "bus": "yes",
@@ -130,27 +130,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140",
-                "ref:De_Lijn": "201897",
-                "bus": "yes",
-                "name": "Lochristi Beukendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ESDOORNLAAN LOCHRISTI",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.825365,
-                    51.084307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "76;77;78",
                 "ref:De_Lijn": "202149",
                 "bus": "yes",
@@ -166,6 +145,26 @@
                 "coordinates": [
                     3.828549,
                     51.095243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201897",
+                "bus": "yes",
+                "name": "Lochristi Beukendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESDOORNLAAN LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.825365,
+                    51.084307
                 ]
             }
         }

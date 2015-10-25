@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "503484",
+                "ref:De_Lijn": "508484",
                 "bus": "yes",
                 "name": "Langemark Halfweghuis",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.938924,
-                    50.917971
+                    2.939381,
+                    50.917941
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "508484",
+                "ref:De_Lijn": "503484",
                 "bus": "yes",
                 "name": "Langemark Halfweghuis",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.939381,
-                    50.917941
+                    2.938924,
+                    50.917971
                 ]
             }
         }

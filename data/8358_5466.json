@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
-                "ref:De_Lijn": "201957",
-                "bus": "yes",
-                "name": "Bassevelde Schare",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANDSDIJK LANDSDIJK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.660205,
-                    51.252405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "203261",
                 "bus": "yes",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
+                "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "202261",
                 "bus": "yes",
                 "name": "Bassevelde Gravejansdijk Kerk",
@@ -61,6 +40,26 @@
                 "coordinates": [
                     3.650037,
                     51.253234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201957",
+                "bus": "yes",
+                "name": "Bassevelde Schare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDSDIJK LANDSDIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.660205,
+                    51.252405
                 ]
             }
         }

@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "48;746",
-                "ref:De_Lijn": "400944",
-                "bus": "yes",
-                "name": "Kaulille Raakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FABRIEKSTRAAT KAULILLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.52427,
-                    51.195377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "400249",
-                "bus": "yes",
-                "name": "Kaulille Nachtegaalstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NACHTEGAALSTRAAT KAULILLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.520999,
-                    51.195031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "48;746",
-                "ref:De_Lijn": "400945",
-                "bus": "yes",
-                "name": "Kaulille Raakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FABRIEKSTRAAT KAULILLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.525409,
-                    51.195734
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "48",
                 "ref:De_Lijn": "400928",
                 "bus": "yes",
@@ -89,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400248",
+                "bus": "yes",
+                "name": "Kaulille Nachtegaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NACHTEGAALSTRAAT KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520983,
+                    51.194968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
                 "ref:De_Lijn": "401923",
                 "bus": "yes",
                 "name": "Kaulille Zwaluwstraat",
@@ -103,6 +61,27 @@
                 "coordinates": [
                     5.517737,
                     51.193876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;746",
+                "ref:De_Lijn": "400944",
+                "bus": "yes",
+                "name": "Kaulille Raakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FABRIEKSTRAAT KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.52427,
+                    51.195377
                 ]
             }
         },
@@ -131,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "48;746",
-                "ref:De_Lijn": "400925",
+                "ref:De_Lijn": "400945",
                 "bus": "yes",
-                "name": "Kaulille Belgebergstraat",
+                "name": "Kaulille Raakstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KETTINGBRUGWEG KAULILLE",
+                "created_by": "FABRIEKSTRAAT KAULILLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.516897,
-                    51.19464
+                    5.525409,
+                    51.195734
                 ]
             }
         },
@@ -152,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "400248",
+                "ref:De_Lijn": "400249",
                 "bus": "yes",
                 "name": "Kaulille Nachtegaalstraat",
                 "public_transport": "platform",
@@ -164,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.520983,
-                    51.194968
+                    5.520999,
+                    51.195031
                 ]
             }
         },
@@ -187,6 +166,27 @@
                 "coordinates": [
                     5.516665,
                     51.194507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;746",
+                "ref:De_Lijn": "400925",
+                "bus": "yes",
+                "name": "Kaulille Belgebergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETTINGBRUGWEG KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516897,
+                    51.19464
                 ]
             }
         }

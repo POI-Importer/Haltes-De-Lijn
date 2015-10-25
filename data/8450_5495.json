@@ -4,140 +4,33 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406382",
-                "bus": "yes",
-                "name": "Maastricht Noorderbrug",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.690263,
-                    50.858113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62;20a",
-                "ref:De_Lijn": "406368",
-                "bus": "yes",
-                "zone:De_Lijn": "6659",
-                "name": "Maastricht Koningin Emmaplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT ANNALAAN MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.677288,
-                    50.849232
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "406334",
+                "ref:De_Lijn": "406335",
                 "bus": "yes",
                 "name": "Maastricht Fort Willemweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FORT WILLEMWEG MAASTRICHT",
+                "created_by": "FRANS VAN DE LAARPLEIN MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.674255,
-                    50.85609
+                    5.673437,
+                    50.856305
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407453",
-                "bus": "yes",
-                "name": "Maastricht Koningin Emmaplein SP",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HERTOGSINGEL MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.677808,
-                    50.849037
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62;20a",
-                "ref:De_Lijn": "406392",
+                "route_ref:De_Lijn": "45;62;63;20a",
+                "ref:De_Lijn": "409884",
                 "bus": "yes",
                 "zone:De_Lijn": "6659",
-                "name": "Maastricht Via Regia/Sint-Annadal",
+                "name": "Maastricht Boschstraat/Sphinx",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VIA REGIA MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.671626,
-                    50.848872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62;63;20a",
-                "ref:De_Lijn": "406370",
-                "bus": "yes",
-                "zone:De_Lijn": "6659",
-                "name": "Maastricht Frontensingel/Maagdendries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FRONTENSINGEL MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.684437,
-                    50.854483
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406383",
-                "bus": "yes",
-                "name": "Maastricht Noorderbrug",
-                "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "BOSCHSTRAAT MAASTRICHT",
                 "operator": "De Lijn",
@@ -146,29 +39,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.690051,
-                    50.858124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406375",
-                "bus": "yes",
-                "name": "Maastricht Markt",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BOSCHSTRAAT MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.69046,
-                    50.852464
+                    5.689902,
+                    50.854341
                 ]
             }
         },
@@ -197,42 +69,43 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "406321",
+                "ref:De_Lijn": "407451",
                 "bus": "yes",
-                "name": "Maastricht Brusselseweg Fagotstraat",
+                "name": "Maastricht Koningin Emmaplein SP",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSEWEG MAASTRICHT",
+                "created_by": "HERTOGSINGEL MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.671741,
-                    50.856603
+                    5.67808,
+                    50.849106
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "406335",
+                "route_ref:De_Lijn": "62;63;20a",
+                "ref:De_Lijn": "406370",
                 "bus": "yes",
-                "name": "Maastricht Fort Willemweg",
+                "zone:De_Lijn": "6659",
+                "name": "Maastricht Frontensingel/Maagdendries",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FRANS VAN DE LAARPLEIN MAASTRICHT",
+                "created_by": "FRONTENSINGEL MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.673437,
-                    50.856305
+                    5.684437,
+                    50.854483
                 ]
             }
         },
@@ -254,6 +127,156 @@
                 "coordinates": [
                     5.671543,
                     50.856659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406314",
+                "bus": "yes",
+                "name": "Maastricht Boschstraat/Sphinx",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOSCHSTRAAT MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.690007,
+                    50.853548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;20a",
+                "ref:De_Lijn": "406392",
+                "bus": "yes",
+                "zone:De_Lijn": "6659",
+                "name": "Maastricht Via Regia/Sint-Annadal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIA REGIA MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.671626,
+                    50.848872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407453",
+                "bus": "yes",
+                "name": "Maastricht Koningin Emmaplein SP",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HERTOGSINGEL MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.677808,
+                    50.849037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406382",
+                "bus": "yes",
+                "name": "Maastricht Noorderbrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.690263,
+                    50.858113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "406334",
+                "bus": "yes",
+                "name": "Maastricht Fort Willemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORT WILLEMWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.674255,
+                    50.85609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;20a",
+                "ref:De_Lijn": "406368",
+                "bus": "yes",
+                "zone:De_Lijn": "6659",
+                "name": "Maastricht Koningin Emmaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANNALAAN MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.677288,
+                    50.849232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;20a",
+                "ref:De_Lijn": "406369",
+                "bus": "yes",
+                "zone:De_Lijn": "6659",
+                "name": "Maastricht Koningin Emmaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANNALAAN MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.677282,
+                    50.84951
                 ]
             }
         },
@@ -282,22 +305,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62;20a",
-                "ref:De_Lijn": "406369",
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "406321",
                 "bus": "yes",
-                "zone:De_Lijn": "6659",
-                "name": "Maastricht Koningin Emmaplein",
+                "name": "Maastricht Brusselseweg Fagotstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT ANNALAAN MAASTRICHT",
+                "created_by": "BRUSSELSEWEG MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.677282,
-                    50.84951
+                    5.671741,
+                    50.856603
                 ]
             }
         },
@@ -347,30 +369,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407451",
+                "ref:De_Lijn": "406315",
                 "bus": "yes",
-                "name": "Maastricht Koningin Emmaplein SP",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HERTOGSINGEL MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.67808,
-                    50.849106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406314",
-                "bus": "yes",
-                "name": "Maastricht Boschstraat/Sphinx",
+                "name": "Maastricht Boschstraat",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -381,8 +382,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.690007,
-                    50.853548
+                    5.690082,
+                    50.854177
                 ]
             }
         },
@@ -411,31 +412,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "406406",
+                "route_ref:De_Lijn": "62;63;20a",
+                "ref:De_Lijn": "406371",
                 "bus": "yes",
                 "zone:De_Lijn": "6659",
-                "name": "Maastricht Bosscherweg/Van Eyckstraat",
+                "name": "Maastricht Lindenkruis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOSSCHERWEG MAASTRICHT",
+                "created_by": "LINDENKRUIS MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.688923,
-                    50.86096
+                    5.684672,
+                    50.853752
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406315",
+                "ref:De_Lijn": "406383",
                 "bus": "yes",
-                "name": "Maastricht Boschstraat",
+                "name": "Maastricht Noorderbrug",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -446,8 +447,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.690082,
-                    50.854177
+                    5.690051,
+                    50.858124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "406331",
+                "bus": "yes",
+                "name": "Maastricht Caberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSEWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672046,
+                    50.86096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406375",
+                "bus": "yes",
+                "name": "Maastricht Markt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOSCHSTRAAT MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69046,
+                    50.852464
                 ]
             }
         },
@@ -476,42 +519,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62;63;20a",
-                "ref:De_Lijn": "406371",
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "406406",
                 "bus": "yes",
                 "zone:De_Lijn": "6659",
-                "name": "Maastricht Lindenkruis",
+                "name": "Maastricht Bosscherweg/Van Eyckstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LINDENKRUIS MAASTRICHT",
+                "created_by": "BOSSCHERWEG MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.684672,
-                    50.853752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "406331",
-                "bus": "yes",
-                "name": "Maastricht Caberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSEWEG MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.672046,
+                    5.688923,
                     50.86096
                 ]
             }
@@ -534,28 +556,6 @@
                 "coordinates": [
                     5.671857,
                     50.861313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;62;63;20a",
-                "ref:De_Lijn": "409884",
-                "bus": "yes",
-                "zone:De_Lijn": "6659",
-                "name": "Maastricht Boschstraat/Sphinx",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSCHSTRAAT MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.689902,
-                    50.854341
                 ]
             }
         }

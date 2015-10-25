@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "408079",
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405303",
                 "bus": "yes",
-                "name": "Velm Overweg",
+                "name": "Attenhoven Dorpsstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ATTENHOVENSTRAAT VELM",
+                "created_by": "DORPSSTRAAT ATTENHOVEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.11607,
-                    50.776695
+                    5.098071,
+                    50.765373
                 ]
             }
         },
@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "408079",
+                "bus": "yes",
+                "name": "Velm Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ATTENHOVENSTRAAT VELM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11607,
+                    50.776695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
                 "ref:De_Lijn": "408078",
                 "bus": "yes",
                 "name": "Velm Overweg",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.115558,
                     50.776636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405303",
-                "bus": "yes",
-                "name": "Attenhoven Dorpsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT ATTENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.098071,
-                    50.765373
                 ]
             }
         }

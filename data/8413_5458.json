@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;432;434",
                 "ref:De_Lijn": "106272",
                 "bus": "yes",
                 "name": "Merksplas J. Mertensstraat",
@@ -25,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;434;458;459",
-                "ref:De_Lijn": "109626",
-                "bus": "yes",
-                "name": "Merksplas Wijntuinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP HOOGSTRATEN MERKSPLAS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.858371,
-                    51.362049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;432;434",
                 "ref:De_Lijn": "106271",
                 "bus": "yes",
                 "name": "Merksplas J. Mertensstraat",
@@ -67,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;458;459",
                 "ref:De_Lijn": "109625",
                 "bus": "yes",
                 "name": "Merksplas Wijntuinstraat",
@@ -82,6 +58,26 @@
                 "coordinates": [
                     4.857899,
                     51.362141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109626",
+                "bus": "yes",
+                "name": "Merksplas Wijntuinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP HOOGSTRATEN MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.858371,
+                    51.362049
                 ]
             }
         }

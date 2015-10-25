@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "203056",
-                "bus": "yes",
-                "name": "Maldegem Ommeloper",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEVROUW COURTMANSLAAN MALDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.454677,
-                    51.20687
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "210056",
-                "bus": "yes",
-                "name": "Maldegem Steenhouwerslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROMMEWEGE MALDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.467994,
-                    51.194549
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200806",
-                "bus": "yes",
-                "name": "Maldegem Perka",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AMBACHTENLAAN MALDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.466961,
-                    51.199917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;185",
-                "ref:De_Lijn": "202055",
-                "bus": "yes",
-                "name": "Maldegem Radestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTSE STEENWEG MALDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.464821,
-                    51.205474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "203280",
                 "bus": "yes",
@@ -130,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "202281",
+                "bus": "yes",
+                "name": "Maldegem Speyestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERBAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.453314,
+                    51.198284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "202283",
                 "bus": "yes",
                 "name": "Maldegem Station",
@@ -145,6 +82,48 @@
                 "coordinates": [
                     3.449961,
                     51.205098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203056",
+                "bus": "yes",
+                "name": "Maldegem Ommeloper",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEVROUW COURTMANSLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.454677,
+                    51.20687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "202055",
+                "bus": "yes",
+                "name": "Maldegem Radestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE STEENWEG MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.464821,
+                    51.205474
                 ]
             }
         },
@@ -172,28 +151,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
-                "ref:De_Lijn": "202280",
+                "ref:De_Lijn": "200806",
                 "bus": "yes",
-                "name": "Maldegem Astridlaan",
+                "name": "Maldegem Perka",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AALTERBAAN MALDEGEM",
+                "created_by": "AMBACHTENLAAN MALDEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.450918,
-                    51.203011
+                    3.466961,
+                    51.199917
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;185",
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "202056",
                 "bus": "yes",
                 "name": "Maldegem Ommeloper",
@@ -214,10 +192,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
-                "ref:De_Lijn": "202281",
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "202280",
                 "bus": "yes",
-                "name": "Maldegem Speyestraat",
+                "name": "Maldegem Astridlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "AALTERBAAN MALDEGEM",
@@ -227,8 +205,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.453314,
-                    51.198284
+                    3.450918,
+                    51.203011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210056",
+                "bus": "yes",
+                "name": "Maldegem Steenhouwerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMMEWEGE MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.467994,
+                    51.194549
                 ]
             }
         }

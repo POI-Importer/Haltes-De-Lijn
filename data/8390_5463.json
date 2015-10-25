@@ -4,12 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
                 "ref:De_Lijn": "105377",
-                "bus": "yes",
                 "name": "General Motors",
                 "public_transport": "platform",
-                "highway": "bus_stop",
+                "railway": "tram_stop",
+                "tram": "yes",
                 "created_by": "NOORDERLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -25,12 +24,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
                 "ref:De_Lijn": "102994",
-                "bus": "yes",
                 "name": "General Motors",
                 "public_transport": "platform",
-                "highway": "bus_stop",
+                "railway": "tram_stop",
+                "tram": "yes",
                 "created_by": "NOORDERLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"

@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "505299",
-                "bus": "yes",
-                "name": "Proven Blokstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLOKSTRAAT PROVEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.635987,
-                    50.896171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69",
                 "ref:De_Lijn": "504104",
                 "bus": "yes",
                 "name": "Haringe Haandekot",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     2.622971,
                     50.89596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505299",
+                "bus": "yes",
+                "name": "Proven Blokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLOKSTRAAT PROVEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.635987,
+                    50.896171
                 ]
             }
         }

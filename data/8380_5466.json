@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
+                "route_ref:De_Lijn": "21;23;27",
                 "ref:De_Lijn": "204754",
                 "bus": "yes",
                 "name": "Meerdonk Teerlingstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
+                "route_ref:De_Lijn": "21;23;27",
                 "ref:De_Lijn": "204753",
                 "bus": "yes",
                 "name": "Meerdonk Dorp",
@@ -46,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
+                "route_ref:De_Lijn": "21;23;27",
                 "ref:De_Lijn": "205753",
                 "bus": "yes",
                 "name": "Meerdonk Dorp",
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
+                "route_ref:De_Lijn": "21;23;27",
                 "ref:De_Lijn": "205754",
                 "bus": "yes",
                 "name": "Meerdonk Teerlingstraat",

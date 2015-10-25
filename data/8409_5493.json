@@ -4,26 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308589",
-                "bus": "yes",
-                "name": "Kessel-Lo Gasthuisbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZAVELSTRAAT KESSEL-LO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.76973,
-                    50.885067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "308588",
                 "bus": "yes",
                 "name": "Kessel-Lo Gasthuisbos",
@@ -39,6 +19,26 @@
                 "coordinates": [
                     4.769717,
                     50.885157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308589",
+                "bus": "yes",
+                "name": "Kessel-Lo Gasthuisbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAVELSTRAAT KESSEL-LO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.76973,
+                    50.885067
                 ]
             }
         }

@@ -25,28 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
-                "ref:De_Lijn": "202255",
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203256",
                 "bus": "yes",
-                "name": "Kaprijke Goochelstraat",
+                "name": "Bentille Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGTE SINT-LAUREINS",
+                "created_by": "MOERSTRAAT BENTILLE (KAPRIJKE)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.592653,
-                    51.237015
+                    3.601891,
+                    51.245606
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
+                "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "202256",
                 "bus": "yes",
                 "name": "Bentille Kerk",
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "203256",
+                "ref:De_Lijn": "202255",
                 "bus": "yes",
-                "name": "Bentille Kerk",
+                "name": "Kaprijke Goochelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOERSTRAAT BENTILLE (KAPRIJKE)",
+                "created_by": "HOOGTE SINT-LAUREINS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.601891,
-                    51.245606
+                    3.592653,
+                    51.237015
                 ]
             }
         }

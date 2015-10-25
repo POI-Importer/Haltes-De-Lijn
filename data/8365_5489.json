@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;49;440",
+                "route_ref:De_Lijn": "46;49",
                 "ref:De_Lijn": "202867",
                 "bus": "yes",
                 "name": "Oosterzele Heistraat",

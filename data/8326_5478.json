@@ -25,6 +25,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "507236",
+                "bus": "yes",
+                "name": "Koekelare Westbeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CATSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.949486,
+                    51.088042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "507226",
+                "bus": "yes",
+                "name": "Koekelare De Pluim",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTMEETSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.959591,
+                    51.091445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "505145",
                 "bus": "yes",
@@ -67,27 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;55;56;59",
-                "ref:De_Lijn": "507226",
-                "bus": "yes",
-                "name": "Koekelare De Pluim",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTMEETSTRAAT KOEKELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.959591,
-                    51.091445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "56;59",
                 "ref:De_Lijn": "505141",
                 "bus": "yes",
@@ -103,27 +124,6 @@
                 "coordinates": [
                     2.964413,
                     51.085371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;55;56;59",
-                "ref:De_Lijn": "507236",
-                "bus": "yes",
-                "name": "Koekelare Westbeke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CATSTRAAT KOEKELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.949486,
-                    51.088042
                 ]
             }
         }

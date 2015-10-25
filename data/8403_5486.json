@@ -4,8 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270;284;470;503;511;512;513;533;660",
-                "ref:De_Lijn": "301837",
+                "route_ref:De_Lijn": "512;513",
+                "ref:De_Lijn": "301824",
+                "bus": "yes",
+                "name": "Haacht Betonfabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.652086,
+                    50.973479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306403",
                 "bus": "yes",
                 "name": "Haacht Kerk",
                 "public_transport": "platform",
@@ -17,8 +37,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.637754,
-                    50.976911
+                    4.638454,
+                    50.977377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;660",
+                "ref:De_Lijn": "301852",
+                "bus": "yes",
+                "name": "Haacht Wildeheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEERBERGSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643184,
+                    50.982625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;284;470;503;512;513;660",
+                "ref:De_Lijn": "301836",
+                "bus": "yes",
+                "name": "Haacht Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.637895,
+                    50.976794
                 ]
             }
         },
@@ -46,69 +108,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270;503;533;660",
-                "ref:De_Lijn": "301853",
-                "bus": "yes",
-                "name": "Haacht Wildeheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEERBERGSESTEENWEG HAACHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.643085,
-                    50.982858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "284",
-                "ref:De_Lijn": "308601",
-                "bus": "yes",
-                "name": "Haacht Maalderij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT HAACHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.639889,
-                    50.974317
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "270;503;533;660",
-                "ref:De_Lijn": "301852",
-                "bus": "yes",
-                "name": "Haacht Wildeheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEERBERGSESTEENWEG HAACHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.643184,
-                    50.982625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "308440",
                 "bus": "yes",
                 "name": "Haacht Grote Appelstraat",
@@ -124,6 +123,48 @@
                 "coordinates": [
                     4.636718,
                     50.979988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "284;511",
+                "ref:De_Lijn": "301840",
+                "bus": "yes",
+                "name": "Haacht Maalderij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.640059,
+                    50.974299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;660",
+                "ref:De_Lijn": "301853",
+                "bus": "yes",
+                "name": "Haacht Wildeheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEERBERGSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643085,
+                    50.982858
                 ]
             }
         },
@@ -151,21 +192,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "512;513",
-                "ref:De_Lijn": "301829",
+                "route_ref:De_Lijn": "270;284;470;503;511;512;513;660",
+                "ref:De_Lijn": "301837",
                 "bus": "yes",
-                "name": "Haacht De Wip",
+                "name": "Haacht Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WERCHTERSESTEENWEG HAACHT",
+                "created_by": "MARKT HAACHT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.643718,
-                    50.974236
+                    4.637754,
+                    50.976911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "284",
+                "ref:De_Lijn": "308601",
+                "bus": "yes",
+                "name": "Haacht Maalderij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.639889,
+                    50.974317
                 ]
             }
         },
@@ -194,27 +256,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "512;513",
-                "ref:De_Lijn": "301824",
-                "bus": "yes",
-                "name": "Haacht Betonfabriek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WERCHTERSESTEENWEG HAACHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.652086,
-                    50.973479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "512;513",
                 "ref:De_Lijn": "301828",
                 "bus": "yes",
                 "name": "Haacht De Wip",
@@ -235,62 +276,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306403",
+                "route_ref:De_Lijn": "512;513",
+                "ref:De_Lijn": "301829",
                 "bus": "yes",
-                "name": "Haacht Kerk",
+                "name": "Haacht De Wip",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARKT HAACHT",
+                "created_by": "WERCHTERSESTEENWEG HAACHT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.638454,
-                    50.977377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "270;284;470;503;512;513;533;660",
-                "ref:De_Lijn": "301836",
-                "bus": "yes",
-                "name": "Haacht Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKT HAACHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.637895,
-                    50.976794
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "284;511",
-                "ref:De_Lijn": "301840",
-                "bus": "yes",
-                "name": "Haacht Maalderij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT HAACHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.640059,
-                    50.974299
+                    4.643718,
+                    50.974236
                 ]
             }
         }

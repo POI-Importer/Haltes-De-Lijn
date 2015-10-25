@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;35c",
-                "ref:De_Lijn": "405938",
+                "ref:De_Lijn": "405945",
                 "bus": "yes",
-                "name": "Linkhout Kerk",
+                "name": "Linkhout Plein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LINKHOUTSTRAAT LINKHOUT",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.137189,
-                    50.965464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;35c",
-                "ref:De_Lijn": "405941",
-                "bus": "yes",
-                "name": "Linkhout Linkhoutstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINKHOUTSTRAAT LINKHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.124431,
-                    50.962652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;35c",
-                "ref:De_Lijn": "405939",
-                "bus": "yes",
-                "name": "Linkhout Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINKHOUTSTRAAT LINKHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.136906,
-                    50.965529
+                    5.13182,
+                    50.963602
                 ]
             }
         },
@@ -89,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;35c",
-                "ref:De_Lijn": "405945",
-                "bus": "yes",
-                "name": "Linkhout Plein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINKHOUTSTRAAT LINKHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.13182,
-                    50.963602
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;35c",
                 "ref:De_Lijn": "405944",
                 "bus": "yes",
                 "name": "Linkhout Plein",
@@ -124,6 +61,69 @@
                 "coordinates": [
                     5.131867,
                     50.963862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c",
+                "ref:De_Lijn": "405939",
+                "bus": "yes",
+                "name": "Linkhout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINKHOUTSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.136906,
+                    50.965529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c",
+                "ref:De_Lijn": "405941",
+                "bus": "yes",
+                "name": "Linkhout Linkhoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINKHOUTSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.124431,
+                    50.962652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c",
+                "ref:De_Lijn": "405938",
+                "bus": "yes",
+                "name": "Linkhout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINKHOUTSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.137189,
+                    50.965464
                 ]
             }
         }

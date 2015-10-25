@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "944",
-                "ref:De_Lijn": "101500",
+                "ref:De_Lijn": "109353",
                 "bus": "yes",
-                "name": "Ramsel Hoekheide",
+                "name": "Ramsel Brouwersheide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEGIJNENDIJKSESTEENWEG RAMSEL",
+                "created_by": "MADESTRAAT RAMSEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.812428,
-                    51.027035
+                    4.831385,
+                    51.015402
                 ]
             }
         },
@@ -89,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "944",
-                "ref:De_Lijn": "109353",
+                "ref:De_Lijn": "101500",
                 "bus": "yes",
-                "name": "Ramsel Brouwersheide",
+                "name": "Ramsel Hoekheide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MADESTRAAT RAMSEL",
+                "created_by": "BEGIJNENDIJKSESTEENWEG RAMSEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.831385,
-                    51.015402
+                    4.812428,
+                    51.027035
                 ]
             }
         },

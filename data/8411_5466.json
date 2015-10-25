@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "409;418;429;449",
                 "ref:De_Lijn": "107459",
                 "bus": "yes",
                 "name": "Lille Boskant",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "409;418;429;449",
                 "ref:De_Lijn": "107458",
                 "bus": "yes",
                 "name": "Lille Boskant",

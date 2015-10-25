@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;152;943",
-                "ref:De_Lijn": "107023",
-                "bus": "yes",
-                "name": "Nijlen Koekoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOUWELSESTEENWEG NIJLEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.685091,
-                    51.165381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "101821",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     4.683743,
                     51.158347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107022",
+                "bus": "yes",
+                "name": "Nijlen Koekoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUWELSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.685262,
+                    51.165246
                 ]
             }
         },
@@ -67,49 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;152",
-                "ref:De_Lijn": "107027",
-                "bus": "yes",
-                "name": "Nijlen Paddekotse Heide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOUWELSESTEENWEG NIJLEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.699696,
-                    51.164496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;152",
-                "ref:De_Lijn": "107025",
-                "bus": "yes",
-                "name": "Nijlen Beenderstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOUWELSESTEENWEG NIJLEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.693796,
-                    51.165169
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150;152",
                 "ref:De_Lijn": "107026",
                 "bus": "yes",
                 "name": "Nijlen Paddekotse Heide",
@@ -130,7 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;152",
                 "ref:De_Lijn": "107024",
                 "bus": "yes",
                 "name": "Nijlen Beenderstraat",
@@ -151,8 +107,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;152;943",
-                "ref:De_Lijn": "107022",
+                "ref:De_Lijn": "107027",
+                "bus": "yes",
+                "name": "Nijlen Paddekotse Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUWELSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.699696,
+                    51.164496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107025",
+                "bus": "yes",
+                "name": "Nijlen Beenderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUWELSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693796,
+                    51.165169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107023",
                 "bus": "yes",
                 "name": "Nijlen Koekoekstraat",
                 "public_transport": "platform",
@@ -164,8 +160,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.685262,
-                    51.165246
+                    4.685091,
+                    51.165381
                 ]
             }
         }

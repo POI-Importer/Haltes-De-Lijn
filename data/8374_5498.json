@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206740",
-                "bus": "yes",
-                "name": "Pollare Nekkersput",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEKKERSPUT POLLARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.000818,
-                    50.819331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206711",
                 "bus": "yes",
                 "name": "Pollare Steenberg",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206710",
                 "bus": "yes",
                 "name": "Pollare Hoogstraat",
@@ -61,6 +38,26 @@
                 "coordinates": [
                     4.00498,
                     50.818921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206740",
+                "bus": "yes",
+                "name": "Pollare Nekkersput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEKKERSPUT POLLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.000818,
+                    50.819331
                 ]
             }
         }

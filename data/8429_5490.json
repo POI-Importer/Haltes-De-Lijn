@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "105",
-                "ref:De_Lijn": "410026",
-                "bus": "yes",
-                "name": "Herk-de-Stad Wijerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIJERSTRAAT HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.222243,
-                    50.918201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "403936",
-                "bus": "yes",
-                "name": "Herk-de-Stad Monnikenhof",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N754 HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.209827,
-                    50.924521
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "105",
                 "ref:De_Lijn": "403337",
                 "bus": "yes",
                 "name": "Stevoort Herkkantstraat",
@@ -61,48 +19,6 @@
                 "coordinates": [
                     5.229285,
                     50.920613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "105;735",
-                "ref:De_Lijn": "403994",
-                "bus": "yes",
-                "name": "Herk-de-Stad Weg naar Wijer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEVOORTWEG HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.223853,
-                    50.922226
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "105",
-                "ref:De_Lijn": "410025",
-                "bus": "yes",
-                "name": "Herk-de-Stad Wijerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIJERSTRAAT HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.222057,
-                    50.918122
                 ]
             }
         },
@@ -151,6 +67,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "105",
+                "ref:De_Lijn": "410025",
+                "bus": "yes",
+                "name": "Herk-de-Stad Wijerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJERSTRAAT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.222057,
+                    50.918122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "105;735",
                 "ref:De_Lijn": "403995",
                 "bus": "yes",
@@ -166,6 +103,69 @@
                 "coordinates": [
                     5.224162,
                     50.922035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105",
+                "ref:De_Lijn": "403336",
+                "bus": "yes",
+                "name": "Stevoort Herkkantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOLMENSTRAAT STEVOORT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.228142,
+                    50.921143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105;735",
+                "ref:De_Lijn": "403994",
+                "bus": "yes",
+                "name": "Herk-de-Stad Weg naar Wijer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVOORTWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.223853,
+                    50.922226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403936",
+                "bus": "yes",
+                "name": "Herk-de-Stad Monnikenhof",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N754 HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.209827,
+                    50.924521
                 ]
             }
         },
@@ -194,20 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "105",
-                "ref:De_Lijn": "403336",
+                "ref:De_Lijn": "410026",
                 "bus": "yes",
-                "name": "Stevoort Herkkantstraat",
+                "name": "Herk-de-Stad Wijerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOLMENSTRAAT STEVOORT",
+                "created_by": "WIJERSTRAAT HERK-DE-STAD",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.228142,
-                    50.921143
+                    5.222243,
+                    50.918201
                 ]
             }
         }

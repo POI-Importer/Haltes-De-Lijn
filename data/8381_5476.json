@@ -4,70 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "99;99S",
-                "ref:De_Lijn": "205665",
-                "bus": "yes",
-                "name": "Elversele Legen Heirweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEGEN HEIRWEG ELVERSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.157232,
-                    51.114185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "97;98",
-                "ref:De_Lijn": "205688",
-                "bus": "yes",
-                "name": "Tielrode Moortelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGENAKKERSTRAAT TIELRODE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.160654,
-                    51.121652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "97;98",
-                "ref:De_Lijn": "204687",
-                "bus": "yes",
-                "name": "Tielrode Gentstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGENAKKERSTRAAT TIELRODE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.163313,
-                    51.11478
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "99;99S",
                 "ref:De_Lijn": "204665",
                 "bus": "yes",
                 "name": "Elversele Legen Heirweg",
@@ -131,20 +67,62 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "99;99S",
-                "ref:De_Lijn": "204664",
+                "ref:De_Lijn": "205665",
                 "bus": "yes",
-                "name": "Tielrode Appelsvoorde",
+                "name": "Elversele Legen Heirweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENTSTRAAT TIELRODE",
+                "created_by": "LEGEN HEIRWEG ELVERSELE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.162386,
-                    51.1145
+                    4.157232,
+                    51.114185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "97;98",
+                "ref:De_Lijn": "204663",
+                "bus": "yes",
+                "name": "Tielrode Hofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER ACHIEL HEYMANSTRAAT TIELRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171557,
+                    51.113743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "97;98",
+                "ref:De_Lijn": "205688",
+                "bus": "yes",
+                "name": "Tielrode Moortelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGENAKKERSTRAAT TIELRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.160654,
+                    51.121652
                 ]
             }
         },
@@ -173,6 +151,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "97;98",
+                "ref:De_Lijn": "204687",
+                "bus": "yes",
+                "name": "Tielrode Gentstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGENAKKERSTRAAT TIELRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.163313,
+                    51.11478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "97;98",
                 "ref:De_Lijn": "204688",
                 "bus": "yes",
                 "name": "Tielrode Moortelstraat",
@@ -193,21 +192,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "97;98;99;99S",
-                "ref:De_Lijn": "204663",
+                "ref:De_Lijn": "204664",
                 "bus": "yes",
-                "name": "Tielrode Hofstraat",
+                "name": "Tielrode Appelsvoorde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BURGEMEESTER ACHIEL HEYMANSTRAAT TIELRODE",
+                "created_by": "GENTSTRAAT TIELRODE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.171557,
-                    51.113743
+                    4.162386,
+                    51.1145
                 ]
             }
         }

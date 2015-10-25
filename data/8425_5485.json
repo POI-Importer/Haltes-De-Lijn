@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35c",
-                "ref:De_Lijn": "405957",
-                "bus": "yes",
-                "name": "Meldert Otterberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZELEMSEBAAN MELDERT (LUMMEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.129111,
-                    50.99316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35c",
                 "ref:De_Lijn": "405956",
                 "bus": "yes",
                 "name": "Meldert Otterberg",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     5.128569,
                     50.993064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;35c",
-                "ref:De_Lijn": "405950",
-                "bus": "yes",
-                "name": "Meldert Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MELDERTSEBAAN MELDERT (LUMMEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.140731,
-                    50.999835
                 ]
             }
         },
@@ -89,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35c",
-                "ref:De_Lijn": "405949",
+                "ref:De_Lijn": "405953",
                 "bus": "yes",
-                "name": "Meldert Centrum",
+                "name": "Meldert Langendries",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZELEMSEBAAN MELDERT (LUMMEN)",
@@ -101,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.140891,
-                    50.998297
+                    5.135837,
+                    50.995885
                 ]
             }
         },
@@ -131,9 +89,51 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35c",
-                "ref:De_Lijn": "405953",
+                "ref:De_Lijn": "402713",
                 "bus": "yes",
-                "name": "Meldert Langendries",
+                "name": "Zelem Bakelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELDERTSESTRAAT ZELEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.126246,
+                    50.989492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;35c",
+                "ref:De_Lijn": "405950",
+                "bus": "yes",
+                "name": "Meldert Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELDERTSEBAAN MELDERT (LUMMEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.140731,
+                    50.999835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c",
+                "ref:De_Lijn": "405957",
+                "bus": "yes",
+                "name": "Meldert Otterberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZELEMSEBAAN MELDERT (LUMMEN)",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.135837,
-                    50.995885
+                    5.129111,
+                    50.99316
                 ]
             }
         },
@@ -173,6 +173,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35c",
+                "ref:De_Lijn": "405949",
+                "bus": "yes",
+                "name": "Meldert Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZELEMSEBAAN MELDERT (LUMMEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.140891,
+                    50.998297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c",
                 "ref:De_Lijn": "405948",
                 "bus": "yes",
                 "name": "Meldert Centrum",
@@ -187,27 +208,6 @@
                 "coordinates": [
                     5.141305,
                     50.998357
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35c",
-                "ref:De_Lijn": "402713",
-                "bus": "yes",
-                "name": "Zelem Bakelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MELDERTSESTRAAT ZELEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.126246,
-                    50.989492
                 ]
             }
         }

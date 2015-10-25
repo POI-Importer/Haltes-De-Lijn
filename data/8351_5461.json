@@ -27,28 +27,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505607",
-                "bus": "yes",
-                "zone:De_Lijn": "7962",
-                "name": "Oostburg Bredestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDESTRAAT OOSTBURG",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.49434,
-                    51.328582
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "505614",
                 "bus": "yes",
                 "zone:De_Lijn": "7962",
@@ -64,6 +42,28 @@
                 "coordinates": [
                     3.498379,
                     51.330463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505607",
+                "bus": "yes",
+                "zone:De_Lijn": "7962",
+                "name": "Oostburg Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT OOSTBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.49434,
+                    51.328582
                 ]
             }
         },

@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "760",
-                "ref:De_Lijn": "103991",
-                "bus": "yes",
-                "name": "Kaai 736",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE WESTWEG ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.336448,
-                    51.333012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "760",
                 "ref:De_Lijn": "103992",
                 "bus": "yes",
                 "name": "Kaai 736",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;770;772;778;779;780",
                 "ref:De_Lijn": "105311",
                 "bus": "yes",
                 "name": "Stabroek Oud Broek",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;770;772;778;779;780",
+                "ref:De_Lijn": "103991",
+                "bus": "yes",
+                "name": "Kaai 736",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE WESTWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.336448,
+                    51.333012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105309",
                 "bus": "yes",
                 "name": "Stabroek Oud Broek",

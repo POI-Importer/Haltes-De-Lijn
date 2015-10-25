@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "55;79;94",
-                "ref:De_Lijn": "502553",
+                "ref:De_Lijn": "507553",
                 "bus": "yes",
                 "name": "Zedelgem Driewege",
                 "public_transport": "platform",
@@ -17,197 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.154232,
-                    51.129785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;79;94",
-                "ref:De_Lijn": "502556",
-                "bus": "yes",
-                "name": "Zedelgem Molendam",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTRAAT ZEDELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.146153,
-                    51.128407
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;79;99",
-                "ref:De_Lijn": "502656",
-                "bus": "yes",
-                "name": "Zedelgem Groenhove",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUDDERVOORDSESTRAAT ZUIDWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.157431,
-                    51.129278
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505335",
-                "bus": "yes",
-                "name": "Zedelgem Sint-Elooi",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-ELOOISTRAAT ZUIDWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.156119,
-                    51.126451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;72;79;94",
-                "ref:De_Lijn": "502666",
-                "bus": "yes",
-                "name": "Zedelgem Groenestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROENESTRAAT ZEDELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.152543,
-                    51.131017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;79",
-                "ref:De_Lijn": "502663",
-                "bus": "yes",
-                "name": "Zedelgem Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUDDERVOORDSESTRAAT ZUIDWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.163745,
-                    51.126565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;79;94",
-                "ref:De_Lijn": "507556",
-                "bus": "yes",
-                "name": "Zedelgem Molendam",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTRAAT ZUIDWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.147465,
-                    51.128501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;72;74;79;94",
-                "ref:De_Lijn": "507554",
-                "bus": "yes",
-                "name": "Zedelgem Groene Meersen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROENESTRAAT ZEDELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.146057,
-                    51.13754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;79;99",
-                "ref:De_Lijn": "507550",
-                "bus": "yes",
-                "name": "Zedelgem De Arend",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORHOUTSESTEENWEG ZUIDWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.159297,
-                    51.13613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;79;99",
-                "ref:De_Lijn": "502559",
-                "bus": "yes",
-                "name": "Zedelgem Zuidwege",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORHOUTSESTEENWEG ZUIDWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.156253,
-                    51.128421
+                    3.154079,
+                    51.12963
                 ]
             }
         },
@@ -235,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;79;99",
-                "ref:De_Lijn": "502550",
+                "route_ref:De_Lijn": "55;72;79;94",
+                "ref:De_Lijn": "507666",
                 "bus": "yes",
-                "name": "Zedelgem De Arend",
+                "name": "Zedelgem Groenestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TORHOUTSESTEENWEG ZUIDWEGE",
+                "created_by": "GROENESTRAAT ZEDELGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.159553,
-                    51.136177
+                    3.152459,
+                    51.130926
                 ]
             }
         },
@@ -277,52 +88,52 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "74;79;99",
+                "ref:De_Lijn": "502559",
+                "bus": "yes",
+                "name": "Zedelgem Zuidwege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.156253,
+                    51.128421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "55;79;94",
-                "ref:De_Lijn": "507553",
+                "ref:De_Lijn": "502556",
                 "bus": "yes",
-                "name": "Zedelgem Driewege",
+                "name": "Zedelgem Molendam",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGSESTRAAT ZUIDWEGE",
+                "created_by": "BRUGSESTRAAT ZEDELGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.154079,
-                    51.12963
+                    3.146153,
+                    51.128407
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505051",
+                "route_ref:De_Lijn": "55;72;74;79;94",
+                "ref:De_Lijn": "507554",
                 "bus": "yes",
-                "name": "Zedelgem Linde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHATTINGBEEKSTRAAT ZEDELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.142869,
-                    51.137587
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;72;79;94",
-                "ref:De_Lijn": "507666",
-                "bus": "yes",
-                "name": "Zedelgem Groenestraat",
+                "name": "Zedelgem Groene Meersen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROENESTRAAT ZEDELGEM",
@@ -332,8 +143,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.152459,
-                    51.130926
+                    3.146057,
+                    51.13754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;79;94",
+                "ref:De_Lijn": "507556",
+                "bus": "yes",
+                "name": "Zedelgem Molendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTRAAT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.147465,
+                    51.128501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79;99",
+                "ref:De_Lijn": "507550",
+                "bus": "yes",
+                "name": "Zedelgem De Arend",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.159297,
+                    51.13613
                 ]
             }
         },
@@ -361,6 +214,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "502663",
+                "bus": "yes",
+                "name": "Zedelgem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUDDERVOORDSESTRAAT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.163745,
+                    51.126565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79;99",
+                "ref:De_Lijn": "502656",
+                "bus": "yes",
+                "name": "Zedelgem Groenhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUDDERVOORDSESTRAAT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.157431,
+                    51.129278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "72;79;99",
                 "ref:De_Lijn": "507663",
                 "bus": "yes",
@@ -382,6 +277,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505335",
+                "bus": "yes",
+                "name": "Zedelgem Sint-Elooi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ELOOISTRAAT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.156119,
+                    51.126451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "55;72;74;79;94",
                 "ref:De_Lijn": "502554",
                 "bus": "yes",
@@ -397,6 +313,90 @@
                 "coordinates": [
                     3.146003,
                     51.137413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;79;94",
+                "ref:De_Lijn": "502553",
+                "bus": "yes",
+                "name": "Zedelgem Driewege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTRAAT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.154232,
+                    51.129785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;72;79;94",
+                "ref:De_Lijn": "502666",
+                "bus": "yes",
+                "name": "Zedelgem Groenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.152543,
+                    51.131017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79;99",
+                "ref:De_Lijn": "502550",
+                "bus": "yes",
+                "name": "Zedelgem De Arend",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.159553,
+                    51.136177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505051",
+                "bus": "yes",
+                "name": "Zedelgem Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHATTINGBEEKSTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.142869,
+                    51.137587
                 ]
             }
         }

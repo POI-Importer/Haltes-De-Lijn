@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "410049",
-                "bus": "yes",
-                "name": "Kerniel Habrouckstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HABROUCKSTRAAT KERNIEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.354701,
-                    50.825886
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23a;700;709",
-                "ref:De_Lijn": "409117",
-                "bus": "yes",
-                "name": "Vrolingen Vogeleinde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOGELEINDE VROLINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.35915,
-                    50.832222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
                 "ref:De_Lijn": "406720",
                 "bus": "yes",
                 "name": "Kerniel Nielstraat",
@@ -82,6 +40,27 @@
                 "coordinates": [
                     5.354467,
                     50.833691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a;700;709",
+                "ref:De_Lijn": "409117",
+                "bus": "yes",
+                "name": "Vrolingen Vogeleinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELEINDE VROLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35915,
+                    50.832222
                 ]
             }
         },
@@ -187,6 +166,27 @@
                 "coordinates": [
                     5.339509,
                     50.829096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "410049",
+                "bus": "yes",
+                "name": "Kerniel Habrouckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HABROUCKSTRAAT KERNIEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.354701,
+                    50.825886
                 ]
             }
         }

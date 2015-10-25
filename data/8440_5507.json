@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406539",
+                "ref:De_Lijn": "406538",
                 "bus": "yes",
                 "name": "Hognoul Beurrerie",
                 "public_transport": "platform",
@@ -46,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406538",
+                "ref:De_Lijn": "406539",
                 "bus": "yes",
                 "name": "Hognoul Beurrerie",
                 "public_transport": "platform",

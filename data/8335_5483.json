@@ -25,6 +25,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "73;78",
+                "ref:De_Lijn": "502260",
+                "bus": "yes",
+                "name": "Lichtervelde Koornbloem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160589,
+                    51.016476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "507260",
                 "bus": "yes",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     3.160246,
                     51.016518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "502266",
-                "bus": "yes",
-                "name": "Lichtervelde Sidem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.148626,
-                    51.024363
                 ]
             }
         },
@@ -109,10 +109,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;78",
-                "ref:De_Lijn": "502260",
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "502266",
                 "bus": "yes",
-                "name": "Lichtervelde Koornbloem",
+                "name": "Lichtervelde Sidem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.160589,
-                    51.016476
+                    3.148626,
+                    51.024363
                 ]
             }
         }

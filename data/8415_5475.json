@@ -4,8 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;491;492;540;946",
-                "ref:De_Lijn": "108789",
+                "ref:De_Lijn": "108788",
                 "bus": "yes",
                 "name": "Oevel Trienenkantlaan",
                 "public_transport": "platform",
@@ -17,15 +16,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.907048,
-                    51.127309
+                    4.907014,
+                    51.126878
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;491;492;540;946",
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "108786",
                 "bus": "yes",
                 "name": "Oevel Dumpelstraat",
@@ -46,10 +45,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;491;492;540;946",
-                "ref:De_Lijn": "108787",
+                "ref:De_Lijn": "108789",
                 "bus": "yes",
-                "name": "Oevel Dumpelstraat",
+                "name": "Oevel Trienenkantlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TONGERLOSTRAAT OEVEL",
@@ -59,8 +57,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.904421,
-                    51.133685
+                    4.907048,
+                    51.127309
                 ]
             }
         },
@@ -88,10 +86,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;491;492;540;946",
-                "ref:De_Lijn": "108788",
+                "ref:De_Lijn": "108787",
                 "bus": "yes",
-                "name": "Oevel Trienenkantlaan",
+                "name": "Oevel Dumpelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TONGERLOSTRAAT OEVEL",
@@ -101,8 +98,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.907014,
-                    51.126878
+                    4.904421,
+                    51.133685
                 ]
             }
         }

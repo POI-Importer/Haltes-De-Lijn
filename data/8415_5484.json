@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "300117",
-                "bus": "yes",
-                "name": "Langdorp Zavel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESTELTSESTEENWEG LANGDORP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.916897,
-                    51.009883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "300102",
                 "bus": "yes",
                 "name": "Langdorp Kapelleke",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "300118",
                 "bus": "yes",
                 "name": "Langdorp Zavel",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     4.916566,
                     51.009633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "300117",
+                "bus": "yes",
+                "name": "Langdorp Zavel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.916897,
+                    51.009883
                 ]
             }
         },

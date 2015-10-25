@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;26;78",
-                "ref:De_Lijn": "502569",
-                "bus": "yes",
-                "name": "Zwevezele Kasteelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LICHTERVELDESTRAAT ZWEVEZELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.206303,
-                    51.037533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;26;78",
-                "ref:De_Lijn": "502575",
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "507575",
                 "bus": "yes",
                 "name": "Zwevezele Zeswege",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.191058,
-                    51.040447
+                    3.19142,
+                    51.040226
                 ]
             }
         },
@@ -67,8 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22",
-                "ref:De_Lijn": "507575",
+                "route_ref:De_Lijn": "22;26;78",
+                "ref:De_Lijn": "502575",
                 "bus": "yes",
                 "name": "Zwevezele Zeswege",
                 "public_transport": "platform",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.19142,
-                    51.040226
+                    3.191058,
+                    51.040447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;26;78",
+                "ref:De_Lijn": "502569",
+                "bus": "yes",
+                "name": "Zwevezele Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTERVELDESTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.206303,
+                    51.037533
                 ]
             }
         }

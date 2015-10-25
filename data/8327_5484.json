@@ -5,69 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;32;47;56",
-                "ref:De_Lijn": "503894",
-                "bus": "yes",
-                "name": "Zarren Kruiskalsijde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELARESTRAAT ZARREN-WERKEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.967174,
-                    51.011798
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "500940",
-                "bus": "yes",
-                "name": "Zarren Gaainest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AMERSVELDESTRAAT ZARREN-WERKEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.971818,
-                    51.012806
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;47;56",
-                "ref:De_Lijn": "505643",
-                "bus": "yes",
-                "name": "Zarren Amersvelde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AMERSVELDESTRAAT HANDZAME",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.986663,
-                    51.010599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;32;47;56",
                 "ref:De_Lijn": "504942",
                 "bus": "yes",
                 "name": "Zarren Garage",
@@ -89,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;32;47;56",
-                "ref:De_Lijn": "508894",
+                "ref:De_Lijn": "509942",
                 "bus": "yes",
-                "name": "Zarren Kruiskalsijde",
+                "name": "Zarren Garage",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ROESELARESTRAAT ZARREN-WERKEN",
@@ -101,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.967372,
-                    51.011827
+                    2.968882,
+                    51.008519
                 ]
             }
         },
@@ -130,6 +67,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "31;32;47;56",
+                "ref:De_Lijn": "503894",
+                "bus": "yes",
+                "name": "Zarren Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT ZARREN-WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.967174,
+                    51.011798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47;56",
+                "ref:De_Lijn": "508894",
+                "bus": "yes",
+                "name": "Zarren Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT ZARREN-WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.967372,
+                    51.011827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "32;47;56",
                 "ref:De_Lijn": "505642",
                 "bus": "yes",
@@ -151,21 +130,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;32;47;56",
-                "ref:De_Lijn": "509942",
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "505643",
                 "bus": "yes",
-                "name": "Zarren Garage",
+                "name": "Zarren Amersvelde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ROESELARESTRAAT ZARREN-WERKEN",
+                "created_by": "AMERSVELDESTRAAT HANDZAME",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.968882,
-                    51.008519
+                    2.986663,
+                    51.010599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "500940",
+                "bus": "yes",
+                "name": "Zarren Gaainest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMERSVELDESTRAAT ZARREN-WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.971818,
+                    51.012806
                 ]
             }
         }

@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;270",
+                "route_ref:De_Lijn": "81;82",
                 "ref:De_Lijn": "205472",
                 "bus": "yes",
                 "name": "Waasmunster Neerstraat/Sousbeekstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;270",
+                "route_ref:De_Lijn": "81;82",
                 "ref:De_Lijn": "204472",
                 "bus": "yes",
                 "name": "Waasmunster Neerstraat/Sousbeekstraat",

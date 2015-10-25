@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "313;562",
-                "ref:De_Lijn": "303317",
-                "bus": "yes",
-                "name": "Neerhespen Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGSTRAAT NEERHESPEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.047072,
-                    50.79123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "313;348",
-                "ref:De_Lijn": "302843",
+                "route_ref:De_Lijn": "313;348;730",
+                "ref:De_Lijn": "302842",
                 "bus": "yes",
                 "name": "Neerwinden Neerhespenstraat",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.037115,
-                    50.788222
+                    5.037455,
+                    50.788157
                 ]
             }
         },
@@ -67,42 +46,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "348;562;712",
-                "ref:De_Lijn": "307117",
+                "route_ref:De_Lijn": "313;562",
+                "ref:De_Lijn": "303317",
                 "bus": "yes",
                 "name": "Neerhespen Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WALSBERGENSTRAAT NEERHESPEN",
+                "created_by": "LANGSTRAAT NEERHESPEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.045866,
-                    50.791174
+                    5.047072,
+                    50.79123
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "313;348;730",
-                "ref:De_Lijn": "302842",
+                "ref:De_Lijn": "409909",
                 "bus": "yes",
-                "name": "Neerwinden Neerhespenstraat",
+                "name": "Neerhespen Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NEERHESPENSTRAAT WANGE",
+                "created_by": "WALSBERGENSTRAAT NEERHESPEN",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.037455,
-                    50.788157
+                    5.045866,
+                    50.791174
                 ]
             }
         },
@@ -129,20 +107,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409909",
+                "route_ref:De_Lijn": "348;562;712",
+                "ref:De_Lijn": "307117",
                 "bus": "yes",
                 "name": "Neerhespen Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WALSBERGENSTRAAT NEERHESPEN",
                 "operator": "De Lijn",
-                "network": "DLLi"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     5.045866,
                     50.791174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;348",
+                "ref:De_Lijn": "302843",
+                "bus": "yes",
+                "name": "Neerwinden Neerhespenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERHESPENSTRAAT WANGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.037115,
+                    50.788222
                 ]
             }
         }

@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "300475",
+                "bus": "yes",
+                "name": "Kapellen Steenbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KAPELLEN (GLABBEEK)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945495,
+                    50.894312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "308080",
                 "bus": "yes",
                 "name": "Kapellen Groenstraat",
@@ -66,27 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "308081",
-                "bus": "yes",
-                "name": "Kapellen Groenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROENSTRAAT KAPELLEN (GLABBEEK)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.963828,
-                    50.897403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "390;712",
                 "ref:De_Lijn": "300474",
                 "bus": "yes",
@@ -108,21 +108,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "300475",
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308081",
                 "bus": "yes",
-                "name": "Kapellen Steenbeek",
+                "name": "Kapellen Groenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT KAPELLEN (GLABBEEK)",
+                "created_by": "GROENSTRAAT KAPELLEN (GLABBEEK)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.945495,
-                    50.894312
+                    4.963828,
+                    50.897403
                 ]
             }
         }

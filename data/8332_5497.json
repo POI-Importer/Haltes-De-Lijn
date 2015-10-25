@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "48",
-                "ref:De_Lijn": "505196",
-                "bus": "yes",
-                "name": "Geluwe Artoishoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DULLAARDSTRAAT GELUWE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.095019,
-                    50.827486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "48",
                 "ref:De_Lijn": "504093",
                 "bus": "yes",
                 "name": "Geluwe 't Wit Huis",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.087034,
                     50.832433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505196",
+                "bus": "yes",
+                "name": "Geluwe Artoishoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DULLAARDSTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.095019,
+                    50.827486
                 ]
             }
         }

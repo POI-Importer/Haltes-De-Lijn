@@ -4,94 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "162;330",
-                "ref:De_Lijn": "206969",
-                "bus": "yes",
-                "name": "Denderwindeke Boterdaelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJSTRAAT DENDERWINDEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.014651,
-                    50.778245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330;370",
-                "ref:De_Lijn": "206785",
-                "bus": "yes",
-                "name": "Nieuwenhove Damstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT NIEUWENHOVE (GERAARDSBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.001424,
-                    50.781702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306209",
-                "bus": "yes",
-                "name": "Denderwindeke Boterdaelstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "RIJSTRAAT DENDERWINDEKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.014765,
-                    50.778273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "162;330;732",
-                "ref:De_Lijn": "207970",
+                "ref:De_Lijn": "306211",
                 "bus": "yes",
                 "name": "Denderwindeke Rijstraat",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJSTRAAT DENDERWINDEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.020896,
-                    50.783244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306210",
-                "bus": "yes",
-                "name": "Denderwindeke Boterdaelstraat",
-                "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "RIJSTRAAT DENDERWINDEKE",
@@ -101,8 +17,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.014609,
-                    50.778263
+                    4.020811,
+                    50.783163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206709",
+                "bus": "yes",
+                "name": "Denderwindeke Peyenbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEYENBEEK DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.007824,
+                    50.782962
                 ]
             }
         },
@@ -130,49 +66,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206709",
+                "route_ref:De_Lijn": "162",
+                "ref:De_Lijn": "206969",
                 "bus": "yes",
-                "name": "Denderwindeke Peyenbeek",
+                "name": "Denderwindeke Boterdaelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PEYENBEEK DENDERWINDEKE",
+                "created_by": "RIJSTRAAT DENDERWINDEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.007824,
-                    50.782962
+                    4.014651,
+                    50.778245
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306211",
-                "bus": "yes",
-                "name": "Denderwindeke Rijstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "RIJSTRAAT DENDERWINDEKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.020811,
-                    50.783163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "162;330;732",
+                "route_ref:De_Lijn": "162;732",
                 "ref:De_Lijn": "207969",
                 "bus": "yes",
                 "name": "Denderwindeke Boterdaelstraat",
@@ -193,7 +108,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "162;330",
+                "ref:De_Lijn": "306209",
+                "bus": "yes",
+                "name": "Denderwindeke Boterdaelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJSTRAAT DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.014765,
+                    50.778273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206785",
+                "bus": "yes",
+                "name": "Nieuwenhove Damstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT NIEUWENHOVE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.001424,
+                    50.781702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "162;732",
+                "ref:De_Lijn": "207970",
+                "bus": "yes",
+                "name": "Denderwindeke Rijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSTRAAT DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.020896,
+                    50.783244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "162",
                 "ref:De_Lijn": "206970",
                 "bus": "yes",
                 "name": "Denderwindeke Rijstraat",
@@ -208,6 +185,27 @@
                 "coordinates": [
                     4.020571,
                     50.783091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306210",
+                "bus": "yes",
+                "name": "Denderwindeke Boterdaelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJSTRAAT DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.014609,
+                    50.778263
                 ]
             }
         }

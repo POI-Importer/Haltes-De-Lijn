@@ -5,6 +5,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "509053",
+                "bus": "yes",
+                "name": "Bovekerke Zothoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVEKERKESTRAAT BOVEKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.963302,
+                    51.059636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "504053",
+                "bus": "yes",
+                "name": "Bovekerke Zothoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVEKERKESTRAAT BOVEKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.963469,
+                    51.059763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
                 "ref:De_Lijn": "509051",
                 "bus": "yes",
                 "name": "Bovekerke Moskou",
@@ -40,48 +82,6 @@
                 "coordinates": [
                     2.954506,
                     51.062246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;59;64",
-                "ref:De_Lijn": "504053",
-                "bus": "yes",
-                "name": "Bovekerke Zothoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOVEKERKESTRAAT BOVEKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.963469,
-                    51.059763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;59;64",
-                "ref:De_Lijn": "509053",
-                "bus": "yes",
-                "name": "Bovekerke Zothoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOVEKERKESTRAAT BOVEKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.963302,
-                    51.059636
                 ]
             }
         },

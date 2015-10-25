@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "27",
-                "ref:De_Lijn": "204355",
-                "bus": "yes",
-                "name": "Belsele Nauwstraat 66",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAUWSTRAAT BELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.103572,
-                    51.175991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "204183",
                 "bus": "yes",
                 "name": "Belsele Gentstraat",
@@ -47,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "27",
-                "ref:De_Lijn": "205355",
+                "ref:De_Lijn": "205183",
                 "bus": "yes",
-                "name": "Belsele Nauwstraat 66",
+                "name": "Belsele Gentstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NAUWSTRAAT BELSELE",
+                "created_by": "MARKTSTRAAT BELSELE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.103629,
-                    51.17609
+                    4.095746,
+                    51.176693
                 ]
             }
         },
@@ -89,20 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "27",
-                "ref:De_Lijn": "205183",
+                "ref:De_Lijn": "205355",
                 "bus": "yes",
-                "name": "Belsele Gentstraat",
+                "name": "Belsele Nauwstraat 66",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARKTSTRAAT BELSELE",
+                "created_by": "NAUWSTRAAT BELSELE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.095746,
-                    51.176693
+                    4.103629,
+                    51.17609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "204355",
+                "bus": "yes",
+                "name": "Belsele Nauwstraat 66",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAUWSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.103572,
+                    51.175991
                 ]
             }
         },

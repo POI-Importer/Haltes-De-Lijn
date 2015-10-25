@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "38;95",
-                "ref:De_Lijn": "509581",
-                "bus": "yes",
-                "name": "Westrozebeke De Appel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FILIP VAN ARTEVELDESTRAAT WESTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.014609,
-                    50.933199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "38",
                 "ref:De_Lijn": "505535",
                 "bus": "yes",
@@ -68,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "504584",
+                "bus": "yes",
+                "name": "Westrozebeke Ramen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.023677,
+                    50.938976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
                 "ref:De_Lijn": "504588",
                 "bus": "yes",
                 "name": "Westrozebeke Wildeman",
@@ -82,27 +82,6 @@
                 "coordinates": [
                     3.029805,
                     50.942139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38;95",
-                "ref:De_Lijn": "504581",
-                "bus": "yes",
-                "name": "Westrozebeke De Appel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FILIP VAN ARTEVELDESTRAAT WESTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.01495,
-                    50.933212
                 ]
             }
         },
@@ -131,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38;95",
-                "ref:De_Lijn": "504582",
+                "ref:De_Lijn": "509581",
                 "bus": "yes",
-                "name": "Westrozebeke Dorp",
+                "name": "Westrozebeke De Appel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT WESTROZEBEKE",
+                "created_by": "FILIP VAN ARTEVELDESTRAAT WESTROZEBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.012233,
-                    50.931715
+                    3.014609,
+                    50.933199
                 ]
             }
         },
@@ -172,21 +151,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "504584",
+                "route_ref:De_Lijn": "38;95",
+                "ref:De_Lijn": "504581",
                 "bus": "yes",
-                "name": "Westrozebeke Ramen",
+                "name": "Westrozebeke De Appel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PROVINCIEBAAN WESTROZEBEKE",
+                "created_by": "FILIP VAN ARTEVELDESTRAAT WESTROZEBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.023677,
-                    50.938976
+                    3.01495,
+                    50.933212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;95",
+                "ref:De_Lijn": "504582",
+                "bus": "yes",
+                "name": "Westrozebeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.012233,
+                    50.931715
                 ]
             }
         }

@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;66",
-                "ref:De_Lijn": "501384",
-                "bus": "yes",
-                "name": "Slijpe Vogel Van Parijs",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKSMUIDESTRAAT SLIJPE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.857657,
-                    51.144027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;66",
-                "ref:De_Lijn": "501379",
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "506379",
                 "bus": "yes",
                 "name": "Slijpe Diksmuidestraat 29",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.86296,
-                    51.139132
+                    2.862721,
+                    51.139462
                 ]
             }
         },
@@ -67,8 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53",
-                "ref:De_Lijn": "506379",
+                "route_ref:De_Lijn": "53;66",
+                "ref:De_Lijn": "501379",
                 "bus": "yes",
                 "name": "Slijpe Diksmuidestraat 29",
                 "public_transport": "platform",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.862721,
-                    51.139462
+                    2.86296,
+                    51.139132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66",
+                "ref:De_Lijn": "501384",
+                "bus": "yes",
+                "name": "Slijpe Vogel Van Parijs",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT SLIJPE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.857657,
+                    51.144027
                 ]
             }
         }

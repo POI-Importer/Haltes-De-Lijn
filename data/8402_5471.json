@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;421;424;428",
                 "ref:De_Lijn": "106431",
                 "bus": "yes",
                 "name": "Broechem Lammerenberg",
@@ -25,28 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;421;424;428",
-                "ref:De_Lijn": "106429",
+                "ref:De_Lijn": "106430",
                 "bus": "yes",
-                "name": "Broechem Beemdenstraat",
+                "name": "Massenhoven Lammerenberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MASSENHOVENSESTEENWEG BROECHEM",
+                "created_by": "LIERSEBAAN MASSENHOVEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.622594,
-                    51.187626
+                    4.627837,
+                    51.186411
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;421;424;428",
                 "ref:De_Lijn": "106428",
                 "bus": "yes",
                 "name": "Broechem Beemdenstraat",
@@ -67,21 +64,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;421;424;428",
-                "ref:De_Lijn": "106430",
+                "ref:De_Lijn": "106429",
                 "bus": "yes",
-                "name": "Massenhoven Lammerenberg",
+                "name": "Broechem Beemdenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LIERSEBAAN MASSENHOVEN",
+                "created_by": "MASSENHOVENSESTEENWEG BROECHEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.627837,
-                    51.186411
+                    4.622594,
+                    51.187626
                 ]
             }
         }

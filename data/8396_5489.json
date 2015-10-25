@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "280;681;682",
+                "ref:De_Lijn": "304764",
+                "bus": "yes",
+                "name": "Perk Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N227 PERK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.49388,
+                    50.943201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "225;280;514;515;681;682",
                 "ref:De_Lijn": "304761",
                 "bus": "yes",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     4.49681,
                     50.932743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "304766",
-                "bus": "yes",
-                "name": "Perk Driesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIESSTRAAT PERK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.496906,
-                    50.931421
                 ]
             }
         },
@@ -109,21 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280;681;682",
-                "ref:De_Lijn": "304764",
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "304766",
                 "bus": "yes",
-                "name": "Perk Molenstraat",
+                "name": "Perk Driesstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N227 PERK",
+                "created_by": "DRIESSTRAAT PERK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.49388,
-                    50.943201
+                    4.496906,
+                    50.931421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "304768",
+                "bus": "yes",
+                "name": "Perk Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE MARSELAERESTRAAT PERK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.493541,
+                    50.933546
                 ]
             }
         },
@@ -151,21 +172,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "304768",
+                "route_ref:De_Lijn": "280;681;682",
+                "ref:De_Lijn": "304771",
                 "bus": "yes",
-                "name": "Perk Sint-Annastraat",
+                "name": "Perk Steenweg Tervuren/Steenweg Vilvoorde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DE MARSELAERESTRAAT PERK",
+                "created_by": "TERVUURSESTEENWEG PERK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.493541,
-                    50.933546
+                    4.495595,
+                    50.935594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "225;280",
+                "ref:De_Lijn": "304767",
+                "bus": "yes",
+                "name": "Perk Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT PERK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.49729,
+                    50.931457
                 ]
             }
         },
@@ -194,27 +236,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "280;681;682",
-                "ref:De_Lijn": "304771",
-                "bus": "yes",
-                "name": "Perk Steenweg Tervuren/Steenweg Vilvoorde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVUURSESTEENWEG PERK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.495595,
-                    50.935594
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280;681;682",
                 "ref:De_Lijn": "304770",
                 "bus": "yes",
                 "name": "Perk Steenweg Tervuren/Steenweg Vilvoorde",
@@ -229,27 +250,6 @@
                 "coordinates": [
                     4.495695,
                     50.935756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "225;280",
-                "ref:De_Lijn": "304767",
-                "bus": "yes",
-                "name": "Perk Driesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIESSTRAAT PERK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.49729,
-                    50.931457
                 ]
             }
         }

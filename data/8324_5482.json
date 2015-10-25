@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "47;64",
+                "ref:De_Lijn": "503988",
+                "bus": "yes",
+                "name": "Esen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLADSLOSTRAAT ESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.902361,
+                    51.030294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "31;32;47",
                 "ref:De_Lijn": "508143",
                 "bus": "yes",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     2.903499,
                     51.028555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;31;32;47",
-                "ref:De_Lijn": "503143",
-                "bus": "yes",
-                "name": "Esen Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ESENPLEIN ESEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.903243,
-                    51.028992
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "47;64",
-                "ref:De_Lijn": "503988",
+                "route_ref:De_Lijn": "30;31;32;47",
+                "ref:De_Lijn": "503143",
                 "bus": "yes",
-                "name": "Esen Station",
+                "name": "Esen Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VLADSLOSTRAAT ESEN",
+                "created_by": "ESENPLEIN ESEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.902361,
-                    51.030294
+                    2.903243,
+                    51.028992
                 ]
             }
         }

@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405387",
-                "bus": "yes",
-                "name": "Neerwinden Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEERWINDENSTRAAT NEERWINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.038083,
-                    50.765525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405390",
+                "ref:De_Lijn": "405391",
                 "bus": "yes",
                 "name": "Neerwinden Laarstraat",
                 "public_transport": "platform",
@@ -38,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.032934,
-                    50.766346
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "730",
-                "ref:De_Lijn": "405384",
-                "bus": "yes",
-                "name": "Neerwinden Donkerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DONKERSTRAAT NEERWINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.038933,
-                    50.769476
+                    5.032641,
+                    50.766644
                 ]
             }
         },
@@ -109,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "346;348;730",
-                "ref:De_Lijn": "405391",
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405384",
                 "bus": "yes",
-                "name": "Neerwinden Laarstraat",
+                "name": "Neerwinden Donkerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LAARSTRAAT NEERWINDEN",
+                "created_by": "DONKERSTRAAT NEERWINDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.032641,
-                    50.766644
+                    5.038933,
+                    50.769476
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     5.0464,
                     50.766269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405387",
+                "bus": "yes",
+                "name": "Neerwinden Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERWINDENSTRAAT NEERWINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.038083,
+                    50.765525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;348;730",
+                "ref:De_Lijn": "405390",
+                "bus": "yes",
+                "name": "Neerwinden Laarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARSTRAAT NEERWINDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.032934,
+                    50.766346
                 ]
             }
         }

@@ -25,28 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410",
-                "ref:De_Lijn": "206673",
+                "route_ref:De_Lijn": "22;24",
+                "ref:De_Lijn": "208168",
                 "bus": "yes",
-                "name": "Opbrakel Livierenstraat",
+                "name": "Opbrakel Holenbroek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LIVIERENSTRAAT OPBRAKEL",
+                "created_by": "SINT-MARTENSSTRAAT OPBRAKEL",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.749087,
-                    50.779804
+                    3.746336,
+                    50.789435
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;410",
+                "route_ref:De_Lijn": "21;23",
                 "ref:De_Lijn": "208163",
                 "bus": "yes",
                 "name": "Opbrakel Riebeke",
@@ -61,6 +61,26 @@
                 "coordinates": [
                     3.740805,
                     50.791546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206673",
+                "bus": "yes",
+                "name": "Opbrakel Livierenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIVIERENSTRAAT OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.749087,
+                    50.779804
                 ]
             }
         },
@@ -88,49 +108,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;24;25",
-                "ref:De_Lijn": "209168",
-                "bus": "yes",
-                "name": "Opbrakel Holenbroek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-MARTENSSTRAAT OPBRAKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.746096,
-                    50.789335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;24;410",
-                "ref:De_Lijn": "208169",
-                "bus": "yes",
-                "name": "Opbrakel Tenbergen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEINSTRAAT OPBRAKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.744263,
-                    50.787465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;24;410",
+                "route_ref:De_Lijn": "22;24",
                 "ref:De_Lijn": "208170",
                 "bus": "yes",
                 "name": "Opbrakel Herenhof",
@@ -151,21 +129,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;24;410",
-                "ref:De_Lijn": "208168",
+                "route_ref:De_Lijn": "22;24",
+                "ref:De_Lijn": "208169",
                 "bus": "yes",
-                "name": "Opbrakel Holenbroek",
+                "name": "Opbrakel Tenbergen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-MARTENSSTRAAT OPBRAKEL",
+                "created_by": "LEINSTRAAT OPBRAKEL",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.746336,
-                    50.789435
+                    3.744263,
+                    50.787465
                 ]
             }
         },
@@ -187,6 +165,27 @@
                 "coordinates": [
                     3.740195,
                     50.791533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;24;25",
+                "ref:De_Lijn": "209168",
+                "bus": "yes",
+                "name": "Opbrakel Holenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MARTENSSTRAAT OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.746096,
+                    50.789335
                 ]
             }
         }

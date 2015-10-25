@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
-                "ref:De_Lijn": "204756",
-                "bus": "yes",
-                "name": "Meerdonk Donkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARGRIETSTRAAT MEERDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.155413,
-                    51.247069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
+                "route_ref:De_Lijn": "21;23;27",
                 "ref:De_Lijn": "205756",
                 "bus": "yes",
                 "name": "Meerdonk Donkstraat",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     4.15527,
                     51.247159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27",
+                "ref:De_Lijn": "204756",
+                "bus": "yes",
+                "name": "Meerdonk Donkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARGRIETSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.155413,
+                    51.247069
                 ]
             }
         }

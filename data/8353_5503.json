@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460;470",
                 "ref:De_Lijn": "205982",
                 "bus": "yes",
                 "name": "Paillartcamp",

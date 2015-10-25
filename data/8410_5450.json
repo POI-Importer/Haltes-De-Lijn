@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;600;602;620;935",
-                "ref:De_Lijn": "106377",
-                "bus": "yes",
-                "name": "Meerle Strijbeekseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROOT EYSSEL MEERLE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.796488,
-                    51.476802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;600;602;620;935",
-                "ref:De_Lijn": "106379",
-                "bus": "yes",
-                "name": "Meerle Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT MEERLE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.803831,
-                    51.474052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;935",
                 "ref:De_Lijn": "106380",
                 "bus": "yes",
                 "name": "Meerle Schuivenoord",
@@ -67,7 +24,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;935",
+                "ref:De_Lijn": "106377",
+                "bus": "yes",
+                "name": "Meerle Strijbeekseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT EYSSEL MEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.796488,
+                    51.476802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106379",
+                "bus": "yes",
+                "name": "Meerle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT MEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.803831,
+                    51.474052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106381",
                 "bus": "yes",
                 "name": "Meerle Schuivenoord",
@@ -88,7 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;600;602;620;935",
                 "ref:De_Lijn": "106376",
                 "bus": "yes",
                 "name": "Meerle Strijbeekseweg",

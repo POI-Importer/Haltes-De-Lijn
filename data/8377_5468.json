@@ -4,28 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
-                "ref:De_Lijn": "205765",
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "204480",
                 "bus": "yes",
-                "name": "Kemzeke Voorhoute",
+                "name": "Kemzeke Drieschouwen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAATWEG KEMZEKE",
+                "created_by": "DRIESCHOUWEN KEMZEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.066353,
-                    51.228602
+                    4.067004,
+                    51.220945
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
                 "ref:De_Lijn": "204798",
                 "bus": "yes",
                 "name": "Kemzeke Hofpachtstraat",
@@ -46,7 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "85;240",
+                "route_ref:De_Lijn": "85",
                 "ref:De_Lijn": "205480",
                 "bus": "yes",
                 "name": "Kemzeke Drieschouwen",
@@ -67,21 +66,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "85;240",
-                "ref:De_Lijn": "204480",
+                "ref:De_Lijn": "205765",
                 "bus": "yes",
-                "name": "Kemzeke Drieschouwen",
+                "name": "Kemzeke Voorhoute",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DRIESCHOUWEN KEMZEKE",
+                "created_by": "MAATWEG KEMZEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.067004,
-                    51.220945
+                    4.066353,
+                    51.228602
                 ]
             }
         }

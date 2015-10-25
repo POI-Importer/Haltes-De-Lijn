@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "45;61;64;725",
+                "ref:De_Lijn": "406203",
+                "bus": "yes",
+                "name": "Eisden Kunstacademie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZETELLAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.702456,
+                    50.999849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61",
+                "ref:De_Lijn": "406181",
+                "bus": "yes",
+                "name": "Eisden Koninginnelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69661,
+                    50.993649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61",
+                "ref:De_Lijn": "406178",
+                "bus": "yes",
+                "name": "Eisden Kersenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.695356,
+                    50.997673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "406822",
                 "bus": "yes",
                 "name": "Eisden Kastanjelaan",
@@ -25,63 +88,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;725",
-                "ref:De_Lijn": "409908",
+                "route_ref:De_Lijn": "9;45;61;64;725",
+                "ref:De_Lijn": "406190",
                 "bus": "yes",
-                "name": "Eisden Koninginnelaan",
+                "name": "Eisden Post",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUCIEN SCHALENBORGHLAAN EISDEN",
+                "created_by": "KONINGINNELAAN EISDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.696069,
-                    50.994194
+                    5.698546,
+                    50.988107
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;725",
-                "ref:De_Lijn": "406891",
+                "route_ref:De_Lijn": "61;64;725",
+                "ref:De_Lijn": "406170",
                 "bus": "yes",
-                "name": "Eisden Eikenlaan",
+                "name": "Eisden Cultureel Centrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PAUL LAMBERTLAAN EISDEN",
+                "created_by": "LOUIS MERCIERLAAN EISDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.691807,
-                    50.999124
+                    5.69729,
+                    50.989523
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;61;64;725",
-                "ref:De_Lijn": "406203",
+                "route_ref:De_Lijn": "9;45;61;64;725",
+                "ref:De_Lijn": "406189",
                 "bus": "yes",
-                "name": "Eisden Kunstacademie",
+                "name": "Eisden Post",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZETELLAAN EISDEN",
+                "created_by": "KONINGINNELAAN EISDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.702456,
-                    50.999849
+                    5.699047,
+                    50.987175
                 ]
             }
         },
@@ -130,29 +193,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;61",
-                "ref:De_Lijn": "406178",
-                "bus": "yes",
-                "name": "Eisden Kersenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGINNELAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.695356,
-                    50.997673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "406458",
+                "ref:De_Lijn": "406459",
                 "bus": "yes",
                 "name": "Eisden Guilliaume Lambertlaan",
                 "public_transport": "platform",
@@ -164,50 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.697281,
-                    50.992212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;45;61;64;725",
-                "ref:De_Lijn": "406189",
-                "bus": "yes",
-                "name": "Eisden Post",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGINNELAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.699047,
-                    50.987175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;45;61;64;725",
-                "ref:De_Lijn": "406190",
-                "bus": "yes",
-                "name": "Eisden Post",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGINNELAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.698546,
-                    50.988107
+                    5.697044,
+                    50.992385
                 ]
             }
         },
@@ -235,8 +235,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "61;64;725",
+                "ref:De_Lijn": "406171",
+                "bus": "yes",
+                "name": "Eisden Cultureel Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOUIS MERCIERLAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.697529,
+                    50.989413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "406459",
+                "ref:De_Lijn": "406458",
                 "bus": "yes",
                 "name": "Eisden Guilliaume Lambertlaan",
                 "public_transport": "platform",
@@ -248,71 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.697044,
-                    50.992385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61",
-                "ref:De_Lijn": "406183",
-                "bus": "yes",
-                "name": "Eisden VDAB",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOLENMIJN LIMBURG-MAASLAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.705153,
-                    50.998506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;61;64;725",
-                "ref:De_Lijn": "406202",
-                "bus": "yes",
-                "name": "Eisden Kunstacademie",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZETELLAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.700917,
-                    50.999839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;61",
-                "ref:De_Lijn": "406179",
-                "bus": "yes",
-                "name": "Eisden Kersenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGINNELAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.695449,
-                    50.996934
+                    5.697281,
+                    50.992212
                 ]
             }
         },
@@ -334,48 +292,6 @@
                 "coordinates": [
                     5.692972,
                     50.998509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;61",
-                "ref:De_Lijn": "406180",
-                "bus": "yes",
-                "name": "Eisden Koninginnelaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGINNELAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.6969,
-                    50.993331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;64;725",
-                "ref:De_Lijn": "406170",
-                "bus": "yes",
-                "name": "Eisden Cultureel Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOUIS MERCIERLAAN EISDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.69729,
-                    50.989523
                 ]
             }
         },
@@ -404,7 +320,49 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "45;61",
-                "ref:De_Lijn": "406181",
+                "ref:De_Lijn": "406179",
+                "bus": "yes",
+                "name": "Eisden Kersenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.695449,
+                    50.996934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;725",
+                "ref:De_Lijn": "409908",
+                "bus": "yes",
+                "name": "Eisden Koninginnelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUCIEN SCHALENBORGHLAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.696069,
+                    50.994194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61",
+                "ref:De_Lijn": "406180",
                 "bus": "yes",
                 "name": "Eisden Koninginnelaan",
                 "public_transport": "platform",
@@ -416,29 +374,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.69661,
-                    50.993649
+                    5.6969,
+                    50.993331
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;64;725",
-                "ref:De_Lijn": "406171",
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "406183",
                 "bus": "yes",
-                "name": "Eisden Cultureel Centrum",
+                "name": "Eisden VDAB",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LOUIS MERCIERLAAN EISDEN",
+                "created_by": "KOLENMIJN LIMBURG-MAASLAAN EISDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.697529,
-                    50.989413
+                    5.705153,
+                    50.998506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "406891",
+                "bus": "yes",
+                "name": "Eisden Eikenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAUL LAMBERTLAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.691807,
+                    50.999124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61;64;725",
+                "ref:De_Lijn": "406202",
+                "bus": "yes",
+                "name": "Eisden Kunstacademie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZETELLAAN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.700917,
+                    50.999839
                 ]
             }
         }

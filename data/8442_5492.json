@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "409640",
-                "bus": "yes",
-                "name": "Heesveld Spoorbrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.50286,
-                    50.895741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400896",
-                "bus": "yes",
-                "name": "Bilzen Heesveld Weg op Spurk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEESVELD MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.498545,
-                    50.894856
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "20a;701;706",
                 "ref:De_Lijn": "400700",
                 "bus": "yes",
@@ -67,174 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "400899",
-                "bus": "yes",
-                "name": "Bilzen Sint-Jozefstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.49952,
-                    50.894595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a;701;706",
-                "ref:De_Lijn": "400816",
-                "bus": "yes",
-                "name": "Eik Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEFSMIDSTRAAT MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.512432,
-                    50.89768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "403580",
-                "bus": "yes",
-                "name": "Eik Pottenbakker",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKERWEG BILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.509186,
-                    50.902755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "400876",
-                "bus": "yes",
-                "name": "Eik Apotheek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE HEIDESTRAAT MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.514153,
-                    50.90179
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "400873",
-                "bus": "yes",
-                "name": "Heesveld Boerderij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEESVELD MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.497866,
-                    50.898513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a;706",
-                "ref:De_Lijn": "400775",
-                "bus": "yes",
-                "name": "Heesveld Heesveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEESVELD BILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.496742,
-                    50.901455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a;701;706",
-                "ref:De_Lijn": "400818",
-                "bus": "yes",
-                "name": "Eik Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIK MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.506756,
-                    50.896944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "403581",
-                "bus": "yes",
-                "name": "Eik Oude Heide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE HEIDESTRAAT MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.511796,
-                    50.900194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "20a;701;706",
                 "ref:De_Lijn": "400817",
                 "bus": "yes",
@@ -250,27 +40,6 @@
                 "coordinates": [
                     5.513116,
                     50.897772
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400897",
-                "bus": "yes",
-                "name": "Bilzen Heesveld Weg op Spurk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEESVELD MUNSTERBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.498793,
-                    50.895088
                 ]
             }
         },
@@ -299,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "409641",
+                "ref:De_Lijn": "403581",
                 "bus": "yes",
-                "name": "Heesveld Spoorbrug",
+                "name": "Eik Oude Heide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
+                "created_by": "OUDE HEIDESTRAAT MUNSTERBILZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.502561,
-                    50.895744
+                    5.511796,
+                    50.900194
                 ]
             }
         },
@@ -320,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "400898",
+                "ref:De_Lijn": "403580",
                 "bus": "yes",
-                "name": "Bilzen Sint-Jozefstraat",
+                "name": "Eik Pottenbakker",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
+                "created_by": "EIKERWEG BILZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.49905,
-                    50.894537
+                    5.509186,
+                    50.902755
                 ]
             }
         },
@@ -361,6 +130,216 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "400897",
+                "bus": "yes",
+                "name": "Bilzen Heesveld Weg op Spurk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESVELD MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.498793,
+                    50.895088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "400899",
+                "bus": "yes",
+                "name": "Bilzen Sint-Jozefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.49952,
+                    50.894595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "409640",
+                "bus": "yes",
+                "name": "Heesveld Spoorbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.50286,
+                    50.895741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "400873",
+                "bus": "yes",
+                "name": "Heesveld Boerderij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESVELD MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.497866,
+                    50.898513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "400876",
+                "bus": "yes",
+                "name": "Eik Apotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE HEIDESTRAAT MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.514153,
+                    50.90179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "400896",
+                "bus": "yes",
+                "name": "Bilzen Heesveld Weg op Spurk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESVELD MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.498545,
+                    50.894856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "400898",
+                "bus": "yes",
+                "name": "Bilzen Sint-Jozefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.49905,
+                    50.894537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;706",
+                "ref:De_Lijn": "400775",
+                "bus": "yes",
+                "name": "Heesveld Heesveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESVELD BILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496742,
+                    50.901455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "409641",
+                "bus": "yes",
+                "name": "Heesveld Spoorbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFSTRAAT MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502561,
+                    50.895744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;701;706",
+                "ref:De_Lijn": "400816",
+                "bus": "yes",
+                "name": "Eik Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEFSMIDSTRAAT MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.512432,
+                    50.89768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "20a;701;706",
                 "ref:De_Lijn": "400774",
                 "bus": "yes",
@@ -376,6 +355,27 @@
                 "coordinates": [
                     5.496616,
                     50.90151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;701;706",
+                "ref:De_Lijn": "400818",
+                "bus": "yes",
+                "name": "Eik Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIK MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.506756,
+                    50.896944
                 ]
             }
         }

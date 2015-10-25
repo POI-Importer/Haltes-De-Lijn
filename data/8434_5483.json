@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "404239",
+                "bus": "yes",
+                "name": "Zolder Schobbenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEKENSTRAAT ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.320327,
+                    51.025164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "404274",
                 "bus": "yes",
                 "name": "Zolder Het Weyerke",
@@ -25,6 +46,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "405653",
+                "bus": "yes",
+                "name": "Zolder Laambroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAAMBROEKSTRAAT ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.331391,
+                    51.021119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404273",
+                "bus": "yes",
+                "name": "Zolder Nieuwstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32139,
+                    51.018548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "22;34;47;283",
                 "ref:De_Lijn": "404213",
                 "bus": "yes",
@@ -40,69 +103,6 @@
                 "coordinates": [
                     5.333091,
                     51.026867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "404223",
-                "bus": "yes",
-                "name": "Zolder Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEKENSTRAAT ZOLDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.326432,
-                    51.026769
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;22;47",
-                "ref:De_Lijn": "404220",
-                "bus": "yes",
-                "name": "Zolder Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "M. SCHEPERSLAAN ZOLDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.329361,
-                    51.027096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "47",
-                "ref:De_Lijn": "405547",
-                "bus": "yes",
-                "name": "Zolder Laambroekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAAMBROEKSTRAAT ZOLDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.331312,
-                    51.021443
                 ]
             }
         },
@@ -131,9 +131,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "404239",
+                "ref:De_Lijn": "404222",
                 "bus": "yes",
-                "name": "Zolder Schobbenberg",
+                "name": "Zolder Kruispunt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DEKENSTRAAT ZOLDER",
@@ -143,8 +143,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.320327,
-                    51.025164
+                    5.326048,
+                    51.026781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;47",
+                "ref:De_Lijn": "404220",
+                "bus": "yes",
+                "name": "Zolder Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "M. SCHEPERSLAAN ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.329361,
+                    51.027096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "404223",
+                "bus": "yes",
+                "name": "Zolder Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEKENSTRAAT ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326432,
+                    51.026769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;47",
+                "ref:De_Lijn": "404212",
+                "bus": "yes",
+                "name": "Zolder Hoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "M. SCHEPERSLAAN ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.333501,
+                    51.026693
                 ]
             }
         },
@@ -166,27 +229,6 @@
                 "coordinates": [
                     5.321739,
                     51.022402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "404222",
-                "bus": "yes",
-                "name": "Zolder Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEKENSTRAAT ZOLDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.326048,
-                    51.026781
                 ]
             }
         },
@@ -215,7 +257,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "47",
-                "ref:De_Lijn": "405653",
+                "ref:De_Lijn": "405547",
                 "bus": "yes",
                 "name": "Zolder Laambroekstraat",
                 "public_transport": "platform",
@@ -227,50 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.331391,
-                    51.021119
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;22;47",
-                "ref:De_Lijn": "404212",
-                "bus": "yes",
-                "name": "Zolder Hoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "M. SCHEPERSLAAN ZOLDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.333501,
-                    51.026693
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "404273",
-                "bus": "yes",
-                "name": "Zolder Nieuwstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "NIEUWSTRAAT ZOLDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.32139,
-                    51.018548
+                    5.331312,
+                    51.021443
                 ]
             }
         },

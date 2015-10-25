@@ -4,29 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "451;455",
-                "ref:De_Lijn": "101331",
-                "bus": "yes",
-                "name": "Weelde Turnhoutseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TURNHOUTSEWEG WEELDE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.998317,
-                    51.394257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "451;455",
-                "ref:De_Lijn": "106675",
+                "ref:De_Lijn": "106674",
                 "bus": "yes",
                 "name": "Weelde Stenenbrug",
                 "public_transport": "platform",
@@ -38,15 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.994853,
-                    51.388829
+                    4.994624,
+                    51.388938
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "451;455",
                 "ref:De_Lijn": "101332",
                 "bus": "yes",
                 "name": "Weelde Turnhoutseweg",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "451;455",
+                "ref:De_Lijn": "101331",
+                "bus": "yes",
+                "name": "Weelde Turnhoutseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEWEG WEELDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998317,
+                    51.394257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106676",
                 "bus": "yes",
                 "name": "Weelde Maatsheikensstraat",
@@ -88,7 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "451;455",
                 "ref:De_Lijn": "106677",
                 "bus": "yes",
                 "name": "Weelde Maatsheikensstraat",
@@ -109,8 +104,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "451;455",
-                "ref:De_Lijn": "106674",
+                "ref:De_Lijn": "106675",
                 "bus": "yes",
                 "name": "Weelde Stenenbrug",
                 "public_transport": "platform",
@@ -122,8 +116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.994624,
-                    51.388938
+                    4.994853,
+                    51.388829
                 ]
             }
         }

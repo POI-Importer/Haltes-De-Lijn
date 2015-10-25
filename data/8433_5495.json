@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;23a;700",
-                "ref:De_Lijn": "409052",
+                "ref:De_Lijn": "409066",
                 "bus": "yes",
-                "name": "Wellen Bampsteeg",
+                "name": "Wellen Kapelleke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RUSSELT WELLEN",
@@ -17,71 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.314807,
-                    50.856476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;700",
-                "ref:De_Lijn": "400078",
-                "bus": "yes",
-                "name": "Alken Knipscheer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSIMSESTRAAT SINT-JORIS (ALKEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.296859,
-                    50.85821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;23a",
-                "ref:De_Lijn": "409099",
-                "bus": "yes",
-                "name": "Wellen Tervoort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAMELSTRAAT ULBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.306073,
-                    50.848724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;23a;700",
-                "ref:De_Lijn": "409053",
-                "bus": "yes",
-                "name": "Wellen Bampsteeg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUSSELT WELLEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.315521,
-                    50.855958
+                    5.314805,
+                    50.861339
                 ]
             }
         },
@@ -110,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;23a;700",
-                "ref:De_Lijn": "409082",
+                "ref:De_Lijn": "409053",
                 "bus": "yes",
-                "name": "Wellen Mewis",
+                "name": "Wellen Bampsteeg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RUSSELT WELLEN",
@@ -122,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.313308,
-                    50.851184
+                    5.315521,
+                    50.855958
                 ]
             }
         },
@@ -131,20 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;23a",
-                "ref:De_Lijn": "409098",
+                "ref:De_Lijn": "409099",
                 "bus": "yes",
                 "name": "Wellen Tervoort",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TERVOORTSTRAAT WELLEN",
+                "created_by": "HAMELSTRAAT ULBEEK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.307548,
-                    50.849333
+                    5.306073,
+                    50.848724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;23a;700",
+                "ref:De_Lijn": "405130",
+                "bus": "yes",
+                "name": "Alken Klameerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAMEERSTRAAT ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302838,
+                    50.860986
                 ]
             }
         },
@@ -173,9 +131,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;23a;700",
-                "ref:De_Lijn": "409066",
+                "ref:De_Lijn": "409052",
                 "bus": "yes",
-                "name": "Wellen Kapelleke",
+                "name": "Wellen Bampsteeg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RUSSELT WELLEN",
@@ -185,29 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.314805,
-                    50.861339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;23a;700",
-                "ref:De_Lijn": "405130",
-                "bus": "yes",
-                "name": "Alken Klameerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLAMEERSTRAAT ALKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.302838,
-                    50.860986
+                    5.314807,
+                    50.856476
                 ]
             }
         },
@@ -229,6 +166,69 @@
                 "coordinates": [
                     5.313214,
                     50.851463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;23a",
+                "ref:De_Lijn": "409098",
+                "bus": "yes",
+                "name": "Wellen Tervoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVOORTSTRAAT WELLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.307548,
+                    50.849333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;700",
+                "ref:De_Lijn": "400078",
+                "bus": "yes",
+                "name": "Alken Knipscheer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSIMSESTRAAT SINT-JORIS (ALKEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.296859,
+                    50.85821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;23a;700",
+                "ref:De_Lijn": "409082",
+                "bus": "yes",
+                "name": "Wellen Mewis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUSSELT WELLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313308,
+                    50.851184
                 ]
             }
         }

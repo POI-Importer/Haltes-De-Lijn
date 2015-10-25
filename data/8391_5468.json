@@ -4,20 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104393",
+                "ref:De_Lijn": "204269",
                 "bus": "yes",
-                "name": "Van Velthemlaan",
+                "name": "Gloriantlaan",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "ESMOREITLAAN ANTWERPEN",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.382817,
+                    4.385624,
                     51.233426
                 ]
             }
@@ -25,149 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104379",
+                "ref:De_Lijn": "204267",
                 "bus": "yes",
-                "name": "Verhaerenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386393,
-                    51.223206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204276",
-                "bus": "yes",
-                "name": "Verhaerenlaan",
+                "name": "Hof Ter Schelde",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386063,
-                    51.22326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93;95;97;99",
-                "ref:De_Lijn": "204605",
-                "bus": "yes",
-                "name": "Waterhoenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.382127,
-                    51.22175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104384",
-                "bus": "yes",
-                "name": "De Costerlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386524,
-                    51.228383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "95;97;99;99S",
-                "ref:De_Lijn": "205605",
-                "bus": "yes",
-                "name": "Waterhoenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.381697,
-                    51.221669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "205490",
-                "bus": "yes",
-                "name": "Waaslandtunnel",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.375901,
-                    51.22718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93;95;97;99",
-                "ref:De_Lijn": "204604",
-                "bus": "yes",
-                "name": "Zielenslaan/Halewijnlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378663,
-                    51.221796
+                    4.378708,
+                    51.232096
                 ]
             }
         },
@@ -195,91 +67,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104398",
+                "ref:De_Lijn": "204276",
                 "bus": "yes",
-                "name": "Vuylstekelaan",
+                "name": "Verhaerenlaan",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.377204,
-                    51.228447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "99S",
-                "ref:De_Lijn": "204271",
-                "bus": "yes",
-                "name": "Van Eedenplein - Perron 2",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386449,
-                    51.220689
+                    4.386063,
+                    51.22326
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "104366",
+                "ref:De_Lijn": "205490",
                 "bus": "yes",
                 "name": "Waaslandtunnel",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HALEWIJNLAAN ANTWERPEN",
+                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.37802,
-                    51.226577
+                    4.375901,
+                    51.22718
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104387",
+                "route_ref:De_Lijn": "81;82;83;84;85;87;89;93;95;97;99",
+                "ref:De_Lijn": "104377",
                 "bus": "yes",
-                "name": "Farnèseplein",
+                "name": "Van Eedenplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "created_by": "FREDERIK VAN EEDENPLEIN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386152,
-                    51.230819
+                    4.386063,
+                    51.221058
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
                 "ref:De_Lijn": "104394",
                 "bus": "yes",
                 "name": "Hof Ter Schelde",
@@ -300,51 +150,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104396",
+                "ref:De_Lijn": "204272",
                 "bus": "yes",
-                "name": "Hof Ter Schelde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378594,
-                    51.232168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104381",
-                "bus": "yes",
-                "name": "Stedelijk Lyceum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.38595,
-                    51.225489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "205275",
-                "bus": "yes",
-                "name": "Stedelijk Lyceum",
+                "name": "Stokelaan",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -355,74 +163,91 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386565,
-                    51.22566
+                    4.386267,
+                    51.230837
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "204267",
+                "ref:De_Lijn": "103122",
                 "bus": "yes",
-                "name": "Hof Ter Schelde",
+                "name": "IGLO",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378708,
-                    51.232096
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;5;9;15",
-                "ref:De_Lijn": "104733",
-                "zone:De_Lijn": "01",
-                "name": "Van Eeden",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "created_by": "LOUIS PAUL BOONSTRAAT ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.38632,
-                    51.22068
+                    4.381856,
+                    51.225004
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "204258",
+                "ref:De_Lijn": "205276",
                 "bus": "yes",
-                "name": "Van Eedenplein - Perron 1b",
+                "name": "Verhaerenlaan",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "UNKNOWN ANTWERPEN",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386821,
-                    51.220887
+                    4.386521,
+                    51.223233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204825",
+                "bus": "yes",
+                "name": "Jachthaven L.O. HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "THONETLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.391678,
+                    51.230746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205273",
+                "bus": "yes",
+                "name": "Farneseplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ALEXANDER FARNESEPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386725,
+                    51.230477
                 ]
             }
         },
@@ -450,147 +275,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104397",
-                "bus": "yes",
-                "name": "Vuylstekelaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.37845,
-                    51.22931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204269",
-                "bus": "yes",
-                "name": "Gloriantlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ESMOREITLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.385624,
-                    51.233426
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204275",
-                "bus": "yes",
-                "name": "Stedelijk Lyceum",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.38605,
-                    51.225597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "104371",
-                "bus": "yes",
-                "name": "L.O. Zielenslaan/Halewijnlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378835,
-                    51.221697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204265",
-                "bus": "yes",
-                "name": "Vuylstekelaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378622,
-                    51.229472
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104386",
+                "ref:De_Lijn": "104387",
                 "bus": "yes",
                 "name": "Farnèseplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ALEXANDER FARNESEPLEIN ANTWERPEN",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386596,
-                    51.230459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104364",
-                "bus": "yes",
-                "name": "Van Eedenplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "THONETLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.387365,
-                    51.220887
+                    4.386152,
+                    51.230819
                 ]
             }
         },
@@ -619,6 +317,232 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "104369",
+                "bus": "yes",
+                "name": "Gijsselsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALEWIJNLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37842,
+                    51.223072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95;97;99;99S",
+                "ref:De_Lijn": "205604",
+                "bus": "yes",
+                "name": "Zielenslaan/Halewijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378663,
+                    51.221706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104382",
+                "name": "Stedelijk Lyceum",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386422,
+                    51.225597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204264",
+                "bus": "yes",
+                "name": "Waaslandtunnel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379065,
+                    51.2278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95;97;99;99S",
+                "ref:De_Lijn": "205605",
+                "bus": "yes",
+                "name": "Waterhoenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381697,
+                    51.221669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104386",
+                "bus": "yes",
+                "name": "Farnèseplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALEXANDER FARNESEPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386596,
+                    51.230459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104371",
+                "bus": "yes",
+                "name": "L.O. Zielenslaan/Halewijnlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378835,
+                    51.221697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "205602",
+                "bus": "yes",
+                "name": "Waaslandtunnel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALEWIJNLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378506,
+                    51.226488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104378",
+                "bus": "yes",
+                "name": "Verhaerenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FREDERIK VAN EEDENPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.385934,
+                    51.2229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204490",
+                "bus": "yes",
+                "name": "Waaslandtunnel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37583,
+                    51.227683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104393",
+                "bus": "yes",
+                "name": "Van Velthemlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESMOREITLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.382817,
+                    51.233426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "205266",
                 "bus": "yes",
                 "name": "Klooslaan",
@@ -640,7 +564,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "104388",
+                "bus": "yes",
+                "name": "Gloriantlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386669,
+                    51.23303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "104389",
                 "bus": "yes",
                 "name": "Gloriantlaan",
@@ -661,21 +604,246 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;81;82;83;84;85;87;89;93;95;97;99;99S",
-                "ref:De_Lijn": "104377",
+                "ref:De_Lijn": "104366",
                 "bus": "yes",
-                "name": "Van Eedenplein",
+                "name": "Waaslandtunnel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FREDERIK VAN EEDENPLEIN ANTWERPEN",
+                "created_by": "HALEWIJNLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386063,
-                    51.221058
+                    4.37802,
+                    51.226577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97",
+                "ref:De_Lijn": "204605",
+                "bus": "yes",
+                "name": "Waterhoenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.382127,
+                    51.22175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205271",
+                "bus": "yes",
+                "name": "Huygensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386812,
+                    51.233075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104396",
+                "bus": "yes",
+                "name": "Hof Ter Schelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378594,
+                    51.232168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104398",
+                "bus": "yes",
+                "name": "Vuylstekelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.377204,
+                    51.228447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104392",
+                "bus": "yes",
+                "name": "Van Velthemlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESMOREITLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.382846,
+                    51.233759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104383",
+                "bus": "yes",
+                "name": "De Costerlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386065,
+                    51.228248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "104733",
+                "zone:De_Lijn": "01",
+                "name": "Van Eeden",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38632,
+                    51.22068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104372",
+                "bus": "yes",
+                "name": "L.O. Zielenslaan/Halewijnlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37872,
+                    51.221787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104364",
+                "bus": "yes",
+                "name": "Van Eedenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THONETLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.387365,
+                    51.220887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104384",
+                "bus": "yes",
+                "name": "De Costerlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386524,
+                    51.228383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104373",
+                "bus": "yes",
+                "name": "L.O. Waterhoenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381697,
+                    51.221669
                 ]
             }
         },
@@ -724,340 +892,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "104374",
+                "ref:De_Lijn": "204265",
                 "bus": "yes",
-                "name": "L.O. Waterhoenlaan",
+                "name": "Vuylstekelaan",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.382127,
-                    51.22175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104399",
-                "bus": "yes",
-                "name": "Vermeylenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.379108,
-                    51.227683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "205276",
-                "bus": "yes",
-                "name": "Verhaerenlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386521,
-                    51.223233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204490",
-                "bus": "yes",
-                "name": "Waaslandtunnel",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.37583,
-                    51.227683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "95;97;99;99S",
-                "ref:De_Lijn": "205604",
-                "bus": "yes",
-                "name": "Zielenslaan/Halewijnlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378663,
-                    51.221706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104388",
-                "bus": "yes",
-                "name": "Gloriantlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386669,
-                    51.23303
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104382",
-                "bus": "yes",
-                "name": "Stedelijk Lyceum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386422,
-                    51.225597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "104372",
-                "bus": "yes",
-                "name": "L.O. Zielenslaan/Halewijnlaan",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.37872,
-                    51.221787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104383",
-                "bus": "yes",
-                "name": "De Costerlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386065,
-                    51.228248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104378",
-                "bus": "yes",
-                "name": "Verhaerenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FREDERIK VAN EEDENPLEIN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.385934,
-                    51.2229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204825",
-                "name": "Jachthaven L.O. HD",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "tram": "yes",
-                "created_by": "THONETLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.391678,
-                    51.230746
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204277",
-                "bus": "yes",
-                "name": "Van Eedenplein",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "THONETLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.387193,
-                    51.220779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204272",
-                "bus": "yes",
-                "name": "Stokelaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386267,
-                    51.230837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "104392",
-                "bus": "yes",
-                "name": "Van Velthemlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ESMOREITLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.382846,
-                    51.233759
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;89;93;95;97;99",
-                "ref:De_Lijn": "104369",
-                "bus": "yes",
-                "name": "Gijsselsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALEWIJNLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.37842,
-                    51.223072
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "104373",
-                "bus": "yes",
-                "name": "L.O. Waterhoenlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.381697,
-                    51.221669
+                    4.378622,
+                    51.229472
                 ]
             }
         },
@@ -1085,21 +934,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;89;95;97;99;99S",
-                "ref:De_Lijn": "104368",
-                "bus": "yes",
-                "name": "Gijsselsstraat",
+                "ref:De_Lijn": "104379",
+                "name": "Verhaerenlaan",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALEWIJNLAAN ANTWERPEN",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.377876,
-                    51.223072
+                    4.386393,
+                    51.223206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "204258",
+                "bus": "yes",
+                "name": "Van Eedenplein - Perron 1b",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386821,
+                    51.220887
                 ]
             }
         },
@@ -1127,21 +996,165 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "103122",
+                "ref:De_Lijn": "104397",
                 "bus": "yes",
-                "name": "IGLO",
+                "name": "Vuylstekelaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LOUIS PAUL BOONSTRAAT ANTWERPEN",
+                "created_by": "AUGUST VERMEYLENLAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.381856,
-                    51.225004
+                    4.37845,
+                    51.22931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205275",
+                "bus": "yes",
+                "name": "Stedelijk Lyceum",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386565,
+                    51.22566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97",
+                "ref:De_Lijn": "204604",
+                "bus": "yes",
+                "name": "Zielenslaan/Halewijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODE ZIELENSLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378663,
+                    51.221796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204275",
+                "bus": "yes",
+                "name": "Stedelijk Lyceum",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38605,
+                    51.225597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99S",
+                "ref:De_Lijn": "204271",
+                "bus": "yes",
+                "name": "Van Eedenplein - Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANCEFLOERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386449,
+                    51.220689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104399",
+                "bus": "yes",
+                "name": "Vermeylenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.379108,
+                    51.227683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104368",
+                "bus": "yes",
+                "name": "Gijsselsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALEWIJNLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.377876,
+                    51.223072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204277",
+                "bus": "yes",
+                "name": "Van Eedenplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "THONETLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.387193,
+                    51.220779
                 ]
             }
         },
@@ -1169,90 +1182,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "205602",
-                "bus": "yes",
-                "name": "Waaslandtunnel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALEWIJNLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378506,
-                    51.226488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "205273",
-                "bus": "yes",
-                "name": "Farneseplein",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ALEXANDER FARNESEPLEIN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386725,
-                    51.230477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204264",
-                "bus": "yes",
-                "name": "Waaslandtunnel",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "CHARLES DE COSTERLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.379065,
-                    51.2278
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "205271",
-                "bus": "yes",
-                "name": "Huygensstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GLORIANTLAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386812,
-                    51.233075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "205274",
                 "bus": "yes",
                 "name": "De Costerlaan",
@@ -1268,6 +1197,47 @@
                 "coordinates": [
                     4.386652,
                     51.228401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104374",
+                "bus": "yes",
+                "name": "L.O. Waterhoenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.382127,
+                    51.22175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104381",
+                "bus": "yes",
+                "name": "Stedelijk Lyceum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLORIANTLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38595,
+                    51.225489
                 ]
             }
         }

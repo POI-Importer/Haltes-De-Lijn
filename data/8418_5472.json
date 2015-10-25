@@ -4,70 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;492;493;921",
-                "ref:De_Lijn": "108964",
-                "bus": "yes",
-                "name": "Geel Gasstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.985747,
-                    51.178286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "107960",
+                "ref:De_Lijn": "108380",
                 "bus": "yes",
-                "name": "Geel Gooreind",
+                "name": "Geel Goorkens",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PATRIJZENSTRAAT GEEL",
+                "created_by": "NACHTEGALENSTRAAT GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.972858,
-                    51.177966
+                    4.980256,
+                    51.172894
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "104959",
-                "bus": "yes",
-                "name": "Geel TI Sint-Jozef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWAKKELBERG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.982092,
-                    51.167896
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "100291",
+                "ref:De_Lijn": "100292",
                 "bus": "yes",
                 "name": "Geel Stadion NB2000",
                 "public_transport": "platform",
@@ -79,8 +37,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.966521,
-                    51.170025
+                    4.966378,
+                    51.170062
                 ]
             }
         },
@@ -108,8 +66,50 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;492;493;921",
-                "ref:De_Lijn": "108968",
+                "route_ref:De_Lijn": "15b;921",
+                "ref:De_Lijn": "104958",
+                "bus": "yes",
+                "name": "Geel TI Sint-Jozef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKELBERG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.984297,
+                    51.168109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108125",
+                "bus": "yes",
+                "name": "Geel Eksterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKSTERSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.970281,
+                    51.174465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108967",
                 "bus": "yes",
                 "name": "Geel Velodroomwijk",
                 "public_transport": "platform",
@@ -121,8 +121,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.98717,
-                    51.173425
+                    4.987107,
+                    51.173029
                 ]
             }
         },
@@ -151,6 +151,26 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "107960",
+                "bus": "yes",
+                "name": "Geel Gooreind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PATRIJZENSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.972858,
+                    51.177966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108319",
                 "bus": "yes",
                 "name": "Geel Groenhuis",
@@ -171,48 +191,26 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "455290",
+                "ref:De_Lijn": "108322",
                 "bus": "yes",
-                "name": "Geel GTM",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "TECHNISCHE-SCHOOLSTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.984404,
-                    51.166509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "100292",
-                "bus": "yes",
-                "name": "Geel Stadion NB2000",
+                "name": "Geel Zwaluwstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "UNKNOWN GEEL",
+                "created_by": "GOOREIND GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.966378,
-                    51.170062
+                    4.975333,
+                    51.174744
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "101891",
                 "bus": "yes",
                 "name": "Geel Elsumerblok",
@@ -227,48 +225,6 @@
                 "coordinates": [
                     4.977421,
                     51.165997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "108125",
-                "bus": "yes",
-                "name": "Geel Eksterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EKSTERSTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.970281,
-                    51.174465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "490;492;493;921",
-                "ref:De_Lijn": "108967",
-                "bus": "yes",
-                "name": "Geel Velodroomwijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.987107,
-                    51.173029
                 ]
             }
         },
@@ -296,21 +252,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "108322",
+                "ref:De_Lijn": "100291",
                 "bus": "yes",
-                "name": "Geel Zwaluwstraat",
+                "name": "Geel Stadion NB2000",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GOOREIND GEEL",
+                "created_by": "UNKNOWN GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.975333,
-                    51.174744
+                    4.966521,
+                    51.170025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b;921",
+                "ref:De_Lijn": "104959",
+                "bus": "yes",
+                "name": "Geel TI Sint-Jozef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKELBERG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982092,
+                    51.167896
                 ]
             }
         },
@@ -318,27 +294,68 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "108380",
+                "ref:De_Lijn": "108964",
                 "bus": "yes",
-                "name": "Geel Goorkens",
+                "name": "Geel Gasstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NACHTEGALENSTRAAT GEEL",
+                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.980256,
-                    51.172894
+                    4.985747,
+                    51.178286
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "490;492;493;921",
+                "ref:De_Lijn": "455290",
+                "bus": "yes",
+                "name": "Geel GTM",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TECHNISCHE-SCHOOLSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.984404,
+                    51.166509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108968",
+                "bus": "yes",
+                "name": "Geel Velodroomwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.98717,
+                    51.173425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "108966",
                 "bus": "yes",
                 "name": "Geel Gasstraat",
@@ -353,27 +370,6 @@
                 "coordinates": [
                     4.985905,
                     51.178366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "104958",
-                "bus": "yes",
-                "name": "Geel TI Sint-Jozef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWAKKELBERG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.984297,
-                    51.168109
                 ]
             }
         }

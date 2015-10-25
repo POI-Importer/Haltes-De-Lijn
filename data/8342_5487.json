@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "52;59",
-                "ref:De_Lijn": "509883",
-                "bus": "yes",
-                "name": "Meulebeke Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.300578,
-                    50.961426
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;59",
                 "ref:De_Lijn": "504883",
                 "bus": "yes",
                 "name": "Meulebeke Molenstraat",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     3.305651,
                     50.971235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "509883",
+                "bus": "yes",
+                "name": "Meulebeke Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.300578,
+                    50.961426
                 ]
             }
         }

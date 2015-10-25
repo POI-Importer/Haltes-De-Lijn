@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "162;502;732",
-                "ref:De_Lijn": "301663",
+                "ref:De_Lijn": "307822",
                 "bus": "yes",
-                "name": "Oetingen Gracht",
+                "name": "Oetingen Hazelaarswijk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VOLLEZELESTRAAT OETINGEN",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.054188,
-                    50.770914
+                    4.058404,
+                    50.77231
                 ]
             }
         },
@@ -46,50 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "162;502;732",
-                "ref:De_Lijn": "301673",
-                "bus": "yes",
-                "name": "Oetingen Vollezelestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOLLEZELESTRAAT OETINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.045305,
-                    50.767996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "162;502",
-                "ref:De_Lijn": "301674",
-                "bus": "yes",
-                "name": "Oetingen Vollezelestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOLLEZELESTRAAT OETINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.045589,
-                    50.767915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "162;502;732",
-                "ref:De_Lijn": "307822",
+                "ref:De_Lijn": "307823",
                 "bus": "yes",
                 "name": "Oetingen Hazelaarswijk",
                 "public_transport": "platform",
@@ -101,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.058404,
-                    50.77231
+                    4.058518,
+                    50.772229
                 ]
             }
         },
@@ -131,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "162;502",
-                "ref:De_Lijn": "307823",
+                "ref:De_Lijn": "301674",
                 "bus": "yes",
-                "name": "Oetingen Hazelaarswijk",
+                "name": "Oetingen Vollezelestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VOLLEZELESTRAAT OETINGEN",
@@ -143,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.058518,
-                    50.772229
+                    4.045589,
+                    50.767915
                 ]
             }
         },
@@ -166,6 +124,48 @@
                 "coordinates": [
                     4.062889,
                     50.773598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "162;502;732",
+                "ref:De_Lijn": "301673",
+                "bus": "yes",
+                "name": "Oetingen Vollezelestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLLEZELESTRAAT OETINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.045305,
+                    50.767996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "162;502;732",
+                "ref:De_Lijn": "301663",
+                "bus": "yes",
+                "name": "Oetingen Gracht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLLEZELESTRAAT OETINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.054188,
+                    50.770914
                 ]
             }
         }

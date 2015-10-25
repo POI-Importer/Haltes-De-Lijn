@@ -25,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "102032",
+                "ref:De_Lijn": "102031",
                 "bus": "yes",
                 "name": "Brasschaat Sint-Ludgardis",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "created_by": "DONKSESTEENWEG BRASSCHAAT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.46688,
-                    51.2839
+                    4.467525,
+                    51.283962
                 ]
             }
         },
@@ -67,7 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "640;642;648",
                 "ref:De_Lijn": "105729",
                 "bus": "yes",
                 "name": "Brasschaat Plataandreef",
@@ -82,48 +81,6 @@
                 "coordinates": [
                     4.477951,
                     51.280421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "102031",
-                "bus": "yes",
-                "name": "Brasschaat Sint-Ludgardis",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DONKSESTEENWEG BRASSCHAAT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.467525,
-                    51.283962
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "640;642;648",
-                "ref:De_Lijn": "105727",
-                "bus": "yes",
-                "name": "Brasschaat Voshollei",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDABAAN BRASSCHAAT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.472452,
-                    51.27577
                 ]
             }
         },
@@ -151,10 +108,30 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "640;642;648",
-                "ref:De_Lijn": "105731",
+                "ref:De_Lijn": "102026",
                 "bus": "yes",
-                "name": "Brasschaat Plataandreef",
+                "name": "Brasschaat Michielssendreef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DONKSESTEENWEG BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481248,
+                    51.286727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105727",
+                "bus": "yes",
+                "name": "Brasschaat Voshollei",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BREDABAAN BRASSCHAAT",
@@ -164,8 +141,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.478295,
-                    51.280321
+                    4.472452,
+                    51.27577
                 ]
             }
         },
@@ -193,7 +170,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "640;642;648",
+                "ref:De_Lijn": "105731",
+                "bus": "yes",
+                "name": "Brasschaat Plataandreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.478295,
+                    51.280321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105728",
                 "bus": "yes",
                 "name": "Brasschaat Voshollei",
@@ -214,21 +210,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "102026",
+                "ref:De_Lijn": "102032",
                 "bus": "yes",
-                "name": "Brasschaat Michielssendreef",
+                "name": "Brasschaat Sint-Ludgardis",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DONKSESTEENWEG BRASSCHAAT",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.481248,
-                    51.286727
+                    4.46688,
+                    51.2839
                 ]
             }
         }

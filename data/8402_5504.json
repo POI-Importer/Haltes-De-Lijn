@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "305374",
+                "bus": "yes",
+                "name": "Wavre Rue du Tilleul",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE D'OTTENBOURG WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616175,
+                    50.72544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "305373",
                 "bus": "yes",
                 "name": "Wavre Rue du Tilleul",
@@ -25,42 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "305361",
+                "ref:De_Lijn": "305368",
                 "bus": "yes",
-                "name": "Wavre College",
+                "name": "Wavre Herbatte",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "RUE DU TILLEUL WAVER",
+                "created_by": "CHAUSSÉE DU TILLEUL WAVER",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.623341,
-                    50.722728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "305374",
-                "bus": "yes",
-                "name": "Wavre Rue du Tilleul",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE D'OTTENBOURG WAVER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.616175,
-                    50.72544
+                    4.62053,
+                    50.724091
                 ]
             }
         },
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "305368",
+                "ref:De_Lijn": "305361",
                 "bus": "yes",
-                "name": "Wavre Herbatte",
+                "name": "Wavre College",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DU TILLEUL WAVER",
+                "created_by": "RUE DU TILLEUL WAVER",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.62053,
-                    50.724091
+                    4.623341,
+                    50.722728
                 ]
             }
         }

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "99",
-                "ref:De_Lijn": "505274",
-                "bus": "yes",
-                "name": "Helkijn Vinkenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONDERLANDENSTRAAT HELKIJN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.385577,
-                    50.732501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "85",
                 "ref:De_Lijn": "505392",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     3.386554,
                     50.735934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505274",
+                "bus": "yes",
+                "name": "Helkijn Vinkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONDERLANDENSTRAAT HELKIJN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.385577,
+                    50.732501
                 ]
             }
         },

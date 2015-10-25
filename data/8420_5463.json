@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;436;437",
                 "ref:De_Lijn": "107552",
                 "bus": "yes",
                 "name": "Oud-Turnhout Rhoode",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;430;436",
                 "ref:De_Lijn": "107553",
                 "bus": "yes",
                 "name": "Oud-Turnhout Rhoode",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;436;437",
                 "ref:De_Lijn": "107554",
                 "bus": "yes",
                 "name": "Oud-Turnhout Binnenheide",
@@ -67,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;430;436",
                 "ref:De_Lijn": "107556",
                 "bus": "yes",
                 "name": "Oud-Turnhout Binnenheide",

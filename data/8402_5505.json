@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "305365",
-                "bus": "yes",
-                "name": "Wavre Delhaize",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE LOUVAIN WAVER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.619651,
-                    50.716029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "305367",
-                "bus": "yes",
-                "name": "Wavre Fin Bec",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE LOUVAIN WAVER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.616644,
-                    50.714993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "305357",
                 "bus": "yes",
                 "name": "Wavre Basse Wavre",
@@ -61,27 +19,6 @@
                 "coordinates": [
                     4.624319,
                     50.720244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "305358",
-                "bus": "yes",
-                "name": "Wavre Basse Wavre",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE LOUVAIN WAVER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.62456,
-                    50.72028
                 ]
             }
         },
@@ -124,6 +61,69 @@
                 "coordinates": [
                     4.619383,
                     50.716084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305367",
+                "bus": "yes",
+                "name": "Wavre Fin Bec",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE LOUVAIN WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616644,
+                    50.714993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305358",
+                "bus": "yes",
+                "name": "Wavre Basse Wavre",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE LOUVAIN WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.62456,
+                    50.72028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305365",
+                "bus": "yes",
+                "name": "Wavre Delhaize",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE LOUVAIN WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.619651,
+                    50.716029
                 ]
             }
         }

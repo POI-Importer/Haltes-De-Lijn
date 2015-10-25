@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "374;590",
-                "ref:De_Lijn": "302295",
+                "ref:De_Lijn": "303494",
                 "bus": "yes",
-                "name": "Sint-Pieters-Rode Dries",
+                "name": "Lubbeek Schubbeekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SCHUBBEEK LUBBEEK",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.841764,
-                    50.911542
+                    4.843264,
+                    50.906664
                 ]
             }
         },
@@ -40,6 +40,27 @@
                 "coordinates": [
                     4.841295,
                     50.91576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;590",
+                "ref:De_Lijn": "302294",
+                "bus": "yes",
+                "name": "Sint-Pieters-Rode Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIES SINT-PIETERS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.841769,
+                    50.912019
                 ]
             }
         },
@@ -110,30 +131,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "374;590",
-                "ref:De_Lijn": "302294",
+                "ref:De_Lijn": "302295",
                 "bus": "yes",
                 "name": "Sint-Pieters-Rode Dries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIES SINT-PIETERS-RODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.841769,
-                    50.912019
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "374;590",
-                "ref:De_Lijn": "303494",
-                "bus": "yes",
-                "name": "Lubbeek Schubbeekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SCHUBBEEK LUBBEEK",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.843264,
-                    50.906664
+                    4.841764,
+                    50.911542
                 ]
             }
         }

@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "96;195",
-                "ref:De_Lijn": "202696",
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "202695",
                 "bus": "yes",
-                "name": "Bassevelde Papendreef",
+                "name": "Bassevelde Zandstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HAANTJEN BASSEVELDE",
@@ -17,8 +17,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.700909,
-                    51.229622
+                    3.691408,
+                    51.228309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200943",
+                "name": "Bassevelde Lunterstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "HENDEKENSTRAAT BASSEVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711465,
+                    51.226283
                 ]
             }
         },
@@ -46,7 +66,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "96;195",
+                "route_ref:De_Lijn": "96",
                 "ref:De_Lijn": "202697",
                 "bus": "yes",
                 "name": "Bassevelde Hendeken",
@@ -67,10 +87,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "96;195",
-                "ref:De_Lijn": "202695",
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "202696",
                 "bus": "yes",
-                "name": "Bassevelde Zandstraat",
+                "name": "Bassevelde Papendreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HAANTJEN BASSEVELDE",
@@ -80,29 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.691408,
-                    51.228309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "195",
-                "ref:De_Lijn": "200943",
-                "bus": "yes",
-                "name": "Bassevelde Lunterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HENDEKENSTRAAT BASSEVELDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.711465,
-                    51.226283
+                    3.700909,
+                    51.229622
                 ]
             }
         },

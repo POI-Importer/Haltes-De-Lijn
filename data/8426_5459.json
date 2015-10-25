@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "480",
                 "ref:De_Lijn": "102378",
                 "bus": "yes",
                 "name": "Reusel Sportpark",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "480",
                 "ref:De_Lijn": "102379",
                 "bus": "yes",
                 "name": "Reusel Sportpark",

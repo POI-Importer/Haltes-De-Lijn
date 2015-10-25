@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;67;69;160;195",
+                "route_ref:De_Lijn": "58;67;69",
                 "ref:De_Lijn": "202040",
                 "bus": "yes",
                 "name": "Eeklo Het Leen",

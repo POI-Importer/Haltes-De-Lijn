@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "222;223;224;821",
-                "ref:De_Lijn": "305332",
-                "bus": "yes",
-                "name": "Vilvoorde Virgo Fidelis",
+                "ref:De_Lijn": "305300",
+                "name": "Vilvoorde Noordpool",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FRANKLIN ROOSEVELTLAAN VILVOORDE",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "HENDRIK I LEI VILVOORDE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.426079,
-                    50.930848
+                    4.430009,
+                    50.933309
                 ]
             }
         },
@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "280;282",
-                "ref:De_Lijn": "305329",
+                "ref:De_Lijn": "305328",
                 "bus": "yes",
                 "name": "Vilvoorde Verhaerenstraat",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.43377,
-                    50.93764
+                    4.432146,
+                    50.935978
                 ]
             }
         },
@@ -61,27 +61,6 @@
                 "coordinates": [
                     4.434939,
                     50.939186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "305300",
-                "name": "Vilvoorde Noordpool",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "tram": "yes",
-                "created_by": "HENDRIK I LEI VILVOORDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.430009,
-                    50.933309
                 ]
             }
         },
@@ -130,6 +109,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "222;223;224;821",
+                "ref:De_Lijn": "305332",
+                "bus": "yes",
+                "name": "Vilvoorde Virgo Fidelis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKLIN ROOSEVELTLAAN VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426079,
+                    50.930848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;282",
+                "ref:De_Lijn": "305329",
+                "bus": "yes",
+                "name": "Vilvoorde Verhaerenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK I LEI VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43377,
+                    50.93764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "305301",
                 "bus": "yes",
                 "name": "Vilvoorde Noordpool",
@@ -145,27 +166,6 @@
                 "coordinates": [
                     4.431005,
                     50.934046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280;282",
-                "ref:De_Lijn": "305328",
-                "bus": "yes",
-                "name": "Vilvoorde Verhaerenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HENDRIK I LEI VILVOORDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.432146,
-                    50.935978
                 ]
             }
         }

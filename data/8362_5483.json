@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;42;43;44;48",
-                "ref:De_Lijn": "203897",
-                "bus": "yes",
-                "name": "Merelbeke Koestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG FLORA",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.749757,
-                    51.024569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;140",
-                "ref:De_Lijn": "201894",
-                "bus": "yes",
-                "name": "Gentbrugge Tuinwijk Ter Heidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GONTRODESTRAAT GENTBRUGGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.755316,
-                    51.026747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;43;44;48",
-                "ref:De_Lijn": "203898",
-                "bus": "yes",
-                "name": "Merelbeke Benoitstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG FLORA",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.75241,
-                    51.022273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "65;67",
                 "ref:De_Lijn": "200532",
                 "bus": "yes",
@@ -88,21 +25,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;67",
-                "ref:De_Lijn": "201547",
+                "ref:De_Lijn": "201546",
                 "bus": "yes",
-                "name": "Arteveldepark",
+                "name": "Kristallijn",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OTTERGEMSESTEENWEG-ZUID GENT",
+                "created_by": "WARMOEZENIERSWEG GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.735716,
-                    51.015155
+                    3.745548,
+                    51.024862
                 ]
             }
         },
@@ -130,48 +66,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;67",
-                "ref:De_Lijn": "201546",
-                "bus": "yes",
-                "name": "Kristallijn",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WARMOEZENIERSWEG GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.745548,
-                    51.024862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;43;44;48;140",
-                "ref:De_Lijn": "202899",
-                "bus": "yes",
-                "name": "Merelbeke Van Goethemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG FLORA",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.753788,
-                    51.019323
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "41;42;43;44;48",
                 "ref:De_Lijn": "202896",
                 "bus": "yes",
@@ -193,21 +87,126 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;44;140",
-                "ref:De_Lijn": "202900",
+                "route_ref:De_Lijn": "41;42;43;44;48",
+                "ref:De_Lijn": "203897",
                 "bus": "yes",
-                "name": "Merelbeke Bergstraat",
+                "name": "Merelbeke Koestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
+                "created_by": "HUNDELGEMSESTEENWEG FLORA",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.752661,
-                    51.013977
+                    3.749757,
+                    51.024569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;48",
+                "ref:De_Lijn": "203898",
+                "bus": "yes",
+                "name": "Merelbeke Benoitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.75241,
+                    51.022273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;48",
+                "ref:De_Lijn": "202898",
+                "bus": "yes",
+                "name": "Merelbeke Benoitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.752566,
+                    51.022328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201894",
+                "bus": "yes",
+                "name": "Gentbrugge Tuinwijk Ter Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GONTRODESTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.755316,
+                    51.026747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;48",
+                "ref:De_Lijn": "203896",
+                "bus": "yes",
+                "name": "Ledeberg Eindeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.747154,
+                    51.027369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;48",
+                "ref:De_Lijn": "202899",
+                "bus": "yes",
+                "name": "Merelbeke Van Goethemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.753788,
+                    51.019323
                 ]
             }
         },
@@ -236,27 +235,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;42;43;44;48",
-                "ref:De_Lijn": "203899",
-                "bus": "yes",
-                "name": "Merelbeke Van Goethemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG FLORA",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.753529,
-                    51.019528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;43;44;48;140",
                 "ref:De_Lijn": "202897",
                 "bus": "yes",
                 "name": "Merelbeke Koestraat",
@@ -277,21 +255,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;42;43;44;48;140",
-                "ref:De_Lijn": "202898",
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "202900",
                 "bus": "yes",
-                "name": "Merelbeke Benoitstraat",
+                "name": "Merelbeke Bergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG GENTBRUGGE",
+                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.752566,
-                    51.022328
+                    3.752661,
+                    51.013977
                 ]
             }
         },
@@ -299,20 +277,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;42;43;44;48",
-                "ref:De_Lijn": "203896",
+                "ref:De_Lijn": "203899",
                 "bus": "yes",
-                "name": "Ledeberg Eindeke",
+                "name": "Merelbeke Van Goethemstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "created_by": "HUNDELGEMSESTEENWEG FLORA",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.747154,
-                    51.027369
+                    3.753529,
+                    51.019528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "201547",
+                "bus": "yes",
+                "name": "Arteveldepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OTTERGEMSESTEENWEG-ZUID GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735716,
+                    51.015155
                 ]
             }
         }

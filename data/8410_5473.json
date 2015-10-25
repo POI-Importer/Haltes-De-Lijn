@@ -4,112 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "159;946",
-                "ref:De_Lijn": "102629",
-                "bus": "yes",
-                "name": "Herentals Dompel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELDHOVEN HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.808365,
-                    51.161831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "159",
-                "ref:De_Lijn": "102622",
-                "bus": "yes",
-                "name": "Noorderwijk Diamantstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ATEALAAN NOORDERWIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.801839,
-                    51.156471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "159",
-                "ref:De_Lijn": "102618",
-                "bus": "yes",
-                "name": "Herenthout Moerbroek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ATEALAAN HERENTHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.795214,
-                    51.158805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "159;946",
-                "ref:De_Lijn": "102631",
-                "bus": "yes",
-                "name": "Herentals Dompel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELDHOVEN HERENTALS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.808679,
-                    51.161812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "159",
-                "ref:De_Lijn": "102621",
-                "bus": "yes",
-                "name": "Noorderwijk Diamantstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ATEALAAN NOORDERWIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.801684,
-                    51.156669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "159",
                 "ref:De_Lijn": "102619",
                 "bus": "yes",
                 "name": "Herenthout Moerbroek",
@@ -130,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511",
-                "ref:De_Lijn": "108211",
-                "bus": "yes",
-                "name": "Herenthout Atealaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERENTHOUTSEWEG NOORDERWIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.805262,
-                    51.154148
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511",
                 "ref:De_Lijn": "108212",
                 "bus": "yes",
                 "name": "Herenthout Atealaan",
@@ -166,6 +38,128 @@
                 "coordinates": [
                     4.804416,
                     51.153891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102621",
+                "bus": "yes",
+                "name": "Noorderwijk Diamantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ATEALAAN NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.801684,
+                    51.156669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102618",
+                "bus": "yes",
+                "name": "Herenthout Moerbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ATEALAAN HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.795214,
+                    51.158805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "102631",
+                "bus": "yes",
+                "name": "Herentals Dompel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDHOVEN HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.808679,
+                    51.161812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102622",
+                "bus": "yes",
+                "name": "Noorderwijk Diamantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ATEALAAN NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.801839,
+                    51.156471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "102629",
+                "bus": "yes",
+                "name": "Herentals Dompel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDHOVEN HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.808365,
+                    51.161831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108211",
+                "bus": "yes",
+                "name": "Herenthout Atealaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTHOUTSEWEG NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805262,
+                    51.154148
                 ]
             }
         }

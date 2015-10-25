@@ -4,21 +4,84 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406860",
+                "ref:De_Lijn": "406847",
                 "bus": "yes",
                 "name": "Wezel Casino",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "UNKNOWN BANKEI",
+                "created_by": "ST.-JOZEFSLAAN WEZEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.22725,
-                    51.196337
+                    5.226207,
+                    51.196398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "102457",
+                "bus": "yes",
+                "name": "Wezel Sint-Jozef Apotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ST.-JOZEFSLAAN WEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.213017,
+                    51.194857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "406861",
+                "bus": "yes",
+                "name": "Wezel Casino",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVENSVENNENSTRAAT BANKEI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.22693,
+                    51.196806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406851",
+                "bus": "yes",
+                "name": "Wezel Sint-Jozef Apotheek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ST.-JOZEFSLAAN WEZEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.213673,
+                    51.194772
                 ]
             }
         },
@@ -46,42 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "406858",
-                "bus": "yes",
-                "name": "Wezel Viaduct",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BANKEI BANKEI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.223683,
-                    51.20465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406847",
+                "ref:De_Lijn": "406846",
                 "bus": "yes",
                 "name": "Wezel Casino",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ST.-JOZEFSLAAN WEZEL",
+                "created_by": "BALEN-NEETLAAN WEZEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.226207,
-                    51.196398
+                    5.226728,
+                    51.195972
                 ]
             }
         },
@@ -89,9 +131,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "102459",
+                "ref:De_Lijn": "102456",
                 "bus": "yes",
-                "name": "Wezel Casino",
+                "name": "Wezel Sint-Jozef Apotheek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ST.-JOZEFSLAAN WEZEL",
@@ -101,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.226135,
-                    51.196408
+                    5.213587,
+                    51.194754
                 ]
             }
         },
@@ -151,84 +193,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "406851",
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "406858",
                 "bus": "yes",
-                "name": "Wezel Sint-Jozef Apotheek",
+                "name": "Wezel Viaduct",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ST.-JOZEFSLAAN WEZEL",
+                "created_by": "BANKEI BANKEI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.213673,
-                    51.194772
+                    5.223683,
+                    51.20465
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "102456",
-                "bus": "yes",
-                "name": "Wezel Sint-Jozef Apotheek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ST.-JOZEFSLAAN WEZEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.213587,
-                    51.194754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "406861",
-                "bus": "yes",
-                "name": "Wezel Casino",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEVENSVENNENSTRAAT BANKEI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22693,
-                    51.196806
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406846",
+                "ref:De_Lijn": "406860",
                 "bus": "yes",
                 "name": "Wezel Casino",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BALEN-NEETLAAN WEZEL",
+                "created_by": "UNKNOWN BANKEI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.226728,
-                    51.195972
+                    5.22725,
+                    51.196337
                 ]
             }
         },
@@ -257,9 +257,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "102457",
+                "ref:De_Lijn": "102459",
                 "bus": "yes",
-                "name": "Wezel Sint-Jozef Apotheek",
+                "name": "Wezel Casino",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ST.-JOZEFSLAAN WEZEL",
@@ -269,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.213017,
-                    51.194857
+                    5.226135,
+                    51.196408
                 ]
             }
         }

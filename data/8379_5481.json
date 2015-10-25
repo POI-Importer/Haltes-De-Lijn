@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207888",
                 "bus": "yes",
                 "name": "Baasrode Vlassenbroek Dorp",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290",
                 "ref:De_Lijn": "204145",
                 "bus": "yes",
                 "name": "Grembergen Kleemputstraat",

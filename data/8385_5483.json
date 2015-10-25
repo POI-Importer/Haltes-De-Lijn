@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "251",
-                "ref:De_Lijn": "308845",
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "207330",
                 "bus": "yes",
-                "name": "Malderen Garage",
+                "name": "Malderen Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOUTERBAAN MALDEREN",
+                "created_by": "JOZEF VERMAESENPLEIN MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.243794,
+                    51.020275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308799",
+                "bus": "yes",
+                "name": "Malderen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOZEF VERMAESENPLEIN MALDEREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.251789,
-                    51.020283
+                    4.243751,
+                    51.020311
                 ]
             }
         },
@@ -67,111 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;320",
-                "ref:De_Lijn": "206330",
-                "bus": "yes",
-                "name": "Malderen Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JOZEF VERMAESENPLEIN MALDEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.243752,
-                    51.019916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308801",
-                "bus": "yes",
-                "name": "Malderen Achter de Schuur",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LIPPELOSTRAAT MALDEREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.2468,
-                    51.025942
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "207330",
-                "bus": "yes",
-                "name": "Malderen Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JOZEF VERMAESENPLEIN MALDEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.243794,
-                    51.020275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;320",
-                "ref:De_Lijn": "206329",
-                "bus": "yes",
-                "name": "Malderen Blokstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENHUFFELSTRAAT MALDEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.246612,
-                    51.016035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "209802",
-                "bus": "yes",
-                "name": "Malderen De Decker Garage",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KOUTERBAAN MALDEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.24834,
-                    51.020172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "308800",
                 "bus": "yes",
                 "name": "Malderen Achter de Schuur",
@@ -193,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "209860",
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "206330",
                 "bus": "yes",
-                "name": "Malderen Citrabus Garage",
+                "name": "Malderen Dorp",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KOUTERBAAN MALDEREN",
+                "created_by": "JOZEF VERMAESENPLEIN MALDEREN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.24834,
-                    51.020172
+                    4.243752,
+                    51.019916
                 ]
             }
         },
@@ -257,20 +173,104 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "251",
-                "ref:De_Lijn": "308799",
+                "ref:De_Lijn": "308845",
                 "bus": "yes",
-                "name": "Malderen Dorp",
+                "name": "Malderen Garage",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JOZEF VERMAESENPLEIN MALDEREN",
+                "created_by": "KOUTERBAAN MALDEREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.243751,
-                    51.020311
+                    4.251789,
+                    51.020283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209802",
+                "bus": "yes",
+                "name": "Malderen De Decker Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KOUTERBAAN MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.24834,
+                    51.020172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "206329",
+                "bus": "yes",
+                "name": "Malderen Blokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENHUFFELSTRAAT MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.246612,
+                    51.016035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209860",
+                "bus": "yes",
+                "name": "Malderen Citrabus Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KOUTERBAAN MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.24834,
+                    51.020172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308801",
+                "bus": "yes",
+                "name": "Malderen Achter de Schuur",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LIPPELOSTRAAT MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2468,
+                    51.025942
                 ]
             }
         }

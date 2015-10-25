@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "63;97",
+                "ref:De_Lijn": "507305",
+                "bus": "yes",
+                "name": "Oedelem Haverbilken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.33961,
+                    51.164654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "26",
                 "ref:De_Lijn": "505676",
                 "bus": "yes",
@@ -19,6 +40,27 @@
                 "coordinates": [
                     3.318087,
                     51.159134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;97",
+                "ref:De_Lijn": "502305",
+                "bus": "yes",
+                "name": "Oedelem Haverbilken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.339393,
+                    51.164733
                 ]
             }
         },
@@ -61,48 +103,6 @@
                 "coordinates": [
                     3.32662,
                     51.154724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "63;97",
-                "ref:De_Lijn": "502305",
-                "bus": "yes",
-                "name": "Oedelem Haverbilken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEERNEMSTRAAT OEDELEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.339393,
-                    51.164733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "63;97",
-                "ref:De_Lijn": "507305",
-                "bus": "yes",
-                "name": "Oedelem Haverbilken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEERNEMSTRAAT OEDELEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.33961,
-                    51.164654
                 ]
             }
         }

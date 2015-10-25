@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400155",
+                "ref:De_Lijn": "400154",
                 "bus": "yes",
                 "name": "Kaulille Kleine Marsestraat",
                 "public_transport": "platform",
@@ -16,8 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.507448,
-                    51.193203
+                    5.507333,
+                    51.19315
                 ]
             }
         },
@@ -46,9 +46,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "8",
-                "ref:De_Lijn": "400930",
+                "ref:De_Lijn": "400943",
                 "bus": "yes",
-                "name": "Kaulille Hostie",
+                "name": "Kaulille Oude Hostieweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LILLERBAAN KAULILLE",
@@ -58,8 +58,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.503615,
-                    51.199128
+                    5.499767,
+                    51.205062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "400942",
+                "bus": "yes",
+                "name": "Kaulille Oude Hostieweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLERBAAN KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500158,
+                    51.204654
                 ]
             }
         },
@@ -88,9 +109,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "8",
-                "ref:De_Lijn": "400942",
+                "ref:De_Lijn": "400930",
                 "bus": "yes",
-                "name": "Kaulille Oude Hostieweg",
+                "name": "Kaulille Hostie",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LILLERBAAN KAULILLE",
@@ -100,15 +121,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.500158,
-                    51.204654
+                    5.503615,
+                    51.199128
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400154",
+                "ref:De_Lijn": "400155",
                 "bus": "yes",
                 "name": "Kaulille Kleine Marsestraat",
                 "public_transport": "platform",
@@ -120,29 +141,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.507333,
-                    51.19315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8",
-                "ref:De_Lijn": "400943",
-                "bus": "yes",
-                "name": "Kaulille Oude Hostieweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LILLERBAAN KAULILLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.499767,
-                    51.205062
+                    5.507448,
+                    51.193203
                 ]
             }
         },

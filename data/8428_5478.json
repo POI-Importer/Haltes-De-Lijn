@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;170",
-                "ref:De_Lijn": "402781",
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "404042",
                 "bus": "yes",
-                "name": "Oostham Heikant",
+                "name": "Beverlo Helmstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENEBERG OOSTHAM",
+                "created_by": "HELMSTRAAT BEVERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.202153,
-                    51.096125
+                    5.204949,
+                    51.087233
                 ]
             }
         },
@@ -66,21 +66,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "404049",
+                "route_ref:De_Lijn": "58;170",
+                "ref:De_Lijn": "402780",
                 "bus": "yes",
-                "name": "Beverlo Vlaskenstraat",
+                "name": "Oostham Heikant",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EYGENWEG BEVERLO",
+                "created_by": "GENEBERG OOSTHAM",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.207441,
-                    51.086909
+                    5.202292,
+                    51.095935
                 ]
             }
         },
@@ -108,7 +108,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58;170",
-                "ref:De_Lijn": "402780",
+                "ref:De_Lijn": "402781",
                 "bus": "yes",
                 "name": "Oostham Heikant",
                 "public_transport": "platform",
@@ -120,29 +120,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.202292,
-                    51.095935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;170",
-                "ref:De_Lijn": "400502",
-                "bus": "yes",
-                "name": "Beverlo Broekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.20603,
-                    51.094219
+                    5.202153,
+                    51.096125
                 ]
             }
         },
@@ -150,20 +129,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "404042",
+                "ref:De_Lijn": "404049",
                 "bus": "yes",
-                "name": "Beverlo Helmstraat",
+                "name": "Beverlo Vlaskenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HELMSTRAAT BEVERLO",
+                "created_by": "EYGENWEG BEVERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.204949,
-                    51.087233
+                    5.207441,
+                    51.086909
                 ]
             }
         },
@@ -206,6 +185,27 @@
                 "coordinates": [
                     5.207439,
                     51.086792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;170",
+                "ref:De_Lijn": "400502",
+                "bus": "yes",
+                "name": "Beverlo Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.20603,
+                    51.094219
                 ]
             }
         }

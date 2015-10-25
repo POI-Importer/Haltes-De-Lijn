@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62;69",
-                "ref:De_Lijn": "508636",
+                "ref:De_Lijn": "503636",
                 "bus": "yes",
                 "name": "Oekene Bosstraat",
                 "public_transport": "platform",
@@ -38,29 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.160253,
-                    50.905747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62;69",
-                "ref:De_Lijn": "508640",
-                "bus": "yes",
-                "name": "Oekene Wandeling",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-ELOOIS-WINKELSESTRAAT OEKENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.160415,
-                    50.911611
+                    3.160422,
+                    50.905803
                 ]
             }
         },
@@ -89,7 +68,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62;69",
-                "ref:De_Lijn": "503636",
+                "ref:De_Lijn": "508640",
+                "bus": "yes",
+                "name": "Oekene Wandeling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ELOOIS-WINKELSESTRAAT OEKENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160415,
+                    50.911611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;69",
+                "ref:De_Lijn": "508636",
                 "bus": "yes",
                 "name": "Oekene Bosstraat",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.160422,
-                    50.905803
+                    3.160253,
+                    50.905747
                 ]
             }
         }

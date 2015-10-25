@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "200556",
+                "bus": "yes",
+                "name": "Wontergem Dosweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG WONTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.448757,
+                    50.989593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "201556",
                 "bus": "yes",
                 "name": "Wontergem Dosweg",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     3.437546,
                     50.990368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "73;125",
-                "ref:De_Lijn": "200556",
-                "bus": "yes",
-                "name": "Wontergem Dosweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSESTEENWEG WONTERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.448757,
-                    50.989593
                 ]
             }
         }

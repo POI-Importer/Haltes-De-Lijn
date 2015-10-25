@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105511",
                 "bus": "yes",
                 "name": "Brecht Schippersdreef",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105514",
                 "bus": "yes",
                 "name": "Brecht Solvijnslaan",
@@ -46,28 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
-                "ref:De_Lijn": "105513",
-                "bus": "yes",
-                "name": "Brecht Solvijnslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOTENSTEENWEG DE MEREL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.60282,
-                    51.32819
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105512",
                 "bus": "yes",
                 "name": "Brecht Schippersdreef",
@@ -82,6 +58,26 @@
                 "coordinates": [
                     4.597881,
                     51.32456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105513",
+                "bus": "yes",
+                "name": "Brecht Solvijnslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG DE MEREL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.60282,
+                    51.32819
                 ]
             }
         }

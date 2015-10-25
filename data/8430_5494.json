@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "408240",
+                "route_ref:De_Lijn": "S2;21a",
+                "ref:De_Lijn": "407034",
                 "bus": "yes",
                 "name": "Kozen Kerk",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "OPCOSENSTRAAT KOZEN",
+                "created_by": "BERGSTRAAT KOZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.238833,
-                    50.874883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407031",
-                "bus": "yes",
-                "name": "Kozen Heiligenborn",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEILIGENBORNSTRAAT ALKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.250753,
-                    50.874065
+                    5.239962,
+                    50.874461
                 ]
             }
         },
@@ -67,42 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407025",
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "410032",
                 "bus": "yes",
-                "name": "Kozen Bergstraat 2",
+                "name": "Kozen Ter Cose",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERGSTRAAT KORTENBOS",
+                "created_by": "OPCOSENSTRAAT KOZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.237183,
-                    50.867118
+                    5.238945,
+                    50.874792
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "400077",
+                "route_ref:De_Lijn": "S11",
+                "ref:De_Lijn": "410033",
                 "bus": "yes",
-                "name": "Alken Kluisstraat",
+                "name": "Kozen Ter Cose",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG ALKEN",
+                "created_by": "OPCOSENSTRAAT KOZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.248844,
-                    50.863948
+                    5.238819,
+                    50.874883
                 ]
             }
         },
@@ -110,41 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "S2;21a",
-                "ref:De_Lijn": "407034",
+                "ref:De_Lijn": "407964",
                 "bus": "yes",
-                "name": "Kozen Kerk",
+                "name": "Kortenbos Basiliekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERGSTRAAT KOZEN",
+                "created_by": "BASILIEKSTRAAT KORTENBOS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.239962,
-                    50.874461
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407035",
-                "bus": "yes",
-                "name": "Kozen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGSTRAAT KOZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.240091,
-                    50.87455
+                    5.236903,
+                    50.862706
                 ]
             }
         },
@@ -173,6 +131,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407965",
+                "bus": "yes",
+                "name": "Kortenbos Basiliekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BASILIEKSTRAAT KORTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.23695,
+                    50.862931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
                 "ref:De_Lijn": "400076",
                 "bus": "yes",
                 "name": "Alken Kluisstraat",
@@ -187,48 +166,6 @@
                 "coordinates": [
                     5.248443,
                     50.863753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "S11",
-                "ref:De_Lijn": "410033",
-                "bus": "yes",
-                "name": "Kozen Ter Cose",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPCOSENSTRAAT KOZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.238819,
-                    50.874883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "S2;S11",
-                "ref:De_Lijn": "410032",
-                "bus": "yes",
-                "name": "Kozen Ter Cose",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPCOSENSTRAAT KOZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.238945,
-                    50.874792
                 ]
             }
         },
@@ -256,21 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "S2;21a",
-                "ref:De_Lijn": "407964",
+                "ref:De_Lijn": "408430",
                 "bus": "yes",
-                "name": "Kortenbos Basiliekstraat",
+                "name": "Kozen Kerk afstaphalte",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BASILIEKSTRAAT KORTENBOS",
+                "created_by": "OPCOSENSTRAAT KOZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.236903,
-                    50.862706
+                    5.238945,
+                    50.874783
                 ]
             }
         },
@@ -298,6 +235,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407031",
+                "bus": "yes",
+                "name": "Kozen Heiligenborn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEILIGENBORNSTRAAT ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.250753,
+                    50.874065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "S2;S11",
                 "ref:De_Lijn": "408429",
                 "bus": "yes",
@@ -319,30 +277,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407965",
+                "ref:De_Lijn": "408240",
                 "bus": "yes",
-                "name": "Kortenbos Basiliekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BASILIEKSTRAAT KORTENBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.23695,
-                    50.862931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408430",
-                "bus": "yes",
-                "name": "Kozen Kerk afstaphalte",
+                "name": "Kozen Kerk",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -353,8 +290,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.238945,
-                    50.874783
+                    5.238833,
+                    50.874883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "400077",
+                "bus": "yes",
+                "name": "Alken Kluisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.248844,
+                    50.863948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407035",
+                "bus": "yes",
+                "name": "Kozen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT KOZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.240091,
+                    50.87455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407025",
+                "bus": "yes",
+                "name": "Kozen Bergstraat 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT KORTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.237183,
+                    50.867118
                 ]
             }
         }

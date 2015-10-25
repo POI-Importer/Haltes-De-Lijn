@@ -4,31 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409968",
+                "ref:De_Lijn": "404158",
                 "bus": "yes",
-                "name": "Heusden Weg naar Genebos",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KANAALWEG HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.266716,
-                    51.025927
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404171",
-                "bus": "yes",
-                "name": "Heusden Melkerijstraat",
+                "name": "Heusden Horionweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KANAALWEG HEUSDEN (HEUSDEN-ZOLDER)",
@@ -38,8 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.263626,
-                    51.024611
+                    5.254457,
+                    51.021409
                 ]
             }
         },
@@ -67,6 +45,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404186",
+                "bus": "yes",
+                "name": "Heusden Weg naar Genebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLELAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.268456,
+                    51.026696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "404159",
                 "bus": "yes",
                 "name": "Heusden Horionweg",
@@ -87,70 +86,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;52",
-                "ref:De_Lijn": "404182",
-                "bus": "yes",
-                "name": "Heusden Weg naar Genebos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRAAF DE THEUXLAAN HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.268471,
-                    51.025303
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "404158",
-                "bus": "yes",
-                "name": "Heusden Horionweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANAALWEG HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.254457,
-                    51.021409
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404179",
-                "bus": "yes",
-                "name": "Heusden Ubbersel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANAALWEG HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.251966,
-                    51.02007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404170",
+                "ref:De_Lijn": "404171",
                 "bus": "yes",
                 "name": "Heusden Melkerijstraat",
                 "public_transport": "platform",
@@ -162,8 +99,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.262668,
-                    51.024475
+                    5.263626,
+                    51.024611
                 ]
             }
         },
@@ -192,20 +129,83 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404186",
+                "ref:De_Lijn": "404170",
                 "bus": "yes",
-                "name": "Heusden Weg naar Genebos",
+                "name": "Heusden Melkerijstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLELAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "created_by": "KANAALWEG HEUSDEN (HEUSDEN-ZOLDER)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.268456,
-                    51.026696
+                    5.262668,
+                    51.024475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409968",
+                "bus": "yes",
+                "name": "Heusden Weg naar Genebos",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KANAALWEG HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.266716,
+                    51.025927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;52",
+                "ref:De_Lijn": "404182",
+                "bus": "yes",
+                "name": "Heusden Weg naar Genebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF DE THEUXLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.268471,
+                    51.025303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404179",
+                "bus": "yes",
+                "name": "Heusden Ubbersel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALWEG HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.251966,
+                    51.02007
                 ]
             }
         }

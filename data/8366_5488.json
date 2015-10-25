@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;440",
-                "ref:De_Lijn": "206937",
-                "bus": "yes",
-                "name": "Oosterzele Steenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAVEGEMSTRAAT OOSTERZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.840384,
-                    50.952277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;440",
+                "route_ref:De_Lijn": "46",
                 "ref:De_Lijn": "208723",
                 "bus": "yes",
                 "name": "Oosterzele Roosbloemstraat",
@@ -46,49 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;440",
-                "ref:De_Lijn": "202812",
-                "bus": "yes",
-                "name": "Oosterzele Anker",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REIGERSTRAAT ANKER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.828271,
-                    50.957373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46",
-                "ref:De_Lijn": "203856",
-                "bus": "yes",
-                "name": "Oosterzele Roosbloemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAVEGEMSTRAAT ANKER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.831881,
-                    50.955349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "440",
                 "ref:De_Lijn": "208713",
                 "bus": "yes",
                 "name": "Oosterzele Maudeweg",
@@ -110,6 +46,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "202812",
+                "bus": "yes",
+                "name": "Oosterzele Anker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERSTRAAT ANKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.828271,
+                    50.957373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
                 "ref:De_Lijn": "203812",
                 "bus": "yes",
                 "name": "Oosterzele Anker",
@@ -124,6 +81,48 @@
                 "coordinates": [
                     3.828213,
                     50.957481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "206937",
+                "bus": "yes",
+                "name": "Oosterzele Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAVEGEMSTRAAT OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.840384,
+                    50.952277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "203856",
+                "bus": "yes",
+                "name": "Oosterzele Roosbloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAVEGEMSTRAAT ANKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.831881,
+                    50.955349
                 ]
             }
         },

@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "92;385;390",
-                "ref:De_Lijn": "206551",
-                "bus": "yes",
-                "name": "Vlierzele Morelgem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VLIERSTRAAT VLIERZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.89245,
-                    50.929109
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;385;390",
-                "ref:De_Lijn": "206546",
-                "bus": "yes",
-                "name": "Zonnegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTSESTRAAT ZONNEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.907886,
-                    50.927507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "92",
                 "ref:De_Lijn": "207547",
                 "bus": "yes",
@@ -67,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "92;385;390",
-                "ref:De_Lijn": "206547",
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "206546",
                 "bus": "yes",
-                "name": "Burst Kapelleken",
+                "name": "Zonnegem Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENTSESTRAAT BURST",
+                "created_by": "GENTSESTRAAT ZONNEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.91086,
-                    50.91861
+                    3.907886,
+                    50.927507
                 ]
             }
         },
@@ -109,7 +67,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385;390",
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "207546",
+                "bus": "yes",
+                "name": "Zonnegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT ZONNEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.907515,
+                    50.927587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "209744",
                 "bus": "yes",
                 "name": "Vlierzele Half Morelgem",
@@ -131,20 +109,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92",
-                "ref:De_Lijn": "207546",
+                "ref:De_Lijn": "206551",
                 "bus": "yes",
-                "name": "Zonnegem Kerk",
+                "name": "Vlierzele Morelgem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENTSESTRAAT ZONNEGEM",
+                "created_by": "VLIERSTRAAT VLIERZELE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.907515,
-                    50.927587
+                    3.89245,
+                    50.929109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "206547",
+                "bus": "yes",
+                "name": "Burst Kapelleken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT BURST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.91086,
+                    50.91861
                 ]
             }
         }

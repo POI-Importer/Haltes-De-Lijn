@@ -5,90 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "725",
-                "ref:De_Lijn": "406353",
-                "bus": "yes",
-                "name": "Mulheim Bresil",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VRIETSELSTRAAT LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.717658,
-                    51.009232
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;61",
-                "ref:De_Lijn": "401794",
-                "bus": "yes",
-                "name": "Lanklaar Broek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.725342,
-                    51.011275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;65;725",
-                "ref:De_Lijn": "406238",
-                "bus": "yes",
-                "name": "Lanklaar Veeweide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.728102,
-                    51.002774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;61",
-                "ref:De_Lijn": "401812",
-                "bus": "yes",
-                "name": "Lanklaar Slakkenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.724902,
-                    51.007423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "725",
                 "ref:De_Lijn": "406355",
                 "bus": "yes",
                 "name": "Mulheim Basisschool",
@@ -103,48 +19,6 @@
                 "coordinates": [
                     5.718537,
                     51.004619
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406235",
-                "bus": "yes",
-                "name": "Meeswijk Rijksweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.723141,
-                    51.000709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "725",
-                "ref:De_Lijn": "406352",
-                "bus": "yes",
-                "name": "Mulheim De Vrietsel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROENSTRAAT LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.720421,
-                    51.012608
                 ]
             }
         },
@@ -172,8 +46,92 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;61;178",
-                "ref:De_Lijn": "410044",
+                "route_ref:De_Lijn": "9;65;725",
+                "ref:De_Lijn": "401847",
+                "bus": "yes",
+                "name": "Stokkem Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.732376,
+                    51.009611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;65;725",
+                "ref:De_Lijn": "406238",
+                "bus": "yes",
+                "name": "Lanklaar Veeweide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.728102,
+                    51.002774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "406352",
+                "bus": "yes",
+                "name": "Mulheim De Vrietsel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.720421,
+                    51.012608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61",
+                "ref:De_Lijn": "401812",
+                "bus": "yes",
+                "name": "Lanklaar Slakkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.724902,
+                    51.007423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;61;178",
+                "ref:De_Lijn": "410043",
                 "bus": "yes",
                 "name": "Lanklaar Rijksweg",
                 "public_transport": "platform",
@@ -185,8 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.724069,
-                    51.001751
+                    5.723141,
+                    51.000709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61",
+                "ref:De_Lijn": "401794",
+                "bus": "yes",
+                "name": "Lanklaar Broek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.725342,
+                    51.011275
                 ]
             }
         },
@@ -214,6 +193,69 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "406235",
+                "bus": "yes",
+                "name": "Meeswijk Rijksweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.723141,
+                    51.000709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61;178",
+                "ref:De_Lijn": "410044",
+                "bus": "yes",
+                "name": "Lanklaar Rijksweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.724069,
+                    51.001751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406234",
+                "bus": "yes",
+                "name": "Meeswijk Rijksweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.724069,
+                    51.001751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "25;45;61",
                 "ref:De_Lijn": "401795",
                 "bus": "yes",
@@ -235,21 +277,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "9;65;725",
-                "ref:De_Lijn": "401847",
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "406353",
                 "bus": "yes",
-                "name": "Stokkem Kapelstraat",
+                "name": "Mulheim Bresil",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT STOKKEM",
+                "created_by": "VRIETSELSTRAAT LANKLAAR",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.732376,
-                    51.009611
+                    5.717658,
+                    51.009232
                 ]
             }
         },
@@ -292,48 +334,6 @@
                 "coordinates": [
                     5.7327,
                     51.009949
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;45;61;178",
-                "ref:De_Lijn": "410043",
-                "bus": "yes",
-                "name": "Lanklaar Rijksweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.723141,
-                    51.000709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406234",
-                "bus": "yes",
-                "name": "Meeswijk Rijksweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG LANKLAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.724069,
-                    51.001751
                 ]
             }
         }

@@ -26,49 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409232",
-                "bus": "yes",
-                "name": "Hamont Grote Haart",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.529327,
-                    51.253129
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409246",
-                "bus": "yes",
-                "name": "Hamont Dijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MULK HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.531177,
-                    51.261831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409230",
+                "ref:De_Lijn": "409231",
                 "bus": "yes",
                 "name": "Hamont Rodenbachstraat",
                 "public_transport": "platform",
@@ -80,92 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.535021,
-                    51.251707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "406328",
-                "bus": "yes",
-                "name": "Hamont Steenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENSTRAAT HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.525951,
-                    51.248695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "406993",
-                "bus": "yes",
-                "name": "Hamont Boskerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NOBELSTRAAT HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.516384,
-                    51.257472
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409228",
-                "bus": "yes",
-                "name": "Hamont Ballingstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RODENBACHSTRAAT HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.535688,
-                    51.249165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "406992",
-                "bus": "yes",
-                "name": "Hamont Boskerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NOBELSTRAAT HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.51614,
-                    51.257438
+                    5.534763,
+                    51.251701
                 ]
             }
         },
@@ -215,6 +89,153 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "406992",
+                "bus": "yes",
+                "name": "Hamont Boskerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOBELSTRAAT HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51614,
+                    51.257438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "406328",
+                "bus": "yes",
+                "name": "Hamont Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.525951,
+                    51.248695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409246",
+                "bus": "yes",
+                "name": "Hamont Dijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MULK HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.531177,
+                    51.261831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409232",
+                "bus": "yes",
+                "name": "Hamont Grote Haart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.529327,
+                    51.253129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "406993",
+                "bus": "yes",
+                "name": "Hamont Boskerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOBELSTRAAT HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516384,
+                    51.257472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409230",
+                "bus": "yes",
+                "name": "Hamont Rodenbachstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.535021,
+                    51.251707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409228",
+                "bus": "yes",
+                "name": "Hamont Ballingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODENBACHSTRAAT HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.535688,
+                    51.249165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
                 "ref:De_Lijn": "409233",
                 "bus": "yes",
                 "name": "Hamont Grote Haart",
@@ -229,27 +250,6 @@
                 "coordinates": [
                     5.529125,
                     51.253087
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409231",
-                "bus": "yes",
-                "name": "Hamont Rodenbachstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.534763,
-                    51.251701
                 ]
             }
         }

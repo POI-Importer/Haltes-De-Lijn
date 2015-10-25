@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;63;97",
-                "ref:De_Lijn": "507307",
-                "bus": "yes",
-                "name": "Oedelem L.T.I.",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGGESTRAAT OEDELEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.299104,
-                    51.185941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "63;97",
-                "ref:De_Lijn": "507314",
-                "bus": "yes",
-                "name": "Oedelem Vliegend Paard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGGESTRAAT OEDELEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.306047,
-                    51.180035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "26;63;97",
                 "ref:De_Lijn": "502314",
                 "bus": "yes",
@@ -82,6 +40,48 @@
                 "coordinates": [
                     3.298705,
                     51.185866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;97",
+                "ref:De_Lijn": "507314",
+                "bus": "yes",
+                "name": "Oedelem Vliegend Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.306047,
+                    51.180035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;63;97",
+                "ref:De_Lijn": "507307",
+                "bus": "yes",
+                "name": "Oedelem L.T.I.",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.299104,
+                    51.185941
                 ]
             }
         }

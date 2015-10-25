@@ -47,21 +47,22 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "501738",
-                "bus": "yes",
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506253",
+                "zone:De_Lijn": "03",
                 "name": "Oostduinkerke Duinpark",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ALBERT I LAAN OOSTDUINKERKE-BAD",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.682458,
-                    51.133995
+                    2.683511,
+                    51.134118
                 ]
             }
         },
@@ -110,22 +111,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506253",
-                "zone:De_Lijn": "03",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "501738",
+                "bus": "yes",
                 "name": "Oostduinkerke Duinpark",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
+                "highway": "bus_stop",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE-BAD",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.683511,
-                    51.134118
+                    2.682458,
+                    51.133995
                 ]
             }
         }

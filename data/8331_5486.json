@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;38",
-                "ref:De_Lijn": "502195",
+                "ref:De_Lijn": "507195",
                 "bus": "yes",
                 "name": "Hooglede Kasteelstraat",
                 "public_transport": "platform",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.07373,
-                    50.980976
+                    3.073584,
+                    50.981136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "502199",
+                "bus": "yes",
+                "name": "Hooglede Rustoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGESTRAAT HOOGLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.066241,
+                    50.98244
                 ]
             }
         },
@@ -47,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;38",
-                "ref:De_Lijn": "507195",
+                "ref:De_Lijn": "502195",
                 "bus": "yes",
                 "name": "Hooglede Kasteelstraat",
                 "public_transport": "platform",
@@ -59,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.073584,
-                    50.981136
+                    3.07373,
+                    50.980976
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     3.066855,
                     50.982383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;38",
-                "ref:De_Lijn": "502199",
-                "bus": "yes",
-                "name": "Hooglede Rustoord",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGESTRAAT HOOGLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.066241,
-                    50.98244
                 ]
             }
         }

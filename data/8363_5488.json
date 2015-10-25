@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440",
                 "ref:De_Lijn": "208714",
                 "bus": "yes",
                 "name": "Moortsele Rollebaan",

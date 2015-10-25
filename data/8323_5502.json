@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;79",
-                "ref:De_Lijn": "504290",
-                "bus": "yes",
-                "name": "Mesen Au Pèlerin",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ARMENTIERSSTEENWEG MESEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.895381,
-                    50.762199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "72",
                 "ref:De_Lijn": "509006",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     2.891721,
                     50.750526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "504290",
+                "bus": "yes",
+                "name": "Mesen Au Pèlerin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARMENTIERSSTEENWEG MESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.895381,
+                    50.762199
                 ]
             }
         },
@@ -67,27 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "504006",
-                "bus": "yes",
-                "name": "Waasten Douve",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MESENSTRAAT WAASTEN (KOMEN-WAASTEN)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.891535,
-                    50.750578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "72;79",
                 "ref:De_Lijn": "509290",
                 "bus": "yes",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     2.895595,
                     50.762165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504006",
+                "bus": "yes",
+                "name": "Waasten Douve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MESENSTRAAT WAASTEN (KOMEN-WAASTEN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.891535,
+                    50.750578
                 ]
             }
         },

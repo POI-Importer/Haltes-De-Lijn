@@ -4,63 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "505713",
-                "bus": "yes",
-                "name": "Langemark Bascule",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BIKSCHOTESTRAAT LANGEMARK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.91244,
-                    50.914319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "503481",
-                "bus": "yes",
-                "name": "Langemark De Flodder",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEZINGESTRAAT LANGEMARK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.91775,
-                    50.909548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "508488",
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "503989",
                 "bus": "yes",
                 "name": "Langemark Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARKT LANGEMARK",
+                "created_by": "KLERKENSTRAAT LANGEMARK",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.920448,
-                    50.913375
+                    2.92023,
+                    50.913975
                 ]
             }
         },
@@ -82,69 +40,6 @@
                 "coordinates": [
                     2.906842,
                     50.90819
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "508480",
-                "bus": "yes",
-                "name": "Langemark Cafe Hagebos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEZINGESTRAAT LANGEMARK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.900585,
-                    50.903194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "503488",
-                "bus": "yes",
-                "name": "Langemark Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKT LANGEMARK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.920205,
-                    50.913417
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "508481",
-                "bus": "yes",
-                "name": "Langemark De Flodder",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEZINGESTRAAT LANGEMARK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.917364,
-                    50.909165
                 ]
             }
         },
@@ -173,6 +68,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "508480",
+                "bus": "yes",
+                "name": "Langemark Cafe Hagebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEZINGESTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.900585,
+                    50.903194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "503481",
+                "bus": "yes",
+                "name": "Langemark De Flodder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEZINGESTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.91775,
+                    50.909548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "503488",
+                "bus": "yes",
+                "name": "Langemark Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.920205,
+                    50.913417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
                 "ref:De_Lijn": "503480",
                 "bus": "yes",
                 "name": "Langemark Cafe Hagebos",
@@ -193,21 +151,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "503989",
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505713",
                 "bus": "yes",
-                "name": "Langemark Markt",
+                "name": "Langemark Bascule",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KLERKENSTRAAT LANGEMARK",
+                "created_by": "BIKSCHOTESTRAAT LANGEMARK",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.92023,
-                    50.913975
+                    2.91244,
+                    50.914319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "508488",
+                "bus": "yes",
+                "name": "Langemark Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.920448,
+                    50.913375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "508481",
+                "bus": "yes",
+                "name": "Langemark De Flodder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEZINGESTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917364,
+                    50.909165
                 ]
             }
         }

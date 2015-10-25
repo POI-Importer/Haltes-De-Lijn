@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "40",
+                "ref:De_Lijn": "507507",
+                "bus": "yes",
+                "name": "Torhout Slarin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMARKSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.077122,
+                    51.052793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40",
                 "ref:De_Lijn": "502507",
                 "bus": "yes",
                 "name": "Torhout Slarin",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     3.076417,
                     51.05247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56",
-                "ref:De_Lijn": "505596",
-                "bus": "yes",
-                "name": "Torhout Kinderboerderij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEIBOSSTRAAT TORHOUT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.096518,
-                    51.052896
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "40",
-                "ref:De_Lijn": "507507",
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "505596",
                 "bus": "yes",
-                "name": "Torhout Slarin",
+                "name": "Torhout Kinderboerderij",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KORTEMARKSTRAAT TORHOUT",
+                "created_by": "MEIBOSSTRAAT TORHOUT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.077122,
-                    51.052793
+                    3.096518,
+                    51.052896
                 ]
             }
         }

@@ -4,29 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "701;706",
-                "ref:De_Lijn": "409519",
-                "bus": "yes",
-                "name": "Heesveld Lodewijkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEESVELD BILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.500151,
-                    50.903661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10",
-                "ref:De_Lijn": "402235",
+                "ref:De_Lijn": "402234",
                 "bus": "yes",
                 "name": "Genk Lambrechts",
                 "public_transport": "platform",
@@ -38,8 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.501966,
-                    50.91525
+                    5.502667,
+                    50.913634
                 ]
             }
         },
@@ -61,6 +39,27 @@
                 "coordinates": [
                     5.500436,
                     50.903676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "402235",
+                "bus": "yes",
+                "name": "Genk Lambrechts",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TAUNUSWEG GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501966,
+                    50.91525
                 ]
             }
         },
@@ -109,20 +108,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "402234",
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "409519",
                 "bus": "yes",
-                "name": "Genk Lambrechts",
+                "name": "Heesveld Lodewijkstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TAUNUSWEG GENK",
+                "created_by": "HEESVELD BILZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.502667,
-                    50.913634
+                    5.500151,
+                    50.903661
                 ]
             }
         }

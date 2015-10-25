@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "373;375;565;712",
-                "ref:De_Lijn": "302697",
-                "bus": "yes",
-                "name": "Waanrode Sint-Annaveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE DIESTSESTRAAT WAANRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.00646,
-                    50.919411
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "373;375;391;712",
                 "ref:De_Lijn": "302700",
                 "bus": "yes",
@@ -40,6 +19,69 @@
                 "coordinates": [
                     4.992214,
                     50.919766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;565",
+                "ref:De_Lijn": "302698",
+                "bus": "yes",
+                "name": "Waanrode Sint-Annaveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DIESTSESTRAAT WAANRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.006348,
+                    50.919537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;565",
+                "ref:De_Lijn": "302702",
+                "bus": "yes",
+                "name": "Waanrode Waanveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DIESTSESTRAAT WAANRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.009641,
+                    50.924302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;565;712",
+                "ref:De_Lijn": "302697",
+                "bus": "yes",
+                "name": "Waanrode Sint-Annaveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DIESTSESTRAAT WAANRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00646,
+                    50.919411
                 ]
             }
         },
@@ -103,48 +145,6 @@
                 "coordinates": [
                     4.994267,
                     50.916896
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;375;565",
-                "ref:De_Lijn": "302702",
-                "bus": "yes",
-                "name": "Waanrode Waanveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE DIESTSESTRAAT WAANRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.009641,
-                    50.924302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373;375;565",
-                "ref:De_Lijn": "302698",
-                "bus": "yes",
-                "name": "Waanrode Sint-Annaveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE DIESTSESTRAAT WAANRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.006348,
-                    50.919537
                 ]
             }
         }

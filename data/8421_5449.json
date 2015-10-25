@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "103132",
-                "bus": "yes",
-                "name": "Goirle Natuurpoort Roovertsche Leij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N630 GOIRLE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.051064,
-                    51.486451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "103133",
                 "bus": "yes",
                 "name": "Goirle Natuurpoort Roovertsche Leij",
@@ -40,6 +18,26 @@
                 "coordinates": [
                     5.051294,
                     51.486441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103132",
+                "bus": "yes",
+                "name": "Goirle Natuurpoort Roovertsche Leij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N630 GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.051064,
+                    51.486451
                 ]
             }
         }

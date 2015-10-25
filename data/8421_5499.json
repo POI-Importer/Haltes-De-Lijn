@@ -4,63 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "348",
-                "ref:De_Lijn": "405760",
+                "route_ref:De_Lijn": "562",
+                "ref:De_Lijn": "303332",
                 "bus": "yes",
-                "name": "Overhespen Gemeenteschool",
+                "name": "Orsmaal Oud Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GELDENAKENSTRAAT OVERHESPEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.033517,
-                    50.795542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "348;562;712",
-                "ref:De_Lijn": "303334",
-                "bus": "yes",
-                "name": "Overhespen Walsbergenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WALSBERGENSTRAAT OVERHESPEN",
+                "created_by": "SINT-TRUIDENSESTEENWEG ORSMAAL-GUSSENHOVEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.04159,
-                    50.79466
+                    5.045137,
+                    50.801616
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "348",
-                "ref:De_Lijn": "405759",
+                "route_ref:De_Lijn": "313;562;712",
+                "ref:De_Lijn": "303318",
                 "bus": "yes",
-                "name": "Overhespen Brouwerijstraat",
+                "name": "Neerhespen Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GELDENAKENSTRAAT OVERHESPEN",
+                "created_by": "LANGSTRAAT NEERHESPEN",
                 "operator": "De Lijn",
-                "network": "DLLi"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.036535,
-                    50.795318
+                    5.052261,
+                    50.794023
                 ]
             }
         },
@@ -82,6 +61,48 @@
                 "coordinates": [
                     5.052894,
                     50.802443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "348",
+                "ref:De_Lijn": "405761",
+                "bus": "yes",
+                "name": "Overhespen Gemeenteschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDENAKENSTRAAT OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.034012,
+                    50.795422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "348",
+                "ref:De_Lijn": "405759",
+                "bus": "yes",
+                "name": "Overhespen Brouwerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDENAKENSTRAAT OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.036535,
+                    50.795318
                 ]
             }
         },
@@ -131,7 +152,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "348",
-                "ref:De_Lijn": "405761",
+                "ref:De_Lijn": "405760",
                 "bus": "yes",
                 "name": "Overhespen Gemeenteschool",
                 "public_transport": "platform",
@@ -143,29 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.034012,
-                    50.795422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "562",
-                "ref:De_Lijn": "303332",
-                "bus": "yes",
-                "name": "Orsmaal Oud Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUIDENSESTEENWEG ORSMAAL-GUSSENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.045137,
-                    50.801616
+                    5.033517,
+                    50.795542
                 ]
             }
         },
@@ -214,21 +214,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "313;562;712",
-                "ref:De_Lijn": "303318",
+                "route_ref:De_Lijn": "348;562;712",
+                "ref:De_Lijn": "303334",
                 "bus": "yes",
-                "name": "Neerhespen Kerk",
+                "name": "Overhespen Walsbergenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANGSTRAAT NEERHESPEN",
+                "created_by": "WALSBERGENSTRAAT OVERHESPEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.052261,
-                    50.794023
+                    5.04159,
+                    50.79466
                 ]
             }
         }

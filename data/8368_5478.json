@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "202175",
+                "ref:De_Lijn": "202140",
                 "bus": "yes",
-                "name": "Lochristi Beervelde Baan",
+                "name": "Beervelde Bastelare",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PAUWSTRAAT LOCHRISTI",
+                "created_by": "BEERVELDSE BAAN ZEVENEKEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.874217,
-                    51.096486
+                    3.877052,
+                    51.094331
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "203140",
+                "ref:De_Lijn": "202175",
                 "bus": "yes",
-                "name": "Beervelde Bastelare",
+                "name": "Lochristi Beervelde Baan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEERVELDSE BAAN LOCHRISTI",
+                "created_by": "PAUWSTRAAT LOCHRISTI",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.877072,
-                    51.093792
+                    3.874217,
+                    51.096486
                 ]
             }
         },
@@ -110,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "202140",
+                "ref:De_Lijn": "203140",
                 "bus": "yes",
                 "name": "Beervelde Bastelare",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEERVELDSE BAAN ZEVENEKEN",
+                "created_by": "BEERVELDSE BAAN LOCHRISTI",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.877052,
-                    51.094331
+                    3.877072,
+                    51.093792
                 ]
             }
         }

@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "502375",
+                "bus": "yes",
+                "name": "Snellegem Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ISENBAERTSTRAAT SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.115237,
+                    51.166182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "52;53;54;93",
                 "ref:De_Lijn": "502222",
                 "bus": "yes",
@@ -19,6 +40,27 @@
                 "coordinates": [
                     3.110795,
                     51.179278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "507375",
+                "bus": "yes",
+                "name": "Snellegem Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ISENBAERTSTRAAT SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.115335,
+                    51.166785
                 ]
             }
         },
@@ -46,27 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "55",
-                "ref:De_Lijn": "502375",
-                "bus": "yes",
-                "name": "Snellegem Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ISENBAERTSTRAAT SNELLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.115237,
-                    51.166182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "52;53;54",
                 "ref:De_Lijn": "507222",
                 "bus": "yes",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     3.110799,
                     51.179152
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55",
-                "ref:De_Lijn": "507375",
-                "bus": "yes",
-                "name": "Snellegem Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ISENBAERTSTRAAT SNELLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.115335,
-                    51.166785
                 ]
             }
         }

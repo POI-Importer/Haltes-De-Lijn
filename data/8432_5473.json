@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "405680",
-                "bus": "yes",
-                "name": "Kerkhoven Veenstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "VEENSTRAAT LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.279922,
-                    51.163859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "711;712",
-                "ref:De_Lijn": "406826",
-                "bus": "yes",
-                "name": "Kerkhoven Ekselsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EKSELSEBAAN KERKHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.286518,
-                    51.164851
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "409430",
                 "bus": "yes",
                 "name": "Kerkhoven Broekstraat",
@@ -66,21 +24,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "406825",
+                "ref:De_Lijn": "405680",
                 "bus": "yes",
-                "name": "Kerkhoven Ekselsebaan",
+                "name": "Kerkhoven Veenstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "EKSELSEBAAN KERKHOVEN",
+                "created_by": "VEENSTRAAT LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.286687,
-                    51.164706
+                    5.279922,
+                    51.163859
                 ]
             }
         },
@@ -108,6 +66,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "406826",
+                "bus": "yes",
+                "name": "Kerkhoven Ekselsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKSELSEBAAN KERKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.286518,
+                    51.164851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "405681",
                 "bus": "yes",
                 "name": "Kerkhoven Veenstraat",
@@ -123,6 +102,27 @@
                 "coordinates": [
                     5.279908,
                     51.163859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "406825",
+                "bus": "yes",
+                "name": "Kerkhoven Ekselsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKSELSEBAAN KERKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.286687,
+                    51.164706
                 ]
             }
         }

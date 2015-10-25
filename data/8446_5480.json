@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "8;40",
-                "ref:De_Lijn": "407183",
+                "ref:De_Lijn": "407184",
                 "bus": "yes",
                 "name": "Opglabbeek Speeltuin",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.586502,
-                    51.055543
+                    5.586308,
+                    51.055733
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "8;40",
-                "ref:De_Lijn": "407184",
+                "ref:De_Lijn": "407183",
                 "bus": "yes",
                 "name": "Opglabbeek Speeltuin",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.586308,
-                    51.055733
+                    5.586502,
+                    51.055543
                 ]
             }
         }

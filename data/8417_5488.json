@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "701",
+                "ref:De_Lijn": "308056",
+                "bus": "yes",
+                "name": "Bekkevoort Ossenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE TIENSEBAAN BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959424,
+                    50.951768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701",
                 "ref:De_Lijn": "308059",
                 "bus": "yes",
                 "name": "Bekkevoort Witteweg",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     4.949995,
                     50.947733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "701",
-                "ref:De_Lijn": "308056",
-                "bus": "yes",
-                "name": "Bekkevoort Ossenberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE TIENSEBAAN BEKKEVOORT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.959424,
-                    50.951768
                 ]
             }
         },

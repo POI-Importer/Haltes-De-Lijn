@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410",
                 "ref:De_Lijn": "207677",
                 "bus": "yes",
                 "name": "Elst Arme Kleie",

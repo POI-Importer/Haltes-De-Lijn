@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "300971",
-                "bus": "yes",
-                "name": "Strategie",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WAVERSESTEENWEG OUDERGEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.401096,
-                    50.823884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "504",
                 "ref:De_Lijn": "306001",
                 "bus": "yes",
@@ -67,41 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "300965",
-                "name": "Arsenaal",
+                "ref:De_Lijn": "300971",
+                "name": "Strategie",
                 "public_transport": "platform",
                 "railway": "tram_stop",
+                "odbl": "new",
                 "tram": "yes",
-                "created_by": "STEENWEG OP WAVER ETTERBEEK",
+                "created_by": "WAVERSESTEENWEG OUDERGEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.396656,
-                    50.826402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "504",
-                "ref:De_Lijn": "300717",
-                "bus": "yes",
-                "name": "Boileau",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ESKADRONSTRAAT ETTERBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.404253,
-                    50.832009
+                    4.401096,
+                    50.823884
                 ]
             }
         },
@@ -129,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "300960",
+                "route_ref:De_Lijn": "504",
+                "ref:De_Lijn": "300717",
                 "bus": "yes",
-                "name": "Hankar",
+                "name": "Boileau",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "WAVERSESTEENWEG OUDERGEM",
+                "created_by": "ESKADRONSTRAAT ETTERBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.405622,
-                    50.821851
+                    4.404253,
+                    50.832009
                 ]
             }
         },
@@ -194,6 +153,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "300967",
+                "bus": "yes",
+                "name": "Sint-Juliaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.407921,
+                    50.821041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "504",
                 "ref:De_Lijn": "300968",
                 "bus": "yes",
@@ -215,9 +195,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "300967",
+                "ref:De_Lijn": "300960",
                 "bus": "yes",
-                "name": "Sint-Juliaan",
+                "name": "Hankar",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -228,8 +208,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.407921,
-                    50.821041
+                    4.405622,
+                    50.821851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300965",
+                "name": "Arsenaal",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "STEENWEG OP WAVER ETTERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396656,
+                    50.826402
                 ]
             }
         }

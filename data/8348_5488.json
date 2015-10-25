@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "75;88",
-                "ref:De_Lijn": "508642",
-                "bus": "yes",
-                "name": "Oeselgem Vierschaar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEINZESTRAAT OESELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.44336,
-                    50.94622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "504876",
                 "bus": "yes",
@@ -67,7 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "75;88;125",
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "508642",
+                "bus": "yes",
+                "name": "Oeselgem Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINZESTRAAT OESELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.44336,
+                    50.94622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
                 "ref:De_Lijn": "503642",
                 "bus": "yes",
                 "name": "Oeselgem Vierschaar",

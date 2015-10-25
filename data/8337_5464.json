@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "47;92",
-                "ref:De_Lijn": "501198",
-                "bus": "yes",
-                "name": "Lissewege Groot Ter Doest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEELAAN LISSEWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.195098,
-                    51.283245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "37",
                 "ref:De_Lijn": "501401",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.194996,
                     51.282723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;92",
+                "ref:De_Lijn": "501198",
+                "bus": "yes",
+                "name": "Lissewege Groot Ter Doest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEELAAN LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.195098,
+                    51.283245
                 ]
             }
         }

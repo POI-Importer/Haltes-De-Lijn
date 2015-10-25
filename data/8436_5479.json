@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "18a",
-                "ref:De_Lijn": "404414",
-                "bus": "yes",
-                "name": "Helchteren Kievitwijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N715 HELCHTEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.381589,
-                    51.070375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "18a",
                 "ref:De_Lijn": "404415",
                 "bus": "yes",
                 "name": "Helchteren Kievitwijk",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     5.381215,
                     51.070918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "404414",
+                "bus": "yes",
+                "name": "Helchteren Kievitwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N715 HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.381589,
+                    51.070375
                 ]
             }
         },

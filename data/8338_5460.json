@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "501537",
+                "ref:De_Lijn": "501535",
                 "bus": "yes",
-                "name": "Zeebrugge Kazerne",
+                "name": "Zeebrugge Gemeenschapshuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "REDERSKAAI ZEEBRUGGE",
+                "created_by": "MARKTPLEIN ZEEBRUGGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.208069,
-                    51.335088
+                    3.210343,
+                    51.331362
                 ]
             }
         },
@@ -41,27 +41,6 @@
                 "coordinates": [
                     3.221188,
                     51.337876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "501536",
-                "bus": "yes",
-                "name": "Zeebrugge Polderweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REINGAARDSVLIET ZEEBRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.213089,
-                    51.332881
                 ]
             }
         },
@@ -91,20 +70,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "501535",
+                "ref:De_Lijn": "501537",
                 "bus": "yes",
-                "name": "Zeebrugge Gemeenschapshuis",
+                "name": "Zeebrugge Kazerne",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARKTPLEIN ZEEBRUGGE",
+                "created_by": "REDERSKAAI ZEEBRUGGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.210343,
-                    51.331362
+                    3.208069,
+                    51.335088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501536",
+                "bus": "yes",
+                "name": "Zeebrugge Polderweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REINGAARDSVLIET ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213089,
+                    51.332881
                 ]
             }
         }

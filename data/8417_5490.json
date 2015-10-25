@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "392;552",
-                "ref:De_Lijn": "300545",
+                "ref:De_Lijn": "307087",
                 "bus": "yes",
                 "name": "Molenbeek-Wersbeek Tiensebaan",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.95439,
-                    50.920257
+                    4.954235,
+                    50.92033
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "392;552",
-                "ref:De_Lijn": "307087",
+                "ref:De_Lijn": "300545",
                 "bus": "yes",
                 "name": "Molenbeek-Wersbeek Tiensebaan",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.954235,
-                    50.92033
+                    4.95439,
+                    50.920257
                 ]
             }
         }

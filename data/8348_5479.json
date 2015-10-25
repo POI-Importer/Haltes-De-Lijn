@@ -4,70 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;185",
-                "ref:De_Lijn": "200834",
+                "ref:De_Lijn": "201846",
                 "bus": "yes",
-                "name": "Aalter Sportcentrum",
+                "name": "Aalter Rerum Novarumstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LINDESTRAAT AALTER",
+                "created_by": "RERUM NOVARUMSTRAAT AALTER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.438996,
-                    51.082443
+                    3.448391,
+                    51.078642
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200857",
-                "bus": "yes",
-                "name": "Aalter Veldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSESTEENWEG AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.444221,
-                    51.073737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77;185",
-                "ref:De_Lijn": "200856",
-                "bus": "yes",
-                "name": "Aalter De Knok",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAARLAARS AALTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.439464,
-                    51.07041
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "201883",
                 "bus": "yes",
                 "name": "Aalter Cijnsstraat",
@@ -88,21 +44,62 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "201846",
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "200856",
                 "bus": "yes",
-                "name": "Aalter Rerum Novarumstraat",
+                "name": "Aalter De Knok",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RERUM NOVARUMSTRAAT AALTER",
+                "created_by": "BAARLAARS AALTER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.448391,
-                    51.078642
+                    3.439464,
+                    51.07041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200857",
+                "bus": "yes",
+                "name": "Aalter Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.444221,
+                    51.073737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "200834",
+                "bus": "yes",
+                "name": "Aalter Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.438996,
+                    51.082443
                 ]
             }
         }

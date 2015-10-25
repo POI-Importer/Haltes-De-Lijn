@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "303945",
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "207224",
                 "bus": "yes",
                 "name": "Mazenzele Dorp",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "STEENWEG MAZENZELE",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.170568,
-                    50.942203
+                    4.170824,
+                    50.942212
                 ]
             }
         },
@@ -34,6 +34,48 @@
                 "created_by": "STEENWEG MAZENZELE",
                 "operator": "De Lijn",
                 "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.173341,
+                    50.939259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "206224",
+                "bus": "yes",
+                "name": "Mazenzele Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG MAZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.170568,
+                    50.942203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "206225",
+                "bus": "yes",
+                "name": "Mazenzele Vossestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG MAZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
@@ -67,68 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "303942",
-                "bus": "yes",
-                "name": "Mazenzele Vossestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG MAZENZELE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.17364,
-                    50.939224
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23;24;340",
-                "ref:De_Lijn": "206224",
-                "bus": "yes",
-                "name": "Mazenzele Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG MAZENZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.170568,
-                    50.942203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23;24;340",
-                "ref:De_Lijn": "206225",
-                "bus": "yes",
-                "name": "Mazenzele Vossestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG MAZENZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.173341,
-                    50.939259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "303946",
                 "bus": "yes",
                 "name": "Mazenzele Dorp",
@@ -149,21 +129,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;24",
-                "ref:De_Lijn": "207224",
+                "ref:De_Lijn": "303942",
                 "bus": "yes",
-                "name": "Mazenzele Dorp",
+                "name": "Mazenzele Vossestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STEENWEG MAZENZELE",
                 "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.170824,
-                    50.942212
+                    4.17364,
+                    50.939224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303945",
+                "bus": "yes",
+                "name": "Mazenzele Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG MAZENZELE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.170568,
+                    50.942203
                 ]
             }
         }

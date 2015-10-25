@@ -4,63 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257",
-                "ref:De_Lijn": "207891",
-                "bus": "yes",
-                "name": "Dendermonde Korte Dijkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG DENDERMONDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.122466,
-                    51.036705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "290;320",
-                "ref:De_Lijn": "207912",
-                "bus": "yes",
-                "name": "Dendermonde Posthoornstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POSTHOORNSTRAAT DENDERMONDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.119345,
-                    51.033607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257;320",
-                "ref:De_Lijn": "206892",
+                "route_ref:De_Lijn": "245",
+                "ref:De_Lijn": "207892",
                 "bus": "yes",
                 "name": "Dendermonde Industrieweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG SINT-GILLIS-BIJ-DENDERMONDE",
+                "created_by": "MECHELSESTEENWEG BAASRODE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.129632,
-                    51.037574
+                    4.129518,
+                    51.037709
                 ]
             }
         },
@@ -88,52 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257",
-                "ref:De_Lijn": "207892",
+                "route_ref:De_Lijn": "245",
+                "ref:De_Lijn": "206892",
                 "bus": "yes",
                 "name": "Dendermonde Industrieweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG BAASRODE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.129518,
-                    51.037709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "290;320;355",
-                "ref:De_Lijn": "206914",
-                "bus": "yes",
-                "name": "Dendermonde Ommegancklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROONVELDLAAN DENDERMONDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.110533,
-                    51.031385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257;290;320",
-                "ref:De_Lijn": "206891",
-                "bus": "yes",
-                "name": "Dendermonde Korte Dijkstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MECHELSESTEENWEG SINT-GILLIS-BIJ-DENDERMONDE",
@@ -143,15 +59,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.123222,
-                    51.036626
+                    4.129632,
+                    51.037574
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257;290;320",
+                "route_ref:De_Lijn": "245",
+                "ref:De_Lijn": "207890",
+                "bus": "yes",
+                "name": "Dendermonde Kroonveldlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.109638,
+                    51.033352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245",
+                "ref:De_Lijn": "207891",
+                "bus": "yes",
+                "name": "Dendermonde Korte Dijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.122466,
+                    51.036705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245",
                 "ref:De_Lijn": "206890",
                 "bus": "yes",
                 "name": "Dendermonde Kroonveldlaan",
@@ -172,7 +130,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290;320",
+                "route_ref:De_Lijn": "245",
+                "ref:De_Lijn": "206891",
+                "bus": "yes",
+                "name": "Dendermonde Korte Dijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG SINT-GILLIS-BIJ-DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.123222,
+                    51.036626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "207882",
                 "bus": "yes",
                 "name": "Dendermonde Keur",
@@ -193,21 +171,40 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "245;252;253;254;257",
-                "ref:De_Lijn": "207890",
+                "ref:De_Lijn": "206914",
                 "bus": "yes",
-                "name": "Dendermonde Kroonveldlaan",
+                "name": "Dendermonde Ommegancklaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG DENDERMONDE",
+                "created_by": "KROONVELDLAAN DENDERMONDE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.109638,
-                    51.033352
+                    4.110533,
+                    51.031385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207912",
+                "bus": "yes",
+                "name": "Dendermonde Posthoornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POSTHOORNSTRAAT DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.119345,
+                    51.033607
                 ]
             }
         }

@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39",
-                "ref:De_Lijn": "504980",
-                "bus": "yes",
-                "name": "Zonnebeke Grote Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE MOLENSTRAAT ZONNEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.97636,
-                    50.860447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39",
                 "ref:De_Lijn": "504979",
                 "bus": "yes",
                 "name": "Zonnebeke Polygone",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     2.986535,
                     50.855982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504980",
+                "bus": "yes",
+                "name": "Zonnebeke Grote Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE MOLENSTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.97636,
+                    50.860447
                 ]
             }
         }

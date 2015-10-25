@@ -25,49 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440",
-                "ref:De_Lijn": "208676",
-                "bus": "yes",
-                "name": "Balegem Walzegem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WALZEGEM BALEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.806934,
-                    50.90277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;81;390;420;440",
-                "ref:De_Lijn": "208443",
-                "bus": "yes",
-                "name": "Elene Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELENESTRAAT ELENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.810426,
-                    50.890066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209710",
                 "bus": "yes",
                 "name": "Elene Hebbegem",
@@ -88,7 +45,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;81;390;420;440",
+                "ref:De_Lijn": "203348",
+                "bus": "yes",
+                "name": "Oombergen Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP AALST BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.81649,
+                    50.898932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
                 "ref:De_Lijn": "208442",
                 "bus": "yes",
                 "name": "Elene Balegemstraat",
@@ -109,7 +86,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "202348",
                 "bus": "yes",
                 "name": "Oombergen Fonteinstraat",
@@ -124,6 +100,27 @@
                 "coordinates": [
                     3.816605,
                     50.898824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "208443",
+                "bus": "yes",
+                "name": "Elene Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELENESTRAAT ELENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.810426,
+                    50.890066
                 ]
             }
         },
@@ -151,20 +148,20 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "203348",
+                "ref:De_Lijn": "208676",
                 "bus": "yes",
-                "name": "Oombergen Fonteinstraat",
+                "name": "Balegem Walzegem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP AALST BALEGEM",
+                "created_by": "WALZEGEM BALEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.81649,
-                    50.898932
+                    3.806934,
+                    50.90277
                 ]
             }
         }

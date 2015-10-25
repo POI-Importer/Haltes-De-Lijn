@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "50;51;53",
-                "ref:De_Lijn": "508451",
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "508212",
                 "bus": "yes",
-                "name": "Kuurne Belfort",
+                "name": "Kortrijk Vennestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTRAAT KUURNE",
+                "created_by": "HIPPODROOMSTRAAT KORTRIJK",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.277943,
-                    50.846312
+                    3.284499,
+                    50.836672
                 ]
             }
         },
@@ -46,21 +46,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "508212",
+                "route_ref:De_Lijn": "74;75",
+                "ref:De_Lijn": "503390",
                 "bus": "yes",
-                "name": "Kortrijk Vennestraat",
+                "name": "Kortrijk Lefevere",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HIPPODROOMSTRAAT KORTRIJK",
+                "created_by": "GENTSESTEENWEG KORTRIJK",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.284499,
-                    50.836672
+                    3.283912,
+                    50.837521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "503212",
+                "bus": "yes",
+                "name": "Kortrijk Vennestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEERLIJKSESTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.284066,
+                    50.836372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "503354",
+                "bus": "yes",
+                "name": "Kortrijk Blaasbalg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEERLIJKSESTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.279585,
+                    50.834271
                 ]
             }
         },
@@ -88,21 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "508192",
+                "route_ref:De_Lijn": "74;75",
+                "ref:De_Lijn": "508390",
                 "bus": "yes",
-                "name": "Harelbeke Goedendaglaan",
+                "name": "Kortrijk Lefevere",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ELFDE JULISTRAAT HARELBEKE",
+                "created_by": "GENTSESTEENWEG KORTRIJK",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.295839,
-                    50.843088
+                    3.283278,
+                    50.837281
                 ]
             }
         },
@@ -110,7 +152,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "50;51;53",
-                "ref:De_Lijn": "503469",
+                "ref:De_Lijn": "508469",
                 "bus": "yes",
                 "name": "Kuurne Prins Boudewijn",
                 "public_transport": "platform",
@@ -122,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.27415,
-                    50.844551
+                    3.274358,
+                    50.844787
                 ]
             }
         },
@@ -152,7 +194,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "50;51;53",
-                "ref:De_Lijn": "508469",
+                "ref:De_Lijn": "503451",
+                "bus": "yes",
+                "name": "Kuurne Belfort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277524,
+                    50.84603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;51;53",
+                "ref:De_Lijn": "503469",
                 "bus": "yes",
                 "name": "Kuurne Prins Boudewijn",
                 "public_transport": "platform",
@@ -164,113 +227,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.274358,
-                    50.844787
+                    3.27415,
+                    50.844551
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72",
-                "ref:De_Lijn": "503354",
+                "route_ref:De_Lijn": "50;51;53",
+                "ref:De_Lijn": "508451",
                 "bus": "yes",
-                "name": "Kortrijk Blaasbalg",
+                "name": "Kuurne Belfort",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DEERLIJKSESTRAAT KORTRIJK",
+                "created_by": "KORTRIJKSESTRAAT KUURNE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.279585,
-                    50.834271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;72",
-                "ref:De_Lijn": "508354",
-                "bus": "yes",
-                "name": "Kortrijk Blaasbalg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEERLIJKSESTRAAT KORTRIJK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.279527,
-                    50.834361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;75",
-                "ref:De_Lijn": "508390",
-                "bus": "yes",
-                "name": "Kortrijk Lefevere",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTSESTEENWEG KORTRIJK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.283278,
-                    50.837281
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;72",
-                "ref:De_Lijn": "503212",
-                "bus": "yes",
-                "name": "Kortrijk Vennestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEERLIJKSESTRAAT KORTRIJK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.284066,
-                    50.836372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;75",
-                "ref:De_Lijn": "508197",
-                "bus": "yes",
-                "name": "Harelbeke Koersplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTEENWEG HARELBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.288647,
-                    50.840927
+                    3.277943,
+                    50.846312
                 ]
             }
         },
@@ -298,42 +277,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;75",
-                "ref:De_Lijn": "503390",
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "508354",
                 "bus": "yes",
-                "name": "Kortrijk Lefevere",
+                "name": "Kortrijk Blaasbalg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENTSESTEENWEG KORTRIJK",
+                "created_by": "DEERLIJKSESTRAAT KORTRIJK",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.283912,
-                    50.837521
+                    3.279527,
+                    50.834361
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "50;51;53",
-                "ref:De_Lijn": "503451",
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "508192",
                 "bus": "yes",
-                "name": "Kuurne Belfort",
+                "name": "Harelbeke Goedendaglaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTRAAT KUURNE",
+                "created_by": "ELFDE JULISTRAAT HARELBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.277524,
-                    50.84603
+                    3.295839,
+                    50.843088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;75",
+                "ref:De_Lijn": "508197",
+                "bus": "yes",
+                "name": "Harelbeke Koersplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.288647,
+                    50.840927
                 ]
             }
         }

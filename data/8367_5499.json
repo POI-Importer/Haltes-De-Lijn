@@ -4,70 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;370;410",
-                "ref:De_Lijn": "208484",
-                "bus": "yes",
-                "name": "Deftinge Kouterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKSTRAAT GEMELDORP",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.861666,
-                    50.793596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;370;410",
-                "ref:De_Lijn": "208659",
-                "bus": "yes",
-                "name": "Deftinge Elleboogstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELLEBOOGSTRAAT GEMELDORP",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.855776,
-                    50.795215
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "13",
-                "ref:De_Lijn": "209484",
-                "bus": "yes",
-                "name": "Deftinge Kouterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKSTRAAT GEMELDORP",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.861436,
-                    50.793864
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;410",
                 "ref:De_Lijn": "206671",
                 "bus": "yes",
                 "name": "Hemelveerdegem Overweg",
@@ -110,6 +47,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "209484",
+                "bus": "yes",
+                "name": "Deftinge Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT GEMELDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.861436,
+                    50.793864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "208659",
+                "bus": "yes",
+                "name": "Deftinge Elleboogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLEBOOGSTRAAT GEMELDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.855776,
+                    50.795215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "207671",
                 "bus": "yes",
                 "name": "Hemelveerdegem Overweg",
@@ -130,7 +109,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;370;410",
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "208658",
                 "bus": "yes",
                 "name": "Deftinge Molenhof",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     3.849186,
                     50.792139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "208484",
+                "bus": "yes",
+                "name": "Deftinge Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT GEMELDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.861666,
+                    50.793596
                 ]
             }
         }

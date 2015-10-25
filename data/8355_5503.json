@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;74;460",
+                "route_ref:De_Lijn": "68;74",
                 "ref:De_Lijn": "207790",
                 "bus": "yes",
                 "name": "Jan Van Nassaustraat",
@@ -25,126 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;460;470",
-                "ref:De_Lijn": "207791",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "208760",
                 "bus": "yes",
-                "name": "Shopping Plaza",
+                "name": "Gomar Vandewielelaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CÉSAR SNOECKLAAN RONSE",
+                "created_by": "VIERMAARTLAAN RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.586005,
-                    50.746526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;25",
-                "ref:De_Lijn": "207770",
-                "bus": "yes",
-                "name": "Ronse/Renaix Station Perron 2",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.60111,
-                    50.742176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "73;460;470",
-                "ref:De_Lijn": "207787",
-                "bus": "yes",
-                "name": "Spinsterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPINSTERSSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.594445,
-                    50.750251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;460;470",
-                "ref:De_Lijn": "207792",
-                "bus": "yes",
-                "name": "Stedelijk Zwembad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ENGELSENLAAN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.586408,
-                    50.744389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;63;460",
-                "ref:De_Lijn": "208374",
-                "bus": "yes",
-                "name": "Ronse/Renaix Station Perron 4",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.600856,
-                    50.742103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "460;470",
-                "ref:De_Lijn": "207793",
-                "bus": "yes",
-                "name": "Vanhovestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OSWALD PONETTESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.593121,
-                    50.745459
+                    3.594186,
+                    50.740189
                 ]
             }
         },
@@ -172,6 +67,130 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "68;73",
+                "ref:De_Lijn": "208406",
+                "bus": "yes",
+                "name": "Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.599501,
+                    50.746103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208872",
+                "bus": "yes",
+                "name": "Stedelijk Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSENLAAN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.587059,
+                    50.744439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "208192",
+                "bus": "yes",
+                "name": "Astridplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOMAR VANDEWIELELAAN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.594044,
+                    50.742795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208740",
+                "bus": "yes",
+                "name": "Ronse/Renaix Station Perron 9",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.600588,
+                    50.742029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;25",
+                "ref:De_Lijn": "207770",
+                "bus": "yes",
+                "name": "Ronse/Renaix Station Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.60111,
+                    50.742176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;73;74",
+                "ref:De_Lijn": "208739",
+                "bus": "yes",
+                "name": "Ronse/Renaix Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.601208,
+                    50.742258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "209405",
                 "bus": "yes",
                 "name": "Ronse/Renaix Station",
@@ -193,28 +212,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;73;460;470",
-                "ref:De_Lijn": "209820",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "207792",
                 "bus": "yes",
-                "name": "Kasteelstraat",
+                "name": "Stedelijk Zwembad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WIJNSTRAAT RONSE",
+                "created_by": "ENGELSENLAAN RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.598638,
-                    50.747788
+                    3.586408,
+                    50.744389
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;460;470",
+                "ref:De_Lijn": "207794",
+                "bus": "yes",
+                "name": "Vanhovestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OSWALD PONETTESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593152,
+                    50.745342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
                 "ref:De_Lijn": "208761",
                 "bus": "yes",
                 "name": "Viermaartlaan",
@@ -235,20 +275,41 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "209761",
+                "ref:De_Lijn": "207793",
                 "bus": "yes",
-                "name": "Viermaartlaan",
+                "name": "Vanhovestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VIERMAARTLAAN RONSE",
+                "created_by": "OSWALD PONETTESTRAAT RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.588575,
-                    50.740188
+                    3.593121,
+                    50.745459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208191",
+                "bus": "yes",
+                "name": "Ronse/Renaix Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.601251,
+                    50.742222
                 ]
             }
         },
@@ -270,6 +331,27 @@
                 "coordinates": [
                     3.594155,
                     50.740314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "218013",
+                "bus": "yes",
+                "name": "Vanhovestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRÉDÉRIC BRUNEELLAAN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593322,
+                    50.745325
                 ]
             }
         },
@@ -318,173 +400,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207755",
-                "bus": "yes",
-                "name": "Bordetlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SAINT-SAUVEURSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.59841,
-                    50.739201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;73;460;470",
-                "ref:De_Lijn": "208406",
-                "bus": "yes",
-                "name": "Hoogstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.599501,
-                    50.746103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;460;470",
-                "ref:De_Lijn": "207764",
-                "bus": "yes",
-                "name": "Jan Van Nassaustraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONNESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.591848,
-                    50.749631
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;74;460;470",
-                "ref:De_Lijn": "207789",
-                "bus": "yes",
-                "name": "T.I.Depoorter",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-PIETERSNIEUWSTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.601114,
-                    50.749755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "208872",
-                "bus": "yes",
-                "name": "Stedelijk Zwembad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ENGELSENLAAN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.587059,
-                    50.744439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;470",
-                "ref:De_Lijn": "208408",
-                "bus": "yes",
-                "name": "Kapellestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONNESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.586443,
-                    50.749137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "207794",
-                "bus": "yes",
-                "name": "Vanhovestraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OSWALD PONETTESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.593152,
-                    50.745342
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;73;460;470",
-                "ref:De_Lijn": "208407",
-                "bus": "yes",
-                "name": "Lange Haagstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONNESTRAAT RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.59498,
-                    50.749598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "68;74",
                 "ref:De_Lijn": "209408",
                 "bus": "yes",
@@ -506,10 +421,93 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;73;74",
-                "ref:De_Lijn": "208739",
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "207787",
                 "bus": "yes",
-                "name": "Ronse/Renaix Station Perron 1",
+                "name": "Spinsterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPINSTERSSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.594445,
+                    50.750251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "207764",
+                "bus": "yes",
+                "name": "Jan Van Nassaustraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.591848,
+                    50.749631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209761",
+                "bus": "yes",
+                "name": "Viermaartlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERMAARTLAAN RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.588575,
+                    50.740188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;73",
+                "ref:De_Lijn": "208407",
+                "bus": "yes",
+                "name": "Lange Haagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.59498,
+                    50.749598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;68;62S",
+                "ref:De_Lijn": "207772",
+                "bus": "yes",
+                "name": "Ronse/Renaix Station Perron 5",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "UNKNOWN RONSE",
@@ -519,39 +517,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.601208,
-                    50.742258
+                    3.600729,
+                    50.742066
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;73;74;460;470",
-                "ref:De_Lijn": "207761",
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207755",
                 "bus": "yes",
-                "name": "Ronse/Renaix Grote Markt",
+                "name": "Bordetlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTE MARKT RONSE",
+                "created_by": "SAINT-SAUVEURSTRAAT RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.602879,
-                    50.747528
+                    3.59841,
+                    50.739201
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "470",
-                "ref:De_Lijn": "208740",
+                "route_ref:De_Lijn": "68;74",
+                "ref:De_Lijn": "207789",
                 "bus": "yes",
-                "name": "Ronse/Renaix Station Perron 9",
+                "name": "T.I.Depoorter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-PIETERSNIEUWSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.601114,
+                    50.749755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;73",
+                "ref:De_Lijn": "209820",
+                "bus": "yes",
+                "name": "Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.598638,
+                    50.747788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;63",
+                "ref:De_Lijn": "208374",
+                "bus": "yes",
+                "name": "Ronse/Renaix Station Perron 4",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "UNKNOWN RONSE",
@@ -561,29 +601,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.600588,
-                    50.742029
+                    3.600856,
+                    50.742103
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;460;470",
-                "ref:De_Lijn": "208192",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "207791",
                 "bus": "yes",
-                "name": "Astridplein",
+                "name": "Shopping Plaza",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GOMAR VANDEWIELELAAN RONSE",
+                "created_by": "CÉSAR SNOECKLAAN RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.594044,
-                    50.742795
+                    3.586005,
+                    50.746526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "208408",
+                "bus": "yes",
+                "name": "Kapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.586443,
+                    50.749137
                 ]
             }
         },
@@ -610,84 +671,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "218013",
+                "route_ref:De_Lijn": "68;73;74",
+                "ref:De_Lijn": "207761",
                 "bus": "yes",
-                "name": "Vanhovestraat",
+                "name": "Ronse/Renaix Grote Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FRÉDÉRIC BRUNEELLAAN RONSE",
+                "created_by": "GROTE MARKT RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.593322,
-                    50.745325
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;460;470",
-                "ref:De_Lijn": "208760",
-                "bus": "yes",
-                "name": "Gomar Vandewielelaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VIERMAARTLAAN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.594186,
-                    50.740189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "208191",
-                "bus": "yes",
-                "name": "Ronse/Renaix Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.601251,
-                    50.742222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62;68;62S",
-                "ref:De_Lijn": "207772",
-                "bus": "yes",
-                "name": "Ronse/Renaix Station Perron 5",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.600729,
-                    50.742066
+                    3.602879,
+                    50.747528
                 ]
             }
         }

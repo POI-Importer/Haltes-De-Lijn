@@ -25,48 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "503603",
-                "bus": "yes",
-                "name": "Moorsele Cabine",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVERHEULESTRAAT MOORSELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.159578,
-                    50.850772
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "508603",
-                "bus": "yes",
-                "name": "Moorsele Cabine",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVERHEULESTRAAT MOORSELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.160121,
-                    50.850085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "503616",
                 "bus": "yes",
@@ -88,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "503603",
+                "bus": "yes",
+                "name": "Moorsele Cabine",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERHEULESTRAAT MOORSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.159578,
+                    50.850772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "508616",
                 "bus": "yes",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     3.145483,
                     50.84773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "508603",
+                "bus": "yes",
+                "name": "Moorsele Cabine",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERHEULESTRAAT MOORSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160121,
+                    50.850085
                 ]
             }
         },

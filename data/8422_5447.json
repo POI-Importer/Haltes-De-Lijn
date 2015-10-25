@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "101684",
                 "bus": "yes",
                 "name": "Goirle Wittendijk",
@@ -46,7 +45,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101683",
+                "bus": "yes",
+                "name": "Goirle Wittendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKSEDIJK GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056449,
+                    51.518542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101686",
                 "bus": "yes",
                 "name": "Goirle Van Hogendorpplein",
@@ -88,7 +106,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "101687",
                 "bus": "yes",
                 "name": "Goirle Van Hogendorpplein",
@@ -103,27 +120,6 @@
                 "coordinates": [
                     5.058691,
                     51.521028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "101683",
-                "bus": "yes",
-                "name": "Goirle Wittendijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWKERKSEDIJK GOIRLE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.056449,
-                    51.518542
                 ]
             }
         }

@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "511",
-                "ref:De_Lijn": "302104",
+                "ref:De_Lijn": "302277",
                 "bus": "yes",
-                "name": "Herent Oude Hoevestraat",
+                "name": "Herent Ellestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POTESTRAAT WINKSELE-DELLE",
+                "created_by": "LIPSELAAN WINKSELE-DELLE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.629694,
-                    50.925762
+                    4.633811,
+                    50.921825
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "511",
-                "ref:De_Lijn": "302277",
+                "ref:De_Lijn": "302104",
                 "bus": "yes",
-                "name": "Herent Ellestraat",
+                "name": "Herent Oude Hoevestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LIPSELAAN WINKSELE-DELLE",
+                "created_by": "POTESTRAAT WINKSELE-DELLE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.633811,
-                    50.921825
+                    4.629694,
+                    50.925762
                 ]
             }
         },

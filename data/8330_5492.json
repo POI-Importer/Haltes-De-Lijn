@@ -5,28 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "503623",
-                "bus": "yes",
-                "name": "Moorslede Klooster",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSTRAAT MOORSLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.05398,
-                    50.891947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "508620",
+                "ref:De_Lijn": "503620",
                 "bus": "yes",
                 "name": "Moorslede Garage Dessein",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.041441,
-                    50.894
+                    3.041538,
+                    50.894091
                 ]
             }
         },
@@ -68,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "508630",
-                "bus": "yes",
-                "name": "Moorslede Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSTRAAT MOORSLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.035874,
-                    50.895321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94",
                 "ref:De_Lijn": "508623",
                 "bus": "yes",
                 "name": "Moorslede Klooster",
@@ -110,7 +68,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "503620",
+                "ref:De_Lijn": "508630",
+                "bus": "yes",
+                "name": "Moorslede Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.035874,
+                    50.895321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "508620",
                 "bus": "yes",
                 "name": "Moorslede Garage Dessein",
                 "public_transport": "platform",
@@ -122,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.041538,
-                    50.894091
+                    3.041441,
+                    50.894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "503623",
+                "bus": "yes",
+                "name": "Moorslede Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05398,
+                    50.891947
                 ]
             }
         }

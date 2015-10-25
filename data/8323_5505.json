@@ -26,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "504382",
+                "ref:De_Lijn": "504383",
                 "bus": "yes",
-                "name": "Ploegsteert P. Des Meubles",
+                "name": "Ploegsteert Rijksschool",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ARMENTIÈRESSTRAAT PLOEGSTEERT",
@@ -38,50 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.883216,
-                    50.719982
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "509380",
-                "bus": "yes",
-                "name": "Ploegsteert Kasteel Nonet",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ARMENTIÈRESSTRAAT LE BIZET",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.884913,
-                    50.712433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "504380",
-                "bus": "yes",
-                "name": "Ploegsteert Kasteel Nonet",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ARMENTIÈRESSTRAAT PLOEGSTEERT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.884814,
-                    50.713322
+                    2.884529,
+                    50.716969
                 ]
             }
         },
@@ -110,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "504383",
+                "ref:De_Lijn": "504382",
                 "bus": "yes",
-                "name": "Ploegsteert Rijksschool",
+                "name": "Ploegsteert P. Des Meubles",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ARMENTIÈRESSTRAAT PLOEGSTEERT",
@@ -122,8 +80,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.884529,
-                    50.716969
+                    2.883216,
+                    50.719982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504380",
+                "bus": "yes",
+                "name": "Ploegsteert Kasteel Nonet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARMENTIÈRESSTRAAT PLOEGSTEERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.884814,
+                    50.713322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509380",
+                "bus": "yes",
+                "name": "Ploegsteert Kasteel Nonet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARMENTIÈRESSTRAAT LE BIZET",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.884913,
+                    50.712433
                 ]
             }
         }

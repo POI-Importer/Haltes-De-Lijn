@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
-                "ref:De_Lijn": "101724",
-                "bus": "yes",
-                "name": "Reet Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUMSTSESTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.416608,
-                    51.097752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "191",
-                "ref:De_Lijn": "101846",
-                "bus": "yes",
-                "name": "Reet Beekvelden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP WAARLOOS REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.416568,
-                    51.100872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "191",
                 "ref:De_Lijn": "102092",
                 "bus": "yes",
                 "name": "Reet Morenhoevestraat",
@@ -67,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
                 "ref:De_Lijn": "101726",
                 "bus": "yes",
                 "name": "Reet Kerkhof",
@@ -88,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "191",
                 "ref:De_Lijn": "102091",
                 "bus": "yes",
                 "name": "Reet Morenhoevestraat",
@@ -103,6 +58,46 @@
                 "coordinates": [
                     4.42926,
                     51.100884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101724",
+                "bus": "yes",
+                "name": "Reet Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMSTSESTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416608,
+                    51.097752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101846",
+                "bus": "yes",
+                "name": "Reet Beekvelden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP WAARLOOS REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416568,
+                    51.100872
                 ]
             }
         }

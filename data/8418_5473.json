@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;492;510",
+                "ref:De_Lijn": "409966",
+                "bus": "yes",
+                "name": "Geel TI Sint-Jozef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEBONSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986321,
+                    51.163361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108979",
                 "bus": "yes",
                 "name": "Geel Waterstraat",
@@ -25,20 +44,20 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "104824",
+                "ref:De_Lijn": "409979",
                 "bus": "yes",
-                "name": "Geel Poiel",
+                "name": "Geel TI Sint-Jozef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POIEL GEEL",
+                "created_by": "LEBONSTRAAT GEEL",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.968424,
-                    51.155705
+                    4.986334,
+                    51.163254
                 ]
             }
         },
@@ -66,21 +85,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "109567",
+                "ref:De_Lijn": "401927",
                 "bus": "yes",
-                "name": "Geel Koninklijk Atheneum",
+                "name": "Elsum Valkenborch",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VALKENBORCH GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.975665,
+                    51.164019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109089",
+                "bus": "yes",
+                "name": "Geel Maal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEBONSTRAAT GEEL",
+                "created_by": "ANTWERPSEWEG GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.986334,
-                    51.163263
+                    4.973063,
+                    51.151897
                 ]
             }
         },
@@ -108,90 +147,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;492;510;921",
-                "ref:De_Lijn": "108984",
-                "bus": "yes",
-                "name": "Geel Dokter Sanodreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STELENSEWEG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.983341,
-                    51.153067
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "409966",
-                "bus": "yes",
-                "name": "Geel TI Sint-Jozef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEBONSTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.986321,
-                    51.163361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "401927",
-                "bus": "yes",
-                "name": "Elsum Valkenborch",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "VALKENBORCH GEEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.975665,
-                    51.164019
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "108495",
-                "bus": "yes",
-                "name": "Geel Steinerschool Poiel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POIEL GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.97332,
-                    51.157352
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "492;510;921",
                 "ref:De_Lijn": "108986",
                 "bus": "yes",
                 "name": "Geel Dokter Sanodreef",
@@ -212,21 +167,82 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c;306;490;491;921",
-                "ref:De_Lijn": "108982",
+                "route_ref:De_Lijn": "15b;921",
+                "ref:De_Lijn": "102714",
                 "bus": "yes",
-                "name": "Geel Waterstraat",
+                "name": "Geel Eikenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PAS GEEL",
+                "created_by": "EIKENSTRAAT GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.986742,
-                    51.157319
+                    4.971526,
+                    51.16013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108984",
+                "bus": "yes",
+                "name": "Geel Dokter Sanodreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STELENSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.983341,
+                    51.153067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "109567",
+                "bus": "yes",
+                "name": "Geel Koninklijk Atheneum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEBONSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986334,
+                    51.163263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109566",
+                "bus": "yes",
+                "name": "Geel Koninklijk Atheneum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEBONSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986307,
+                    51.163371
                 ]
             }
         },
@@ -234,7 +250,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "104951",
+                "ref:De_Lijn": "102713",
+                "bus": "yes",
+                "name": "Geel Eikenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.971485,
+                    51.160274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "104838",
+                "bus": "yes",
+                "name": "Geel Velleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELLEKE GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.981002,
+                    51.165448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "49966",
+                "bus": "yes",
+                "name": "Geel TI Sint-Jozef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEBONSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986321,
+                    51.163361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104952",
                 "bus": "yes",
                 "name": "Elsum Valkenborch",
                 "public_transport": "platform",
@@ -246,15 +324,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.975609,
-                    51.1641
+                    4.975665,
+                    51.163992
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c;306;490;491",
                 "ref:De_Lijn": "109088",
                 "bus": "yes",
                 "name": "Geel Maal",
@@ -297,49 +374,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "102714",
-                "bus": "yes",
-                "name": "Geel Eikenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKENSTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.971526,
-                    51.16013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c;306;382;490;491",
-                "ref:De_Lijn": "109089",
-                "bus": "yes",
-                "name": "Geel Maal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ANTWERPSEWEG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.973063,
-                    51.151897
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "109569",
+                "ref:De_Lijn": "109588",
                 "bus": "yes",
                 "name": "Elsum Kapel",
                 "public_transport": "platform",
@@ -351,29 +386,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.974979,
-                    51.164032
+                    4.97492,
+                    51.163924
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "109566",
+                "route_ref:De_Lijn": "15c;306;921",
+                "ref:De_Lijn": "108982",
                 "bus": "yes",
-                "name": "Geel Koninklijk Atheneum",
+                "name": "Geel Waterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEBONSTRAAT GEEL",
+                "created_by": "PAS GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.986307,
-                    51.163371
+                    4.986742,
+                    51.157319
                 ]
             }
         },
@@ -401,71 +436,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "104952",
+                "ref:De_Lijn": "104824",
                 "bus": "yes",
-                "name": "Elsum Valkenborch",
+                "name": "Geel Poiel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VALKENBORCH GEEL",
+                "created_by": "POIEL GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.975665,
-                    51.163992
+                    4.968424,
+                    51.155705
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "49966",
-                "bus": "yes",
-                "name": "Geel TI Sint-Jozef",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEBONSTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.986321,
-                    51.163361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "102713",
-                "bus": "yes",
-                "name": "Geel Eikenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKENSTRAAT GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.971485,
-                    51.160274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15b;921",
-                "ref:De_Lijn": "109588",
+                "ref:De_Lijn": "109569",
                 "bus": "yes",
                 "name": "Elsum Kapel",
                 "public_transport": "platform",
@@ -477,28 +468,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.97492,
-                    51.163924
+                    4.974979,
+                    51.164032
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409979",
+                "route_ref:De_Lijn": "15b;921",
+                "ref:De_Lijn": "104951",
                 "bus": "yes",
-                "name": "Geel TI Sint-Jozef",
+                "name": "Elsum Valkenborch",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEBONSTRAAT GEEL",
+                "created_by": "VALKENBORCH GEEL",
                 "operator": "De Lijn",
-                "network": "DLLi"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.986334,
-                    51.163254
+                    4.975609,
+                    51.1641
                 ]
             }
         },
@@ -527,20 +519,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "104838",
+                "ref:De_Lijn": "108495",
                 "bus": "yes",
-                "name": "Geel Velleke",
+                "name": "Geel Steinerschool Poiel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VELLEKE GEEL",
+                "created_by": "POIEL GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.981002,
-                    51.165448
+                    4.97332,
+                    51.157352
                 ]
             }
         }

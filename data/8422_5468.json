@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "109439",
+                "bus": "yes",
+                "name": "Dessel MMN Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N118 DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.058048,
+                    51.225428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "109438",
                 "bus": "yes",
                 "name": "Retie MMN Europalaan",
@@ -25,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381",
                 "ref:De_Lijn": "109436",
                 "bus": "yes",
                 "name": "Retie Kastelsedijk",
@@ -46,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381",
                 "ref:De_Lijn": "109437",
                 "bus": "yes",
                 "name": "Dessel Kastelsedijk",
@@ -61,27 +78,6 @@
                 "coordinates": [
                     5.064605,
                     51.233147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381",
-                "ref:De_Lijn": "109439",
-                "bus": "yes",
-                "name": "Dessel MMN Europalaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N118 DESSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.058048,
-                    51.225428
                 ]
             }
         }

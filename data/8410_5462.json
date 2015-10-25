@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410;419",
+                "route_ref:De_Lijn": "410",
                 "ref:De_Lijn": "106200",
                 "bus": "yes",
                 "name": "Vlimmeren Einde",

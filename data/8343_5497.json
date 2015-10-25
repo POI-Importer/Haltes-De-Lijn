@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "78;92",
-                "ref:De_Lijn": "508924",
+                "route_ref:De_Lijn": "92;99",
+                "ref:De_Lijn": "503924",
                 "bus": "yes",
                 "name": "Harelbeke Stasegem Keizershoek",
                 "public_transport": "platform",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.321866,
-                    50.825261
+                    3.321739,
+                    50.825224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "509822",
+                "bus": "yes",
+                "name": "Harelbeke Stasegem Tarwestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBRUGSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.322036,
+                    50.832932
                 ]
             }
         },
@@ -46,28 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "78;92;99",
-                "ref:De_Lijn": "503924",
-                "bus": "yes",
-                "name": "Harelbeke Stasegem Keizershoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWEVEGEMSESTRAAT HARELBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.321739,
-                    50.825224
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "78;92;99",
+                "route_ref:De_Lijn": "92;99",
                 "ref:De_Lijn": "503914",
                 "bus": "yes",
                 "name": "Zwevegem Blokken",
@@ -88,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "509822",
+                "route_ref:De_Lijn": "78;92",
+                "ref:De_Lijn": "508924",
                 "bus": "yes",
-                "name": "Harelbeke Stasegem Tarwestraat",
+                "name": "Harelbeke Stasegem Keizershoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENBRUGSTRAAT HARELBEKE",
+                "created_by": "ZWEVEGEMSESTRAAT HARELBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.322036,
-                    50.832932
+                    3.321866,
+                    50.825261
                 ]
             }
         }

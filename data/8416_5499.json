@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "360;361;362;541;580;581;613;646;662;664;713",
+                "ref:De_Lijn": "305164",
+                "bus": "yes",
+                "name": "Tienen Goossensvest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOOSSENSVEST TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.933473,
+                    50.804806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "613;713",
+                "ref:De_Lijn": "306915",
+                "bus": "yes",
+                "name": "Tienen Lunevillelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GETESTRAAT BOST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.933606,
+                    50.798171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "307106",
                 "bus": "yes",
                 "name": "Tienen Mulkplein",
@@ -18,6 +60,48 @@
                 "coordinates": [
                     4.926786,
                     50.800837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "613;713",
+                "ref:De_Lijn": "306913",
+                "bus": "yes",
+                "name": "Tienen Dragonder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANNUITSESTEENWEG BOST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.936694,
+                    50.796645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;541;580;581;662;664",
+                "ref:De_Lijn": "305173",
+                "bus": "yes",
+                "name": "Tienen Mulkplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GETESTRAAT TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92691,
+                    50.800504
                 ]
             }
         },
@@ -87,69 +171,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "613;713",
-                "ref:De_Lijn": "306915",
-                "bus": "yes",
-                "name": "Tienen Lunevillelaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GETESTRAAT BOST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.933606,
-                    50.798171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "360;361;362;541;580;581;662;664",
-                "ref:De_Lijn": "305173",
-                "bus": "yes",
-                "name": "Tienen Mulkplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GETESTRAAT TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.92691,
-                    50.800504
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "613;713",
-                "ref:De_Lijn": "306913",
-                "bus": "yes",
-                "name": "Tienen Dragonder",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HANNUITSESTEENWEG BOST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.936694,
-                    50.796645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "307107",
                 "bus": "yes",
                 "name": "Tienen Mulkplein",
@@ -165,27 +186,6 @@
                 "coordinates": [
                     4.926945,
                     50.801142
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "360;361;362;541;580;581;613;646;662;664;713",
-                "ref:De_Lijn": "305164",
-                "bus": "yes",
-                "name": "Tienen Goossensvest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GOOSSENSVEST TIENEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.933473,
-                    50.804806
                 ]
             }
         },

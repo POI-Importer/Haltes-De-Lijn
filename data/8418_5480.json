@@ -4,42 +4,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;19b",
-                "ref:De_Lijn": "405049",
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405893",
                 "bus": "yes",
-                "name": "Veerle Heieinde",
+                "name": "Veerle Op Haanven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LAKSTRAAT HEIDE (LAAKDAL)",
+                "created_by": "OUDE GEELSEBAAN VEERLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.982873,
-                    51.055672
+                    4.976094,
+                    51.067394
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;19b",
-                "ref:De_Lijn": "405062",
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405059",
                 "bus": "yes",
-                "name": "Veerle Pastorijstraat",
+                "name": "Veerle Kwade Plas",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VEERLEDORP VEERLE",
+                "created_by": "PASTORIJSTRAAT VEERLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.981587,
-                    51.068516
+                    4.984238,
+                    51.066156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405811",
+                "bus": "yes",
+                "name": "Veerle Witte Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIEINDE HEIDE (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.977227,
+                    51.055837
                 ]
             }
         },
@@ -67,8 +88,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "19;19b",
+                "ref:De_Lijn": "405049",
+                "bus": "yes",
+                "name": "Veerle Heieinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAKSTRAAT HEIDE (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982873,
+                    51.055672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "19b;751",
-                "ref:De_Lijn": "405042",
+                "ref:De_Lijn": "405043",
                 "bus": "yes",
                 "name": "Veerle Geelsebaan",
                 "public_transport": "platform",
@@ -80,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.969774,
-                    51.06748
+                    4.969961,
+                    51.067578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b",
+                "ref:De_Lijn": "405062",
+                "bus": "yes",
+                "name": "Veerle Pastorijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERLEDORP VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.981587,
+                    51.068516
                 ]
             }
         },
@@ -130,21 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19b",
-                "ref:De_Lijn": "405061",
+                "route_ref:De_Lijn": "19b;751",
+                "ref:De_Lijn": "405042",
                 "bus": "yes",
-                "name": "Veerle Pastorijstraat",
+                "name": "Veerle Geelsebaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VEERLEDORP VEERLE",
+                "created_by": "OUDE GEELSEBAAN VEERLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.980944,
-                    51.068501
+                    4.969774,
+                    51.06748
                 ]
             }
         },
@@ -193,27 +256,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405893",
-                "bus": "yes",
-                "name": "Veerle Op Haanven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE GEELSEBAAN VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.976094,
-                    51.067394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "19;19b;751",
                 "ref:De_Lijn": "405066",
                 "bus": "yes",
@@ -235,21 +277,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405059",
+                "route_ref:De_Lijn": "19b",
+                "ref:De_Lijn": "405061",
                 "bus": "yes",
-                "name": "Veerle Kwade Plas",
+                "name": "Veerle Pastorijstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PASTORIJSTRAAT VEERLE",
+                "created_by": "VEERLEDORP VEERLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.984238,
-                    51.066156
+                    4.980944,
+                    51.068501
                 ]
             }
         },
@@ -292,48 +334,6 @@
                 "coordinates": [
                     4.977369,
                     51.055782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19b;751",
-                "ref:De_Lijn": "405043",
-                "bus": "yes",
-                "name": "Veerle Geelsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE GEELSEBAAN VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.969961,
-                    51.067578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405811",
-                "bus": "yes",
-                "name": "Veerle Witte Hoeve",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIEINDE HEIDE (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.977227,
-                    51.055837
                 ]
             }
         }

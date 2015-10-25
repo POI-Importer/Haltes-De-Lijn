@@ -5,41 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "301006",
+                "ref:De_Lijn": "301005",
                 "bus": "yes",
                 "name": "Basiliek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PANTHEONLAAN KOEKELBERG",
+                "created_by": "FRANS GASTHUISLAAN GANSHOREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.31473,
-                    50.866559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;214",
-                "ref:De_Lijn": "301007",
-                "bus": "yes",
-                "name": "Beeckmans",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIZER KARELLAAN GANSHOREN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.309769,
-                    50.869199
+                    4.314217,
+                    50.867206
                 ]
             }
         },
@@ -68,41 +47,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "213;214",
-                "ref:De_Lijn": "301944",
+                "ref:De_Lijn": "300954",
                 "bus": "yes",
-                "name": "Riethuisen",
+                "name": "Elisabeth Park",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANDSROEMLAAN GANSHOREN",
+                "created_by": "LANDSROEMLAAN KOEKELBERG",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.319786,
-                    50.867424
+                    4.327757,
+                    50.865512
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;213;214",
-                "ref:De_Lijn": "300937",
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "305914",
                 "bus": "yes",
-                "name": "Heilig Hart College - Collège Sacré Coeur",
+                "name": "Bossaert-Basiliek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANDSROEMLAAN GANSHOREN",
+                "created_by": "PANTHEONLAAN KOEKELBERG",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.315538,
-                    50.867988
+                    4.320015,
+                    50.865212
                 ]
             }
         },
@@ -131,49 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "213;214",
-                "ref:De_Lijn": "300954",
-                "bus": "yes",
-                "name": "Elisabeth Park",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANDSROEMLAAN KOEKELBERG",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.327757,
-                    50.865512
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "300951",
-                "bus": "yes",
-                "name": "Bossaert-Basiliek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PANTHEONLAAN KOEKELBERG",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.319817,
-                    50.865113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;214",
-                "ref:De_Lijn": "300938",
+                "ref:De_Lijn": "301944",
                 "bus": "yes",
                 "name": "Riethuisen",
                 "public_transport": "platform",
@@ -185,29 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.319004,
-                    50.867927
+                    4.319786,
+                    50.867424
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "301011",
+                "route_ref:De_Lijn": "213;214",
+                "ref:De_Lijn": "301007",
                 "bus": "yes",
-                "name": "Goffin",
+                "name": "Beeckmans",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JOSSE GOFFINLAAN SINT-AGATHA-BERCHEM",
+                "created_by": "KEIZER KARELLAAN GANSHOREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.308507,
-                    50.86687
+                    4.309769,
+                    50.869199
                 ]
             }
         },
@@ -235,8 +172,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "300951",
+                "bus": "yes",
+                "name": "Bossaert-Basiliek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANTHEONLAAN KOEKELBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.319817,
+                    50.865113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "212;213;214",
-                "ref:De_Lijn": "300936",
+                "ref:De_Lijn": "300937",
                 "bus": "yes",
                 "name": "Heilig Hart College - Collège Sacré Coeur",
                 "public_transport": "platform",
@@ -248,8 +206,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.31541,
-                    50.868204
+                    4.315538,
+                    50.867988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "301011",
+                "bus": "yes",
+                "name": "Goffin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSSE GOFFINLAAN SINT-AGATHA-BERCHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.308507,
+                    50.86687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;214",
+                "ref:De_Lijn": "300938",
+                "bus": "yes",
+                "name": "Riethuisen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDSROEMLAAN GANSHOREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.319004,
+                    50.867927
                 ]
             }
         },
@@ -299,9 +299,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "305914",
+                "ref:De_Lijn": "301006",
                 "bus": "yes",
-                "name": "Bossaert-Basiliek",
+                "name": "Basiliek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PANTHEONLAAN KOEKELBERG",
@@ -311,29 +311,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.320015,
-                    50.865212
+                    4.31473,
+                    50.866559
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "301005",
+                "route_ref:De_Lijn": "212;213;214",
+                "ref:De_Lijn": "300936",
                 "bus": "yes",
-                "name": "Basiliek",
+                "name": "Heilig Hart College - Collège Sacré Coeur",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FRANS GASTHUISLAAN GANSHOREN",
+                "created_by": "LANDSROEMLAAN GANSHOREN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.314217,
-                    50.867206
+                    4.31541,
+                    50.868204
                 ]
             }
         }

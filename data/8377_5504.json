@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "102;160;732",
-                "ref:De_Lijn": "302145",
-                "bus": "yes",
-                "name": "Herne Nattendries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EKKELENBERGSTRAAT HERNE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.066585,
-                    50.730043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "102;160;164;732",
-                "ref:De_Lijn": "302123",
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "302125",
                 "bus": "yes",
                 "name": "Herfelingen Vier Armen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N285 HERFELINGEN",
+                "created_by": "TERLINDENSTRAAT HERFELINGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.085092,
-                    50.728642
+                    4.085463,
+                    50.728176
                 ]
             }
         },
@@ -67,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "302125",
+                "route_ref:De_Lijn": "102;160;732",
+                "ref:De_Lijn": "302145",
                 "bus": "yes",
-                "name": "Herfelingen Vier Armen",
+                "name": "Herne Nattendries",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TERLINDENSTRAAT HERFELINGEN",
+                "created_by": "EKKELENBERGSTRAAT HERNE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.085463,
-                    50.728176
+                    4.066585,
+                    50.730043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "102;160;732",
+                "ref:De_Lijn": "302107",
+                "bus": "yes",
+                "name": "Herfelingen Barakkenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKKELENBERGSTRAAT HERFELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.070586,
+                    50.731303
                 ]
             }
         },
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "102;160;732",
-                "ref:De_Lijn": "302107",
+                "route_ref:De_Lijn": "102;160;164;732",
+                "ref:De_Lijn": "302123",
                 "bus": "yes",
-                "name": "Herfelingen Barakkenbergstraat",
+                "name": "Herfelingen Vier Armen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EKKELENBERGSTRAAT HERFELINGEN",
+                "created_by": "N285 HERFELINGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.070586,
-                    50.731303
+                    4.085092,
+                    50.728642
                 ]
             }
         },

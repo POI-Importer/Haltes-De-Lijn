@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "502206",
-                "bus": "yes",
-                "name": "Ichtegem Bergenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORHOUTBAAN ICHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.044982,
-                    51.093243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59",
                 "ref:De_Lijn": "507217",
                 "bus": "yes",
                 "name": "Ichtegem Schoolstraat",
@@ -61,6 +40,48 @@
                 "coordinates": [
                     3.053054,
                     51.08847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "507219",
+                "bus": "yes",
+                "name": "Ichtegem Vijf Wegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDEBAAN ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.042726,
+                    51.083193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "502206",
+                "bus": "yes",
+                "name": "Ichtegem Bergenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTBAAN ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.044982,
+                    51.093243
                 ]
             }
         },
@@ -88,27 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "507206",
-                "bus": "yes",
-                "name": "Ichtegem Bergenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORHOUTBAAN ICHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.044657,
-                    51.093644
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "51",
                 "ref:De_Lijn": "502635",
                 "bus": "yes",
@@ -130,21 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "56;59;64",
-                "ref:De_Lijn": "507219",
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "507206",
                 "bus": "yes",
-                "name": "Ichtegem Vijf Wegen",
+                "name": "Ichtegem Bergenhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIKSMUIDEBAAN ICHTEGEM",
+                "created_by": "TORHOUTBAAN ICHTEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.042726,
-                    51.083193
+                    3.044657,
+                    51.093644
                 ]
             }
         }

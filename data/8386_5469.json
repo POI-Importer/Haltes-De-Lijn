@@ -4,49 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85;280",
-                "ref:De_Lijn": "205293",
+                "route_ref:De_Lijn": "81;82;83;84;85",
+                "ref:De_Lijn": "204292",
                 "bus": "yes",
-                "name": "Beveren Viergemeet",
+                "name": "Beveren Parein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT BEVEREN-WAAS",
+                "created_by": "VESTEN BEVEREN-WAAS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.262738,
-                    51.21534
+                    4.271176,
+                    51.217784
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "205531",
-                "bus": "yes",
-                "name": "Beveren Pareinlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUITENANT VAN EEPOELSTRAAT BEVEREN-WAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.263327,
-                    51.220419
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "route_ref:De_Lijn": "81;82;83;84;85",
                 "ref:De_Lijn": "205292",
                 "bus": "yes",
                 "name": "Beveren Parein",
@@ -88,6 +67,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85",
+                "ref:De_Lijn": "205293",
+                "bus": "yes",
+                "name": "Beveren Viergemeet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.262738,
+                    51.21534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85",
+                "ref:De_Lijn": "204290",
+                "bus": "yes",
+                "name": "Melsele Spoorweglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.282422,
+                    51.220048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "205550",
                 "bus": "yes",
                 "name": "Melsele Kerkenhoek",
@@ -109,8 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85;280",
-                "ref:De_Lijn": "204290",
+                "route_ref:De_Lijn": "81;82;83;84;85",
+                "ref:De_Lijn": "205290",
                 "bus": "yes",
                 "name": "Melsele Spoorweglaan",
                 "public_transport": "platform",
@@ -122,57 +143,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.282422,
-                    51.220048
+                    4.282451,
+                    51.219904
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85;280",
-                "ref:De_Lijn": "204291",
-                "bus": "yes",
-                "name": "Melsele IJzerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN MELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.277399,
-                    51.219334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85;280",
-                "ref:De_Lijn": "205291",
-                "bus": "yes",
-                "name": "Melsele IJzerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN MELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.2776,
-                    51.219227
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "204551",
                 "bus": "yes",
                 "name": "Melsele Boomgaardstraat",
@@ -193,10 +171,51 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85;280",
-                "ref:De_Lijn": "205290",
+                "ref:De_Lijn": "204360",
                 "bus": "yes",
-                "name": "Melsele Spoorweglaan",
+                "name": "Melsele Pauwstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "IJZERSTRAAT MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.282577,
+                    51.213316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205531",
+                "bus": "yes",
+                "name": "Beveren Pareinlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUITENANT VAN EEPOELSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.263327,
+                    51.220419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85",
+                "ref:De_Lijn": "205291",
+                "bus": "yes",
+                "name": "Melsele IJzerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTE BAAN MELSELE",
@@ -206,8 +225,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.282451,
-                    51.219904
+                    4.2776,
+                    51.219227
                 ]
             }
         },
@@ -235,42 +254,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;83;84;85;280",
-                "ref:De_Lijn": "204292",
+                "route_ref:De_Lijn": "81;82;83;84;85",
+                "ref:De_Lijn": "204291",
                 "bus": "yes",
-                "name": "Beveren Parein",
+                "name": "Melsele IJzerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VESTEN BEVEREN-WAAS",
+                "created_by": "GROTE BAAN MELSELE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.271176,
-                    51.217784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204360",
-                "bus": "yes",
-                "name": "Melsele Pauwstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "IJZERSTRAAT MELSELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.282577,
-                    51.213316
+                    4.277399,
+                    51.219334
                 ]
             }
         }

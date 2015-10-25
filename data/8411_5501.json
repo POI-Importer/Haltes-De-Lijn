@@ -24,21 +24,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "713",
-                "ref:De_Lijn": "300319",
+                "ref:De_Lijn": "300320",
                 "bus": "yes",
-                "name": "L'Écluse Chapelle",
+                "name": "Meldert Gaatstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RUE DE GAËT SLUIZEN (BEVEKOM)",
+                "created_by": "GAATSTRAAT MELDERT (HOEGAARDEN)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.825465,
-                    50.776887
+                    4.829519,
+                    50.7768
                 ]
             }
         },
@@ -66,20 +65,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "300320",
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "300319",
                 "bus": "yes",
-                "name": "Meldert Gaatstraat",
+                "name": "L'Écluse Chapelle",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GAATSTRAAT MELDERT (HOEGAARDEN)",
+                "created_by": "RUE DE GAËT SLUIZEN (BEVEKOM)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.829519,
-                    50.7768
+                    4.825465,
+                    50.776887
                 ]
             }
         }

@@ -4,10 +4,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "820",
-                "ref:De_Lijn": "305270",
+                "ref:De_Lijn": "305323",
                 "bus": "yes",
-                "name": "Vilvoorde Kerkweg",
+                "name": "Vilvoorde Steenweg naar Strombeek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373658,
+                    50.905153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305294",
+                "bus": "yes",
+                "name": "Vilvoorde Militair Hospitaal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "INDRINGINGSWEG VILVOORDE",
@@ -17,8 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.381918,
-                    50.904703
+                    4.389072,
+                    50.910941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305295",
+                "bus": "yes",
+                "name": "Vilvoorde Militair Hospitaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDRINGINGSWEG VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389228,
+                    50.910887
                 ]
             }
         },
@@ -40,6 +82,68 @@
                 "coordinates": [
                     4.385758,
                     50.907921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330066",
+                "name": "Vilvoorde Tyras (tram)",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "INDRINGINGSWEG VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.390039,
+                    50.911785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305336",
+                "bus": "yes",
+                "name": "Vilvoorde Zangrije",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STREEKBAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37427,
+                    50.909225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305245",
+                "bus": "yes",
+                "name": "Vilvoorde Het Voor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372621,
+                    50.913262
                 ]
             }
         },
@@ -88,52 +192,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "330079",
-                "bus": "yes",
-                "name": "Vilvoorde Tyras (tram)",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "INDRINGINGSWEG VILVOORDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.389883,
-                    50.911534
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "820",
-                "ref:De_Lijn": "305336",
+                "ref:De_Lijn": "305269",
                 "bus": "yes",
-                "name": "Vilvoorde Zangrije",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STREEKBAAN KONINGSLO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.37427,
-                    50.909225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "820",
-                "ref:De_Lijn": "305294",
-                "bus": "yes",
-                "name": "Vilvoorde Militair Hospitaal",
+                "name": "Vilvoorde Kerkweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "INDRINGINGSWEG VILVOORDE",
@@ -143,8 +205,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.389072,
-                    50.910941
+                    4.381676,
+                    50.904676
                 ]
             }
         },
@@ -173,27 +235,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "820",
-                "ref:De_Lijn": "305319",
+                "ref:De_Lijn": "305270",
                 "bus": "yes",
-                "name": "Vilvoorde Steenstraat",
+                "name": "Vilvoorde Kerkweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STREEKBAAN VILVOORDE",
+                "created_by": "INDRINGINGSWEG VILVOORDE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.377895,
-                    50.905207
+                    4.381918,
+                    50.904703
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "330066",
+                "ref:De_Lijn": "330079",
                 "name": "Vilvoorde Tyras (tram)",
                 "public_transport": "platform",
                 "railway": "tram_stop",
@@ -206,70 +268,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.390039,
-                    50.911785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "820",
-                "ref:De_Lijn": "305295",
-                "bus": "yes",
-                "name": "Vilvoorde Militair Hospitaal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INDRINGINGSWEG VILVOORDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.389228,
-                    50.910887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "820",
-                "ref:De_Lijn": "305269",
-                "bus": "yes",
-                "name": "Vilvoorde Kerkweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INDRINGINGSWEG VILVOORDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.381676,
-                    50.904676
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "305245",
-                "bus": "yes",
-                "name": "Vilvoorde Het Voor",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN KONINGSLO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.372621,
-                    50.913262
+                    4.389883,
+                    50.911534
                 ]
             }
         },
@@ -297,21 +297,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "305323",
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305319",
                 "bus": "yes",
-                "name": "Vilvoorde Steenweg naar Strombeek",
+                "name": "Vilvoorde Steenstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "STEENSTRAAT KONINGSLO",
+                "created_by": "STREEKBAAN VILVOORDE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.373658,
-                    50.905153
+                    4.377895,
+                    50.905207
                 ]
             }
         }

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71",
-                "ref:De_Lijn": "509524",
-                "bus": "yes",
-                "name": "Voormezele Cafe Francais",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKKEBUSSEWEG VLAMERTINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.856597,
-                    50.827891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "70",
                 "ref:De_Lijn": "504526",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     2.867469,
                     50.823085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "504524",
+                "bus": "yes",
+                "name": "Voormezele Cafe Francais",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.856802,
+                    50.828154
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "71",
-                "ref:De_Lijn": "504524",
+                "ref:De_Lijn": "509524",
                 "bus": "yes",
                 "name": "Voormezele Cafe Francais",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.856802,
-                    50.828154
+                    2.856597,
+                    50.827891
                 ]
             }
         }

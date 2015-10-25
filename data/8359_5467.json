@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;195",
+                "route_ref:De_Lijn": "53",
                 "ref:De_Lijn": "202275",
                 "bus": "yes",
                 "name": "Bassevelde Bloksheule",

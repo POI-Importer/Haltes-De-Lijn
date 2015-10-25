@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "132;182",
+                "route_ref:De_Lijn": "182",
                 "ref:De_Lijn": "106868",
                 "bus": "yes",
                 "name": "Reet Nachtegaalstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "132;182",
+                "route_ref:De_Lijn": "182",
                 "ref:De_Lijn": "106869",
                 "bus": "yes",
                 "name": "Boom Nachtegaalstraat",

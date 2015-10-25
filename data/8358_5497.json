@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
-                "ref:De_Lijn": "208387",
-                "bus": "yes",
-                "name": "Maarke-Kerkem Kapelleberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELLEBERG MAARKE-KERKEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.65399,
-                    50.822334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "16;17",
                 "ref:De_Lijn": "209110",
                 "bus": "yes",
@@ -67,7 +46,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;17;445",
+                "ref:De_Lijn": "208387",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Kapelleberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLEBERG MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65399,
+                    50.822334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17",
                 "ref:De_Lijn": "208111",
                 "bus": "yes",
                 "name": "Mater Holle Weg",
@@ -88,7 +87,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;17;445",
+                "route_ref:De_Lijn": "16;17",
                 "ref:De_Lijn": "208110",
                 "bus": "yes",
                 "name": "Mater Hauwaart",

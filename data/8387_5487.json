@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "250",
-                "ref:De_Lijn": "303785",
+                "ref:De_Lijn": "303784",
                 "bus": "yes",
                 "name": "Wolvertem Neerpoorten, Kapel",
                 "public_transport": "platform",
@@ -17,8 +17,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.301715,
-                    50.968707
+                    4.301702,
+                    50.968293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303782",
+                "bus": "yes",
+                "name": "Wolvertem Neerpoorten Huis33",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERPOORTEN WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.29658,
+                    50.966277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303783",
+                "bus": "yes",
+                "name": "Wolvertem Neerpoorten Huis33",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERPOORTEN WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.296395,
+                    50.966321
                 ]
             }
         },
@@ -68,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "250",
-                "ref:De_Lijn": "303784",
+                "ref:De_Lijn": "303785",
                 "bus": "yes",
                 "name": "Wolvertem Neerpoorten, Kapel",
                 "public_transport": "platform",
@@ -80,50 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.301702,
-                    50.968293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "250",
-                "ref:De_Lijn": "303783",
-                "bus": "yes",
-                "name": "Wolvertem Neerpoorten Huis33",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEERPOORTEN WOLVERTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.296395,
-                    50.966321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "250",
-                "ref:De_Lijn": "303782",
-                "bus": "yes",
-                "name": "Wolvertem Neerpoorten Huis33",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEERPOORTEN WOLVERTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.29658,
-                    50.966277
+                    4.301715,
+                    50.968707
                 ]
             }
         }

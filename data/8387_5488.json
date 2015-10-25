@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "821",
-                "ref:De_Lijn": "303781",
-                "bus": "yes",
-                "name": "Wolvertem Meuzegemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MERCHTEMSESTEENWEG WOLVERTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.293926,
-                    50.952189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "250;251",
-                "ref:De_Lijn": "303762",
+                "ref:De_Lijn": "303759",
                 "bus": "yes",
-                "name": "Wolvertem Karel Baudewijnslaan",
+                "name": "Wolvertem De Vlieten",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VEILINGLAAN WOLVERTEM",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.304722,
-                    50.956231
+                    4.301445,
+                    50.958306
                 ]
             }
         },
@@ -67,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "250;251",
-                "ref:De_Lijn": "303759",
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303780",
                 "bus": "yes",
-                "name": "Wolvertem De Vlieten",
+                "name": "Wolvertem Meuzegemstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VEILINGLAAN WOLVERTEM",
+                "created_by": "MERCHTEMSESTEENWEG WOLVERTEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.301445,
-                    50.958306
+                    4.29357,
+                    50.952045
                 ]
             }
         },
@@ -103,27 +82,6 @@
                 "coordinates": [
                     4.304536,
                     50.956483
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "821",
-                "ref:De_Lijn": "303761",
-                "bus": "yes",
-                "name": "Wolvertem Driesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MERCHTEMSESTEENWEG WOLVERTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.302052,
-                    50.952059
                 ]
             }
         },
@@ -173,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "821",
-                "ref:De_Lijn": "303780",
+                "ref:De_Lijn": "303781",
                 "bus": "yes",
                 "name": "Wolvertem Meuzegemstraat",
                 "public_transport": "platform",
@@ -185,8 +143,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.29357,
-                    50.952045
+                    4.293926,
+                    50.952189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251",
+                "ref:De_Lijn": "303762",
+                "bus": "yes",
+                "name": "Wolvertem Karel Baudewijnslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEILINGLAAN WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.304722,
+                    50.956231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303761",
+                "bus": "yes",
+                "name": "Wolvertem Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERCHTEMSESTEENWEG WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.302052,
+                    50.952059
                 ]
             }
         }

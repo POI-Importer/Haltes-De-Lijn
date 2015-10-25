@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "400598",
+                "bus": "yes",
+                "name": "Paal Kruisbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERLOSESTEENWEG BERINGEN MIJN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203439,
+                    51.065048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "7;32",
                 "ref:De_Lijn": "400621",
                 "bus": "yes",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.203379,
                     51.064869
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "400598",
-                "bus": "yes",
-                "name": "Paal Kruisbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVERLOSESTEENWEG BERINGEN MIJN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.203439,
-                    51.065048
                 ]
             }
         }

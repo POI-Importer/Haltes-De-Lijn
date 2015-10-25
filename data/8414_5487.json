@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "390;392;591;707;708",
-                "ref:De_Lijn": "300131",
+                "ref:De_Lijn": "300129",
                 "bus": "yes",
-                "name": "Rillaar Heikenstraat",
+                "name": "Rillaar Heiken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TIELTSEWEG RILLAAR",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.894744,
-                    50.967204
+                    4.893904,
+                    50.969779
                 ]
             }
         },
@@ -40,48 +40,6 @@
                 "coordinates": [
                     4.899814,
                     50.962345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390;392;591;707;708",
-                "ref:De_Lijn": "300129",
-                "bus": "yes",
-                "name": "Rillaar Heiken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSEWEG RILLAAR",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.893904,
-                    50.969779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306807",
-                "bus": "yes",
-                "name": "Rillaar Marktweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSEWEG RILLAAR",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.886646,
-                    50.970054
                 ]
             }
         },
@@ -110,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "390;392;591;707;708",
-                "ref:De_Lijn": "300132",
+                "ref:De_Lijn": "300131",
                 "bus": "yes",
                 "name": "Rillaar Heikenstraat",
                 "public_transport": "platform",
@@ -122,8 +80,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.897023,
-                    50.966106
+                    4.894744,
+                    50.967204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;392;591;707;708",
+                "ref:De_Lijn": "300130",
+                "bus": "yes",
+                "name": "Rillaar Heiken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENBOS RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894363,
+                    50.97002
                 ]
             }
         },
@@ -152,6 +131,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "390;392;591;707;708",
+                "ref:De_Lijn": "300132",
+                "bus": "yes",
+                "name": "Rillaar Heikenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSEWEG RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897023,
+                    50.966106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;392;591;707;708",
                 "ref:De_Lijn": "300133",
                 "bus": "yes",
                 "name": "Rillaar Kabine",
@@ -166,6 +166,27 @@
                 "coordinates": [
                     4.899579,
                     50.961762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306807",
+                "bus": "yes",
+                "name": "Rillaar Marktweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSEWEG RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886646,
+                    50.970054
                 ]
             }
         },
@@ -187,27 +208,6 @@
                 "coordinates": [
                     4.897317,
                     50.970672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390;392;591;707;708",
-                "ref:De_Lijn": "300130",
-                "bus": "yes",
-                "name": "Rillaar Heiken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENBOS RILLAAR",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.894363,
-                    50.97002
                 ]
             }
         }

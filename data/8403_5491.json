@@ -25,6 +25,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "511",
+                "ref:De_Lijn": "302251",
+                "bus": "yes",
+                "name": "Winksele Rond Punt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIPSELAAN WINKSELE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.645876,
+                    50.903548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "285",
                 "ref:De_Lijn": "302003",
                 "bus": "yes",
@@ -46,27 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511",
-                "ref:De_Lijn": "302250",
-                "bus": "yes",
-                "name": "Winksele Rond Punt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIPSELAAN WINKSELE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.645818,
-                    50.903279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "285",
                 "ref:De_Lijn": "302002",
                 "bus": "yes",
@@ -82,6 +82,27 @@
                 "coordinates": [
                     4.6575,
                     50.914235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352;511;522;523;652",
+                "ref:De_Lijn": "302085",
+                "bus": "yes",
+                "name": "Winksele Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VILVOORDSE BAAN WINKSELE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.644893,
+                    50.903092
                 ]
             }
         },
@@ -110,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "511",
-                "ref:De_Lijn": "302251",
+                "ref:De_Lijn": "302250",
                 "bus": "yes",
                 "name": "Winksele Rond Punt",
                 "public_transport": "platform",
@@ -122,29 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.645876,
-                    50.903548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "352;511;522;523;652",
-                "ref:De_Lijn": "302085",
-                "bus": "yes",
-                "name": "Winksele Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VILVOORDSE BAAN WINKSELE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.644893,
-                    50.903092
+                    4.645818,
+                    50.903279
                 ]
             }
         }

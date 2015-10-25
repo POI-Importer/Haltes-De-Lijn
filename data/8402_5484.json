@@ -4,10 +4,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660",
-                "ref:De_Lijn": "308441",
+                "ref:De_Lijn": "306436",
                 "bus": "yes",
                 "name": "Keerbergen Kempenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KEMPENLAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.624214,
+                    51.005752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "660",
+                "ref:De_Lijn": "306591",
+                "bus": "yes",
+                "name": "Keerbergen Bloemenbosdreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MECHELSEBAAN KEERBERGEN",
@@ -17,8 +38,90 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.623799,
-                    51.005546
+                    4.615124,
+                    51.008486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307997",
+                "bus": "yes",
+                "name": "Keerbergen Notelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPESTRAAT KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.629132,
+                    51.001255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306432",
+                "bus": "yes",
+                "name": "Keerbergen Domien Liekenslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EMIEL OPDEBEECKLAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616409,
+                    51.006353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306439",
+                "bus": "yes",
+                "name": "Keerbergen Zandstap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENLAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.63023,
+                    51.006395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;501;503;660",
+                "ref:De_Lijn": "306589",
+                "bus": "yes",
+                "name": "Keerbergen Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TREMELOBAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.63271,
+                    51.004115
                 ]
             }
         },
@@ -40,6 +143,69 @@
                 "coordinates": [
                     4.6294,
                     51.000625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "660",
+                "ref:De_Lijn": "306590",
+                "bus": "yes",
+                "name": "Keerbergen Bloemenbosdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSEBAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.615222,
+                    51.008279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "660",
+                "ref:De_Lijn": "308442",
+                "bus": "yes",
+                "name": "Keerbergen Kempenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSEBAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.624013,
+                    51.005599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;660",
+                "ref:De_Lijn": "302560",
+                "bus": "yes",
+                "name": "Keerbergen Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TREMELOBAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.632738,
+                    51.003998
                 ]
             }
         },
@@ -88,8 +254,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270;503;530;532;533;534;538;539;660",
-                "ref:De_Lijn": "302552",
+                "ref:De_Lijn": "306437",
+                "bus": "yes",
+                "name": "Keerbergen Kempenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KEMPENLAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.624015,
+                    51.005851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "660",
+                "ref:De_Lijn": "306588",
                 "bus": "yes",
                 "name": "Keerbergen Kerk",
                 "public_transport": "platform",
@@ -101,71 +288,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.629064,
-                    51.00433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306432",
-                "bus": "yes",
-                "name": "Keerbergen Domien Liekenslaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "EMIEL OPDEBEECKLAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.616409,
-                    51.006353
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "307998",
-                "bus": "yes",
-                "name": "Keerbergen Notelaar",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PAPESTRAAT KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.62899,
-                    51.001238
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660",
-                "ref:De_Lijn": "306591",
-                "bus": "yes",
-                "name": "Keerbergen Bloemenbosdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSEBAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.615124,
-                    51.008486
+                    4.628367,
+                    51.004439
                 ]
             }
         },
@@ -193,21 +317,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;533;534;538;539;660",
-                "ref:De_Lijn": "306588",
+                "ref:De_Lijn": "306438",
                 "bus": "yes",
-                "name": "Keerbergen Kerk",
+                "name": "Keerbergen Zandstap",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HAACHTSEBAAN KEERBERGEN",
+                "created_by": "KEMPENLAAN KEERBERGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.628367,
-                    51.004439
+                    4.630158,
+                    51.006278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307998",
+                "bus": "yes",
+                "name": "Keerbergen Notelaar",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PAPESTRAAT KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.62899,
+                    51.001238
                 ]
             }
         },
@@ -235,172 +380,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307997",
-                "bus": "yes",
-                "name": "Keerbergen Notelaar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAPESTRAAT KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.629132,
-                    51.001255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306436",
-                "bus": "yes",
-                "name": "Keerbergen Kempenlaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KEMPENLAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.624214,
-                    51.005752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660",
-                "ref:De_Lijn": "306590",
-                "bus": "yes",
-                "name": "Keerbergen Bloemenbosdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSEBAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.615222,
-                    51.008279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306438",
-                "bus": "yes",
-                "name": "Keerbergen Zandstap",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KEMPENLAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.630158,
-                    51.006278
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "270;501;503;530;532;533;534;539;660",
-                "ref:De_Lijn": "306589",
-                "bus": "yes",
-                "name": "Keerbergen Stationsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TREMELOBAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.63271,
-                    51.004115
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306439",
-                "bus": "yes",
-                "name": "Keerbergen Zandstap",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEMPENLAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.63023,
-                    51.006395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660",
-                "ref:De_Lijn": "308442",
-                "bus": "yes",
-                "name": "Keerbergen Kempenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSEBAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.624013,
-                    51.005599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "270;503;530;532;533;534;539;660",
-                "ref:De_Lijn": "302560",
-                "bus": "yes",
-                "name": "Keerbergen Stationsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TREMELOBAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.632738,
-                    51.003998
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "302559",
                 "bus": "yes",
                 "name": "Keerbergen Oudstrijderslaan",
@@ -422,21 +401,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306437",
+                "route_ref:De_Lijn": "660",
+                "ref:De_Lijn": "308441",
                 "bus": "yes",
                 "name": "Keerbergen Kempenlaan",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KEMPENLAAN KEERBERGEN",
+                "created_by": "MECHELSEBAAN KEERBERGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.624015,
-                    51.005851
+                    4.623799,
+                    51.005546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;660",
+                "ref:De_Lijn": "302552",
+                "bus": "yes",
+                "name": "Keerbergen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSEBAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.629064,
+                    51.00433
                 ]
             }
         }

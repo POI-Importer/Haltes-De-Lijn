@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "287",
-                "ref:De_Lijn": "308694",
-                "bus": "yes",
-                "name": "Vilvoorde Keiput",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIPUT HOUTEM (VILVOORDE)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.469096,
-                    50.950874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "287",
                 "ref:De_Lijn": "305250",
                 "bus": "yes",
                 "name": "Vilvoorde Houtem, Vierbunder",
@@ -47,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "287",
-                "ref:De_Lijn": "305242",
+                "ref:De_Lijn": "305241",
                 "bus": "yes",
                 "name": "Vilvoorde Haesendonckstraat",
                 "public_transport": "platform",
@@ -59,8 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.463729,
-                    50.950079
+                    4.4637,
+                    50.949944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "287",
+                "ref:De_Lijn": "308694",
+                "bus": "yes",
+                "name": "Vilvoorde Keiput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIPUT HOUTEM (VILVOORDE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.469096,
+                    50.950874
                 ]
             }
         },
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "287",
-                "ref:De_Lijn": "305241",
+                "ref:De_Lijn": "305242",
                 "bus": "yes",
                 "name": "Vilvoorde Haesendonckstraat",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.4637,
-                    50.949944
+                    4.463729,
+                    50.950079
                 ]
             }
         }

@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "50;57;59",
-                "ref:De_Lijn": "504393",
+                "ref:De_Lijn": "504661",
                 "bus": "yes",
-                "name": "Pollinkhove Dorp",
+                "name": "Pollinkhove Kapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VAARTSTRAAT POLLINKHOVE",
+                "created_by": "POLLINKHOVESTRAAT POLLINKHOVE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.731869,
-                    50.970953
+                    2.732854,
+                    50.968009
                 ]
             }
         },
@@ -40,6 +40,48 @@
                 "coordinates": [
                     2.729699,
                     50.96498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509393",
+                "bus": "yes",
+                "name": "Pollinkhove Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT POLLINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.731596,
+                    50.971012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504396",
+                "bus": "yes",
+                "name": "Pollinkhove Sint-Machuyt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT POLLINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.730007,
+                    50.965137
                 ]
             }
         },
@@ -89,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "50;57;59",
-                "ref:De_Lijn": "509393",
+                "ref:De_Lijn": "504393",
                 "bus": "yes",
                 "name": "Pollinkhove Dorp",
                 "public_transport": "platform",
@@ -101,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.731596,
-                    50.971012
+                    2.731869,
+                    50.970953
                 ]
             }
         },
@@ -124,48 +166,6 @@
                 "coordinates": [
                     2.729194,
                     50.971293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "50;57;59",
-                "ref:De_Lijn": "504661",
-                "bus": "yes",
-                "name": "Pollinkhove Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POLLINKHOVESTRAAT POLLINKHOVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.732854,
-                    50.968009
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "50;57;59",
-                "ref:De_Lijn": "504396",
-                "bus": "yes",
-                "name": "Pollinkhove Sint-Machuyt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDESTRAAT POLLINKHOVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.730007,
-                    50.965137
                 ]
             }
         }

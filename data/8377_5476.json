@@ -4,7 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "204095",
+                "bus": "yes",
+                "name": "Waasmunster Oude Heirweg Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEHEERWEG-HEIDE WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.077963,
+                    51.120525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82",
                 "ref:De_Lijn": "204471",
                 "bus": "yes",
                 "name": "Waasmunster Nederheirweg",
@@ -25,7 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;82;270",
+                "route_ref:De_Lijn": "81;82",
                 "ref:De_Lijn": "205471",
                 "bus": "yes",
                 "name": "Waasmunster Nederheirweg",
@@ -40,27 +60,6 @@
                 "coordinates": [
                     4.066099,
                     51.111012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "270",
-                "ref:De_Lijn": "204095",
-                "bus": "yes",
-                "name": "Waasmunster Oude Heirweg Heide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDEHEERWEG-HEIDE WAASMUNSTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.077963,
-                    51.120525
                 ]
             }
         }

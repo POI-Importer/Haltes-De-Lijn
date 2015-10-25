@@ -4,32 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "405727",
+                "ref:De_Lijn": "410135",
                 "bus": "yes",
-                "name": "Rocourt Chaussée de Tongres 598",
+                "name": "Voroux-Les-Liers Chaussée de Tongres No 60",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES ROCOURT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.542329,
-                    50.681669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404678",
-                "bus": "yes",
-                "name": "Voroux-Les-Liers Chaussée de Tongres 54",
-                "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "CHAUSSÉE DE TONGRES VOROUX-LEZ-LIERS",
                 "operator": "De Lijn",
@@ -40,48 +19,6 @@
                 "coordinates": [
                     5.538464,
                     50.687318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "405726",
-                "bus": "yes",
-                "name": "Rocourt Chaussée de Tongres 598",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES ROCOURT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.542347,
-                    50.681264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404679",
-                "bus": "yes",
-                "name": "Voroux-Les-Liers Chaussée de Tongres 54",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES VOROUX-LEZ-LIERS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.538787,
-                    50.687207
                 ]
             }
         },
@@ -109,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "410135",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "405727",
                 "bus": "yes",
-                "name": "Voroux-Les-Liers Chaussée de Tongres No 60",
+                "name": "Rocourt Chaussée de Tongres 598",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES VOROUX-LEZ-LIERS",
+                "created_by": "CHAUSSÉE DE TONGRES ROCOURT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.538464,
-                    50.687318
+                    5.542329,
+                    50.681669
                 ]
             }
         },
@@ -151,6 +88,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404678",
+                "bus": "yes",
+                "name": "Voroux-Les-Liers Chaussée de Tongres 54",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TONGRES VOROUX-LEZ-LIERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.538464,
+                    50.687318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "410136",
                 "bus": "yes",
                 "name": "Voroux-Les-Liers Chaussée de Tongres No 60",
@@ -166,6 +124,48 @@
                 "coordinates": [
                     5.538787,
                     50.687207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404679",
+                "bus": "yes",
+                "name": "Voroux-Les-Liers Chaussée de Tongres 54",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TONGRES VOROUX-LEZ-LIERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.538787,
+                    50.687207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "405726",
+                "bus": "yes",
+                "name": "Rocourt Chaussée de Tongres 598",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TONGRES ROCOURT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.542347,
+                    50.681264
                 ]
             }
         }

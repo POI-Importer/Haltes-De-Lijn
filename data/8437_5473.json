@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "179;18a",
+                "ref:De_Lijn": "410037",
+                "bus": "yes",
+                "name": "Eksel Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERSTRAAT EKSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.390744,
+                    51.153009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "18a",
                 "ref:De_Lijn": "403601",
                 "bus": "yes",
@@ -26,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "18a",
-                "ref:De_Lijn": "403617",
+                "ref:De_Lijn": "403616",
                 "bus": "yes",
                 "name": "Eksel Winnerstraat",
                 "public_transport": "platform",
@@ -38,28 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.395786,
-                    51.163249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "403614",
-                "bus": "yes",
-                "name": "Eksel Splitsing",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERSTRAAT EKSEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.390744,
-                    51.153009
+                    5.395947,
+                    51.163419
                 ]
             }
         },
@@ -86,21 +87,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18a",
-                "ref:De_Lijn": "403616",
+                "ref:De_Lijn": "403614",
                 "bus": "yes",
-                "name": "Eksel Winnerstraat",
+                "name": "Eksel Splitsing",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OVERPELTERBAAN EKSEL",
+                "created_by": "HEERSTRAAT EKSEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.395947,
-                    51.163419
+                    5.390744,
+                    51.153009
                 ]
             }
         },
@@ -149,21 +149,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "179;18a",
-                "ref:De_Lijn": "410037",
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "403617",
                 "bus": "yes",
-                "name": "Eksel Kerkstraat",
+                "name": "Eksel Winnerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEERSTRAAT EKSEL",
+                "created_by": "OVERPELTERBAAN EKSEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.390744,
-                    51.153009
+                    5.395786,
+                    51.163249
                 ]
             }
         }

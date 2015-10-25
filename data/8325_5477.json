@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505583",
+                "bus": "yes",
+                "name": "Zande Korkentap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORKENTAPSTRAAT ZANDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.925702,
+                    51.108467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "505584",
                 "bus": "yes",
                 "name": "Koekelare Wulfaert",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     2.933444,
                     51.100488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505583",
-                "bus": "yes",
-                "name": "Zande Korkentap",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORKENTAPSTRAAT ZANDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.925702,
-                    51.108467
                 ]
             }
         }

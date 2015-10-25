@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20;24;30",
-                "ref:De_Lijn": "504623",
-                "bus": "yes",
-                "name": "Woumen Plaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WOUMENWEG WOUMEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.86939,
-                    51.001989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;24;30",
                 "ref:De_Lijn": "504631",
                 "bus": "yes",
                 "name": "Woumen Zwarte Dreef",
@@ -47,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20;24;30",
-                "ref:De_Lijn": "509631",
+                "ref:De_Lijn": "504623",
                 "bus": "yes",
-                "name": "Woumen Zwarte Dreef",
+                "name": "Woumen Plaats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WOUMENWEG WOUMEN",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.869158,
-                    51.011462
+                    2.86939,
+                    51.001989
                 ]
             }
         },
@@ -89,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20;24;30",
-                "ref:De_Lijn": "509628",
+                "ref:De_Lijn": "509631",
                 "bus": "yes",
-                "name": "Woumen Warande",
+                "name": "Woumen Zwarte Dreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WOUMENWEG WOUMEN",
@@ -101,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.870054,
-                    51.006646
+                    2.869158,
+                    51.011462
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     2.869679,
                     51.001867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;24;30",
+                "ref:De_Lijn": "509628",
+                "bus": "yes",
+                "name": "Woumen Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOUMENWEG WOUMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.870054,
+                    51.006646
                 ]
             }
         }

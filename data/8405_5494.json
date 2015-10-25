@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;529;537;586;616",
-                "ref:De_Lijn": "303078",
-                "bus": "yes",
-                "name": "Leuven Naamsepoort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.697931,
-                    50.86813
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2",
-                "ref:De_Lijn": "303112",
-                "bus": "yes",
-                "name": "Leuven Sint-Kwintenskerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTRAAT LEUVEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.699262,
-                    50.869627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "178;179;306;318;337;520;521;522;523;524;525;526;529;537;555;558;586;600",
                 "ref:De_Lijn": "303106",
                 "bus": "yes",
@@ -67,8 +25,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "178;318;521;522;523;526;555;558;601",
-                "ref:De_Lijn": "303999",
+                "route_ref:De_Lijn": "7;8;9",
+                "ref:De_Lijn": "302933",
+                "bus": "yes",
+                "name": "Leuven IJzerenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IJZERENMOLENSTRAAT LEUVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.687889,
+                    50.872571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "178;318;521;522;523;526;529;555;558;600",
+                "ref:De_Lijn": "303044",
                 "bus": "yes",
                 "name": "Leuven IJzerenmolenstraat",
                 "public_transport": "platform",
@@ -80,18 +59,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.690434,
-                    50.872798
+                    4.688632,
+                    50.873181
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;537;616",
-                "ref:De_Lijn": "302886",
+                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;529;537;586;616",
+                "ref:De_Lijn": "303078",
                 "bus": "yes",
-                "name": "Heverlee Groenstraat",
+                "name": "Leuven Naamsepoort",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NAAMSESTEENWEG HEVERLEE",
@@ -101,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.696104,
-                    50.86497
+                    4.697931,
+                    50.86813
                 ]
             }
         },
@@ -151,8 +130,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;537;616",
+                "ref:De_Lijn": "302925",
+                "bus": "yes",
+                "name": "Heverlee Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSESTEENWEG HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696034,
+                    50.863011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "1;2",
-                "ref:De_Lijn": "303111",
+                "ref:De_Lijn": "303112",
                 "bus": "yes",
                 "name": "Leuven Sint-Kwintenskerk",
                 "public_transport": "platform",
@@ -164,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.69915,
-                    50.869843
+                    4.699262,
+                    50.869627
                 ]
             }
         },
@@ -193,42 +193,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "178;318;521;522;523;526;529;555;558;600",
-                "ref:De_Lijn": "303044",
+                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;529;537;586;616",
+                "ref:De_Lijn": "302924",
                 "bus": "yes",
-                "name": "Leuven IJzerenmolenstraat",
+                "name": "Heverlee Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TERVUURSEVEST LEUVEN",
+                "created_by": "NAAMSESTEENWEG HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.688632,
-                    50.873181
+                    4.695808,
+                    50.863146
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "179;306;318;337;555;558;600;616",
-                "ref:De_Lijn": "303080",
+                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;537;616",
+                "ref:De_Lijn": "302886",
                 "bus": "yes",
-                "name": "Leuven Naamsepoort",
+                "name": "Heverlee Groenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ERASME RUELENSVEST HEVERLEE",
+                "created_by": "NAAMSESTEENWEG HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.700585,
-                    50.867879
+                    4.696104,
+                    50.86497
                 ]
             }
         },
@@ -256,63 +256,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "337;616",
-                "ref:De_Lijn": "302896",
+                "route_ref:De_Lijn": "7;8;9",
+                "ref:De_Lijn": "307055",
                 "bus": "yes",
-                "name": "Heverlee Kloosterlaan",
+                "name": "Heverlee Groenveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAVERSEBAAN HEVERLEE",
+                "created_by": "IJZERENMOLENSTRAAT LEUVEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.691011,
-                    50.861685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;529;537;586;616",
-                "ref:De_Lijn": "302924",
-                "bus": "yes",
-                "name": "Heverlee Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.695808,
-                    50.863146
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "179;306;318;337;520;524;525;537;555;558;601",
-                "ref:De_Lijn": "303081",
-                "bus": "yes",
-                "name": "Leuven Naamsepoort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVUURSEVEST LEUVEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.69805,
-                    50.868965
+                    4.68439,
+                    50.869812
                 ]
             }
         },
@@ -340,84 +298,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "7;8;9",
-                "ref:De_Lijn": "302934",
+                "route_ref:De_Lijn": "2;520;586;616",
+                "ref:De_Lijn": "301953",
                 "bus": "yes",
-                "name": "Leuven IJzerenmolenstraat",
+                "name": "Heverlee Celestijnenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "IJZERENMOLENSTRAAT LEUVEN",
+                "created_by": "CELESTIJNENLAAN HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.687675,
-                    50.872482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;537;616",
-                "ref:De_Lijn": "302925",
-                "bus": "yes",
-                "name": "Heverlee Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.696034,
-                    50.863011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "337;616",
-                "ref:De_Lijn": "302897",
-                "bus": "yes",
-                "name": "Heverlee Kloosterlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAVERSEBAAN HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.691195,
-                    50.861685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7;8;9",
-                "ref:De_Lijn": "302933",
-                "bus": "yes",
-                "name": "Leuven IJzerenmolenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IJZERENMOLENSTRAAT LEUVEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.687889,
-                    50.872571
+                    4.680932,
+                    50.86467
                 ]
             }
         },
@@ -444,10 +339,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "7;8;9",
-                "ref:De_Lijn": "307055",
+                "route_ref:De_Lijn": "178;318;521;522;523;526;555;558;601",
+                "ref:De_Lijn": "303999",
                 "bus": "yes",
-                "name": "Heverlee Groenveld",
+                "name": "Leuven IJzerenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVUURSEVEST LEUVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.690434,
+                    50.872798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;8;9",
+                "ref:De_Lijn": "302934",
+                "bus": "yes",
+                "name": "Leuven IJzerenmolenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "IJZERENMOLENSTRAAT LEUVEN",
@@ -457,71 +373,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.68439,
-                    50.869812
+                    4.687675,
+                    50.872482
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "2;520;586;616",
-                "ref:De_Lijn": "301953",
+                "ref:De_Lijn": "303045",
                 "bus": "yes",
-                "name": "Heverlee Celestijnenlaan",
+                "name": "Leuven IJzerenmolenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CELESTIJNENLAAN HEVERLEE",
+                "created_by": "TERVUURSEVEST LEUVEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.680932,
-                    50.86467
+                    4.688209,
+                    50.873658
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;537;616",
-                "ref:De_Lijn": "303079",
+                "route_ref:De_Lijn": "337;616",
+                "ref:De_Lijn": "302896",
+                "bus": "yes",
+                "name": "Heverlee Kloosterlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSEBAAN HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691011,
+                    50.861685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "179;306;318;337;555;558;600;616",
+                "ref:De_Lijn": "303080",
                 "bus": "yes",
                 "name": "Leuven Naamsepoort",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG HEVERLEE",
+                "created_by": "ERASME RUELENSVEST HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.697814,
-                    50.867645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;529;537;586;616",
-                "ref:De_Lijn": "302885",
-                "bus": "yes",
-                "name": "Heverlee Groenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.696141,
-                    50.866103
+                    4.700585,
+                    50.867879
                 ]
             }
         },
@@ -549,6 +464,111 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "179;306;318;337;520;524;525;537;555;558;601",
+                "ref:De_Lijn": "303081",
+                "bus": "yes",
+                "name": "Leuven Naamsepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVUURSEVEST LEUVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69805,
+                    50.868965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;616",
+                "ref:De_Lijn": "302897",
+                "bus": "yes",
+                "name": "Heverlee Kloosterlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSEBAAN HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691195,
+                    50.861685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;529;537;586;616",
+                "ref:De_Lijn": "302885",
+                "bus": "yes",
+                "name": "Heverlee Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSESTEENWEG HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696141,
+                    50.866103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;337;520;521;522;523;524;525;526;537;616",
+                "ref:De_Lijn": "303079",
+                "bus": "yes",
+                "name": "Leuven Naamsepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSESTEENWEG HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697814,
+                    50.867645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2",
+                "ref:De_Lijn": "303111",
+                "bus": "yes",
+                "name": "Leuven Sint-Kwintenskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSESTRAAT LEUVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69915,
+                    50.869843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "178;179;306;318;337;520;521;522;523;524;525;526;537;555;558;601",
                 "ref:De_Lijn": "303105",
                 "bus": "yes",
@@ -564,26 +584,6 @@
                 "coordinates": [
                     4.6952,
                     50.869728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "303045",
-                "bus": "yes",
-                "name": "Leuven IJzerenmolenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVUURSEVEST LEUVEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.688209,
-                    50.873658
                 ]
             }
         }

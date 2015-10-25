@@ -26,49 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400356",
-                "bus": "yes",
-                "name": "Balen Schoorheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.195459,
-                    51.15756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400326",
-                "bus": "yes",
-                "name": "Balen J. Marien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONGELBERG BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.186676,
-                    51.16208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400328",
+                "ref:De_Lijn": "400329",
                 "bus": "yes",
                 "name": "Balen Sint-Rochus",
                 "public_transport": "platform",
@@ -80,8 +38,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.193091,
-                    51.165109
+                    5.19292,
+                    51.165137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400283",
+                "bus": "yes",
+                "name": "Balen Industrieterrein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203898,
+                    51.153051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c",
+                "ref:De_Lijn": "400355",
+                "bus": "yes",
+                "name": "Schoor Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOR BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.187465,
+                    51.161418
                 ]
             }
         },
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400329",
+                "ref:De_Lijn": "400328",
                 "bus": "yes",
                 "name": "Balen Sint-Rochus",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.19292,
-                    51.165137
+                    5.193091,
+                    51.165109
                 ]
             }
         },
@@ -152,20 +152,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400283",
+                "ref:De_Lijn": "400326",
                 "bus": "yes",
-                "name": "Balen Industrieterrein",
+                "name": "Balen J. Marien",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
+                "created_by": "ONGELBERG BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.203898,
-                    51.153051
+                    5.186676,
+                    51.16208
                 ]
             }
         },
@@ -193,21 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c",
-                "ref:De_Lijn": "400355",
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400356",
                 "bus": "yes",
-                "name": "Schoor Kapel",
+                "name": "Balen Schoorheide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHOOR BALEN",
+                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.187465,
-                    51.161418
+                    5.195459,
+                    51.15756
                 ]
             }
         }

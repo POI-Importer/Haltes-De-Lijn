@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "745",
-                "ref:De_Lijn": "409471",
-                "bus": "yes",
-                "name": "Neerpelt Larkendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TISSELRIETWEG NEERPELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.446863,
-                    51.257011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409474",
+                "ref:De_Lijn": "409479",
                 "bus": "yes",
-                "name": "Neerpelt Hageheidestraat",
+                "name": "Neerpelt Klaverstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VLASROOTWEG GROTE HEIDE",
+                "created_by": "WEIDENSTRAAT NEERPELT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.432912,
-                    51.254621
+                    5.429146,
+                    51.248389
                 ]
             }
         },
@@ -67,6 +46,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "18a;745",
+                "ref:De_Lijn": "406918",
+                "bus": "yes",
+                "name": "Neerpelt Hageheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLASROOTWEG GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.433014,
+                    51.254692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "409471",
+                "bus": "yes",
+                "name": "Neerpelt Larkendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TISSELRIETWEG NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.446863,
+                    51.257011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "745",
                 "ref:De_Lijn": "409475",
                 "bus": "yes",
@@ -82,6 +103,48 @@
                 "coordinates": [
                     5.429205,
                     51.254753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409473",
+                "bus": "yes",
+                "name": "Neerpelt Vlasrootweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLASROOTWEG GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.437867,
+                    51.255151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409474",
+                "bus": "yes",
+                "name": "Neerpelt Hageheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLASROOTWEG GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.432912,
+                    51.254621
                 ]
             }
         },
@@ -130,21 +193,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18a;745",
-                "ref:De_Lijn": "406918",
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409472",
                 "bus": "yes",
-                "name": "Neerpelt Hageheidestraat",
+                "name": "Neerpelt Larkendreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VLASROOTWEG GROTE HEIDE",
+                "created_by": "TISSELRIETWEG NEERPELT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.433014,
-                    51.254692
+                    5.446828,
+                    51.256751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a;745",
+                "ref:De_Lijn": "406940",
+                "bus": "yes",
+                "name": "Neerpelt Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOCHTERDIJK GROTE HEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43072,
+                    51.252097
                 ]
             }
         },
@@ -152,20 +236,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409479",
+                "ref:De_Lijn": "409477",
                 "bus": "yes",
-                "name": "Neerpelt Klaverstraat",
+                "name": "Neerpelt Kabien",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WEIDENSTRAAT NEERPELT",
+                "created_by": "LOCHTERDIJK GROTE HEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.429146,
-                    51.248389
+                    5.430865,
+                    51.252149
                 ]
             }
         },
@@ -214,69 +298,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409477",
-                "bus": "yes",
-                "name": "Neerpelt Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOCHTERDIJK GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.430865,
-                    51.252149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409473",
-                "bus": "yes",
-                "name": "Neerpelt Vlasrootweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VLASROOTWEG GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.437867,
-                    51.255151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "18a;745",
-                "ref:De_Lijn": "406940",
-                "bus": "yes",
-                "name": "Neerpelt Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOCHTERDIJK GROTE HEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.43072,
-                    51.252097
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "745",
                 "ref:De_Lijn": "409478",
                 "bus": "yes",
@@ -292,27 +313,6 @@
                 "coordinates": [
                     5.429262,
                     51.248451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409472",
-                "bus": "yes",
-                "name": "Neerpelt Larkendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TISSELRIETWEG NEERPELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.446828,
-                    51.256751
                 ]
             }
         }

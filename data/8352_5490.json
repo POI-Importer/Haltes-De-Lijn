@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "83;450",
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209260",
+                "bus": "yes",
+                "name": "Kruishoutem Simaeyrestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.533987,
+                    50.92819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
                 "ref:De_Lijn": "208259",
                 "bus": "yes",
                 "name": "Kruishoutem Trompestraat",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     3.530757,
                     50.920256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "83;450",
-                "ref:De_Lijn": "208260",
-                "bus": "yes",
-                "name": "Kruishoutem Simaeyrestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEINSESTEENWEG KRUISHOUTEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.534256,
-                    50.928246
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "209260",
+                "ref:De_Lijn": "208260",
                 "bus": "yes",
                 "name": "Kruishoutem Simaeyrestraat",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.533987,
-                    50.92819
+                    3.534256,
+                    50.928246
                 ]
             }
         }

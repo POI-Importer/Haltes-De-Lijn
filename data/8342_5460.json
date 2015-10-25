@@ -4,8 +4,28 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "506644",
+                "bus": "yes",
+                "name": "Knokke Kliniek Ter Linden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF JANSDIJK KNOKKE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.303519,
+                    51.338473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "41;44",
-                "ref:De_Lijn": "501432",
+                "ref:De_Lijn": "506432",
                 "bus": "yes",
                 "name": "Westkapelle Korenbloemdreef",
                 "public_transport": "platform",
@@ -17,8 +37,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.297098,
-                    51.332519
+                    3.297167,
+                    51.332007
                 ]
             }
         },
@@ -26,7 +46,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;44",
-                "ref:De_Lijn": "501145",
+                "ref:De_Lijn": "506145",
                 "bus": "yes",
                 "name": "Knokke J. Devischstraat",
                 "public_transport": "platform",
@@ -38,29 +58,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.29737,
-                    51.337519
+                    3.297268,
+                    51.33759
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;44",
-                "ref:De_Lijn": "506150",
+                "ref:De_Lijn": "506599",
                 "bus": "yes",
-                "name": "Knokke Kliniek Ter Linden",
+                "name": "Knokke Het Kalf",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JAN DEVISCHSTRAAT KNOKKE (KNOKKE-HEIST)",
+                "created_by": "GRAAF JANSDIJK KNOKKE (KNOKKE-HEIST)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.302861,
-                    51.338378
+                    3.312863,
+                    51.33844
                 ]
             }
         },
@@ -89,6 +108,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "506150",
+                "bus": "yes",
+                "name": "Knokke Kliniek Ter Linden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN DEVISCHSTRAAT KNOKKE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.302861,
+                    51.338378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44",
                 "ref:De_Lijn": "501150",
                 "bus": "yes",
                 "name": "Knokke Kliniek Ter Linden",
@@ -109,28 +149,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;44",
-                "ref:De_Lijn": "506432",
-                "bus": "yes",
-                "name": "Westkapelle Korenbloemdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAGENDIJK WESTKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.297167,
-                    51.332007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "506644",
+                "ref:De_Lijn": "501644",
                 "bus": "yes",
                 "name": "Knokke Kliniek Ter Linden",
                 "public_transport": "platform",
@@ -142,8 +161,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.303519,
-                    51.338473
+                    3.303693,
+                    51.338412
                 ]
             }
         },
@@ -170,28 +189,8 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "506599",
-                "bus": "yes",
-                "name": "Knokke Het Kalf",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRAAF JANSDIJK KNOKKE (KNOKKE-HEIST)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.312863,
-                    51.33844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "41;44",
-                "ref:De_Lijn": "506145",
+                "ref:De_Lijn": "501145",
                 "bus": "yes",
                 "name": "Knokke J. Devischstraat",
                 "public_transport": "platform",
@@ -203,8 +202,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.297268,
-                    51.33759
+                    3.29737,
+                    51.337519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "501432",
+                "bus": "yes",
+                "name": "Westkapelle Korenbloemdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAGENDIJK WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.297098,
+                    51.332519
                 ]
             }
         },
@@ -226,26 +246,6 @@
                 "coordinates": [
                     3.296599,
                     51.339876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "501644",
-                "bus": "yes",
-                "name": "Knokke Kliniek Ter Linden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRAAF JANSDIJK KNOKKE (KNOKKE-HEIST)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.303693,
-                    51.338412
                 ]
             }
         }

@@ -4,8 +4,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505395",
+                "bus": "yes",
+                "name": "Elverdinge Sint-Jorisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEZINGESTRAAT ELVERDINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.826738,
+                    50.887349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "29;50;51",
-                "ref:De_Lijn": "509079",
+                "ref:De_Lijn": "504079",
                 "bus": "yes",
                 "name": "Elverdinge Brouwerij",
                 "public_transport": "platform",
@@ -17,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.820259,
-                    50.882498
+                    2.820771,
+                    50.882073
                 ]
             }
         },
@@ -47,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "29;50;51",
-                "ref:De_Lijn": "504079",
+                "ref:De_Lijn": "504082",
                 "bus": "yes",
-                "name": "Elverdinge Brouwerij",
+                "name": "Elverdinge Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-LIVINUSSTRAAT ELVERDINGE",
@@ -59,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.820771,
-                    50.882073
+                    2.816949,
+                    50.884172
                 ]
             }
         },
@@ -89,6 +110,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "29;50;51",
+                "ref:De_Lijn": "509079",
+                "bus": "yes",
+                "name": "Elverdinge Brouwerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LIVINUSSTRAAT ELVERDINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.820259,
+                    50.882498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;50;51",
                 "ref:De_Lijn": "504081",
                 "bus": "yes",
                 "name": "Elverdinge Kemmelbeek",
@@ -103,48 +145,6 @@
                 "coordinates": [
                     2.815486,
                     50.88587
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "29",
-                "ref:De_Lijn": "505395",
-                "bus": "yes",
-                "name": "Elverdinge Sint-Jorisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEZINGESTRAAT ELVERDINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.826738,
-                    50.887349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "29;50;51",
-                "ref:De_Lijn": "504082",
-                "bus": "yes",
-                "name": "Elverdinge Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-LIVINUSSTRAAT ELVERDINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.816949,
-                    50.884172
                 ]
             }
         },

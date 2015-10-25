@@ -25,51 +25,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "501164",
-                "zone:De_Lijn": "14",
-                "name": "Duinbergen Watertoren",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ARCADELAAN DUINBERGEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.268532,
-                    51.341489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "501640",
-                "bus": "yes",
-                "name": "Duinbergen Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KNOKKESTRAAT DUINBERGEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.263224,
-                    51.339606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "506149",
+                "ref:De_Lijn": "506148",
                 "bus": "yes",
                 "name": "Knokke Haagwinde",
                 "public_transport": "platform",
@@ -81,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.270289,
-                    51.340013
+                    3.270272,
+                    51.340139
                 ]
             }
         },
@@ -90,21 +47,21 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506164",
+                "ref:De_Lijn": "501114",
                 "zone:De_Lijn": "14",
-                "name": "Duinbergen Watertoren",
+                "name": "Duinbergen Duinbergen",
                 "public_transport": "platform",
                 "railway": "tram_stop",
                 "tram": "yes",
-                "created_by": "ARCADELAAN DUINBERGEN",
+                "created_by": "ELIZABETLAAN DUINBERGEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.268807,
-                    51.341402
+                    3.261259,
+                    51.340747
                 ]
             }
         },
@@ -154,21 +111,22 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "506148",
-                "bus": "yes",
-                "name": "Knokke Haagwinde",
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506164",
+                "zone:De_Lijn": "14",
+                "name": "Duinbergen Watertoren",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KNOKKESTRAAT DUINBERGEN",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ARCADELAAN DUINBERGEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.270272,
-                    51.340139
+                    3.268807,
+                    51.341402
                 ]
             }
         },
@@ -196,22 +154,64 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "501114",
-                "zone:De_Lijn": "14",
-                "name": "Duinbergen Duinbergen",
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "506149",
+                "bus": "yes",
+                "name": "Knokke Haagwinde",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ELIZABETLAAN DUINBERGEN",
+                "highway": "bus_stop",
+                "created_by": "KNOKKESTRAAT DUINBERGEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.261259,
-                    51.340747
+                    3.270289,
+                    51.340013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501164",
+                "zone:De_Lijn": "14",
+                "name": "Duinbergen Watertoren",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ARCADELAAN DUINBERGEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.268532,
+                    51.341489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "501640",
+                "bus": "yes",
+                "name": "Duinbergen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKKESTRAAT DUINBERGEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.263224,
+                    51.339606
                 ]
             }
         }

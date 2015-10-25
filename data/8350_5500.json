@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;85;92",
-                "ref:De_Lijn": "508835",
-                "bus": "yes",
-                "name": "Waarmaarde Sint-Elooi",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENAARDSESTEENWEG WAARMAARDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.487048,
-                    50.791611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "66;85;92",
+                "route_ref:De_Lijn": "85;92",
                 "ref:De_Lijn": "509816",
                 "bus": "yes",
                 "name": "Avelgem Den Ast",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;85;92;470",
+                "route_ref:De_Lijn": "66;85;92",
                 "ref:De_Lijn": "504816",
                 "bus": "yes",
                 "name": "Avelgem Den Ast",
@@ -67,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;85;92;470",
+                "route_ref:De_Lijn": "66;85;92",
                 "ref:De_Lijn": "503835",
                 "bus": "yes",
                 "name": "Waarmaarde Sint-Elooi",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.486488,
                     50.791229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;92",
+                "ref:De_Lijn": "508835",
+                "bus": "yes",
+                "name": "Waarmaarde Sint-Elooi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG WAARMAARDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.487048,
+                    50.791611
                 ]
             }
         }

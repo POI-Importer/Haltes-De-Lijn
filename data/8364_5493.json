@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "45;81",
-                "ref:De_Lijn": "209440",
-                "bus": "yes",
-                "name": "Velzeke Velzekestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.788608,
-                    50.887866
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;81",
                 "ref:De_Lijn": "209439",
                 "bus": "yes",
                 "name": "Velzeke Dorp",
@@ -46,112 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;440",
-                "ref:De_Lijn": "208672",
-                "bus": "yes",
-                "name": "Velzeke Urnenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "URNENSTRAAT VELZEKE-RUDDERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.788374,
-                    50.88497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "420;440",
-                "ref:De_Lijn": "208673",
-                "bus": "yes",
-                "name": "Velzeke Lippenseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIPPENSEWEG VELZEKE-RUDDERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.798148,
-                    50.886384
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;81;420;440",
-                "ref:De_Lijn": "208439",
-                "bus": "yes",
-                "name": "Velzeke Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.781869,
-                    50.885747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "420;440",
-                "ref:De_Lijn": "208668",
-                "bus": "yes",
-                "name": "Velzeke Blarenhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELZEKESTRAAT VELZEKE-RUDDERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.793504,
-                    50.881489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;420;440",
-                "ref:De_Lijn": "208669",
-                "bus": "yes",
-                "name": "Velzeke Sint-Franciscus Ziekenhuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PENITENTENLAAN VELZEKE-RUDDERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.780768,
-                    50.881732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;81;420;440",
+                "route_ref:De_Lijn": "45;81",
                 "ref:De_Lijn": "208440",
                 "bus": "yes",
                 "name": "Velzeke Velzekestraat",
@@ -172,7 +46,109 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;440",
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "208669",
+                "bus": "yes",
+                "name": "Velzeke Sint-Franciscus Ziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PENITENTENLAAN VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.780768,
+                    50.881732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "209440",
+                "bus": "yes",
+                "name": "Velzeke Velzekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.788608,
+                    50.887866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208668",
+                "bus": "yes",
+                "name": "Velzeke Blarenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELZEKESTRAAT VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.793504,
+                    50.881489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "208439",
+                "bus": "yes",
+                "name": "Velzeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.781869,
+                    50.885747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208673",
+                "bus": "yes",
+                "name": "Velzeke Lippenseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIPPENSEWEG VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.798148,
+                    50.886384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "208671",
                 "bus": "yes",
                 "name": "Velzeke Romeins Plein",
@@ -187,6 +163,26 @@
                 "coordinates": [
                     3.780872,
                     50.883674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208672",
+                "bus": "yes",
+                "name": "Velzeke Urnenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "URNENSTRAAT VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.788374,
+                    50.88497
                 ]
             }
         }

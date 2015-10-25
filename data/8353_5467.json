@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62;195",
-                "ref:De_Lijn": "202234",
-                "bus": "yes",
-                "name": "Sint-Margriete Groeneweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.53867,
-                    51.246681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "62",
                 "ref:De_Lijn": "203234",
                 "bus": "yes",
@@ -46,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200931",
                 "bus": "yes",
                 "name": "Sint-Laureins Langeweg",
@@ -61,6 +39,26 @@
                 "coordinates": [
                     3.556639,
                     51.245313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202234",
+                "bus": "yes",
+                "name": "Sint-Margriete Groeneweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.53867,
+                    51.246681
                 ]
             }
         }

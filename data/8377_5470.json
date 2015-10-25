@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
-                "ref:De_Lijn": "205762",
-                "bus": "yes",
-                "name": "Sint-Pauwels Bagoniewijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VLASROOTSTRAAT SINT-PAUWELS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.070037,
-                    51.198725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;42;43;240",
+                "route_ref:De_Lijn": "41;42;43",
                 "ref:De_Lijn": "204374",
                 "bus": "yes",
                 "name": "Sint-Pauwels Bagonielaan",
@@ -46,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
                 "ref:De_Lijn": "204418",
                 "bus": "yes",
                 "name": "Stekene Dauwstraat",
@@ -67,7 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;42;43;240",
+                "route_ref:De_Lijn": "41;42;43",
                 "ref:De_Lijn": "205374",
                 "bus": "yes",
                 "name": "Sint-Pauwels Bagonielaan",
@@ -82,6 +60,26 @@
                 "coordinates": [
                     4.082409,
                     51.19924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205762",
+                "bus": "yes",
+                "name": "Sint-Pauwels Bagoniewijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLASROOTSTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.070037,
+                    51.198725
                 ]
             }
         }

@@ -4,31 +4,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213;214;572;820",
-                "ref:De_Lijn": "300295",
+                "route_ref:De_Lijn": "572;820",
+                "ref:De_Lijn": "300274",
                 "bus": "yes",
-                "name": "Zellik Maalbeek",
+                "name": "Groot-Bijgaarden Industrie",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG ZELLIK",
+                "created_by": "N9J GROOT-BIJGAARDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.278934,
-                    50.880354
+                    4.272527,
+                    50.880007
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213;214;572;820",
-                "ref:De_Lijn": "300288",
+                "route_ref:De_Lijn": "213;214",
+                "ref:De_Lijn": "300301",
                 "bus": "yes",
-                "name": "Zellik Drie Koningen",
+                "name": "Zellik Pleinstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSESTEENWEG ZELLIK",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.272217,
-                    50.885454
+                    4.282478,
+                    50.877471
                 ]
             }
         },
@@ -67,6 +67,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "213;214;572;820",
+                "ref:De_Lijn": "307477",
+                "bus": "yes",
+                "name": "Zellik Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.274565,
+                    50.883955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;214;243;572;820",
+                "ref:De_Lijn": "307475",
+                "bus": "yes",
+                "name": "Zellik Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.268133,
+                    50.88804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;214;572;820",
+                "ref:De_Lijn": "300288",
+                "bus": "yes",
+                "name": "Zellik Drie Koningen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.272217,
+                    50.885454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "213;214",
                 "ref:De_Lijn": "300300",
                 "bus": "yes",
@@ -82,6 +145,111 @@
                 "coordinates": [
                     4.284298,
                     50.876546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;214;243;572;820",
+                "ref:De_Lijn": "306045",
+                "bus": "yes",
+                "name": "Zellik Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.268162,
+                    50.887869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;214;572;820",
+                "ref:De_Lijn": "307476",
+                "bus": "yes",
+                "name": "Zellik Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.274877,
+                    50.884153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306090",
+                "bus": "yes",
+                "name": "Zellik Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.266625,
+                    50.888839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "572;820",
+                "ref:De_Lijn": "300333",
+                "bus": "yes",
+                "name": "Zellik Brandweer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS SCHACHTSTRAAT ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.278822,
+                    50.879787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "572;820",
+                "ref:De_Lijn": "300275",
+                "bus": "yes",
+                "name": "Groot-Bijgaarden Industrie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N9J GROOT-BIJGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.272499,
+                    50.879809
                 ]
             }
         },
@@ -130,10 +298,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213;214",
-                "ref:De_Lijn": "300301",
+                "route_ref:De_Lijn": "213;214;572;820",
+                "ref:De_Lijn": "300295",
                 "bus": "yes",
-                "name": "Zellik Pleinstraat",
+                "name": "Zellik Maalbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSESTEENWEG ZELLIK",
@@ -143,18 +311,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.282478,
-                    50.877471
+                    4.278934,
+                    50.880354
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213;214;243;572;820",
-                "ref:De_Lijn": "300287",
+                "route_ref:De_Lijn": "213;214;572;820",
+                "ref:De_Lijn": "300296",
                 "bus": "yes",
-                "name": "Zellik Drie Koningen",
+                "name": "Zellik Maalbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSESTEENWEG ZELLIK",
@@ -164,50 +332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.272459,
-                    50.885464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;214;243;572;820",
-                "ref:De_Lijn": "307475",
-                "bus": "yes",
-                "name": "Zellik Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG ZELLIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.268133,
-                    50.88804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "572;820",
-                "ref:De_Lijn": "300274",
-                "bus": "yes",
-                "name": "Groot-Bijgaarden Industrie",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N9J GROOT-BIJGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.272527,
-                    50.880007
+                    4.278807,
+                    50.880273
                 ]
             }
         },
@@ -236,9 +362,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "213;214;243;572;820",
-                "ref:De_Lijn": "306045",
+                "ref:De_Lijn": "300287",
                 "bus": "yes",
-                "name": "Zellik Dorp",
+                "name": "Zellik Drie Koningen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSESTEENWEG ZELLIK",
@@ -248,134 +374,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.268162,
-                    50.887869
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "572;820",
-                "ref:De_Lijn": "300333",
-                "bus": "yes",
-                "name": "Zellik Brandweer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FRANS SCHACHTSTRAAT ZELLIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.278822,
-                    50.879787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306090",
-                "bus": "yes",
-                "name": "Zellik Dorp",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG ZELLIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.266625,
-                    50.888839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;214;572;820",
-                "ref:De_Lijn": "307476",
-                "bus": "yes",
-                "name": "Zellik Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG ZELLIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.274877,
-                    50.884153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;214;572;820",
-                "ref:De_Lijn": "300296",
-                "bus": "yes",
-                "name": "Zellik Maalbeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG ZELLIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.278807,
-                    50.880273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "572;820",
-                "ref:De_Lijn": "300275",
-                "bus": "yes",
-                "name": "Groot-Bijgaarden Industrie",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N9J GROOT-BIJGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.272499,
-                    50.879809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;214;572;820",
-                "ref:De_Lijn": "307477",
-                "bus": "yes",
-                "name": "Zellik Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG ZELLIK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.274565,
-                    50.883955
+                    4.272459,
+                    50.885464
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
                 "ref:De_Lijn": "203719",
                 "bus": "yes",
                 "name": "De Pinte Klossestraat",
@@ -25,27 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "208333",
-                "bus": "yes",
-                "name": "Zwijnaarde Vogelheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOSSEBOS ZWIJNAARDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.68325,
-                    51.000073
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "145",
                 "ref:De_Lijn": "200386",
                 "bus": "yes",
                 "name": "De Pinte Hemelrijkstraat",
@@ -60,6 +38,26 @@
                 "coordinates": [
                     3.67256,
                     51.006196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208333",
+                "bus": "yes",
+                "name": "Zwijnaarde Vogelheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOSSEBOS ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.68325,
+                    51.000073
                 ]
             }
         }

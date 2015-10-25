@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;88",
-                "ref:De_Lijn": "504771",
-                "bus": "yes",
-                "name": "Dentergem Kapittelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPITTELSTRAAT DENTERGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.429211,
-                    50.963467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73;77;88",
                 "ref:De_Lijn": "505084",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.428016,
                     50.968375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;88",
+                "ref:De_Lijn": "504771",
+                "bus": "yes",
+                "name": "Dentergem Kapittelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPITTELSTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.429211,
+                    50.963467
                 ]
             }
         }

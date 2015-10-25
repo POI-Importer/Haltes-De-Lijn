@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402938",
+                "bus": "yes",
+                "name": "Schulen Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT BERBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211391,
+                    50.961665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "91;35c",
                 "ref:De_Lijn": "405982",
                 "bus": "yes",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "402939",
+                "route_ref:De_Lijn": "91;35c",
+                "ref:De_Lijn": "405980",
                 "bus": "yes",
-                "name": "Schulen Broekstraat",
+                "name": "Lummen Stokrooiestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BROEKSTRAAT BERBROEK",
+                "created_by": "THIEWINKELSTRAAT TIEWINKEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.211276,
-                    50.96163
+                    5.22919,
+                    50.969699
                 ]
             }
         },
@@ -68,48 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "91;35c",
-                "ref:De_Lijn": "405980",
-                "bus": "yes",
-                "name": "Lummen Stokrooiestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "THIEWINKELSTRAAT TIEWINKEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.22919,
-                    50.969699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "402938",
-                "bus": "yes",
-                "name": "Schulen Broekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKSTRAAT BERBROEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.211391,
-                    50.961665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;35c",
                 "ref:De_Lijn": "405981",
                 "bus": "yes",
                 "name": "Lummen Stokrooiestraat",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     5.22873,
                     50.970223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402939",
+                "bus": "yes",
+                "name": "Schulen Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT BERBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211276,
+                    50.96163
                 ]
             }
         }

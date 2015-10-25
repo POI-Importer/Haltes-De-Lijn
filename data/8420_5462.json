@@ -4,50 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;455;456;480",
-                "ref:De_Lijn": "109380",
-                "bus": "yes",
-                "name": "Oud-Turnhout Engelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE STAATSBAAN ZWANEVEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.025002,
-                    51.3093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;455;456;480",
-                "ref:De_Lijn": "109377",
-                "bus": "yes",
-                "name": "Oud-Turnhout Oude Retiese baan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N139 ZWANEVEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.019787,
-                    51.305589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "381;430;436;437;455;456;480",
-                "ref:De_Lijn": "107549",
+                "ref:De_Lijn": "107551",
                 "bus": "yes",
                 "name": "Oud-Turnhout Lentedreef",
                 "public_transport": "platform",
@@ -59,36 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.015399,
-                    51.304544
+                    5.015643,
+                    51.304578
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "381;455;456;480",
-                "ref:De_Lijn": "109376",
-                "bus": "yes",
-                "name": "Oud-Turnhout Oude Retiese baan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE STAATSBAAN ZWANEVEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.020422,
-                    51.305855
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "381;455;456;480",
                 "ref:De_Lijn": "109381",
                 "bus": "yes",
                 "name": "Oud-Turnhout Engelstraat",
@@ -109,8 +44,67 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;382;430;436;455;456;480",
-                "ref:De_Lijn": "107551",
+                "ref:De_Lijn": "109380",
+                "bus": "yes",
+                "name": "Oud-Turnhout Engelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STAATSBAAN ZWANEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.025002,
+                    51.3093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109376",
+                "bus": "yes",
+                "name": "Oud-Turnhout Oude Retiese baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STAATSBAAN ZWANEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.020422,
+                    51.305855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109377",
+                "bus": "yes",
+                "name": "Oud-Turnhout Oude Retiese baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N139 ZWANEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.019787,
+                    51.305589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107549",
                 "bus": "yes",
                 "name": "Oud-Turnhout Lentedreef",
                 "public_transport": "platform",
@@ -122,8 +116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.015643,
-                    51.304578
+                    5.015399,
+                    51.304544
                 ]
             }
         }

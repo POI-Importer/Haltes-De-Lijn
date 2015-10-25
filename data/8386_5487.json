@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "251",
-                "ref:De_Lijn": "303800",
-                "bus": "yes",
-                "name": "Wolvertem Rossemhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEILINGLAAN WOLVERTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.28285,
-                    50.969818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "251",
                 "ref:De_Lijn": "303801",
                 "bus": "yes",
                 "name": "Wolvertem Rossemhoek",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     4.283079,
                     50.969495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "303800",
+                "bus": "yes",
+                "name": "Wolvertem Rossemhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEILINGLAAN WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.28285,
+                    50.969818
                 ]
             }
         }

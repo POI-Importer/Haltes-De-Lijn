@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;88",
-                "ref:De_Lijn": "505127",
-                "bus": "yes",
-                "name": "Meulebeke Sint-Amand",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEULEBEKESTEENWEG OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.316744,
-                    50.928038
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "59;68;81;88",
                 "ref:De_Lijn": "503661",
                 "bus": "yes",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     3.308002,
                     50.917639
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505128",
-                "bus": "yes",
-                "name": "Meulebeke Turkijenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-AMANDSTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.30358,
-                    50.923253
                 ]
             }
         },
@@ -103,6 +61,48 @@
                 "coordinates": [
                     3.309166,
                     50.930361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "505127",
+                "bus": "yes",
+                "name": "Meulebeke Sint-Amand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBEKESTEENWEG OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.316744,
+                    50.928038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505128",
+                "bus": "yes",
+                "name": "Meulebeke Turkijenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-AMANDSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.30358,
+                    50.923253
                 ]
             }
         }

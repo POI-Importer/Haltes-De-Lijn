@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "501636",
-                "bus": "yes",
-                "name": "Raversijde Vloc",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.857229,
-                    51.201426
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "6;86",
                 "ref:De_Lijn": "501373",
                 "bus": "yes",
@@ -67,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "501637",
-                "bus": "yes",
-                "name": "Raversijde Vloc",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.856951,
-                    51.201179
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "6;86",
                 "ref:De_Lijn": "501374",
                 "bus": "yes",
@@ -103,6 +61,27 @@
                 "coordinates": [
                     2.865651,
                     51.205201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501637",
+                "bus": "yes",
+                "name": "Raversijde Vloc",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.856951,
+                    51.201179
                 ]
             }
         },
@@ -145,6 +124,27 @@
                 "coordinates": [
                     2.864936,
                     51.204743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501636",
+                "bus": "yes",
+                "name": "Raversijde Vloc",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.857229,
+                    51.201426
                 ]
             }
         }

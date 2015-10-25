@@ -4,27 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206857",
-                "bus": "yes",
-                "name": "Onkerzele Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONKERZELESTRAAT ONKERZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.912248,
-                    50.782971
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;370",
+                "route_ref:De_Lijn": "76",
                 "ref:De_Lijn": "208626",
                 "bus": "yes",
                 "name": "Onkerzele Provinciaal Domein De Gavers Ingang",
@@ -46,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "76",
-                "ref:De_Lijn": "209625",
-                "bus": "yes",
-                "name": "Onkerzele Bosstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONKERZELESTRAAT ONKERZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.916845,
-                    50.785694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;370",
                 "ref:De_Lijn": "208627",
                 "bus": "yes",
                 "name": "Onkerzele Provinciaal Domein De Gavers Camping",
@@ -87,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;370",
+                "route_ref:De_Lijn": "76",
                 "ref:De_Lijn": "207857",
                 "bus": "yes",
                 "name": "Onkerzele Kerk",
@@ -108,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;370",
+                "route_ref:De_Lijn": "76",
                 "ref:De_Lijn": "208625",
                 "bus": "yes",
                 "name": "Onkerzele Bosstraat",
@@ -165,6 +124,47 @@
                 "coordinates": [
                     3.924275,
                     50.790317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "209625",
+                "bus": "yes",
+                "name": "Onkerzele Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONKERZELESTRAAT ONKERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916845,
+                    50.785694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206857",
+                "bus": "yes",
+                "name": "Onkerzele Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONKERZELESTRAAT ONKERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.912248,
+                    50.782971
                 ]
             }
         }

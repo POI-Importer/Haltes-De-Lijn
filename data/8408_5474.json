@@ -4,70 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "513;943",
-                "ref:De_Lijn": "108232",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107094",
                 "bus": "yes",
-                "name": "Herenthout Gelderstraat",
+                "name": "Herenthout Keulemansstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOUWELSE STEENWEG HERENTHOUT",
+                "created_by": "JODENSTRAAT HERENTHOUT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.754244,
-                    51.143
+                    4.751602,
+                    51.13802
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;943",
-                "ref:De_Lijn": "108202",
-                "bus": "yes",
-                "name": "Herenthout J. Cardijnlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT HERENTHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.762439,
-                    51.140528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;943",
-                "ref:De_Lijn": "108201",
-                "bus": "yes",
-                "name": "Herenthout J. Cardijnlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT HERENTHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.762567,
-                    51.14042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;513;943",
                 "ref:De_Lijn": "108198",
                 "bus": "yes",
                 "name": "Herenthout Markt",
@@ -110,6 +67,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108202",
+                "bus": "yes",
+                "name": "Herenthout J. Cardijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.762439,
+                    51.140528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "101837",
                 "bus": "yes",
                 "name": "Herenthout Zwanenberg",
@@ -130,29 +108,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "151;943",
-                "ref:De_Lijn": "107094",
-                "bus": "yes",
-                "name": "Herenthout Keulemansstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JODENSTRAAT HERENTHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.751602,
-                    51.13802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "513;943",
-                "ref:De_Lijn": "108233",
+                "ref:De_Lijn": "108232",
                 "bus": "yes",
                 "name": "Herenthout Gelderstraat",
                 "public_transport": "platform",
@@ -164,15 +120,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.754113,
-                    51.142794
+                    4.754244,
+                    51.143
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "151;943",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108199",
+                "bus": "yes",
+                "name": "Herenthout Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERMARKT HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.756498,
+                    51.139173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107096",
                 "bus": "yes",
                 "name": "Herenthout Keulemansstraat",
@@ -193,21 +169,40 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "151;511;513;943",
-                "ref:De_Lijn": "108199",
+                "ref:De_Lijn": "108201",
                 "bus": "yes",
-                "name": "Herenthout Markt",
+                "name": "Herenthout J. Cardijnlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOTERMARKT HERENTHOUT",
+                "created_by": "MOLENSTRAAT HERENTHOUT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.756498,
-                    51.139173
+                    4.762567,
+                    51.14042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108233",
+                "bus": "yes",
+                "name": "Herenthout Gelderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUWELSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.754113,
+                    51.142794
                 ]
             }
         }

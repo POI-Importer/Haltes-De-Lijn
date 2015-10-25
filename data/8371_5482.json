@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130;355",
-                "ref:De_Lijn": "206826",
-                "bus": "yes",
-                "name": "Uitbergen Groenendijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT OVERMERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.948898,
-                    51.03209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "207827",
                 "bus": "yes",
                 "name": "Overmere Duivendreef",
@@ -46,7 +25,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "207826",
+                "bus": "yes",
+                "name": "Uitbergen Groenendijk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.948923,
+                    51.032476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "206827",
                 "bus": "yes",
                 "name": "Overmere Duivendreef",
@@ -67,11 +66,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "207826",
+                "ref:De_Lijn": "206826",
                 "bus": "yes",
                 "name": "Uitbergen Groenendijk",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "MOLENSTRAAT OVERMERE",
                 "operator": "De Lijn",
@@ -80,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.948923,
-                    51.032476
+                    3.948898,
+                    51.03209
                 ]
             }
         }

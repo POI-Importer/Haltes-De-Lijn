@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;270",
+                "route_ref:De_Lijn": "21",
                 "ref:De_Lijn": "204233",
                 "bus": "yes",
                 "name": "Waasmunster Korte Heesdonkstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;270",
+                "route_ref:De_Lijn": "21",
                 "ref:De_Lijn": "205233",
                 "bus": "yes",
                 "name": "Waasmunster Korte Heesdonkstraat",

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;64;79",
-                "ref:De_Lijn": "507495",
-                "bus": "yes",
-                "name": "Torhout Hof Van Engeland",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTENDESTRAAT TORHOUT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.090484,
-                    51.069085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "56;64;79",
                 "ref:De_Lijn": "507499",
                 "bus": "yes",
@@ -47,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;64;79",
+                "ref:De_Lijn": "507495",
+                "bus": "yes",
+                "name": "Torhout Hof Van Engeland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.090484,
+                    51.069085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;64;79",
                 "ref:De_Lijn": "507503",
                 "bus": "yes",
                 "name": "Torhout Maagdeveld",
@@ -61,6 +61,27 @@
                 "coordinates": [
                     3.080379,
                     51.072292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;64;79",
+                "ref:De_Lijn": "502499",
+                "bus": "yes",
+                "name": "Torhout Kliniek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-REMBERTLAAN TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.097059,
+                    51.06974
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     3.09747,
                     51.079292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;64;79",
-                "ref:De_Lijn": "502499",
-                "bus": "yes",
-                "name": "Torhout Kliniek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-REMBERTLAAN TORHOUT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.097059,
-                    51.06974
                 ]
             }
         },

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53",
-                "ref:De_Lijn": "506383",
-                "bus": "yes",
-                "name": "Slijpe Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKSMUIDESTRAAT SLIJPE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.84973,
-                    51.153105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "53;66",
                 "ref:De_Lijn": "501381",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.847392,
                     51.155089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "506383",
+                "bus": "yes",
+                "name": "Slijpe Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT SLIJPE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.84973,
+                    51.153105
                 ]
             }
         }

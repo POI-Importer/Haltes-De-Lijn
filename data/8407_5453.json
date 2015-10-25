@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;600;602;620;935",
                 "ref:De_Lijn": "105617",
                 "bus": "yes",
                 "name": "Meer Dreefweg",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;600;602;620;935",
                 "ref:De_Lijn": "105616",
                 "bus": "yes",
                 "name": "Meer Dreefweg",

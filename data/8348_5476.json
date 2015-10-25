@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;87;185",
+                "route_ref:De_Lijn": "64;87",
                 "ref:De_Lijn": "202296",
                 "bus": "yes",
                 "name": "Aalter Weststraat",

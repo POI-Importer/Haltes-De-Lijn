@@ -25,52 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370;374;376;390;591",
-                "ref:De_Lijn": "304997",
+                "route_ref:De_Lijn": "370;376;390;475;552;591",
+                "ref:De_Lijn": "305031",
                 "bus": "yes",
-                "name": "Tielt-Winge Blerebergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLEREBERGSTRAAT KRAASBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.912234,
-                    50.924991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "305029",
-                "bus": "yes",
-                "name": "Tielt-Winge Stelplaats Perron 5",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG KRAASBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.911435,
-                    50.921039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "374;591",
-                "ref:De_Lijn": "305028",
-                "bus": "yes",
-                "name": "Tielt-Winge Stelplaats Perron 3",
+                "name": "Tielt-Winge Stelplaats Perron 2",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LEUVENSESTEENWEG KRAASBEEK",
@@ -80,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.91122,
-                    50.920941
+                    4.911406,
+                    50.921021
                 ]
             }
         },
@@ -109,6 +67,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "370;374;376;390;591",
+                "ref:De_Lijn": "304997",
+                "bus": "yes",
+                "name": "Tielt-Winge Blerebergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLEREBERGSTRAAT KRAASBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.912234,
+                    50.924991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;591",
+                "ref:De_Lijn": "305028",
+                "bus": "yes",
+                "name": "Tielt-Winge Stelplaats Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG KRAASBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.91122,
+                    50.920941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;392;475;524",
+                "ref:De_Lijn": "305030",
+                "bus": "yes",
+                "name": "Tielt-Winge Stelplaats Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG KRAASBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.911377,
+                    50.921013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "552",
                 "ref:De_Lijn": "305002",
                 "bus": "yes",
@@ -130,10 +151,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370;376;390;475;552;591",
-                "ref:De_Lijn": "305031",
+                "route_ref:De_Lijn": "375;390;391;392;552",
+                "ref:De_Lijn": "305027",
                 "bus": "yes",
-                "name": "Tielt-Winge Stelplaats Perron 2",
+                "name": "Tielt-Winge Stelplaats Perron 4",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LEUVENSESTEENWEG KRAASBEEK",
@@ -143,8 +164,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.911406,
-                    50.921021
+                    4.911449,
+                    50.921048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305029",
+                "bus": "yes",
+                "name": "Tielt-Winge Stelplaats Perron 5",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG KRAASBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.911435,
+                    50.921039
                 ]
             }
         },
@@ -187,48 +229,6 @@
                 "coordinates": [
                     4.912274,
                     50.924739
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "375;390;391;392;552",
-                "ref:De_Lijn": "305027",
-                "bus": "yes",
-                "name": "Tielt-Winge Stelplaats Perron 4",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG KRAASBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.911449,
-                    50.921048
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;392;475;524",
-                "ref:De_Lijn": "305030",
-                "bus": "yes",
-                "name": "Tielt-Winge Stelplaats Perron 1",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG KRAASBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.911377,
-                    50.921013
                 ]
             }
         }

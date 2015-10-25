@@ -5,6 +5,47 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "303877",
+                "bus": "yes",
+                "name": "Puurs Haagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTERSTRAAT KALFORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.319816,
+                    51.059487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107538",
+                "bus": "yes",
+                "name": "Puurs Pfizer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.311719,
+                    51.067286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260",
                 "ref:De_Lijn": "303878",
                 "bus": "yes",
                 "name": "Puurs Haagstraat",
@@ -46,94 +87,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "303877",
+                "ref:De_Lijn": "102652",
                 "bus": "yes",
-                "name": "Puurs Haagstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LICHTERSTRAAT KALFORT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.319816,
-                    51.059487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "107537",
-                "bus": "yes",
-                "name": "Puurs Pfizer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG KALFORT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.311819,
-                    51.067358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "104446",
-                "bus": "yes",
-                "name": "Puurs Alcon Couvreur",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG KALFORT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.316544,
-                    51.064591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "107536",
-                "bus": "yes",
-                "name": "Puurs Campbell Foods",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.322909,
-                    51.061852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "104582",
-                "bus": "yes",
-                "name": "Puurs Pullaar",
+                "name": "Ruisbroek Pullaarsteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PULLAAR BREENDONK",
@@ -143,8 +99,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.326872,
-                    51.064739
+                    4.324515,
+                    51.068388
                 ]
             }
         },
@@ -172,21 +128,80 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "303881",
+                "ref:De_Lijn": "104447",
                 "bus": "yes",
-                "name": "Puurs Transversale Weg",
+                "name": "Puurs Alcon Couvreur",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LICHTERSTRAAT KALFORT",
+                "created_by": "RIJKSWEG KALFORT",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.307298,
-                    51.06563
+                    4.316629,
+                    51.064645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103061",
+                "bus": "yes",
+                "name": "Puurs Brabantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.319226,
+                    51.064395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104446",
+                "bus": "yes",
+                "name": "Puurs Alcon Couvreur",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.316544,
+                    51.064591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104582",
+                "bus": "yes",
+                "name": "Puurs Pullaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PULLAAR BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.326872,
+                    51.064739
                 ]
             }
         },
@@ -214,42 +229,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "303880",
+                "ref:De_Lijn": "107536",
                 "bus": "yes",
-                "name": "Puurs Lichterveld",
+                "name": "Puurs Campbell Foods",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LICHTERSTRAAT KALFORT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.31251,
-                    51.062162
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "103059",
-                "bus": "yes",
-                "name": "Puurs Brabantstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG BREENDONK",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.319083,
-                    51.064521
+                    4.322909,
+                    51.061852
                 ]
             }
         },
@@ -278,7 +272,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "303879",
+                "ref:De_Lijn": "303880",
                 "bus": "yes",
                 "name": "Puurs Lichterveld",
                 "public_transport": "platform",
@@ -290,29 +284,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.312724,
-                    51.062163
+                    4.31251,
+                    51.062162
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "102652",
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "303881",
                 "bus": "yes",
-                "name": "Ruisbroek Pullaarsteenweg",
+                "name": "Puurs Transversale Weg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PULLAAR BREENDONK",
+                "created_by": "LICHTERSTRAAT KALFORT",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.324515,
-                    51.068388
+                    4.307298,
+                    51.06563
                 ]
             }
         },
@@ -340,50 +334,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "104447",
-                "bus": "yes",
-                "name": "Puurs Alcon Couvreur",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG KALFORT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.316629,
-                    51.064645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "107538",
-                "bus": "yes",
-                "name": "Puurs Pfizer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG KALFORT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.311719,
-                    51.067286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "103061",
+                "ref:De_Lijn": "103059",
                 "bus": "yes",
                 "name": "Puurs Brabantstraat",
                 "public_transport": "platform",
@@ -395,15 +346,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.319226,
-                    51.064395
+                    4.319083,
+                    51.064521
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253",
                 "ref:De_Lijn": "104581",
                 "bus": "yes",
                 "name": "Puurs Pullaar",
@@ -418,6 +368,27 @@
                 "coordinates": [
                     4.326729,
                     51.064676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "303879",
+                "bus": "yes",
+                "name": "Puurs Lichterveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTERSTRAAT KALFORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.312724,
+                    51.062163
                 ]
             }
         },
@@ -439,6 +410,26 @@
                 "coordinates": [
                     4.328261,
                     51.058259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107537",
+                "bus": "yes",
+                "name": "Puurs Pfizer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.311819,
+                    51.067358
                 ]
             }
         }

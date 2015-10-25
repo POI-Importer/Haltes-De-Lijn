@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;26;560;715",
-                "ref:De_Lijn": "301464",
+                "route_ref:De_Lijn": "22;26;542;560;715",
+                "ref:De_Lijn": "301490",
                 "bus": "yes",
-                "name": "Geetbets Garage Van Mullem",
+                "name": "Geetbets Overbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GLABBEEKSTRAAT GEETBETS",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.108966,
-                    50.882103
+                    5.115394,
+                    50.886863
                 ]
             }
         },
@@ -68,48 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "22;26;560;715",
-                "ref:De_Lijn": "301467",
-                "bus": "yes",
-                "name": "Geetbets Glabbeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLABBEEKSTRAAT GEETBETS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.100787,
-                    50.878891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "560;568;715",
-                "ref:De_Lijn": "307930",
-                "bus": "yes",
-                "name": "Geetbets Getestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT GEETBETS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.117844,
-                    50.888133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;26;560;715",
                 "ref:De_Lijn": "301465",
                 "bus": "yes",
                 "name": "Geetbets Garage Van Mullem",
@@ -130,8 +88,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "22;26;560;715",
+                "ref:De_Lijn": "301467",
+                "bus": "yes",
+                "name": "Geetbets Glabbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLABBEEKSTRAAT GEETBETS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.100787,
+                    50.878891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "22;26;542;560;715",
-                "ref:De_Lijn": "301490",
+                "ref:De_Lijn": "301491",
                 "bus": "yes",
                 "name": "Geetbets Overbeek",
                 "public_transport": "platform",
@@ -143,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.115394,
-                    50.886863
+                    5.115267,
+                    50.886936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;26;560;715",
+                "ref:De_Lijn": "301464",
+                "bus": "yes",
+                "name": "Geetbets Garage Van Mullem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLABBEEKSTRAAT GEETBETS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.108966,
+                    50.882103
                 ]
             }
         },
@@ -172,6 +172,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "307930",
+                "bus": "yes",
+                "name": "Geetbets Getestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT GEETBETS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.117844,
+                    50.888133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "542;715",
                 "ref:De_Lijn": "308070",
                 "bus": "yes",
@@ -187,27 +208,6 @@
                 "coordinates": [
                     5.104852,
                     50.885312
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;26;542;560;715",
-                "ref:De_Lijn": "301491",
-                "bus": "yes",
-                "name": "Geetbets Overbeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GLABBEEKSTRAAT GEETBETS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.115267,
-                    50.886936
                 ]
             }
         }

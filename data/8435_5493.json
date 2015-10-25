@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "400142",
-                "bus": "yes",
-                "name": "Alken Weg naar Langenakker",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROOTSTRAAT ALKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.344555,
-                    50.880694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;4;38;104",
-                "ref:De_Lijn": "403096",
-                "bus": "yes",
-                "name": "Hasselt Herkerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG RAPERTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.35422,
-                    50.888902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3",
                 "ref:De_Lijn": "403422",
                 "bus": "yes",
                 "name": "Wimmertingen Weg naar Alken",
@@ -68,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;4;38;104",
-                "ref:De_Lijn": "403420",
+                "ref:De_Lijn": "403421",
                 "bus": "yes",
                 "name": "Wimmertingen Centrum",
                 "public_transport": "platform",
@@ -80,29 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.353705,
-                    50.882641
+                    5.355113,
+                    50.882035
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;4;38;104",
-                "ref:De_Lijn": "403097",
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "409146",
                 "bus": "yes",
-                "name": "Hasselt Herkerstraat",
+                "name": "Alken Bulsstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG RAPERTINGEN",
+                "created_by": "BULSSTRAAT ALKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.353818,
-                    50.888034
+                    5.347106,
+                    50.875621
                 ]
             }
         },
@@ -151,6 +109,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "3;4;38;104",
+                "ref:De_Lijn": "403420",
+                "bus": "yes",
+                "name": "Wimmertingen Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG WIMMERTINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.353705,
+                    50.882641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "3",
                 "ref:De_Lijn": "403423",
                 "bus": "yes",
@@ -172,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "700",
-                "ref:De_Lijn": "409146",
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "400142",
                 "bus": "yes",
-                "name": "Alken Bulsstraat",
+                "name": "Alken Weg naar Langenakker",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BULSSTRAAT ALKEN",
+                "created_by": "GROOTSTRAAT ALKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.347106,
-                    50.875621
+                    5.344555,
+                    50.880694
                 ]
             }
         },
@@ -194,20 +173,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;4;38;104",
-                "ref:De_Lijn": "403421",
+                "ref:De_Lijn": "403097",
                 "bus": "yes",
-                "name": "Wimmertingen Centrum",
+                "name": "Hasselt Herkerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG WIMMERTINGEN",
+                "created_by": "LUIKERSTEENWEG RAPERTINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.355113,
-                    50.882035
+                    5.353818,
+                    50.888034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4;38;104",
+                "ref:De_Lijn": "403096",
+                "bus": "yes",
+                "name": "Hasselt Herkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG RAPERTINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35422,
+                    50.888902
                 ]
             }
         }

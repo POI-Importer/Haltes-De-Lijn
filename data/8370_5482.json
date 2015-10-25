@@ -4,21 +4,62 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "203521",
+                "ref:De_Lijn": "210009",
                 "bus": "yes",
-                "name": "Kalken Kerk",
+                "name": "Kalken Uitbergsestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KALKENDORP KALKEN",
+                "created_by": "UITBERGSESTRAAT KALKEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.917551,
-                    51.036343
+                    3.93078,
+                    51.036518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202520",
+                "bus": "yes",
+                "name": "Kalken Bieststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NERENWEG KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.911796,
+                    51.035934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;37",
+                "ref:De_Lijn": "203527",
+                "bus": "yes",
+                "name": "Kalken Berringstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VROMONDSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.921796,
+                    51.04124
                 ]
             }
         },
@@ -46,91 +87,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;37;130",
-                "ref:De_Lijn": "203527",
-                "bus": "yes",
-                "name": "Kalken Berringstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VROMONDSTRAAT KALKEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.921796,
-                    51.04124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "203520",
-                "bus": "yes",
-                "name": "Kalken Bieststraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NERENWEG KALKEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.911711,
-                    51.03579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "210009",
-                "bus": "yes",
-                "name": "Kalken Uitbergsestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UITBERGSESTRAAT KALKEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.93078,
-                    51.036518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "201001",
-                "bus": "yes",
-                "name": "Kalken Rusthuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOFFIESTRAAT KALKEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.916514,
-                    51.040429
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "37;130",
+                "route_ref:De_Lijn": "37",
                 "ref:De_Lijn": "203526",
                 "bus": "yes",
                 "name": "Kalken Vaartstraat",
@@ -151,10 +108,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "202521",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203521",
                 "bus": "yes",
                 "name": "Kalken Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALKENDORP KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.917551,
+                    51.036343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203520",
+                "bus": "yes",
+                "name": "Kalken Bieststraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NERENWEG KALKEN",
@@ -164,8 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.917322,
-                    51.036459
+                    3.911711,
+                    51.03579
                 ]
             }
         },
@@ -193,10 +171,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "202520",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202521",
                 "bus": "yes",
-                "name": "Kalken Bieststraat",
+                "name": "Kalken Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NERENWEG KALKEN",
@@ -206,15 +184,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.911796,
-                    51.035934
+                    3.917322,
+                    51.036459
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;130",
+                "route_ref:De_Lijn": "37",
                 "ref:De_Lijn": "202526",
                 "bus": "yes",
                 "name": "Kalken Vaartstraat",
@@ -229,6 +207,26 @@
                 "coordinates": [
                     3.912925,
                     51.034167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201001",
+                "bus": "yes",
+                "name": "Kalken Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOFFIESTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916514,
+                    51.040429
                 ]
             }
         }

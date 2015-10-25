@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "300260",
+                "ref:De_Lijn": "300259",
                 "bus": "yes",
                 "name": "Kobbegem Sint-Goriksstraat",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.247251,
-                    50.906475
+                    4.24745,
+                    50.906485
                 ]
             }
         },
@@ -88,7 +88,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "300259",
+                "ref:De_Lijn": "300260",
                 "bus": "yes",
                 "name": "Kobbegem Sint-Goriksstraat",
                 "public_transport": "platform",
@@ -100,8 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.24745,
-                    50.906485
+                    4.247251,
+                    50.906475
                 ]
             }
         }

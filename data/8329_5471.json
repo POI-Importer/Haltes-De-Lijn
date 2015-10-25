@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "22;54;82",
+                "ref:De_Lijn": "501363",
+                "bus": "yes",
+                "name": "Oudenburg Cottemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ETTELGEMSESTRAAT OUDENBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.012467,
+                    51.184097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "22;54",
                 "ref:De_Lijn": "506363",
                 "bus": "yes",
@@ -25,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;54;82",
-                "ref:De_Lijn": "501367",
-                "bus": "yes",
-                "name": "Oudenburg Vrijboom",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ETTELGEMSESTRAAT OUDENBURG",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.018588,
-                    51.183142
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "22;54",
                 "ref:De_Lijn": "506367",
                 "bus": "yes",
@@ -61,6 +61,27 @@
                 "coordinates": [
                     3.018771,
                     51.183252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;54",
+                "ref:De_Lijn": "506102",
+                "bus": "yes",
+                "name": "Ettelgem Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT ETTELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.027307,
+                    51.1804
                 ]
             }
         },
@@ -89,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "22;54;82",
-                "ref:De_Lijn": "501363",
+                "ref:De_Lijn": "501367",
                 "bus": "yes",
-                "name": "Oudenburg Cottemweg",
+                "name": "Oudenburg Vrijboom",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ETTELGEMSESTRAAT OUDENBURG",
@@ -101,29 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.012467,
-                    51.184097
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;54",
-                "ref:De_Lijn": "506102",
-                "bus": "yes",
-                "name": "Ettelgem Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT ETTELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.027307,
-                    51.1804
+                    3.018588,
+                    51.183142
                 ]
             }
         }

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "508801",
-                "bus": "yes",
-                "name": "Staden Congo",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKSMUIDESTRAAT STADEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.999266,
-                    50.987496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "31;47;56",
                 "ref:De_Lijn": "503896",
                 "bus": "yes",
@@ -47,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "503801",
+                "ref:De_Lijn": "508801",
                 "bus": "yes",
                 "name": "Staden Congo",
                 "public_transport": "platform",
@@ -59,8 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.99904,
-                    50.987449
+                    2.999266,
+                    50.987496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505540",
+                "bus": "yes",
+                "name": "Staden Visweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISWEG STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.991299,
+                    50.987646
                 ]
             }
         },
@@ -88,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "38",
-                "ref:De_Lijn": "505540",
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "503801",
                 "bus": "yes",
-                "name": "Staden Visweg",
+                "name": "Staden Congo",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VISWEG STADEN",
+                "created_by": "DIKSMUIDESTRAAT STADEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.991299,
-                    50.987646
+                    2.99904,
+                    50.987449
                 ]
             }
         }

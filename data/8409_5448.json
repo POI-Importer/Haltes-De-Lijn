@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;935",
-                "ref:De_Lijn": "101749",
-                "bus": "yes",
-                "name": "Meersel-Dreef Nieuwe Dreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUW DREEF MEERSEL-DREEF",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.775869,
-                    51.498669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;935",
                 "ref:De_Lijn": "106391",
                 "bus": "yes",
                 "name": "Meersel-Dreef Scheurdekousweg",
@@ -46,8 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;935",
-                "ref:De_Lijn": "106392",
+                "ref:De_Lijn": "101749",
                 "bus": "yes",
                 "name": "Meersel-Dreef Nieuwe Dreef",
                 "public_transport": "platform",
@@ -59,15 +36,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.775868,
-                    51.498579
+                    4.775869,
+                    51.498669
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;935",
                 "ref:De_Lijn": "101748",
                 "bus": "yes",
                 "name": "Meersel-Dreef Scheurdekousweg",
@@ -82,6 +58,26 @@
                 "coordinates": [
                     4.769658,
                     51.498169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106392",
+                "bus": "yes",
+                "name": "Meersel-Dreef Nieuwe Dreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUW DREEF MEERSEL-DREEF",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.775868,
+                    51.498579
                 ]
             }
         }

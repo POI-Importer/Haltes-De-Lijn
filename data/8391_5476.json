@@ -4,28 +4,68 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;508",
-                "ref:De_Lijn": "106789",
+                "ref:De_Lijn": "106790",
                 "bus": "yes",
-                "name": "Reet Pierstraat",
+                "name": "Aartselaar Pierstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PIERSTRAAT REET",
+                "created_by": "PIERSTRAAT AARTSELAAR",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.387578,
-                    51.114201
+                    4.388235,
+                    51.114507
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;295;508",
+                "route_ref:De_Lijn": "182",
+                "ref:De_Lijn": "106788",
+                "bus": "yes",
+                "name": "Aartselaar Bekersveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REETSESTEENWEG AARTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393293,
+                    51.118542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "182",
+                "ref:De_Lijn": "106787",
+                "bus": "yes",
+                "name": "Aartselaar Bekersveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REETSESTEENWEG AARTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393507,
+                    51.118533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106792",
                 "bus": "yes",
                 "name": "Reet Sint-Jozefstraat",
@@ -67,112 +107,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "500",
-                "ref:De_Lijn": "106742",
-                "bus": "yes",
-                "name": "Aartselaar Langlaarsteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOOMSESTEENWEG AARTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.373741,
-                    51.123857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "181;508",
-                "ref:De_Lijn": "106790",
-                "bus": "yes",
-                "name": "Aartselaar Pierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PIERSTRAAT AARTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.388235,
-                    51.114507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "181;182;508",
-                "ref:De_Lijn": "106788",
-                "bus": "yes",
-                "name": "Aartselaar Bekersveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REETSESTEENWEG AARTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.393293,
-                    51.118542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "133;181;182;508",
-                "ref:De_Lijn": "106785",
-                "bus": "yes",
-                "name": "Aartselaar Oever",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REETSESTEENWEG AARTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.392395,
-                    51.123126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "181;182;508",
-                "ref:De_Lijn": "106787",
-                "bus": "yes",
-                "name": "Aartselaar Bekersveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REETSESTEENWEG AARTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.393507,
-                    51.118533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "183;294",
+                "route_ref:De_Lijn": "183",
                 "ref:De_Lijn": "101179",
                 "bus": "yes",
                 "name": "Aartselaar Ooievaarsbos",
@@ -193,28 +128,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;295;508",
-                "ref:De_Lijn": "106791",
+                "ref:De_Lijn": "106742",
                 "bus": "yes",
-                "name": "Reet Sint-Jozefstraat",
+                "name": "Aartselaar Langlaarsteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PREDIKHERENHOEVESTRAAT REET",
+                "created_by": "BOOMSESTEENWEG AARTSELAAR",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.382807,
-                    51.110598
+                    4.373741,
+                    51.123857
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "295",
+                "ref:De_Lijn": "106789",
+                "bus": "yes",
+                "name": "Reet Pierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.387578,
+                    51.114201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "102283",
                 "bus": "yes",
                 "name": "Aartselaar Kastanjelaan",
@@ -229,27 +182,6 @@
                 "coordinates": [
                     4.377552,
                     51.110427
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "133;180;181;182;508",
-                "ref:De_Lijn": "106786",
-                "bus": "yes",
-                "name": "Aartselaar Oever",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REETSESTEENWEG AARTSELAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.392338,
-                    51.122982
                 ]
             }
         },
@@ -271,6 +203,68 @@
                 "coordinates": [
                     4.393523,
                     51.121993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "182",
+                "ref:De_Lijn": "106785",
+                "bus": "yes",
+                "name": "Aartselaar Oever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REETSESTEENWEG AARTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.392395,
+                    51.123126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "180;182",
+                "ref:De_Lijn": "106786",
+                "bus": "yes",
+                "name": "Aartselaar Oever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REETSESTEENWEG AARTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.392338,
+                    51.122982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106791",
+                "bus": "yes",
+                "name": "Reet Sint-Jozefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PREDIKHERENHOEVESTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.382807,
+                    51.110598
                 ]
             }
         }

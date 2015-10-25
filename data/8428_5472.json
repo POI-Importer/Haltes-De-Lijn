@@ -4,20 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400337",
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "400296",
                 "bus": "yes",
-                "name": "Gerheide Kerk",
+                "name": "Balen Molenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT BALEN",
+                "created_by": "MOLENSTRAAT BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.201237,
-                    51.177745
+                    5.191106,
+                    51.172494
                 ]
             }
         },
@@ -25,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400334",
+                "ref:De_Lijn": "400335",
                 "bus": "yes",
                 "name": "Balen Peer Luytendijk",
                 "public_transport": "platform",
@@ -37,50 +38,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.206544,
-                    51.169033
+                    5.207131,
+                    51.169064
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400332",
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "400178",
                 "bus": "yes",
-                "name": "Balen Ongelberg",
+                "name": "Gerheide Misseweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ONGELBERG BALEN",
+                "created_by": "MISSEWEG BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.200317,
-                    51.167854
+                    5.187294,
+                    51.174498
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400367",
+                "ref:De_Lijn": "400336",
                 "bus": "yes",
-                "name": "Balen Krijnsloop",
+                "name": "Gerheide Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEEGSEBAAN BALEN",
+                "created_by": "SINT-JANSSTRAAT BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.188925,
-                    51.170451
+                    5.201495,
+                    51.177779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "400359",
+                "bus": "yes",
+                "name": "Gerheide Sint-Jansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.200423,
+                    51.175368
                 ]
             }
         },
@@ -129,30 +150,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400336",
-                "bus": "yes",
-                "name": "Gerheide Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.201495,
-                    51.177779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400335",
+                "ref:De_Lijn": "400330",
                 "bus": "yes",
-                "name": "Balen Peer Luytendijk",
+                "name": "Balen Sinterveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ONGELBERG BALEN",
@@ -162,132 +163,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.207131,
-                    51.169064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400289",
-                "bus": "yes",
-                "name": "Balen Konijnenberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEEGSEBAAN BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.200945,
-                    51.17176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "400346",
-                "bus": "yes",
-                "name": "Balen Rothveldweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.205005,
-                    51.178123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400366",
-                "bus": "yes",
-                "name": "Balen Krijnsloop",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEEGSEBAAN BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.188252,
-                    51.17042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "400296",
-                "bus": "yes",
-                "name": "Balen Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.191106,
-                    51.172494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "400347",
-                "bus": "yes",
-                "name": "Balen Rothveldweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.204807,
-                    51.17825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400333",
-                "bus": "yes",
-                "name": "Balen Ongelberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONGELBERG BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.200649,
-                    51.168023
+                    5.197999,
+                    51.167754
                 ]
             }
         },
@@ -315,21 +192,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "400299",
+                "ref:De_Lijn": "400347",
                 "bus": "yes",
-                "name": "Balen Kleine Molenweg",
+                "name": "Balen Rothveldweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT BALEN",
+                "created_by": "SINT-JANSSTRAAT BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.198505,
-                    51.172856
+                    5.204807,
+                    51.17825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400289",
+                "bus": "yes",
+                "name": "Balen Konijnenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEEGSEBAAN BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.200945,
+                    51.17176
                 ]
             }
         },
@@ -358,6 +255,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400334",
+                "bus": "yes",
+                "name": "Balen Peer Luytendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONGELBERG BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.206544,
+                    51.169033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
                 "ref:De_Lijn": "400365",
                 "bus": "yes",
                 "name": "Balen Steegsebaan",
@@ -379,28 +297,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "400178",
-                "bus": "yes",
-                "name": "Gerheide Misseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MISSEWEG BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.187294,
-                    51.174498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "400359",
+                "ref:De_Lijn": "400358",
                 "bus": "yes",
                 "name": "Gerheide Sint-Jansstraat",
                 "public_transport": "platform",
@@ -412,8 +309,90 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.200423,
-                    51.175368
+                    5.200508,
+                    51.176123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400346",
+                "bus": "yes",
+                "name": "Balen Rothveldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.205005,
+                    51.178123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400337",
+                "bus": "yes",
+                "name": "Gerheide Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.201237,
+                    51.177745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400333",
+                "bus": "yes",
+                "name": "Balen Ongelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONGELBERG BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.200649,
+                    51.168023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400367",
+                "bus": "yes",
+                "name": "Balen Krijnsloop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEEGSEBAAN BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.188925,
+                    51.170451
                 ]
             }
         },
@@ -441,42 +420,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400330",
-                "bus": "yes",
-                "name": "Balen Sinterveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONGELBERG BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.197999,
-                    51.167754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "400358",
+                "ref:De_Lijn": "400299",
                 "bus": "yes",
-                "name": "Gerheide Sint-Jansstraat",
+                "name": "Balen Kleine Molenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT BALEN",
+                "created_by": "MOLENSTRAAT BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.200508,
-                    51.176123
+                    5.198505,
+                    51.172856
                 ]
             }
         },
@@ -505,6 +463,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400366",
+                "bus": "yes",
+                "name": "Balen Krijnsloop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEEGSEBAAN BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.188252,
+                    51.17042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
                 "ref:De_Lijn": "400331",
                 "bus": "yes",
                 "name": "Balen Sinterveld",
@@ -519,6 +498,27 @@
                 "coordinates": [
                     5.197816,
                     51.167872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400332",
+                "bus": "yes",
+                "name": "Balen Ongelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONGELBERG BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.200317,
+                    51.167854
                 ]
             }
         }

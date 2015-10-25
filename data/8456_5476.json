@@ -4,26 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404731",
-                "bus": "yes",
-                "name": "Ophoven Lindeweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VENLOSESTEENWEG OPHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.801481,
-                    51.122763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "15;720",
                 "ref:De_Lijn": "404808",
                 "bus": "yes",
@@ -59,6 +39,26 @@
                 "coordinates": [
                     5.801186,
                     51.12247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404731",
+                "bus": "yes",
+                "name": "Ophoven Lindeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VENLOSESTEENWEG OPHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.801481,
+                    51.122763
                 ]
             }
         }

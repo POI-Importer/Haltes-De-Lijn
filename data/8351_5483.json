@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "201664",
                 "bus": "yes",
                 "name": "Zeveren Pijpekerrestraat",

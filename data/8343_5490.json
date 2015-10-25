@@ -25,69 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "504768",
-                "bus": "yes",
-                "name": "Oostrozebeke Palingstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DALAKKERSTRAAT OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.338838,
-                    50.917571
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;54;59;68;81;88",
-                "ref:De_Lijn": "503663",
-                "bus": "yes",
-                "name": "Oostrozebeke Gemeenteplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ERNEST BRENGIERSTRAAT OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.332694,
-                    50.920781
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59;68;81;88",
-                "ref:De_Lijn": "503666",
-                "bus": "yes",
-                "name": "Oostrozebeke Roterij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INGELMUNSTERSTEENWEG OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.319196,
-                    50.919492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "59;81;88",
                 "ref:De_Lijn": "508666",
                 "bus": "yes",
@@ -130,8 +67,50 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54;59;81;88",
-                "ref:De_Lijn": "508663",
+                "route_ref:De_Lijn": "59;68;81;88",
+                "ref:De_Lijn": "503666",
+                "bus": "yes",
+                "name": "Oostrozebeke Roterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGELMUNSTERSTEENWEG OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.319196,
+                    50.919492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "504768",
+                "bus": "yes",
+                "name": "Oostrozebeke Palingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DALAKKERSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.338838,
+                    50.917571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;59;68;81;88",
+                "ref:De_Lijn": "503663",
                 "bus": "yes",
                 "name": "Oostrozebeke Gemeenteplein",
                 "public_transport": "platform",
@@ -143,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.333074,
-                    50.920946
+                    3.332694,
+                    50.920781
                 ]
             }
         },
@@ -166,6 +145,27 @@
                 "coordinates": [
                     3.335569,
                     50.922604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;59;81;88",
+                "ref:De_Lijn": "508663",
+                "bus": "yes",
+                "name": "Oostrozebeke Gemeenteplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERNEST BRENGIERSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.333074,
+                    50.920946
                 ]
             }
         },

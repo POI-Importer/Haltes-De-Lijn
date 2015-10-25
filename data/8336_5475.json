@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "72;79;99",
+                "ref:De_Lijn": "507664",
+                "bus": "yes",
+                "name": "Zedelgem Hamersvelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERLAPONT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.167081,
+                    51.12739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "72;79",
                 "ref:De_Lijn": "502664",
                 "bus": "yes",
@@ -26,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "72;79;99",
-                "ref:De_Lijn": "507664",
+                "ref:De_Lijn": "502665",
                 "bus": "yes",
-                "name": "Zedelgem Hamersvelde",
+                "name": "Zedelgem Merkemveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PIERLAPONT ZUIDWEGE",
+                "created_by": "LELIESTRAAT ZUIDWEGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.167081,
-                    51.12739
+                    3.174007,
+                    51.129169
                 ]
             }
         },
@@ -82,27 +103,6 @@
                 "coordinates": [
                     3.170777,
                     51.129783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;79;99",
-                "ref:De_Lijn": "502665",
-                "bus": "yes",
-                "name": "Zedelgem Merkemveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LELIESTRAAT ZUIDWEGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.174007,
-                    51.129169
                 ]
             }
         }

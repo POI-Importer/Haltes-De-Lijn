@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "54;55",
-                "ref:De_Lijn": "503079",
-                "bus": "yes",
-                "name": "Dadizele 't Hoge",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEENSESTEENWEG DADIZELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.111512,
-                    50.844539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54;55",
                 "ref:De_Lijn": "508079",
                 "bus": "yes",
                 "name": "Dadizele 't Hoge",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.11367,
                     50.837648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "503079",
+                "bus": "yes",
+                "name": "Dadizele 't Hoge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG DADIZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.111512,
+                    50.844539
                 ]
             }
         }

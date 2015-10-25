@@ -4,49 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47",
-                "ref:De_Lijn": "209536",
+                "ref:De_Lijn": "209694",
                 "bus": "yes",
-                "name": "Hillegem Poelstraat",
+                "name": "Hillegem Peyveldstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DRIES HILLEGEM",
+                "created_by": "PERRESTRAAT HILLEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.848391,
-                    50.889854
+                    3.856885,
+                    50.892912
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "209693",
-                "bus": "yes",
-                "name": "Hillegem Ledebergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEDEBERGSTRAAT HILLEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.861467,
-                    50.900303
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;390",
+                "route_ref:De_Lijn": "91",
                 "ref:De_Lijn": "206429",
                 "bus": "yes",
                 "name": "Hillegem Merehoekstraat",
@@ -67,42 +46,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;91;390",
-                "ref:De_Lijn": "206428",
+                "ref:De_Lijn": "209693",
                 "bus": "yes",
-                "name": "Hillegem Dorp",
+                "name": "Hillegem Ledebergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PROVINCIEWEG HILLEGEM",
+                "created_by": "LEDEBERGSTRAAT HILLEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.852481,
-                    50.895337
+                    3.861467,
+                    50.900303
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "208752",
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "208537",
                 "bus": "yes",
-                "name": "Hillegem Station",
+                "name": "Hillegem Dreefstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PERRESTRAAT HILLEGEM",
+                "created_by": "DRIES HILLEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.858437,
-                    50.891318
+                    3.851065,
+                    50.892257
                 ]
             }
         },
@@ -124,6 +102,48 @@
                 "coordinates": [
                     3.854209,
                     50.894518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "209536",
+                "bus": "yes",
+                "name": "Hillegem Poelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIES HILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.848391,
+                    50.889854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47;91",
+                "ref:De_Lijn": "206427",
+                "bus": "yes",
+                "name": "Hillegem Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG HILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.846185,
+                    50.896505
                 ]
             }
         },
@@ -152,9 +172,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46;47;91",
-                "ref:De_Lijn": "207427",
+                "ref:De_Lijn": "206428",
                 "bus": "yes",
-                "name": "Hillegem Kerkhof",
+                "name": "Hillegem Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PROVINCIEWEG HILLEGEM",
@@ -164,8 +184,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.845258,
-                    50.896771
+                    3.852481,
+                    50.895337
                 ]
             }
         },
@@ -214,7 +234,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;390",
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "208536",
+                "bus": "yes",
+                "name": "Hillegem Poelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIES HILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.848774,
+                    50.889936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
                 "ref:De_Lijn": "208538",
                 "bus": "yes",
                 "name": "Hillegem Perrestraat",
@@ -229,48 +270,6 @@
                 "coordinates": [
                     3.85431,
                     50.89442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;390",
-                "ref:De_Lijn": "208537",
-                "bus": "yes",
-                "name": "Hillegem Dreefstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIES HILLEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.851065,
-                    50.892257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;91;390",
-                "ref:De_Lijn": "206427",
-                "bus": "yes",
-                "name": "Hillegem Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIEWEG HILLEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.846185,
-                    50.896505
                 ]
             }
         },
@@ -298,32 +297,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;390",
-                "ref:De_Lijn": "208536",
+                "ref:De_Lijn": "208752",
                 "bus": "yes",
-                "name": "Hillegem Poelstraat",
+                "name": "Hillegem Station",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIES HILLEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.848774,
-                    50.889936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "209694",
-                "bus": "yes",
-                "name": "Hillegem Peyveldstraat",
-                "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "PERRESTRAAT HILLEGEM",
                 "operator": "De Lijn",
@@ -332,8 +309,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.856885,
-                    50.892912
+                    3.858437,
+                    50.891318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47;91",
+                "ref:De_Lijn": "207427",
+                "bus": "yes",
+                "name": "Hillegem Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG HILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.845258,
+                    50.896771
                 ]
             }
         }

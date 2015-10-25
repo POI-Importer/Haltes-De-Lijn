@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "240",
                 "ref:De_Lijn": "205757",
                 "bus": "yes",
                 "name": "Sint-Gillis-Waas Eeckbergstraat",

@@ -4,28 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;270",
-                "ref:De_Lijn": "202636",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "203635",
                 "bus": "yes",
-                "name": "Lokeren Haneweestraat",
+                "name": "Eksaarde Doorslaardam",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENTSE STEENWEG LOKEREN",
+                "created_by": "DOORSLAARDAM EKSAARDE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.950185,
-                    51.114712
+                    3.944971,
+                    51.114828
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;270",
+                "route_ref:De_Lijn": "74",
                 "ref:De_Lijn": "202635",
                 "bus": "yes",
                 "name": "Eksaarde Doorslaardam",
@@ -46,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;270",
+                "route_ref:De_Lijn": "74",
                 "ref:De_Lijn": "203636",
                 "bus": "yes",
                 "name": "Lokeren Haneweestraat",
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;270",
-                "ref:De_Lijn": "203635",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "202636",
                 "bus": "yes",
-                "name": "Eksaarde Doorslaardam",
+                "name": "Lokeren Haneweestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOORSLAARDAM EKSAARDE",
+                "created_by": "GENTSE STEENWEG LOKEREN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.944971,
-                    51.114828
+                    3.950185,
+                    51.114712
                 ]
             }
         }

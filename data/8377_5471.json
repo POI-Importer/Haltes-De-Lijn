@@ -4,70 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;44;240",
-                "ref:De_Lijn": "204385",
-                "bus": "yes",
-                "name": "Sint-Pauwels Puyveldestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIJKVELDESTRAAT SINT-PAUWELS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.066157,
-                    51.185942
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44;240",
-                "ref:De_Lijn": "204383",
-                "bus": "yes",
-                "name": "Sint-Pauwels Lijkveldestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIJKVELDESTRAAT SINT-PAUWELS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.081966,
-                    51.185226
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44;240",
-                "ref:De_Lijn": "205384",
-                "bus": "yes",
-                "name": "Sint-Pauwels Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIJKVELDESTRAAT SINT-PAUWELS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.07437,
-                    51.185477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44;240",
+                "route_ref:De_Lijn": "43;44",
                 "ref:De_Lijn": "205383",
                 "bus": "yes",
                 "name": "Sint-Pauwels Lijkveldestraat",
@@ -88,7 +25,70 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;44;240",
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "204383",
+                "bus": "yes",
+                "name": "Sint-Pauwels Lijkveldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIJKVELDESTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081966,
+                    51.185226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "204385",
+                "bus": "yes",
+                "name": "Sint-Pauwels Puyveldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIJKVELDESTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.066157,
+                    51.185942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "205384",
+                "bus": "yes",
+                "name": "Sint-Pauwels Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIJKVELDESTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.07437,
+                    51.185477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
                 "ref:De_Lijn": "205385",
                 "bus": "yes",
                 "name": "Sint-Pauwels Puyveldestraat",
@@ -109,7 +109,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;44;240",
+                "route_ref:De_Lijn": "43;44",
                 "ref:De_Lijn": "204384",
                 "bus": "yes",
                 "name": "Sint-Pauwels Kapel",

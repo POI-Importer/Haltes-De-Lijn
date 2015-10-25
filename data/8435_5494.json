@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409151",
-                "bus": "yes",
-                "name": "Alken Rechtstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BULSSTRAAT WELLEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.342191,
-                    50.866779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "700",
                 "ref:De_Lijn": "409149",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     5.34941,
                     50.870953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409151",
+                "bus": "yes",
+                "name": "Alken Rechtstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BULSSTRAAT WELLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.342191,
+                    50.866779
                 ]
             }
         }

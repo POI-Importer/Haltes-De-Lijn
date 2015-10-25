@@ -5,28 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;54;59;81;88",
-                "ref:De_Lijn": "508665",
-                "bus": "yes",
-                "name": "Oostrozebeke Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.331535,
-                    50.914639
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;54;59;81;88",
-                "ref:De_Lijn": "508667",
+                "ref:De_Lijn": "503667",
                 "bus": "yes",
                 "name": "Oostrozebeke Station",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.327974,
-                    50.911713
+                    3.328062,
+                    50.911579
                 ]
             }
         },
@@ -68,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;54;59;81;88",
-                "ref:De_Lijn": "503667",
+                "ref:De_Lijn": "508667",
                 "bus": "yes",
                 "name": "Oostrozebeke Station",
                 "public_transport": "platform",
@@ -80,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.328062,
-                    50.911579
+                    3.327974,
+                    50.911713
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.321751,
                     50.914022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;59;81;88",
+                "ref:De_Lijn": "508665",
+                "bus": "yes",
+                "name": "Oostrozebeke Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.331535,
+                    50.914639
                 ]
             }
         }

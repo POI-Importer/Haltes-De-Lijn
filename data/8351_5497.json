@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;85;89;92;450",
+                "route_ref:De_Lijn": "81;85;89;92",
                 "ref:De_Lijn": "503021",
                 "bus": "yes",
                 "name": "Anzegem Station",
@@ -19,27 +19,6 @@
                 "coordinates": [
                     3.49509,
                     50.82605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "505280",
-                "bus": "yes",
-                "name": "Gijzelbrechtegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLAARHOEKSTRAAT GIJZELBRECHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.506711,
-                    50.828572
                 ]
             }
         },
@@ -67,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "200762",
-                "bus": "yes",
-                "name": "Wortegem Langestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKSTRAAT ELSEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.50675,
-                    50.824869
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "89",
                 "ref:De_Lijn": "505285",
                 "bus": "yes",
@@ -103,6 +61,47 @@
                 "coordinates": [
                     3.493815,
                     50.821312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505280",
+                "bus": "yes",
+                "name": "Gijzelbrechtegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAARHOEKSTRAAT GIJZELBRECHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.506711,
+                    50.828572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200762",
+                "bus": "yes",
+                "name": "Wortegem Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.50675,
+                    50.824869
                 ]
             }
         }

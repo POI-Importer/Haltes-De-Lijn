@@ -4,8 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401;408;409;432;433;600;608;620",
-                "ref:De_Lijn": "105564",
+                "ref:De_Lijn": "105566",
                 "bus": "yes",
                 "name": "Rijkevorsel Kleine Gammel",
                 "public_transport": "platform",
@@ -17,15 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.757933,
-                    51.365846
+                    4.758253,
+                    51.364668
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401;408;409;432;433;435",
                 "ref:De_Lijn": "105563",
                 "bus": "yes",
                 "name": "Rijkevorsel Vonderstraat",
@@ -46,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "401;408;409;432;433;600;608;620",
+                "ref:De_Lijn": "105564",
+                "bus": "yes",
+                "name": "Rijkevorsel Kleine Gammel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSESTEENWEG RIJKEVORSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.757933,
+                    51.365846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105567",
                 "bus": "yes",
                 "name": "Rijkevorsel Angelicadreef",
@@ -67,28 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "401;408;409;432;433;435",
-                "ref:De_Lijn": "105568",
-                "bus": "yes",
-                "name": "Rijkevorsel Angelicadreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GAMMEL RIJKEVORSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.757575,
-                    51.371078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "400;401;408;409;432;433;600;608;620",
                 "ref:De_Lijn": "105562",
                 "bus": "yes",
                 "name": "Rijkevorsel Vonderstraat",
@@ -109,21 +104,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401;408;409;432;433;435",
-                "ref:De_Lijn": "105566",
+                "ref:De_Lijn": "105568",
                 "bus": "yes",
-                "name": "Rijkevorsel Kleine Gammel",
+                "name": "Rijkevorsel Angelicadreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGSTRAATSESTEENWEG RIJKEVORSEL",
+                "created_by": "GAMMEL RIJKEVORSEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.758253,
-                    51.364668
+                    4.757575,
+                    51.371078
                 ]
             }
         }

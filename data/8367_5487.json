@@ -4,7 +4,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;130",
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "203748",
+                "bus": "yes",
+                "name": "Westrem Keiberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERG WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.860498,
+                    50.971549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "206422",
+                "bus": "yes",
+                "name": "Westrem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTREMSTRAAT WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.862091,
+                    50.969111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202747",
+                "bus": "yes",
+                "name": "Westrem Oude Heerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE HEERBAAN WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.855727,
+                    50.971708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
                 "ref:De_Lijn": "207422",
                 "bus": "yes",
                 "name": "Westrem Dorp",
@@ -19,6 +81,48 @@
                 "coordinates": [
                     3.862064,
                     50.968931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "202748",
+                "bus": "yes",
+                "name": "Westrem Keiberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERG WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.86067,
+                    50.971487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "207421",
+                "bus": "yes",
+                "name": "Westrem Westremdries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTREMSTRAAT WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.863116,
+                    50.958544
                 ]
             }
         },
@@ -46,7 +150,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "202746",
                 "bus": "yes",
                 "name": "Westrem Volkershouw",
@@ -61,111 +164,6 @@
                 "coordinates": [
                     3.851816,
                     50.970055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;130",
-                "ref:De_Lijn": "202748",
-                "bus": "yes",
-                "name": "Westrem Keiberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIBERG WESTREM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.86067,
-                    50.971487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;130",
-                "ref:De_Lijn": "206422",
-                "bus": "yes",
-                "name": "Westrem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTREMSTRAAT WESTREM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.862091,
-                    50.969111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "202747",
-                "bus": "yes",
-                "name": "Westrem Oude Heerbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE HEERBAAN WESTREM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.855727,
-                    50.971708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;130",
-                "ref:De_Lijn": "207421",
-                "bus": "yes",
-                "name": "Westrem Westremdries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTREMSTRAAT WESTREM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.863116,
-                    50.958544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;130",
-                "ref:De_Lijn": "206421",
-                "bus": "yes",
-                "name": "Westrem Westremdries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTREMSTRAAT WESTREM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.863449,
-                    50.959265
                 ]
             }
         },
@@ -193,21 +191,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;130",
-                "ref:De_Lijn": "203748",
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "206421",
                 "bus": "yes",
-                "name": "Westrem Keiberg",
+                "name": "Westrem Westremdries",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KEIBERG WESTREM",
+                "created_by": "WESTREMSTRAAT WESTREM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.860498,
-                    50.971549
+                    3.863449,
+                    50.959265
                 ]
             }
         }

@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "7",
-                "ref:De_Lijn": "300571",
+                "ref:De_Lijn": "300575",
                 "bus": "yes",
-                "name": "Korbeek-Lo Bemdenveld",
+                "name": "Korbeek-Lo Centrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BIERBEEKSTRAAT KORBEEK-LO",
+                "created_by": "VENGERSTRAAT KORBEEK-LO",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.759447,
-                    50.849943
+                    4.761038,
+                    50.860123
                 ]
             }
         },
@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "7;9",
-                "ref:De_Lijn": "308897",
+                "ref:De_Lijn": "308896",
                 "bus": "yes",
                 "name": "Korbeek-Lo Ter Korbeke",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.755066,
-                    50.861123
+                    4.755095,
+                    50.861213
                 ]
             }
         },
@@ -89,6 +89,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "300572",
+                "bus": "yes",
+                "name": "Korbeek-Lo Bemdenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIERBEEKSTRAAT KORBEEK-LO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.759618,
+                    50.849916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;380;527",
+                "ref:De_Lijn": "300585",
+                "bus": "yes",
+                "name": "Korbeek-Lo Pastorijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG KORBEEK-LO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.767468,
+                    50.861279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;9",
+                "ref:De_Lijn": "308897",
+                "bus": "yes",
+                "name": "Korbeek-Lo Ter Korbeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN KORBEEK-LO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.755066,
+                    50.861123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
                 "ref:De_Lijn": "300589",
                 "bus": "yes",
                 "name": "Korbeek-Lo Station",
@@ -110,28 +173,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "7",
-                "ref:De_Lijn": "300590",
-                "bus": "yes",
-                "name": "Korbeek-Lo Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BIERBEEKSTRAAT KORBEEK-LO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.761607,
-                    50.855123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7",
-                "ref:De_Lijn": "300572",
+                "ref:De_Lijn": "300571",
                 "bus": "yes",
                 "name": "Korbeek-Lo Bemdenveld",
                 "public_transport": "platform",
@@ -143,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.759618,
-                    50.849916
+                    4.759447,
+                    50.849943
                 ]
             }
         },
@@ -172,63 +214,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "7;9",
-                "ref:De_Lijn": "308896",
-                "bus": "yes",
-                "name": "Korbeek-Lo Ter Korbeke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE BAAN KORBEEK-LO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.755095,
-                    50.861213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "7",
-                "ref:De_Lijn": "300575",
+                "ref:De_Lijn": "300590",
                 "bus": "yes",
-                "name": "Korbeek-Lo Centrum",
+                "name": "Korbeek-Lo Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VENGERSTRAAT KORBEEK-LO",
+                "created_by": "BIERBEEKSTRAAT KORBEEK-LO",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.761038,
-                    50.860123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;380;527",
-                "ref:De_Lijn": "300585",
-                "bus": "yes",
-                "name": "Korbeek-Lo Pastorijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTEENWEG KORBEEK-LO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.767468,
-                    50.861279
+                    4.761607,
+                    50.855123
                 ]
             }
         }

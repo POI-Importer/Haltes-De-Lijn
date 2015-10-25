@@ -4,63 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;85;99",
-                "ref:De_Lijn": "503775",
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "508775",
                 "bus": "yes",
                 "name": "Spiere Kasteel Spiere",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JEAN LEFEBVRELAAN SPIERE",
+                "created_by": "JACQUETBOSSTRAAT SPIERE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.349372,
-                    50.721204
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15",
-                "ref:De_Lijn": "503771",
-                "bus": "yes",
-                "name": "Spiere Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROBECIJNPLEIN SPIERE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.355522,
-                    50.718372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "85;93",
-                "ref:De_Lijn": "504000",
-                "bus": "yes",
-                "name": "Spiere Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROBECIJNPLEIN SPIERE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.355351,
-                    50.718442
+                    3.350156,
+                    50.72095
                 ]
             }
         },
@@ -88,21 +46,62 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;85;99",
-                "ref:De_Lijn": "508775",
+                "ref:De_Lijn": "503771",
                 "bus": "yes",
-                "name": "Spiere Kasteel Spiere",
+                "name": "Spiere Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JACQUETBOSSTRAAT SPIERE",
+                "created_by": "ROBECIJNPLEIN SPIERE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.350156,
-                    50.72095
+                    3.355522,
+                    50.718372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "503775",
+                "bus": "yes",
+                "name": "Spiere Kasteel Spiere",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JEAN LEFEBVRELAAN SPIERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.349372,
+                    50.721204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;93",
+                "ref:De_Lijn": "504000",
+                "bus": "yes",
+                "name": "Spiere Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROBECIJNPLEIN SPIERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.355351,
+                    50.718442
                 ]
             }
         }

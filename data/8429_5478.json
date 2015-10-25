@@ -4,41 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "401962",
+                "route_ref:De_Lijn": "58;170",
+                "ref:De_Lijn": "400508",
                 "bus": "yes",
-                "name": "Beverlo De Bever",
+                "name": "Beverlo Hanebergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LAARBEMDEWEG BEVERLO",
+                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.221766,
-                    51.086636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "403898",
-                "bus": "yes",
-                "name": "Beverlo Kapelanijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELANIJSTRAAT BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.217109,
-                    51.088791
+                    5.213162,
+                    51.090716
                 ]
             }
         },
@@ -66,48 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;170",
-                "ref:De_Lijn": "400511",
-                "bus": "yes",
-                "name": "Beverlo Oosthamsesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.217021,
-                    51.089448
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;718;719",
-                "ref:De_Lijn": "401436",
-                "bus": "yes",
-                "name": "Beverlo Melkerijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BURGEMEESTER HEYMANSPLEIN BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.225431,
-                    51.088802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "14;58;170;718;719",
                 "ref:De_Lijn": "400505",
                 "bus": "yes",
@@ -123,215 +61,6 @@
                 "coordinates": [
                     5.223541,
                     51.088466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;718;719",
-                "ref:De_Lijn": "401437",
-                "bus": "yes",
-                "name": "Beverlo Melkerijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BURGEMEESTER HEYMANSPLEIN BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.225472,
-                    51.088685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;58",
-                "ref:De_Lijn": "400512",
-                "bus": "yes",
-                "name": "Beverlo Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEPPENSESTEENWEG BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.225133,
-                    51.094333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;170",
-                "ref:De_Lijn": "400508",
-                "bus": "yes",
-                "name": "Beverlo Hanebergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.213162,
-                    51.090716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;58",
-                "ref:De_Lijn": "400513",
-                "bus": "yes",
-                "name": "Beverlo Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEPPENSESTEENWEG BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.225222,
-                    51.093775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;170",
-                "ref:De_Lijn": "400509",
-                "bus": "yes",
-                "name": "Beverlo Hanebergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.213065,
-                    51.090878
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "401968",
-                "bus": "yes",
-                "name": "Beverlo Poelakkerstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GASTON OOMSLAAN BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.227631,
-                    51.084256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;170",
-                "ref:De_Lijn": "400510",
-                "bus": "yes",
-                "name": "Beverlo Oosthamsesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.216948,
-                    51.08934
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;58;170;718;719",
-                "ref:De_Lijn": "400504",
-                "bus": "yes",
-                "name": "Beverlo Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BURGEMEESTER HEYMANSPLEIN BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.223183,
-                    51.088405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "404041",
-                "bus": "yes",
-                "name": "Beverlo Wystekkenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WYSTEKKENSTRAAT BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.211192,
-                    51.089157
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "400506",
-                "bus": "yes",
-                "name": "Beverlo Centrum vervanghalte",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N72 BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.221299,
-                    51.089983
                 ]
             }
         },
@@ -359,6 +88,89 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "14;58",
+                "ref:De_Lijn": "400512",
+                "bus": "yes",
+                "name": "Beverlo Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEPPENSESTEENWEG BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.225133,
+                    51.094333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;719",
+                "ref:De_Lijn": "400516",
+                "bus": "yes",
+                "name": "Beverlo Ringlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.218929,
+                    51.08288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;170",
+                "ref:De_Lijn": "400511",
+                "bus": "yes",
+                "name": "Beverlo Oosthamsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.217021,
+                    51.089448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404041",
+                "bus": "yes",
+                "name": "Beverlo Wystekkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WYSTEKKENSTRAAT BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211192,
+                    51.089157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "401963",
                 "bus": "yes",
                 "name": "Beverlo De Bever",
@@ -379,63 +191,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "403897",
+                "ref:De_Lijn": "401962",
                 "bus": "yes",
-                "name": "Beverlo Kapelanijstraat",
+                "name": "Beverlo De Bever",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAPELANIJSTRAAT BEVERLO",
+                "created_by": "LAARBEMDEWEG BEVERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.21704,
-                    51.088899
+                    5.221766,
+                    51.086636
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400507",
+                "route_ref:De_Lijn": "58;719",
+                "ref:De_Lijn": "400517",
                 "bus": "yes",
-                "name": "Beverlo Centrum vervanghalte",
+                "name": "Beverlo Ringlaan",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "N72 BEVERLO",
+                "created_by": "KOOLMIJNLAAN BEVERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.221613,
-                    51.089999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "404050",
-                "bus": "yes",
-                "name": "Beverlo Zuidstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZUIDSTRAAT BEVERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.215867,
-                    51.085608
+                    5.219086,
+                    51.083679
                 ]
             }
         },
@@ -482,42 +272,252 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;719",
-                "ref:De_Lijn": "400516",
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "403898",
                 "bus": "yes",
-                "name": "Beverlo Ringlaan",
+                "name": "Beverlo Kapelanijstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOOLMIJNLAAN BEVERLO",
+                "created_by": "KAPELANIJSTRAAT BEVERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.218929,
-                    51.08288
+                    5.217109,
+                    51.088791
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;719",
-                "ref:De_Lijn": "400517",
+                "ref:De_Lijn": "401968",
                 "bus": "yes",
-                "name": "Beverlo Ringlaan",
+                "name": "Beverlo Poelakkerstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KOOLMIJNLAAN BEVERLO",
+                "created_by": "GASTON OOMSLAAN BEVERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.219086,
-                    51.083679
+                    5.227631,
+                    51.084256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;58",
+                "ref:De_Lijn": "400513",
+                "bus": "yes",
+                "name": "Beverlo Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEPPENSESTEENWEG BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.225222,
+                    51.093775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;58;170;718;719",
+                "ref:De_Lijn": "400504",
+                "bus": "yes",
+                "name": "Beverlo Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER HEYMANSPLEIN BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.223183,
+                    51.088405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400507",
+                "bus": "yes",
+                "name": "Beverlo Centrum vervanghalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N72 BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.221613,
+                    51.089999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;170",
+                "ref:De_Lijn": "400510",
+                "bus": "yes",
+                "name": "Beverlo Oosthamsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.216948,
+                    51.08934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;718;719",
+                "ref:De_Lijn": "401436",
+                "bus": "yes",
+                "name": "Beverlo Melkerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER HEYMANSPLEIN BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.225431,
+                    51.088802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400506",
+                "bus": "yes",
+                "name": "Beverlo Centrum vervanghalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N72 BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.221299,
+                    51.089983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;170",
+                "ref:De_Lijn": "400509",
+                "bus": "yes",
+                "name": "Beverlo Hanebergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHAMSESTEENWEG BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.213065,
+                    51.090878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "403897",
+                "bus": "yes",
+                "name": "Beverlo Kapelanijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELANIJSTRAAT BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.21704,
+                    51.088899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;718;719",
+                "ref:De_Lijn": "401437",
+                "bus": "yes",
+                "name": "Beverlo Melkerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER HEYMANSPLEIN BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.225472,
+                    51.088685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "404050",
+                "bus": "yes",
+                "name": "Beverlo Zuidstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT BEVERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.215867,
+                    51.085608
                 ]
             }
         }

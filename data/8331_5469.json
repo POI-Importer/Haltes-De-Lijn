@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35;39;93",
-                "ref:De_Lijn": "501396",
+                "ref:De_Lijn": "501395",
                 "bus": "yes",
-                "name": "Stalhille Kerk",
+                "name": "Stalhille Cathilleweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "CATHILLEWEG STALHILLE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.071519,
-                    51.214822
+                    3.066845,
+                    51.21922
                 ]
             }
         },
@@ -47,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35;39;93",
-                "ref:De_Lijn": "501395",
+                "ref:De_Lijn": "501396",
                 "bus": "yes",
-                "name": "Stalhille Cathilleweg",
+                "name": "Stalhille Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "CATHILLEWEG STALHILLE",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.066845,
-                    51.21922
+                    3.071519,
+                    51.214822
                 ]
             }
         }

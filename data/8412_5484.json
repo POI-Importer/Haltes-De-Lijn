@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "305;306;708;944",
+                "ref:De_Lijn": "307438",
+                "bus": "yes",
+                "name": "Aarschot Oude Mechelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERSELTSESTEENWEG AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.838955,
+                    51.009996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "300105",
+                "bus": "yes",
+                "name": "Langdorp Gijmel Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIJMELSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.85552,
+                    51.001146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "707;708",
                 "ref:De_Lijn": "306864",
                 "bus": "yes",
@@ -25,28 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "220;221;305;306;490;491;492;707;708;944",
-                "ref:De_Lijn": "307438",
-                "bus": "yes",
-                "name": "Aarschot Oude Mechelsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERSELTSESTEENWEG AARSCHOT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.838955,
-                    51.009996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "306861",
                 "bus": "yes",
                 "name": "Aarschot Geburenstraat",
@@ -67,7 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "220;221;305;306;490;491;492;707;708;944",
+                "route_ref:De_Lijn": "306;707;708;944",
                 "ref:De_Lijn": "307439",
                 "bus": "yes",
                 "name": "Aarschot Lindekensstraat",
@@ -109,105 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "300105",
-                "bus": "yes",
-                "name": "Langdorp Gijmel Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GIJMELSESTEENWEG LANGDORP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.85552,
-                    51.001146
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "37;707;708",
-                "ref:De_Lijn": "300106",
-                "bus": "yes",
-                "name": "Langdorp Gijmel Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GIJMELSESTEENWEG LANGDORP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.85559,
-                    51.001047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306862",
+                "ref:De_Lijn": "306865",
                 "bus": "yes",
-                "name": "Aarschot Geburenstraat",
+                "name": "Aarschot Jan Van Nuffelenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDE MECHELSEBAAN GIJMEL",
+                "created_by": "JAN VAN NUFFELENSTRAAT AARSCHOT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.84802,
-                    51.008854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "220;221;305;306;490;491;492;707;708;944",
-                "ref:De_Lijn": "307440",
-                "bus": "yes",
-                "name": "Aarschot Lindekensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERSELTSESTEENWEG AARSCHOT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.836298,
-                    51.003607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "220;221;305;306;490;491;492;707;708;944",
-                "ref:De_Lijn": "307437",
-                "bus": "yes",
-                "name": "Aarschot Oude Mechelsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERSELTSESTEENWEG AARSCHOT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.838391,
-                    51.009208
+                    4.846205,
+                    51.00274
                 ]
             }
         },
@@ -236,20 +173,83 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306865",
+                "ref:De_Lijn": "306862",
                 "bus": "yes",
-                "name": "Aarschot Jan Van Nuffelenstraat",
+                "name": "Aarschot Geburenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JAN VAN NUFFELENSTRAAT AARSCHOT",
+                "created_by": "OUDE MECHELSEBAAN GIJMEL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.846205,
-                    51.00274
+                    4.84802,
+                    51.008854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "306;707;708;944",
+                "ref:De_Lijn": "307437",
+                "bus": "yes",
+                "name": "Aarschot Oude Mechelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERSELTSESTEENWEG AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.838391,
+                    51.009208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "300106",
+                "bus": "yes",
+                "name": "Langdorp Gijmel Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIJMELSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.85559,
+                    51.001047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;306;708;944",
+                "ref:De_Lijn": "307440",
+                "bus": "yes",
+                "name": "Aarschot Lindekensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERSELTSESTEENWEG AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.836298,
+                    51.003607
                 ]
             }
         }

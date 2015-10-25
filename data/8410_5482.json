@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "709;944",
-                "ref:De_Lijn": "308494",
-                "bus": "yes",
-                "name": "Begijnendijk Aarschotsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEKHEINDE HOUTVENNE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.796803,
-                    51.028343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "944",
-                "ref:De_Lijn": "101502",
-                "bus": "yes",
-                "name": "Houtvenne Hoekheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGESTRAAT HOUTVENNE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.802162,
-                    51.035919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "944",
-                "ref:De_Lijn": "101503",
-                "bus": "yes",
-                "name": "Houtvenne Hoekheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGESTRAAT HOUTVENNE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.802235,
-                    51.036134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "944",
                 "ref:De_Lijn": "101938",
                 "bus": "yes",
@@ -109,7 +46,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "709;944",
+                "ref:De_Lijn": "308494",
+                "bus": "yes",
+                "name": "Begijnendijk Aarschotsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKHEINDE HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.796803,
+                    51.028343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "101503",
+                "bus": "yes",
+                "name": "Houtvenne Hoekheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.802235,
+                    51.036134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101977",
                 "bus": "yes",
                 "name": "Houtvenne Kruisveststraat",
@@ -124,6 +102,27 @@
                 "coordinates": [
                     4.797397,
                     51.032511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "101502",
+                "bus": "yes",
+                "name": "Houtvenne Hoekheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.802162,
+                    51.035919
                 ]
             }
         }

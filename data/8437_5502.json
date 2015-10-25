@@ -68,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "27",
-                "ref:De_Lijn": "403809",
-                "bus": "yes",
-                "name": "Vechmaal Wit Kapelleke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VECHMAALLAAN VECHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.39103,
-                    50.757606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "408596",
                 "bus": "yes",
                 "name": "Lauw Romeinse Steenweg",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     5.399173,
                     50.751475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "403809",
+                "bus": "yes",
+                "name": "Vechmaal Wit Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VECHMAALLAAN VECHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.39103,
+                    50.757606
                 ]
             }
         },

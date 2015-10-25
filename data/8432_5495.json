@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "105;700",
+                "ref:De_Lijn": "400097",
+                "bus": "yes",
+                "name": "Alken Musstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLEINSTRAAT SINT-JORIS (ALKEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274862,
+                    50.859165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105;700",
+                "ref:De_Lijn": "400055",
+                "bus": "yes",
+                "name": "Alken Brabantsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLEINSTRAAT SINT-JORIS (ALKEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28052,
+                    50.860874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105;700",
+                "ref:De_Lijn": "400096",
+                "bus": "yes",
+                "name": "Alken Musstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLEINSTRAAT SINT-JORIS (ALKEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274935,
+                    50.859299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "105",
                 "ref:De_Lijn": "400105",
                 "bus": "yes",
@@ -47,27 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "105;700",
-                "ref:De_Lijn": "400055",
-                "bus": "yes",
-                "name": "Alken Brabantsestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PLEINSTRAAT SINT-JORIS (ALKEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.28052,
-                    50.860874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "105;700",
                 "ref:De_Lijn": "400054",
                 "bus": "yes",
                 "name": "Alken Brabantsestraat",
@@ -82,48 +124,6 @@
                 "coordinates": [
                     5.280719,
                     50.86089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "105;700",
-                "ref:De_Lijn": "400096",
-                "bus": "yes",
-                "name": "Alken Musstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PLEINSTRAAT SINT-JORIS (ALKEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.274935,
-                    50.859299
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "105;700",
-                "ref:De_Lijn": "400097",
-                "bus": "yes",
-                "name": "Alken Musstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PLEINSTRAAT SINT-JORIS (ALKEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.274862,
-                    50.859165
                 ]
             }
         }

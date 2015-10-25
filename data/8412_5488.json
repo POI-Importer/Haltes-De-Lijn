@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "310;535",
-                "ref:De_Lijn": "302284",
-                "bus": "yes",
-                "name": "Nieuwrode Pastorie",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ST.-LAMBERTUSSTRAAT NIEUWRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.837353,
-                    50.951105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "310;590",
                 "ref:De_Lijn": "302289",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     4.838515,
                     50.953446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302284",
+                "bus": "yes",
+                "name": "Nieuwrode Pastorie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ST.-LAMBERTUSSTRAAT NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.837353,
+                    50.951105
                 ]
             }
         },

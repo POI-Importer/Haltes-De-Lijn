@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;53;54",
-                "ref:De_Lijn": "203532",
-                "bus": "yes",
-                "name": "Overmere Schoolstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FORTSTRAAT OVERMERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.952303,
-                    51.046817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;53;54;355",
-                "ref:De_Lijn": "202532",
-                "bus": "yes",
-                "name": "Overmere Schoolstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FORTSTRAAT OVERMERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.952259,
-                    51.046952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "37;53;54",
                 "ref:De_Lijn": "202531",
                 "bus": "yes",
@@ -67,8 +25,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;37;130;355",
-                "ref:De_Lijn": "202529",
+                "route_ref:De_Lijn": "36;37",
+                "ref:De_Lijn": "203529",
                 "bus": "yes",
                 "name": "Overmere Vaarschootstraat",
                 "public_transport": "platform",
@@ -80,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.939498,
-                    51.045135
+                    3.9391,
+                    51.045044
                 ]
             }
         },
@@ -89,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37;53;54",
-                "ref:De_Lijn": "203531",
+                "ref:De_Lijn": "203965",
                 "bus": "yes",
-                "name": "Overmere Kerk",
+                "name": "Overmere Loerewegel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KERKSTRAAT OVERMERE",
@@ -101,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.946855,
-                    51.046815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "203692",
-                "bus": "yes",
-                "name": "Overmere Kerk",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT OVERMERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.94686,
-                    51.046267
+                    3.947514,
+                    51.051321
                 ]
             }
         },
@@ -131,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37;53;54",
-                "ref:De_Lijn": "203966",
-                "bus": "yes",
-                "name": "Overmere Kattebroeckstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT OVERMERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.948178,
-                    51.055171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "37;53;54;355",
                 "ref:De_Lijn": "202965",
                 "bus": "yes",
                 "name": "Overmere Loerewegel",
@@ -193,8 +109,50 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;37;130",
-                "ref:De_Lijn": "203529",
+                "route_ref:De_Lijn": "36;53;54",
+                "ref:De_Lijn": "202532",
+                "bus": "yes",
+                "name": "Overmere Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORTSTRAAT OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.952259,
+                    51.046952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203692",
+                "bus": "yes",
+                "name": "Overmere Kerk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.94686,
+                    51.046267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;37",
+                "ref:De_Lijn": "202529",
                 "bus": "yes",
                 "name": "Overmere Vaarschootstraat",
                 "public_transport": "platform",
@@ -206,15 +164,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.9391,
-                    51.045044
+                    3.939498,
+                    51.045135
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;37;130",
+                "route_ref:De_Lijn": "36;53;54",
+                "ref:De_Lijn": "203532",
+                "bus": "yes",
+                "name": "Overmere Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORTSTRAAT OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.952303,
+                    51.046817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54",
+                "ref:De_Lijn": "203966",
+                "bus": "yes",
+                "name": "Overmere Kattebroeckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.948178,
+                    51.055171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;37",
                 "ref:De_Lijn": "203530",
                 "bus": "yes",
                 "name": "Overmere Kerk",
@@ -235,7 +235,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;37;130;355",
+                "route_ref:De_Lijn": "36;37",
                 "ref:De_Lijn": "202530",
                 "bus": "yes",
                 "name": "Overmere Kerk",
@@ -257,9 +257,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37;53;54",
-                "ref:De_Lijn": "203965",
+                "ref:De_Lijn": "203531",
                 "bus": "yes",
-                "name": "Overmere Loerewegel",
+                "name": "Overmere Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KERKSTRAAT OVERMERE",
@@ -269,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.947514,
-                    51.051321
+                    3.946855,
+                    51.046815
                 ]
             }
         }

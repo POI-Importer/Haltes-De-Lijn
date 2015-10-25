@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "372;525",
+                "ref:De_Lijn": "307932",
+                "bus": "yes",
+                "name": "Kortrijk-Dutsel Gobbelsrode",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUWAARTSEBAAN KORTRIJK-DUTSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.806534,
+                    50.902932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "370;373;374;524",
-                "ref:De_Lijn": "303521",
+                "ref:De_Lijn": "303484",
                 "bus": "yes",
-                "name": "Pellenberg Lindestraat",
+                "name": "Lubbeek Ledigheid",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIESTSESTEENWEG LINDEN",
+                "created_by": "DIESTSESTEENWEG LUBBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.791858,
-                    50.891471
+                    4.810725,
+                    50.893648
                 ]
             }
         },
@@ -26,41 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "372;525",
-                "ref:De_Lijn": "303436",
+                "ref:De_Lijn": "307068",
                 "bus": "yes",
-                "name": "Linden Endepoelstraat",
+                "name": "Kortrijk-Dutsel Gobbelsrode",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOUWAARTSTRAAT LINDEN",
+                "created_by": "HOUWAARTSEBAAN KORTRIJK-DUTSEL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.794317,
-                    50.899247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "372;525",
-                "ref:De_Lijn": "308739",
-                "bus": "yes",
-                "name": "Lubbeek Geestbeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GEESTBEEK LUBBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.810227,
-                    50.899583
+                    4.806747,
+                    50.902905
                 ]
             }
         },
@@ -89,41 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "370;373;374;524",
-                "ref:De_Lijn": "303484",
+                "ref:De_Lijn": "303521",
                 "bus": "yes",
-                "name": "Lubbeek Ledigheid",
+                "name": "Pellenberg Lindestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIESTSESTEENWEG LUBBEEK",
+                "created_by": "DIESTSESTEENWEG LINDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.810725,
-                    50.893648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;373;374;524",
-                "ref:De_Lijn": "303483",
-                "bus": "yes",
-                "name": "Lubbeek Ledigheid",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTSESTEENWEG LUBBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.809258,
-                    50.893303
+                    4.791858,
+                    50.891471
                 ]
             }
         },
@@ -152,20 +131,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "372;525",
-                "ref:De_Lijn": "307932",
+                "ref:De_Lijn": "307069",
                 "bus": "yes",
-                "name": "Kortrijk-Dutsel Gobbelsrode",
+                "name": "Lubbeek Geestbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOUWAARTSEBAAN KORTRIJK-DUTSEL",
+                "created_by": "GEESTBEEK LUBBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.806534,
-                    50.902932
+                    4.81007,
+                    50.89953
                 ]
             }
         },
@@ -194,28 +173,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "372;525",
-                "ref:De_Lijn": "307068",
-                "bus": "yes",
-                "name": "Kortrijk-Dutsel Gobbelsrode",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUWAARTSEBAAN KORTRIJK-DUTSEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.806747,
-                    50.902905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "372;525",
-                "ref:De_Lijn": "307069",
+                "ref:De_Lijn": "308739",
                 "bus": "yes",
                 "name": "Lubbeek Geestbeek",
                 "public_transport": "platform",
@@ -227,8 +185,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.81007,
-                    50.89953
+                    4.810227,
+                    50.899583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "372;525",
+                "ref:De_Lijn": "303436",
+                "bus": "yes",
+                "name": "Linden Endepoelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUWAARTSTRAAT LINDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.794317,
+                    50.899247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;373;374;524",
+                "ref:De_Lijn": "303483",
+                "bus": "yes",
+                "name": "Lubbeek Ledigheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTEENWEG LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.809258,
+                    50.893303
                 ]
             }
         }

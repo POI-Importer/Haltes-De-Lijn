@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "360",
-                "ref:De_Lijn": "307111",
-                "bus": "yes",
-                "name": "Jodoigne Centre Administratif",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AVENUE DES COMMANDANTS BORLÉE GELDENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.873641,
-                    50.72248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "301211",
                 "bus": "yes",
                 "name": "Jodoigne Centre Administratif",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     4.876544,
                     50.721155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360",
+                "ref:De_Lijn": "307111",
+                "bus": "yes",
+                "name": "Jodoigne Centre Administratif",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVENUE DES COMMANDANTS BORLÉE GELDENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873641,
+                    50.72248
                 ]
             }
         }

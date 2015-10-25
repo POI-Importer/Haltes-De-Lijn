@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46",
-                "ref:De_Lijn": "506029",
-                "bus": "yes",
-                "name": "Bredene Camping Devos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT BREDENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.989082,
-                    51.256123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46",
                 "ref:De_Lijn": "501127",
                 "bus": "yes",
                 "name": "Klemskerke Auberge Du Golf",
@@ -68,7 +47,49 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46",
-                "ref:De_Lijn": "501132",
+                "ref:De_Lijn": "506029",
+                "bus": "yes",
+                "name": "Bredene Camping Devos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.989082,
+                    51.256123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "506127",
+                "bus": "yes",
+                "name": "Klemskerke Auberge Du Golf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIFTWEG DE HAAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.996979,
+                    51.26089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "506132",
                 "bus": "yes",
                 "name": "Klemskerke Kattereek",
                 "public_transport": "platform",
@@ -80,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.007994,
-                    51.260019
+                    3.008148,
+                    51.260129
                 ]
             }
         },
@@ -131,20 +152,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46",
-                "ref:De_Lijn": "506132",
+                "ref:De_Lijn": "501128",
                 "bus": "yes",
-                "name": "Klemskerke Kattereek",
+                "name": "Klemskerke Chat Botte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VOSSESLAG DE HAAN",
+                "created_by": "DRIFTWEG DE HAAN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.008148,
-                    51.260129
+                    2.993513,
+                    51.257919
                 ]
             }
         },
@@ -173,41 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46",
-                "ref:De_Lijn": "506127",
+                "ref:De_Lijn": "501132",
                 "bus": "yes",
-                "name": "Klemskerke Auberge Du Golf",
+                "name": "Klemskerke Kattereek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DRIFTWEG DE HAAN",
+                "created_by": "VOSSESLAG DE HAAN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.996979,
-                    51.26089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46",
-                "ref:De_Lijn": "501128",
-                "bus": "yes",
-                "name": "Klemskerke Chat Botte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIFTWEG DE HAAN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.993513,
-                    51.257919
+                    3.007994,
+                    51.260019
                 ]
             }
         }

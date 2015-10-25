@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20",
-                "ref:De_Lijn": "406484",
+                "ref:De_Lijn": "406485",
                 "bus": "yes",
                 "name": "Meerhout Lil",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.087959,
-                    51.145203
+                    5.087759,
+                    51.145195
                 ]
             }
         },
@@ -40,6 +40,27 @@
                 "coordinates": [
                     5.094466,
                     51.141819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "406489",
+                "bus": "yes",
+                "name": "Meerhout Molsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLSEBAAN MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085358,
+                    51.141479
                 ]
             }
         },
@@ -68,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20",
-                "ref:De_Lijn": "406488",
+                "ref:De_Lijn": "400391",
                 "bus": "yes",
-                "name": "Meerhout Molsebaan",
+                "name": "Balen Weg naar Hulsen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLSEBAAN MEERHOUT",
+                "created_by": "LIL MEERHOUT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.085616,
-                    51.141541
+                    5.090171,
+                    51.149621
                 ]
             }
         },
@@ -89,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20",
-                "ref:De_Lijn": "406485",
+                "ref:De_Lijn": "406484",
                 "bus": "yes",
                 "name": "Meerhout Lil",
                 "public_transport": "platform",
@@ -101,71 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.087759,
-                    51.145195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20",
-                "ref:De_Lijn": "406489",
-                "bus": "yes",
-                "name": "Meerhout Molsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLSEBAAN MEERHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.085358,
-                    51.141479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "102567",
-                "bus": "yes",
-                "name": "Hulsen Lil",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIL BALEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.094363,
-                    51.141631
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408790",
-                "bus": "yes",
-                "name": "Balen Lil",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LIL BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.094494,
-                    51.141801
+                    5.087959,
+                    51.145203
                 ]
             }
         },
@@ -193,21 +151,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20",
-                "ref:De_Lijn": "400391",
+                "ref:De_Lijn": "408790",
                 "bus": "yes",
-                "name": "Balen Weg naar Hulsen",
+                "name": "Balen Lil",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LIL MEERHOUT",
+                "created_by": "LIL BALEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.090171,
-                    51.149621
+                    5.094494,
+                    51.141801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "102567",
+                "bus": "yes",
+                "name": "Hulsen Lil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIL BALEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.094363,
+                    51.141631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "406488",
+                "bus": "yes",
+                "name": "Meerhout Molsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLSEBAAN MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085616,
+                    51.141541
                 ]
             }
         }

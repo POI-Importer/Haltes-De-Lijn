@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25",
-                "ref:De_Lijn": "209521",
+                "route_ref:De_Lijn": "13;25",
+                "ref:De_Lijn": "209066",
                 "bus": "yes",
-                "name": "Sint-Maria-Oudenhove Pijperzele",
+                "name": "Sint-Maria-Oudenhove Pijperzelestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PIJPERZELE SINT-MARIA-OUDENHOVE",
+                "created_by": "FALIESTRAAT SINT-MARIA-OUDENHOVE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.812446,
-                    50.828604
+                    3.804691,
+                    50.829079
                 ]
             }
         },
@@ -46,29 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25",
-                "ref:De_Lijn": "209153",
-                "bus": "yes",
-                "name": "Sint-Maria-Oudenhove Pendelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PIJPERZELE SINT-MARIA-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.818866,
-                    50.828266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "13;25",
-                "ref:De_Lijn": "209066",
+                "ref:De_Lijn": "208066",
                 "bus": "yes",
                 "name": "Sint-Maria-Oudenhove Pijperzelestraat",
                 "public_transport": "platform",
@@ -80,36 +59,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.804691,
-                    50.829079
+                    3.804846,
+                    50.829125
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;410",
-                "ref:De_Lijn": "208065",
-                "bus": "yes",
-                "name": "Sint-Maria-Oudenhove Kleine Hazestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FALIESTRAAT SINT-MARIA-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.805374,
-                    50.82768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;410",
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "208064",
                 "bus": "yes",
                 "name": "Sint-Maria-Oudenhove Berthoflos",
@@ -124,6 +82,48 @@
                 "coordinates": [
                     3.802554,
                     50.82497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "208153",
+                "bus": "yes",
+                "name": "Sint-Maria-Oudenhove Pendelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIJPERZELE SINT-MARIA-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.818737,
+                    50.828382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "208065",
+                "bus": "yes",
+                "name": "Sint-Maria-Oudenhove Kleine Hazestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FALIESTRAAT SINT-MARIA-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.805374,
+                    50.82768
                 ]
             }
         },
@@ -151,29 +151,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;25;410",
-                "ref:De_Lijn": "208066",
-                "bus": "yes",
-                "name": "Sint-Maria-Oudenhove Pijperzelestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FALIESTRAAT SINT-MARIA-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.804846,
-                    50.829125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;410",
-                "ref:De_Lijn": "208153",
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "209153",
                 "bus": "yes",
                 "name": "Sint-Maria-Oudenhove Pendelstraat",
                 "public_transport": "platform",
@@ -185,15 +164,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.818737,
-                    50.828382
+                    3.818866,
+                    50.828266
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;410",
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "209521",
+                "bus": "yes",
+                "name": "Sint-Maria-Oudenhove Pijperzele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIJPERZELE SINT-MARIA-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.812446,
+                    50.828604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25",
                 "ref:De_Lijn": "208521",
                 "bus": "yes",
                 "name": "Sint-Maria-Oudenhove Pijperzele",
@@ -214,7 +214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410",
                 "ref:De_Lijn": "208660",
                 "bus": "yes",
                 "name": "Sint-Maria-Lierde Spende",

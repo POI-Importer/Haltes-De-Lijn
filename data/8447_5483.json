@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "400220",
+                "ref:De_Lijn": "400219",
                 "bus": "yes",
-                "name": "Niel-bij-As Grotstraat",
+                "name": "Niel-bij-As Centrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOOGSTRAAT NIEL-BIJ-AS",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.608086,
-                    51.021145
+                    5.603864,
+                    51.017261
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "400219",
-                "bus": "yes",
-                "name": "Niel-bij-As Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT NIEL-BIJ-AS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.603864,
-                    51.017261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11",
                 "ref:De_Lijn": "400218",
                 "bus": "yes",
                 "name": "Niel-bij-As Centrum",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     5.604324,
                     51.0174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "400220",
+                "bus": "yes",
+                "name": "Niel-bij-As Grotstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT NIEL-BIJ-AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.608086,
+                    51.021145
                 ]
             }
         }

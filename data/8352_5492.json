@@ -4,7 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
+                "route_ref:De_Lijn": "59;83",
+                "ref:De_Lijn": "208254",
+                "bus": "yes",
+                "name": "Kruishoutem Sint-Elooiskeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529668,
+                    50.900803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "201773",
                 "bus": "yes",
                 "name": "Kruishoutem Sporthal",
@@ -25,49 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;83",
-                "ref:De_Lijn": "209254",
-                "bus": "yes",
-                "name": "Kruishoutem Sint-Elooiskeer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT KRUISHOUTEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.529469,
-                    50.899992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "201812",
-                "bus": "yes",
-                "name": "Kruishoutem Vijfknokstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAREGEMSESTEENWEG KRUISHOUTEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.517462,
-                    50.901236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59;450",
+                "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "200746",
                 "bus": "yes",
                 "name": "Kruishoutem Galgestraat",
@@ -109,27 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;83;450",
-                "ref:De_Lijn": "208254",
-                "bus": "yes",
-                "name": "Kruishoutem Sint-Elooiskeer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT KRUISHOUTEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.529668,
-                    50.900803
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "201746",
                 "bus": "yes",
@@ -145,6 +102,47 @@
                 "coordinates": [
                     3.52532,
                     50.895144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;83",
+                "ref:De_Lijn": "209254",
+                "bus": "yes",
+                "name": "Kruishoutem Sint-Elooiskeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529469,
+                    50.899992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201812",
+                "bus": "yes",
+                "name": "Kruishoutem Vijfknokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.517462,
+                    50.901236
                 ]
             }
         }

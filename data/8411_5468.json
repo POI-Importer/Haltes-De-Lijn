@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "210;213;409;418;429;449",
-                "ref:De_Lijn": "109205",
+                "ref:De_Lijn": "109210",
                 "bus": "yes",
-                "name": "Poederlee Heikant",
+                "name": "Poederlee Schrieken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LILSESTEENWEG POEDERLEE",
+                "created_by": "HERENTALSESTEENWEG POEDERLEE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.832268,
-                    51.230997
+                    4.831431,
+                    51.223171
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "210;213;409;418;429;449",
                 "ref:De_Lijn": "109209",
                 "bus": "yes",
                 "name": "Poederlee Schrieken",
@@ -46,28 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "210;213;409;418;429;449",
-                "ref:De_Lijn": "109204",
+                "ref:De_Lijn": "109205",
                 "bus": "yes",
-                "name": "Lille Beek",
+                "name": "Poederlee Heikant",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POEDERLEESE WEG LILLE",
+                "created_by": "LILSESTEENWEG POEDERLEE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.829092,
-                    51.234128
+                    4.832268,
+                    51.230997
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "210;213;409;418;429;449",
                 "ref:De_Lijn": "109206",
                 "bus": "yes",
                 "name": "Poederlee Heikant",
@@ -88,21 +84,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "210;213;409;418;429;449",
-                "ref:De_Lijn": "109210",
+                "ref:De_Lijn": "109204",
                 "bus": "yes",
-                "name": "Poederlee Schrieken",
+                "name": "Lille Beek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HERENTALSESTEENWEG POEDERLEE",
+                "created_by": "POEDERLEESE WEG LILLE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.831431,
-                    51.223171
+                    4.829092,
+                    51.234128
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "340",
                 "ref:De_Lijn": "207802",
                 "bus": "yes",
                 "name": "Meldert Nievelkapel",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "340",
                 "ref:De_Lijn": "206954",
                 "bus": "yes",
                 "name": "Hekelgem Abdij Affligem",

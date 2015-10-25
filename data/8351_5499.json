@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;85;92",
-                "ref:De_Lijn": "508329",
+                "route_ref:De_Lijn": "85;92",
+                "ref:De_Lijn": "508980",
                 "bus": "yes",
-                "name": "Kerkhove Kerk",
+                "name": "Kerkhove Baarmstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDENAARDSESTEENWEG KERKHOVE",
+                "created_by": "BRUGGESTEENWEG KERKHOVE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.500175,
-                    50.798173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "66;85;92;470",
-                "ref:De_Lijn": "503329",
-                "bus": "yes",
-                "name": "Kerkhove Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENAARDSESTEENWEG KERKHOVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.500304,
-                    50.798075
+                    3.49756,
+                    50.8038
                 ]
             }
         },
@@ -67,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "85;92",
-                "ref:De_Lijn": "508980",
+                "route_ref:De_Lijn": "66;85;92",
+                "ref:De_Lijn": "508329",
                 "bus": "yes",
-                "name": "Kerkhove Baarmstraat",
+                "name": "Kerkhove Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGGESTEENWEG KERKHOVE",
+                "created_by": "OUDENAARDSESTEENWEG KERKHOVE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.49756,
-                    50.8038
+                    3.500175,
+                    50.798173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;92",
+                "ref:De_Lijn": "503329",
+                "bus": "yes",
+                "name": "Kerkhove Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG KERKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.500304,
+                    50.798075
                 ]
             }
         }

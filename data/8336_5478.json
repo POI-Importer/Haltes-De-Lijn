@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505021",
-                "bus": "yes",
-                "name": "Veldegem Bosserij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSSERIJSTRAAT VELDEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.165768,
-                    51.09566
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "79",
                 "ref:De_Lijn": "505017",
                 "bus": "yes",
                 "name": "Ruddervoorde Bergen",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.171457,
                     51.088158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505021",
+                "bus": "yes",
+                "name": "Veldegem Bosserij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSERIJSTRAAT VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.165768,
+                    51.09566
                 ]
             }
         }

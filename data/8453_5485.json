@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "401727",
+                "bus": "yes",
+                "name": "Leut Steenakkerstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STEENAKKERSTRAAT LEUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.741397,
+                    50.988684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;65;725",
+                "ref:De_Lijn": "406217",
+                "bus": "yes",
+                "name": "Leut Kliniek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEF LEUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.741552,
+                    50.995443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;65;725",
+                "ref:De_Lijn": "406215",
+                "bus": "yes",
+                "name": "Leut Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENIESKENSSTRAAT LEUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.736629,
+                    50.992264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "9;65;725",
                 "ref:De_Lijn": "406237",
                 "bus": "yes",
@@ -46,42 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "9;65;725",
-                "ref:De_Lijn": "406215",
+                "ref:De_Lijn": "401726",
                 "bus": "yes",
-                "name": "Leut Kerk",
+                "name": "Leut Steenakkerstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GENIESKENSSTRAAT LEUT",
+                "created_by": "STEENAKKERSTRAAT LEUT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.736629,
-                    50.992264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;65;725",
-                "ref:De_Lijn": "406217",
-                "bus": "yes",
-                "name": "Leut Kliniek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DREEF LEUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.741552,
-                    50.995443
+                    5.741483,
+                    50.988701
                 ]
             }
         },
@@ -110,20 +152,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "9;65;725",
-                "ref:De_Lijn": "406214",
+                "ref:De_Lijn": "406236",
                 "bus": "yes",
-                "name": "Leut Kerk",
+                "name": "Meeswijk School",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENIESKENSSTRAAT LEUT",
+                "created_by": "MOLENSTRAAT MEESWIJK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.736839,
-                    50.992109
+                    5.744968,
+                    50.99971
                 ]
             }
         },
@@ -151,63 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "401727",
-                "bus": "yes",
-                "name": "Leut Steenakkerstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "STEENAKKERSTRAAT LEUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.741397,
-                    50.988684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "401726",
-                "bus": "yes",
-                "name": "Leut Steenakkerstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "STEENAKKERSTRAAT LEUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.741483,
-                    50.988701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "9;65;725",
-                "ref:De_Lijn": "406236",
+                "ref:De_Lijn": "406214",
                 "bus": "yes",
-                "name": "Meeswijk School",
+                "name": "Leut Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT MEESWIJK",
+                "created_by": "GENIESKENSSTRAAT LEUT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.744968,
-                    50.99971
+                    5.736839,
+                    50.992109
                 ]
             }
         }

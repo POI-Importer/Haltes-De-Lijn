@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;87;330",
+                "route_ref:De_Lijn": "36;87",
                 "ref:De_Lijn": "206598",
                 "bus": "yes",
                 "name": "Aspelare Prieelsstraat",
@@ -25,28 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;87;330;390",
-                "ref:De_Lijn": "206597",
-                "bus": "yes",
-                "name": "Sint-Antelinks Roeselarestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGESTRAAT ASPELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.936456,
-                    50.849218
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;87;330",
+                "route_ref:De_Lijn": "36;87",
                 "ref:De_Lijn": "207598",
                 "bus": "yes",
                 "name": "Aspelare Prieelsstraat",
@@ -67,7 +46,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;87;330",
+                "ref:De_Lijn": "209666",
+                "bus": "yes",
+                "name": "Sint-Antelinks Kamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMSTRAAT SINT-ANTELINKS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.936917,
+                    50.86096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;87",
                 "ref:De_Lijn": "207597",
                 "bus": "yes",
                 "name": "Sint-Antelinks Roeselarestraat",
@@ -88,21 +87,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "209666",
+                "route_ref:De_Lijn": "36;87",
+                "ref:De_Lijn": "206597",
                 "bus": "yes",
-                "name": "Sint-Antelinks Kamstraat",
+                "name": "Sint-Antelinks Roeselarestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAMSTRAAT SINT-ANTELINKS",
+                "created_by": "LANGESTRAAT ASPELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.936917,
-                    50.86096
+                    3.936456,
+                    50.849218
                 ]
             }
         }

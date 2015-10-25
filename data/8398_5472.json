@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "102742",
-                "bus": "yes",
-                "name": "Vremde Marcel De Ridderstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROECHEMSESTEENWEG VREMDE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.530026,
-                    51.175673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51",
                 "ref:De_Lijn": "102743",
                 "bus": "yes",
                 "name": "Vremde Marcel De Ridderstraat",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51",
                 "ref:De_Lijn": "102746",
                 "bus": "yes",
                 "name": "Vremde Don Bosco",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "102744",
+                "bus": "yes",
+                "name": "Vremde Withofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROECHEMSESTEENWEG VREMDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.534657,
+                    51.174975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "102741",
                 "bus": "yes",
                 "name": "Vremde Withofstraat",
@@ -88,10 +84,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "102744",
+                "ref:De_Lijn": "102742",
                 "bus": "yes",
-                "name": "Vremde Withofstraat",
+                "name": "Vremde Marcel De Ridderstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BROECHEMSESTEENWEG VREMDE",
@@ -101,8 +96,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.534657,
-                    51.174975
+                    4.530026,
+                    51.175673
                 ]
             }
         }

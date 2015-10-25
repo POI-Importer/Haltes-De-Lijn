@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;84;240",
+                "route_ref:De_Lijn": "31;84",
                 "ref:De_Lijn": "204042",
                 "bus": "yes",
                 "name": "Vrasene Schoorstraat",
@@ -46,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;84;240",
+                "route_ref:De_Lijn": "31;84",
                 "ref:De_Lijn": "205042",
                 "bus": "yes",
                 "name": "Vrasene Schoorstraat",

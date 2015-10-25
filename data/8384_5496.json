@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "116;117",
-                "ref:De_Lijn": "301334",
-                "bus": "yes",
-                "name": "Itterbeek Molenbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BODEGEMSTRAAT DILBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.239717,
-                    50.84355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "116;117",
-                "ref:De_Lijn": "301332",
-                "bus": "yes",
-                "name": "Itterbeek Molenbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BODEGEMSTRAAT DILBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.240443,
-                    50.843102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "116;117",
-                "ref:De_Lijn": "301299",
-                "bus": "yes",
-                "name": "Dilbeek Openluchtveldlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BODEGEMSTRAAT DILBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.237001,
-                    50.845255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "127;128",
                 "ref:De_Lijn": "301330",
                 "bus": "yes",
@@ -109,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "116;117",
+                "ref:De_Lijn": "301299",
+                "bus": "yes",
+                "name": "Dilbeek Openluchtveldlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BODEGEMSTRAAT DILBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237001,
+                    50.845255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "127;128",
                 "ref:De_Lijn": "301331",
                 "bus": "yes",
@@ -124,6 +82,48 @@
                 "coordinates": [
                     4.229715,
                     50.841004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;117",
+                "ref:De_Lijn": "301332",
+                "bus": "yes",
+                "name": "Itterbeek Molenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BODEGEMSTRAAT DILBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.240443,
+                    50.843102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;117",
+                "ref:De_Lijn": "301334",
+                "bus": "yes",
+                "name": "Itterbeek Molenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BODEGEMSTRAAT DILBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.239717,
+                    50.84355
                 ]
             }
         }

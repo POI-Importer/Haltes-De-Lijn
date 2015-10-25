@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "54",
+                "ref:De_Lijn": "503358",
+                "bus": "yes",
+                "name": "Oostrozebeke Vierknok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLSTENSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.346171,
+                    50.935427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54",
                 "ref:De_Lijn": "503492",
                 "bus": "yes",
                 "name": "Oostrozebeke Bollaert",
@@ -26,48 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "54;59;88",
-                "ref:De_Lijn": "505137",
-                "bus": "yes",
-                "name": "Oostrozebeke Bollaert",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEINE MOLSTENSTRAAT OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.347979,
-                    50.940621
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54",
-                "ref:De_Lijn": "503358",
-                "bus": "yes",
-                "name": "Oostrozebeke Vierknok",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLSTENSTRAAT OOSTROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.346171,
-                    50.935427
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54;59;88",
                 "ref:De_Lijn": "505135",
                 "bus": "yes",
                 "name": "Oostrozebeke Vierknok",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.345823,
                     50.935091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59;88",
+                "ref:De_Lijn": "505137",
+                "bus": "yes",
+                "name": "Oostrozebeke Bollaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE MOLSTENSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.347979,
+                    50.940621
                 ]
             }
         }

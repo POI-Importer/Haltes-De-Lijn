@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43",
-                "ref:De_Lijn": "205434",
-                "bus": "yes",
-                "zone:De_Lijn": "7854",
-                "name": "Sint-Jansteen (Nl) Wilhelminastraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WILHELMINASTRAAT SINT JANSTEEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.047953,
-                    51.258422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "205425",
                 "bus": "yes",
@@ -48,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "43",
-                "ref:De_Lijn": "204434",
+                "ref:De_Lijn": "205434",
                 "bus": "yes",
                 "zone:De_Lijn": "7854",
                 "name": "Sint-Jansteen (Nl) Wilhelminastraat",
@@ -61,8 +39,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.047753,
-                    51.258439
+                    4.047953,
+                    51.258422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;43",
+                "ref:De_Lijn": "204435",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Sint-Jansteen (Nl) Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFDSTRAAT SINT JANSTEEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.052156,
+                    51.261876
                 ]
             }
         },
@@ -90,22 +90,22 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;43",
-                "ref:De_Lijn": "204435",
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "204434",
                 "bus": "yes",
-                "zone:De_Lijn": "7840",
-                "name": "Sint-Jansteen (Nl) Kerk",
+                "zone:De_Lijn": "7854",
+                "name": "Sint-Jansteen (Nl) Wilhelminastraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOFDSTRAAT SINT JANSTEEN",
+                "created_by": "WILHELMINASTRAAT SINT JANSTEEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.052156,
-                    51.261876
+                    4.047753,
+                    51.258439
                 ]
             }
         }

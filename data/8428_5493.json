@@ -5,51 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "5;105",
-                "ref:De_Lijn": "407053",
+                "ref:De_Lijn": "407008",
                 "bus": "yes",
-                "name": "Nieuwerkerken Tegelrij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROZENBOSSTRAAT NIEUWERKERKEN (LIMBURG)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.199248,
-                    50.876536
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;105",
-                "ref:De_Lijn": "407052",
-                "bus": "yes",
-                "name": "Nieuwerkerken Tegelrij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROZENBOSSTRAAT NIEUWERKERKEN (LIMBURG)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.19908,
-                    50.876654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;105",
-                "ref:De_Lijn": "407011",
-                "bus": "yes",
-                "name": "Nieuwerkerken Kabien",
+                "name": "Nieuwerkerken Hakbosstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TEGELRIJSTRAAT NIEUWERKERKEN (LIMBURG)",
@@ -59,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.204178,
-                    50.882093
+                    5.201306,
+                    50.886024
                 ]
             }
         },
@@ -89,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "5;105",
-                "ref:De_Lijn": "407008",
+                "ref:De_Lijn": "407011",
                 "bus": "yes",
-                "name": "Nieuwerkerken Hakbosstraat",
+                "name": "Nieuwerkerken Kabien",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TEGELRIJSTRAAT NIEUWERKERKEN (LIMBURG)",
@@ -101,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.201306,
-                    50.886024
+                    5.204178,
+                    50.882093
                 ]
             }
         },
@@ -124,6 +82,48 @@
                 "coordinates": [
                     5.201184,
                     50.886349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407052",
+                "bus": "yes",
+                "name": "Nieuwerkerken Tegelrij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENBOSSTRAAT NIEUWERKERKEN (LIMBURG)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.19908,
+                    50.876654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407053",
+                "bus": "yes",
+                "name": "Nieuwerkerken Tegelrij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENBOSSTRAAT NIEUWERKERKEN (LIMBURG)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.199248,
+                    50.876536
                 ]
             }
         }

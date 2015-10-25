@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "355",
                 "ref:De_Lijn": "204179",
                 "bus": "yes",
                 "name": "Appels Rebbroekstraat",
@@ -25,7 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;29;355",
+                "route_ref:De_Lijn": "27;28;29",
                 "ref:De_Lijn": "206391",
                 "bus": "yes",
                 "name": "Appels 't Zand",

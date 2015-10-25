@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "684",
-                "ref:De_Lijn": "305080",
+                "route_ref:De_Lijn": "684;713",
+                "ref:De_Lijn": "305081",
                 "bus": "yes",
                 "name": "Kumtich Spoorwegstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SPOORWEGSTRAAT KUMTICH",
+                "created_by": "SINT-BARBARASTRAAT KUMTICH",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.884169,
-                    50.814877
+                    4.883458,
+                    50.814728
                 ]
             }
         },
@@ -47,41 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "684",
-                "ref:De_Lijn": "305076",
+                "ref:De_Lijn": "305080",
                 "bus": "yes",
-                "name": "Kumtich Centrum",
+                "name": "Kumtich Spoorwegstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-GILLISPLEIN KUMTICH",
+                "created_by": "SPOORWEGSTRAAT KUMTICH",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.887402,
-                    50.818513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "380;381;684",
-                "ref:De_Lijn": "305067",
-                "bus": "yes",
-                "name": "Kumtich Vogelzang",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSELAAN KUMTICH",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.899732,
-                    50.819536
+                    4.884169,
+                    50.814877
                 ]
             }
         },
@@ -109,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "684;713",
-                "ref:De_Lijn": "305081",
+                "route_ref:De_Lijn": "380;381;684",
+                "ref:De_Lijn": "305067",
                 "bus": "yes",
-                "name": "Kumtich Spoorwegstraat",
+                "name": "Kumtich Vogelzang",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-BARBARASTRAAT KUMTICH",
+                "created_by": "LEUVENSELAAN KUMTICH",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.883458,
-                    50.814728
+                    4.899732,
+                    50.819536
                 ]
             }
         },
@@ -145,6 +124,27 @@
                 "coordinates": [
                     4.887232,
                     50.818541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "684",
+                "ref:De_Lijn": "305076",
+                "bus": "yes",
+                "name": "Kumtich Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GILLISPLEIN KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.887402,
+                    50.818513
                 ]
             }
         }

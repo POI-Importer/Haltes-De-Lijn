@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;270",
-                "ref:De_Lijn": "203220",
-                "bus": "yes",
-                "name": "Lokeren Heilig Hartlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEILIG-HARTLAAN LOKEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.989093,
-                    51.096255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;270",
+                "route_ref:De_Lijn": "68",
                 "ref:De_Lijn": "202220",
                 "bus": "yes",
                 "name": "Lokeren Heilig Hartlaan",
@@ -46,49 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;270",
-                "ref:De_Lijn": "202218",
-                "bus": "yes",
-                "name": "Lokeren Bokslaarstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EVERSLAARSTRAAT LOKEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.992462,
-                    51.089218
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;270",
-                "ref:De_Lijn": "203217",
-                "bus": "yes",
-                "name": "Lokeren Everslaarstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EVERSLAARSTRAAT LOKEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.988671,
-                    51.083174
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;270",
+                "route_ref:De_Lijn": "68",
                 "ref:De_Lijn": "202219",
                 "bus": "yes",
                 "name": "Lokeren Lokerhoutstraat",
@@ -109,49 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
-                "ref:De_Lijn": "204795",
-                "bus": "yes",
-                "name": "Lokeren Lenenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAASTVELDSTRAAT LOKEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.985564,
-                    51.091443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;270",
-                "ref:De_Lijn": "203218",
-                "bus": "yes",
-                "name": "Lokeren Bokslaarstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EVERSLAARSTRAAT LOKEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.992559,
-                    51.089497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;270",
+                "route_ref:De_Lijn": "68",
                 "ref:De_Lijn": "202217",
                 "bus": "yes",
                 "name": "Lokeren Everslaarstraat",
@@ -172,7 +67,86 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;270",
+                "ref:De_Lijn": "203218",
+                "bus": "yes",
+                "name": "Lokeren Bokslaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERSLAARSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.992559,
+                    51.089497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203220",
+                "bus": "yes",
+                "name": "Lokeren Heilig Hartlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEILIG-HARTLAAN LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.989093,
+                    51.096255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204795",
+                "bus": "yes",
+                "name": "Lokeren Lenenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAASTVELDSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.985564,
+                    51.091443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203217",
+                "bus": "yes",
+                "name": "Lokeren Everslaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERSLAARSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.988671,
+                    51.083174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "203219",
                 "bus": "yes",
                 "name": "Lokeren Lokerhoutstraat",
@@ -187,6 +161,27 @@
                 "coordinates": [
                     3.993409,
                     51.093949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "202218",
+                "bus": "yes",
+                "name": "Lokeren Bokslaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERSLAARSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.992462,
+                    51.089218
                 ]
             }
         }

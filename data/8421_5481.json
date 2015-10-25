@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408400",
+                "ref:De_Lijn": "408260",
                 "bus": "yes",
-                "name": "Tessenderlo Jagersweg",
+                "name": "Tessenderlo Houterenberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SPARRENWEG TESSENDERLO",
@@ -17,8 +17,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.050108,
-                    51.050655
+                    5.05137,
+                    51.045254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408261",
+                "bus": "yes",
+                "name": "Tessenderlo Houterenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPARRENWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.051062,
+                    51.045615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17c",
+                "ref:De_Lijn": "408398",
+                "bus": "yes",
+                "name": "Tessenderlo Zavelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPARRENWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.048671,
+                    51.053783
                 ]
             }
         },
@@ -47,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408261",
+                "ref:De_Lijn": "408400",
                 "bus": "yes",
-                "name": "Tessenderlo Houterenberg",
+                "name": "Tessenderlo Jagersweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SPARRENWEG TESSENDERLO",
@@ -59,50 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.051062,
-                    51.045615
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408260",
-                "bus": "yes",
-                "name": "Tessenderlo Houterenberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPARRENWEG TESSENDERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.05137,
-                    51.045254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17c",
-                "ref:De_Lijn": "408398",
-                "bus": "yes",
-                "name": "Tessenderlo Zavelberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPARRENWEG TESSENDERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.048671,
-                    51.053783
+                    5.050108,
+                    51.050655
                 ]
             }
         },

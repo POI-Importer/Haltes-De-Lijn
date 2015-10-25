@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
                 "ref:De_Lijn": "207798",
                 "bus": "yes",
                 "name": "Ooststraat",
@@ -25,7 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;460",
+                "route_ref:De_Lijn": "72",
                 "ref:De_Lijn": "207758",
                 "bus": "yes",
                 "name": "Germinal",

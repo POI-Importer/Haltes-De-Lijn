@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21;28",
-                "ref:De_Lijn": "502539",
-                "bus": "yes",
-                "name": "Wingene De Pijpe",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSTEENWEG WINGENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.297382,
-                    51.046541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;28",
                 "ref:De_Lijn": "507539",
                 "bus": "yes",
                 "name": "Wingene De Pijpe",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.297015,
                     51.04696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28",
+                "ref:De_Lijn": "502539",
+                "bus": "yes",
+                "name": "Wingene De Pijpe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.297382,
+                    51.046541
                 ]
             }
         }

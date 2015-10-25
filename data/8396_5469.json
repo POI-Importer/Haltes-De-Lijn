@@ -4,12 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "8",
                 "ref:De_Lijn": "103107",
+                "bus": "yes",
                 "name": "Wommelgem P+R Wommelgem",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
+                "highway": "bus_stop",
                 "created_by": "WOMMELGEM WOMMELGEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;423",
                 "ref:De_Lijn": "106567",
                 "bus": "yes",
                 "name": "Wommelgem Oude Baan",
@@ -46,28 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;423",
-                "ref:De_Lijn": "106568",
+                "ref:De_Lijn": "106571",
                 "bus": "yes",
-                "name": "Wommelgem Draaiboomstraat",
+                "name": "Wommelgem Nijverheidsstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AUTOLEI HULGENRODE",
+                "created_by": "TERNESSELEI HULGENRODE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.494051,
-                    51.213514
+                    4.500068,
+                    51.210757
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;423",
                 "ref:De_Lijn": "106570",
                 "bus": "yes",
                 "name": "Wommelgem Nijverheidsstraat",
@@ -88,28 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;423",
-                "ref:De_Lijn": "106569",
-                "bus": "yes",
-                "name": "Wommelgem Draaiboomstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERNESSELEI HULGENRODE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.494807,
-                    51.212902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "421;423",
                 "ref:De_Lijn": "106566",
                 "bus": "yes",
                 "name": "Wommelgem Oude Baan",
@@ -130,10 +104,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "421;423",
-                "ref:De_Lijn": "106571",
+                "ref:De_Lijn": "106569",
                 "bus": "yes",
-                "name": "Wommelgem Nijverheidsstraat",
+                "name": "Wommelgem Draaiboomstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TERNESSELEI HULGENRODE",
@@ -143,8 +116,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.500068,
-                    51.210757
+                    4.494807,
+                    51.212902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106568",
+                "bus": "yes",
+                "name": "Wommelgem Draaiboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AUTOLEI HULGENRODE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.494051,
+                    51.213514
                 ]
             }
         }

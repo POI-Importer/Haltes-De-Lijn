@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560",
-                "ref:De_Lijn": "108854",
-                "bus": "yes",
-                "name": "Duffel Heidestraat smid",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEUKHEUVEL MIJLSTRAAT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.554666,
-                    51.090334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "560",
                 "ref:De_Lijn": "108853",
                 "bus": "yes",
                 "name": "Duffel Baetens",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "2;556;560",
                 "ref:De_Lijn": "108855",
                 "bus": "yes",
                 "name": "Duffel Heidestraat smid",
@@ -67,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560",
                 "ref:De_Lijn": "108852",
                 "bus": "yes",
                 "name": "Duffel Baetens",
@@ -88,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "2;556",
                 "ref:De_Lijn": "108708",
                 "bus": "yes",
                 "name": "Duffel Heidestraat smid",
@@ -103,6 +78,26 @@
                 "coordinates": [
                     4.554354,
                     51.090811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108854",
+                "bus": "yes",
+                "name": "Duffel Heidestraat smid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKHEUVEL MIJLSTRAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.554666,
+                    51.090334
                 ]
             }
         }

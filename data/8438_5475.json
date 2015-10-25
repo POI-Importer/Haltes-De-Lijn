@@ -46,50 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;18a;302;402",
-                "ref:De_Lijn": "407558",
-                "bus": "yes",
-                "name": "Wijchmaal Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT WIJCHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.406098,
-                    51.128702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "400182",
-                "bus": "yes",
-                "name": "Peer Garage Teyssen",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KERRESTRAAT WIJCHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.424455,
-                    51.131794
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "18a;752",
-                "ref:De_Lijn": "407524",
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "407525",
                 "bus": "yes",
                 "name": "Wijchmaal Sint-Elisabethlaan",
                 "public_transport": "platform",
@@ -101,50 +59,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.409933,
-                    51.134764
+                    5.410726,
+                    51.135071
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407544",
+                "route_ref:De_Lijn": "14;18a;302;402",
+                "ref:De_Lijn": "407559",
                 "bus": "yes",
-                "name": "Wijchmaal Sportlaan",
+                "name": "Wijchmaal Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIJKERSTRAAT WIJCHMAAL",
+                "created_by": "STATIONSSTRAAT WIJCHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.420203,
-                    51.134618
+                    5.4059,
+                    51.128812
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407530",
+                "ref:De_Lijn": "407282",
                 "bus": "yes",
-                "name": "Wijchmaal Hoevestraat",
+                "name": "Wijchmaal Sint-Elisabethlaan",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ACHTZALIGHEDENSTRAAT WIJCHMAAL",
+                "created_by": "SINT-TRUDOSTRAAT WIJCHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.408782,
-                    51.129919
+                    5.409951,
+                    51.134898
                 ]
             }
         },
@@ -172,6 +130,69 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "407265",
+                "bus": "yes",
+                "name": "Wijchmaal Hoevestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ACHTZALIGHEDENSTRAAT WIJCHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.408837,
+                    51.129829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407530",
+                "bus": "yes",
+                "name": "Wijchmaal Hoevestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ACHTZALIGHEDENSTRAAT WIJCHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.408782,
+                    51.129919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;18a;302;402",
+                "ref:De_Lijn": "407558",
+                "bus": "yes",
+                "name": "Wijchmaal Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT WIJCHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.406098,
+                    51.128702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "407539",
                 "bus": "yes",
                 "name": "Wijchmaal Monnisveld",
@@ -187,6 +208,27 @@
                 "coordinates": [
                     5.417424,
                     51.13494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a;752",
+                "ref:De_Lijn": "407524",
+                "bus": "yes",
+                "name": "Wijchmaal Sint-Elisabethlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUDOSTRAAT WIJCHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.409933,
+                    51.134764
                 ]
             }
         },
@@ -235,63 +277,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18a;752",
-                "ref:De_Lijn": "407549",
+                "ref:De_Lijn": "407264",
                 "bus": "yes",
-                "name": "Wijchmaal Ontmoetingscentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUDOSTRAAT WIJCHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.415171,
-                    51.134501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "407282",
-                "bus": "yes",
-                "name": "Wijchmaal Sint-Elisabethlaan",
+                "name": "Wijchmaal Steenovenstraat",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "SINT-TRUDOSTRAAT WIJCHMAAL",
+                "created_by": "STEENOVENSTRAAT WIJCHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.409951,
-                    51.134898
+                    5.41183,
+                    51.130773
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;68;18a;302;402",
-                "ref:De_Lijn": "407557",
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407544",
                 "bus": "yes",
-                "name": "Wijchmaal Sint-Trudostraat",
+                "name": "Wijchmaal Sportlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT WIJCHMAAL",
+                "created_by": "DIJKERSTRAAT WIJCHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.415478,
-                    51.129716
+                    5.420203,
+                    51.134618
                 ]
             }
         },
@@ -319,31 +340,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407264",
+                "route_ref:De_Lijn": "14;68;18a;302;402",
+                "ref:De_Lijn": "407557",
                 "bus": "yes",
-                "name": "Wijchmaal Steenovenstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "STEENOVENSTRAAT WIJCHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.41183,
-                    51.130773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;18a;302;402",
-                "ref:De_Lijn": "407559",
-                "bus": "yes",
-                "name": "Wijchmaal Station",
+                "name": "Wijchmaal Sint-Trudostraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STATIONSSTRAAT WIJCHMAAL",
@@ -353,8 +353,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.4059,
-                    51.128812
+                    5.415478,
+                    51.129716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400182",
+                "bus": "yes",
+                "name": "Peer Garage Teyssen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KERRESTRAAT WIJCHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.424455,
+                    51.131794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a;752",
+                "ref:De_Lijn": "407549",
+                "bus": "yes",
+                "name": "Wijchmaal Ontmoetingscentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUDOSTRAAT WIJCHMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.415171,
+                    51.134501
                 ]
             }
         },
@@ -382,48 +424,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18a",
-                "ref:De_Lijn": "407525",
-                "bus": "yes",
-                "name": "Wijchmaal Sint-Elisabethlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-TRUDOSTRAAT WIJCHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.410726,
-                    51.135071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "407531",
-                "bus": "yes",
-                "name": "Wijchmaal Kapelstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OVERWEGLAAN WIJCHMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.405661,
-                    51.134765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "752",
                 "ref:De_Lijn": "401951",
                 "bus": "yes",
@@ -445,21 +445,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407265",
+                "ref:De_Lijn": "407531",
                 "bus": "yes",
-                "name": "Wijchmaal Hoevestraat",
+                "name": "Wijchmaal Kapelstraat",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ACHTZALIGHEDENSTRAAT WIJCHMAAL",
+                "created_by": "OVERWEGLAAN WIJCHMAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.408837,
-                    51.129829
+                    5.405661,
+                    51.134765
                 ]
             }
         }

@@ -4,42 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125;145",
-                "ref:De_Lijn": "201674",
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "203204",
                 "bus": "yes",
-                "name": "Astene Erfgoedlaan",
+                "name": "Deurle Clauslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEEKSTRAAT ASTENE",
+                "created_by": "EMIEL CLAUSLAAN ASTENE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.588917,
-                    50.986775
+                    3.597003,
+                    50.993067
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;125;145",
-                "ref:De_Lijn": "202204",
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "202205",
                 "bus": "yes",
-                "name": "Deurle Clauslaan",
+                "name": "Astene Beekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EMIEL CLAUSLAAN DEURLE",
+                "created_by": "EMIEL CLAUSLAAN ASTENE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.596916,
-                    50.993193
+                    3.590288,
+                    50.99003
                 ]
             }
         },
@@ -67,21 +67,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;125;145",
-                "ref:De_Lijn": "202205",
+                "ref:De_Lijn": "201674",
                 "bus": "yes",
-                "name": "Astene Beekstraat",
+                "name": "Astene Erfgoedlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EMIEL CLAUSLAAN ASTENE",
+                "created_by": "BEEKSTRAAT ASTENE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.590288,
-                    50.99003
+                    3.588917,
+                    50.986775
                 ]
             }
         },
@@ -89,20 +88,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "203204",
+                "ref:De_Lijn": "202204",
                 "bus": "yes",
                 "name": "Deurle Clauslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EMIEL CLAUSLAAN ASTENE",
+                "created_by": "EMIEL CLAUSLAAN DEURLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.597003,
-                    50.993067
+                    3.596916,
+                    50.993193
                 ]
             }
         }

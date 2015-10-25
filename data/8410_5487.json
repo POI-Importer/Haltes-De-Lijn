@@ -89,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "306786",
-                "bus": "yes",
-                "name": "Gelrode Donkerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RILLAARSE BAAN GELRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.799337,
-                    50.962981
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
                 "ref:De_Lijn": "307343",
                 "bus": "yes",
                 "name": "Gelrode Pastoor Dergentstraat",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     4.794896,
                     50.964544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306786",
+                "bus": "yes",
+                "name": "Gelrode Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RILLAARSE BAAN GELRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.799337,
+                    50.962981
                 ]
             }
         },

@@ -4,8 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "411;419",
-                "ref:De_Lijn": "106141",
+                "ref:De_Lijn": "106142",
                 "bus": "yes",
                 "name": "Halle Heideweg",
                 "public_transport": "platform",
@@ -17,36 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.632519,
-                    51.242875
+                    4.63249,
+                    51.24274
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "411;419",
-                "ref:De_Lijn": "106139",
-                "bus": "yes",
-                "name": "Halle Lemmekensbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKENLAAN SINT-ANTONIUS (ZOERSEL)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.62764,
-                    51.246085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "411;419",
                 "ref:De_Lijn": "106140",
                 "bus": "yes",
                 "name": "Halle Lemmekensbaan",
@@ -67,8 +44,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "411;419",
-                "ref:De_Lijn": "106142",
+                "ref:De_Lijn": "106139",
+                "bus": "yes",
+                "name": "Halle Lemmekensbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLAAN SINT-ANTONIUS (ZOERSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.62764,
+                    51.246085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106141",
                 "bus": "yes",
                 "name": "Halle Heideweg",
                 "public_transport": "platform",
@@ -80,8 +76,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.63249,
-                    51.24274
+                    4.632519,
+                    51.242875
                 ]
             }
         }

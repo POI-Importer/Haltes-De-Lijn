@@ -4,28 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "67;160",
-                "ref:De_Lijn": "200742",
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "203384",
                 "bus": "yes",
-                "name": "Ronsele Vaartkant",
+                "name": "Oostwinkel Aardekensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STOKTEVIJVER RONSELE",
+                "created_by": "LEISCHOOT OOSTWINKEL",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.55854,
-                    51.140002
+                    3.542589,
+                    51.144278
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;160",
+                "route_ref:De_Lijn": "66",
                 "ref:De_Lijn": "202384",
                 "bus": "yes",
                 "name": "Oostwinkel Aardekensstraat",
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66",
-                "ref:De_Lijn": "203384",
+                "route_ref:De_Lijn": "67",
+                "ref:De_Lijn": "200742",
                 "bus": "yes",
-                "name": "Oostwinkel Aardekensstraat",
+                "name": "Ronsele Vaartkant",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEISCHOOT OOSTWINKEL",
+                "created_by": "STOKTEVIJVER RONSELE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.542589,
-                    51.144278
+                    3.55854,
+                    51.140002
                 ]
             }
         }

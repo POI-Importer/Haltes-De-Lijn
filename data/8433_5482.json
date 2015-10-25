@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404198",
+                "bus": "yes",
+                "name": "Heusden Zolderseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOTSTRAAT HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29624,
+                    51.035398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "22;23;34;51;92;283",
                 "ref:De_Lijn": "404174",
                 "bus": "yes",
@@ -47,48 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "34",
-                "ref:De_Lijn": "404198",
-                "bus": "yes",
-                "name": "Heusden Zolderseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOOTSTRAAT HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.29624,
-                    51.035398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;22;23;34;51;92;283",
-                "ref:De_Lijn": "404175",
-                "bus": "yes",
-                "name": "Heusden Rode Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.302637,
-                    51.040175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "404199",
                 "bus": "yes",
                 "name": "Heusden Zolderseweg",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     5.307816,
                     51.028232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;34;51;92;283",
+                "ref:De_Lijn": "404175",
+                "bus": "yes",
+                "name": "Heusden Rode Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302637,
+                    51.040175
                 ]
             }
         }

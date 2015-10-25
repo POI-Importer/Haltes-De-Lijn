@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153;943",
-                "ref:De_Lijn": "102392",
-                "bus": "yes",
-                "name": "Nijlen Breugelhoevestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREUGELHOEVESTRAAT NIJLEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.65461,
-                    51.165199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "101823",
+                "ref:De_Lijn": "102958",
                 "bus": "yes",
-                "name": "Nijlen Grasstraat",
+                "name": "Nijlen Technische Dienst",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KONINGSBAAN NIJLEN",
@@ -38,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.653926,
-                    51.160787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153",
-                "ref:De_Lijn": "103138",
-                "bus": "yes",
-                "name": "Nijlen Boekweitstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREUGELHOEVESTRAAT NIJLEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.648111,
-                    51.163812
+                    4.644781,
+                    51.161564
                 ]
             }
         },
@@ -88,8 +46,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153",
-                "ref:De_Lijn": "103137",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101823",
+                "bus": "yes",
+                "name": "Nijlen Grasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSBAAN NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653926,
+                    51.160787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "102392",
                 "bus": "yes",
                 "name": "Nijlen Breugelhoevestraat",
                 "public_transport": "platform",
@@ -101,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.654038,
-                    51.16511
+                    4.65461,
+                    51.165199
                 ]
             }
         },
@@ -110,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "102958",
-                "bus": "yes",
-                "name": "Nijlen Technische Dienst",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGSBAAN NIJLEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.644781,
-                    51.161564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;943",
                 "ref:De_Lijn": "101826",
                 "bus": "yes",
                 "name": "Nijlen Boekweitstraat",
@@ -145,6 +103,46 @@
                 "coordinates": [
                     4.648397,
                     51.163793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103138",
+                "bus": "yes",
+                "name": "Nijlen Boekweitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREUGELHOEVESTRAAT NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.648111,
+                    51.163812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103137",
+                "bus": "yes",
+                "name": "Nijlen Breugelhoevestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREUGELHOEVESTRAAT NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.654038,
+                    51.16511
                 ]
             }
         }

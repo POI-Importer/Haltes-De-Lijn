@@ -26,7 +26,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "303721",
+                "ref:De_Lijn": "303725",
+                "bus": "yes",
+                "name": "Meise Humbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLELAAN MEISE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34001,
+                    50.946788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "303720",
                 "bus": "yes",
                 "name": "Meise Heimbeekveld",
                 "public_transport": "platform",
@@ -38,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.340577,
-                    50.950807
+                    4.340733,
+                    50.950753
                 ]
             }
         },
@@ -68,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "303725",
+                "ref:De_Lijn": "303721",
                 "bus": "yes",
-                "name": "Meise Humbeekstraat",
+                "name": "Meise Heimbeekveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KAPELLELAAN MEISE",
@@ -80,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.34001,
-                    50.946788
+                    4.340577,
+                    50.950807
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     4.339939,
                     50.946204
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "303720",
-                "bus": "yes",
-                "name": "Meise Heimbeekveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELLELAAN MEISE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.340733,
-                    50.950753
                 ]
             }
         }

@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59;94;96;385",
-                "ref:De_Lijn": "206830",
-                "bus": "yes",
-                "name": "Oordegem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTESTEENWEG OORDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.902406,
-                    50.956468
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "385",
-                "ref:De_Lijn": "206997",
-                "bus": "yes",
-                "name": "Oordegem Hoging",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGING OORDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.900446,
-                    50.951813
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "207578",
                 "bus": "yes",
                 "name": "Oordegem Dorp",
@@ -61,27 +19,6 @@
                 "coordinates": [
                     3.90259,
                     50.956585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "96",
-                "ref:De_Lijn": "207564",
-                "bus": "yes",
-                "name": "Oordegem Rijkswacht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTESTEENWEG OORDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.905186,
-                    50.956083
                 ]
             }
         },
@@ -109,11 +46,11 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206578",
+                "route_ref:De_Lijn": "59;94;96",
+                "ref:De_Lijn": "207830",
                 "bus": "yes",
                 "name": "Oordegem Dorp",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "GROTESTEENWEG OORDEGEM",
                 "operator": "De Lijn",
@@ -122,36 +59,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.902406,
-                    50.956468
+                    3.902576,
+                    50.956585
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "96;385",
-                "ref:De_Lijn": "206564",
-                "bus": "yes",
-                "name": "Oordegem Rijkswacht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTESTEENWEG OORDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.905629,
-                    50.955851
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "385",
                 "ref:De_Lijn": "207997",
                 "bus": "yes",
                 "name": "Oordegem Kluize",
@@ -172,8 +87,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "206564",
+                "bus": "yes",
+                "name": "Oordegem Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.905629,
+                    50.955851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "59;94;96",
-                "ref:De_Lijn": "207830",
+                "ref:De_Lijn": "206830",
                 "bus": "yes",
                 "name": "Oordegem Dorp",
                 "public_transport": "platform",
@@ -185,8 +121,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.902576,
-                    50.956585
+                    3.902406,
+                    50.956468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "207564",
+                "bus": "yes",
+                "name": "Oordegem Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.905186,
+                    50.956083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206997",
+                "bus": "yes",
+                "name": "Oordegem Hoging",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGING OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.900446,
+                    50.951813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206578",
+                "bus": "yes",
+                "name": "Oordegem Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.902406,
+                    50.956468
                 ]
             }
         }

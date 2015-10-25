@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;185",
+                "route_ref:De_Lijn": "64",
                 "ref:De_Lijn": "202330",
                 "bus": "yes",
                 "name": "Ursel Grote Dries",

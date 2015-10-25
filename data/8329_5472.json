@@ -46,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "507349",
-                "bus": "yes",
-                "name": "Roksem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEEWEG ROKSEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.027827,
-                    51.167254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "21;23;82",
                 "ref:De_Lijn": "506443",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.012081,
                     51.169807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "507349",
+                "bus": "yes",
+                "name": "Roksem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEWEG ROKSEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.027827,
+                    51.167254
                 ]
             }
         }

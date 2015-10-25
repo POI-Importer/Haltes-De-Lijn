@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385",
-                "ref:De_Lijn": "207996",
-                "bus": "yes",
-                "name": "Lede Hofveldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VRIJDAGMARKT LEDE (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.004797,
-                    50.974798
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130;385",
                 "ref:De_Lijn": "206929",
                 "bus": "yes",
                 "name": "Lede Suikerstraat",
@@ -40,6 +18,26 @@
                 "coordinates": [
                     4.005923,
                     50.982047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207996",
+                "bus": "yes",
+                "name": "Lede Hofveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRIJDAGMARKT LEDE (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.004797,
+                    50.974798
                 ]
             }
         }

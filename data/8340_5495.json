@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "508476",
-                "bus": "yes",
-                "name": "Kuurne W.A.A.K. I",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG KUURNE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.261885,
-                    50.851026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "508947",
-                "bus": "yes",
-                "name": "Kuurne Watertorenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTEENWEG KUURNE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.270111,
-                    50.855751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "52",
                 "ref:De_Lijn": "508459",
                 "bus": "yes",
@@ -67,52 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "503250",
-                "bus": "yes",
-                "name": "Heule Noordlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RINGLAAN HEULE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.254669,
-                    50.851695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "508477",
-                "bus": "yes",
-                "name": "Kuurne W.A.A.K. II",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG KUURNE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.263137,
-                    50.852134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "503471",
+                "ref:De_Lijn": "503459",
                 "bus": "yes",
-                "name": "Kuurne Rumba",
+                "name": "Kuurne Katte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUGSESTEENWEG KUURNE",
@@ -122,50 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.269943,
-                    50.851416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "508471",
-                "bus": "yes",
-                "name": "Kuurne Rumba",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTEENWEG KUURNE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.269766,
-                    50.851666
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "508457",
-                "bus": "yes",
-                "name": "Kuurne Industrielaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG KUURNE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.264771,
-                    50.854505
+                    3.270752,
+                    50.86116
                 ]
             }
         },
@@ -194,6 +68,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "503471",
+                "bus": "yes",
+                "name": "Kuurne Rumba",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.269943,
+                    50.851416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508476",
+                "bus": "yes",
+                "name": "Kuurne W.A.A.K. I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.261885,
+                    50.851026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "508471",
+                "bus": "yes",
+                "name": "Kuurne Rumba",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.269766,
+                    50.851666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
                 "ref:De_Lijn": "503947",
                 "bus": "yes",
                 "name": "Kuurne Watertorenstraat",
@@ -208,6 +145,48 @@
                 "coordinates": [
                     3.270341,
                     50.856257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "503250",
+                "bus": "yes",
+                "name": "Heule Noordlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.254669,
+                    50.851695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508457",
+                "bus": "yes",
+                "name": "Kuurne Industrielaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.264771,
+                    50.854505
                 ]
             }
         },
@@ -256,10 +235,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "503459",
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508477",
                 "bus": "yes",
-                "name": "Kuurne Katte",
+                "name": "Kuurne W.A.A.K. II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.263137,
+                    50.852134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "508947",
+                "bus": "yes",
+                "name": "Kuurne Watertorenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUGSESTEENWEG KUURNE",
@@ -269,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.270752,
-                    50.86116
+                    3.270111,
+                    50.855751
                 ]
             }
         },

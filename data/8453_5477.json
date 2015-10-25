@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "14;15;61;302",
+                "ref:De_Lijn": "406815",
+                "bus": "yes",
+                "name": "Maaseik Bewel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEBEKENWEG WURFELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.746793,
+                    51.104805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;14;302",
+                "ref:De_Lijn": "406008",
+                "bus": "yes",
+                "name": "Neeroeteren Jagershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSTEENWEG NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.738024,
+                    51.099414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "406000",
                 "bus": "yes",
                 "name": "Maaseik Bewel",
@@ -19,27 +61,6 @@
                 "coordinates": [
                     5.748216,
                     51.103188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11;14;15;302",
-                "ref:De_Lijn": "406116",
-                "bus": "yes",
-                "name": "Maaseik Wurfeld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTERSTEENWEG WURFELD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.756762,
-                    51.101002
                 ]
             }
         },
@@ -67,27 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "11;14;302",
-                "ref:De_Lijn": "406009",
-                "bus": "yes",
-                "name": "Neeroeteren Jagershof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTERSTEENWEG NEEROETEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.73767,
-                    51.09949
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "409131",
                 "bus": "yes",
                 "name": "Maaseik Bronckaers Garage",
@@ -109,21 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;15;61;302",
-                "ref:De_Lijn": "406815",
+                "route_ref:De_Lijn": "11;14;15;302",
+                "ref:De_Lijn": "406116",
                 "bus": "yes",
-                "name": "Maaseik Bewel",
+                "name": "Maaseik Wurfeld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DRIEBEKENWEG WURFELD",
+                "created_by": "DIESTERSTEENWEG WURFELD",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.746793,
-                    51.104805
+                    5.756762,
+                    51.101002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;14;302",
+                "ref:De_Lijn": "406009",
+                "bus": "yes",
+                "name": "Neeroeteren Jagershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSTEENWEG NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73767,
+                    51.09949
                 ]
             }
         },
@@ -145,27 +166,6 @@
                 "coordinates": [
                     5.751171,
                     51.101679
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11;14;302",
-                "ref:De_Lijn": "406008",
-                "bus": "yes",
-                "name": "Neeroeteren Jagershof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTERSTEENWEG NEEROETEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.738024,
-                    51.099414
                 ]
             }
         }

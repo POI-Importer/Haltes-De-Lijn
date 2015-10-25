@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213;219;409;420;421;427;449",
-                "ref:De_Lijn": "106481",
-                "bus": "yes",
-                "name": "Vorselaar Kweek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SASSENHOUT SASSENHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.811111,
-                    51.210207
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213;219;409;420;421;427;449",
                 "ref:De_Lijn": "106480",
                 "bus": "yes",
                 "name": "Vorselaar Kweek",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213;219;409;420;421;427;449",
                 "ref:De_Lijn": "106479",
                 "bus": "yes",
                 "name": "Vorselaar Proosthoevebaan",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213;219;409;420;421;427;449",
+                "ref:De_Lijn": "106481",
+                "bus": "yes",
+                "name": "Vorselaar Kweek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SASSENHOUT SASSENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.811111,
+                    51.210207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106478",
                 "bus": "yes",
                 "name": "Vorselaar Proosthoevebaan",

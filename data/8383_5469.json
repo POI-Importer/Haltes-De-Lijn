@@ -4,9 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "209842",
+                "ref:De_Lijn": "209813",
                 "bus": "yes",
-                "name": "Vrasene Van Mullem Garage",
+                "name": "Vrasene Franckaert Garage",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -46,30 +46,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84;85",
-                "ref:De_Lijn": "205516",
+                "ref:De_Lijn": "209842",
                 "bus": "yes",
-                "name": "Vrasene Sleutelhoflaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOSSELBANK VRASENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.200911,
-                    51.21953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "209807",
-                "bus": "yes",
-                "name": "Vrasene Diana Cars Garage",
+                "name": "Vrasene Van Mullem Garage",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -109,11 +88,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84;85",
-                "ref:De_Lijn": "204516",
+                "ref:De_Lijn": "209807",
                 "bus": "yes",
-                "name": "Vrasene Sleutelhoflaan",
+                "name": "Vrasene Diana Cars Garage",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "MOSSELBANK VRASENE",
                 "operator": "De Lijn",
@@ -122,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.201182,
-                    51.219656
+                    4.200409,
+                    51.21961
                 ]
             }
         },
@@ -152,6 +131,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84;85",
+                "ref:De_Lijn": "205516",
+                "bus": "yes",
+                "name": "Vrasene Sleutelhoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELBANK VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.200911,
+                    51.21953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;85",
                 "ref:De_Lijn": "205515",
                 "bus": "yes",
                 "name": "Vrasene Mosselbank",
@@ -172,11 +172,11 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "209813",
+                "route_ref:De_Lijn": "84;85",
+                "ref:De_Lijn": "204516",
                 "bus": "yes",
-                "name": "Vrasene Franckaert Garage",
+                "name": "Vrasene Sleutelhoflaan",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "MOSSELBANK VRASENE",
                 "operator": "De Lijn",
@@ -185,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.200409,
-                    51.21961
+                    4.201182,
+                    51.219656
                 ]
             }
         }

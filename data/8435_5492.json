@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H1",
-                "ref:De_Lijn": "403531",
+                "ref:De_Lijn": "403530",
                 "bus": "yes",
-                "name": "Rapertingen Voetbalveld",
+                "name": "Rapertingen Trekschurenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TREKSCHURENSTRAAT HASSELT",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.352695,
-                    50.9016
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;4;38;104",
-                "ref:De_Lijn": "403246",
-                "bus": "yes",
-                "name": "Hasselt Mombeekdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG RAPERTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.355149,
-                    50.895242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H1",
-                "ref:De_Lijn": "403527",
-                "bus": "yes",
-                "name": "Rapertingen Voetbalveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TREKSCHURENSTRAAT HASSELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.353285,
-                    50.901236
+                    5.354882,
+                    50.900108
                 ]
             }
         },
@@ -89,51 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H1",
-                "ref:De_Lijn": "403007",
+                "ref:De_Lijn": "403527",
                 "bus": "yes",
-                "name": "Rapertingen Henegauwlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELLAAN RAPERTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.353178,
-                    50.898198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;4;38;104",
-                "ref:De_Lijn": "403247",
-                "bus": "yes",
-                "name": "Hasselt Mombeekdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N20 RAPERTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.355536,
-                    50.896066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H1",
-                "ref:De_Lijn": "403530",
-                "bus": "yes",
-                "name": "Rapertingen Trekschurenstraat",
+                "name": "Rapertingen Voetbalveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TREKSCHURENSTRAAT HASSELT",
@@ -143,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.354882,
-                    50.900108
+                    5.353285,
+                    50.901236
                 ]
             }
         },
@@ -172,6 +88,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "H1",
+                "ref:De_Lijn": "403531",
+                "bus": "yes",
+                "name": "Rapertingen Voetbalveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TREKSCHURENSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.352695,
+                    50.9016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4;38;104",
+                "ref:De_Lijn": "403247",
+                "bus": "yes",
+                "name": "Hasselt Mombeekdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N20 RAPERTINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.355536,
+                    50.896066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "3;4;38;104",
                 "ref:De_Lijn": "403382",
                 "bus": "yes",
@@ -187,6 +145,48 @@
                 "coordinates": [
                     5.356101,
                     50.900637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1",
+                "ref:De_Lijn": "403007",
+                "bus": "yes",
+                "name": "Rapertingen Henegauwlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELLAAN RAPERTINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.353178,
+                    50.898198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4;38;104",
+                "ref:De_Lijn": "403246",
+                "bus": "yes",
+                "name": "Hasselt Mombeekdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG RAPERTINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.355149,
+                    50.895242
                 ]
             }
         }

@@ -5,47 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "502065",
-                "bus": "yes",
-                "name": "Beernem Langedonk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELLESTRAAT OEDELEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.390142,
-                    51.131625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "502632",
-                "bus": "yes",
-                "name": "Knesselare Wandelaars",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELLESTRAAT KNESSELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.401221,
-                    51.135456
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "63;185",
                 "ref:De_Lijn": "210017",
                 "bus": "yes",
                 "name": "Knesselare Wandelaars",
@@ -67,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "502065",
+                "bus": "yes",
+                "name": "Beernem Langedonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELLESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.390142,
+                    51.131625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "507065",
                 "bus": "yes",
                 "name": "Beernem Langedonk",
@@ -81,6 +61,26 @@
                 "coordinates": [
                     3.389387,
                     51.131511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "502632",
+                "bus": "yes",
+                "name": "Knesselare Wandelaars",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELLESTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.401221,
+                    51.135456
                 ]
             }
         },

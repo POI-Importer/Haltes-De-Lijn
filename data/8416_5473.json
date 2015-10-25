@@ -4,8 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b",
-                "ref:De_Lijn": "109602",
+                "ref:De_Lijn": "109603",
                 "bus": "yes",
                 "name": "Geel Haag",
                 "public_transport": "platform",
@@ -17,8 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.924093,
-                    51.163572
+                    4.923851,
+                    51.163645
                 ]
             }
         },
@@ -46,7 +45,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15b",
-                "ref:De_Lijn": "109603",
+                "ref:De_Lijn": "109602",
                 "bus": "yes",
                 "name": "Geel Haag",
                 "public_transport": "platform",
@@ -58,8 +57,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.923851,
-                    51.163645
+                    4.924093,
+                    51.163572
                 ]
             }
         }

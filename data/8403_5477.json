@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "104757",
-                "bus": "yes",
-                "name": "Berlaar Welvaartstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WELVAARTSTRAAT BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.64032,
-                    51.104999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "104759",
                 "bus": "yes",
                 "name": "Berlaar Brandestraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.654076,
                     51.108292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104757",
+                "bus": "yes",
+                "name": "Berlaar Welvaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WELVAARTSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.64032,
+                    51.104999
                 ]
             }
         }

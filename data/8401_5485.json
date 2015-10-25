@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "533",
+                "ref:De_Lijn": "305816",
+                "bus": "yes",
+                "name": "Haacht Hooiberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.60407,
+                    50.986485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108616",
                 "bus": "yes",
                 "name": "Haacht Hollaken",
@@ -67,27 +86,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "533",
-                "ref:De_Lijn": "108617",
-                "bus": "yes",
-                "name": "Haacht Hollaken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJMENAMSESTEENWEG HAACHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.593429,
-                    50.991836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306427",
                 "bus": "yes",
                 "name": "Keerbergen Zeeptstraat",
@@ -109,21 +107,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "533",
-                "ref:De_Lijn": "305816",
+                "ref:De_Lijn": "108617",
                 "bus": "yes",
-                "name": "Haacht Hooiberg",
+                "name": "Haacht Hollaken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RIJMENAMSESTEENWEG HAACHT",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.60407,
-                    50.986485
+                    4.593429,
+                    50.991836
                 ]
             }
         },
@@ -151,7 +148,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "533",
                 "ref:De_Lijn": "305815",
                 "bus": "yes",
                 "name": "Haacht Hooiberg",

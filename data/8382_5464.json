@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "205035",
                 "bus": "yes",
                 "name": "Kieldrecht Kreek",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204034",
                 "bus": "yes",
                 "name": "Kieldrecht Kerk",
@@ -46,49 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "204035",
-                "bus": "yes",
-                "name": "Kieldrecht Kreek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KREEK KIELDRECHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.177588,
-                    51.287779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "205036",
-                "bus": "yes",
-                "name": "Kieldrecht Lange Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KREEK KIELDRECHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.182487,
-                    51.281306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204036",
                 "bus": "yes",
                 "name": "Kieldrecht Lange Nieuwstraat",
@@ -109,7 +67,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "204035",
+                "bus": "yes",
+                "name": "Kieldrecht Kreek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREEK KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.177588,
+                    51.287779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "205034",
                 "bus": "yes",
                 "name": "Kieldrecht Kerk",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     4.175833,
                     51.289349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "205036",
+                "bus": "yes",
+                "name": "Kieldrecht Lange Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREEK KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.182487,
+                    51.281306
                 ]
             }
         }

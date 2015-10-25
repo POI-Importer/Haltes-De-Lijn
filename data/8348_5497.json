@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "505277",
+                "ref:De_Lijn": "505284",
                 "bus": "yes",
-                "name": "Anzegem De Sterhoek",
+                "name": "Ingooigem Sint-Antonius-Eik",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STERHOEK ANZEGEM",
+                "created_by": "SINT ANTONIUSSTRAAT INGOOIGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.447285,
-                    50.832535
+                    3.437025,
+                    50.821557
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "505284",
+                "ref:De_Lijn": "505277",
                 "bus": "yes",
-                "name": "Ingooigem Sint-Antonius-Eik",
+                "name": "Anzegem De Sterhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT ANTONIUSSTRAAT INGOOIGEM",
+                "created_by": "STERHOEK ANZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.437025,
-                    50.821557
+                    3.447285,
+                    50.832535
                 ]
             }
         }

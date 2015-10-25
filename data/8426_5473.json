@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "170;733",
-                "ref:De_Lijn": "102491",
+                "route_ref:De_Lijn": "170;17a;733",
+                "ref:De_Lijn": "400307",
                 "bus": "yes",
-                "name": "Balen Hoolst",
+                "name": "Hoolst Hoolstmolen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOLST BALEN",
+                "created_by": "OLMENSEBAAN BALEN",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.157118,
-                    51.153966
+                    5.150356,
+                    51.152213
                 ]
             }
         },
@@ -46,29 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "170;17a;733",
-                "ref:De_Lijn": "400307",
-                "bus": "yes",
-                "name": "Hoolst Hoolstmolen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OLMENSEBAAN BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.150356,
-                    51.152213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "17a",
-                "ref:De_Lijn": "400301",
+                "ref:De_Lijn": "400300",
                 "bus": "yes",
                 "name": "Neet Huis Blokken",
                 "public_transport": "platform",
@@ -80,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.144293,
-                    51.15895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;17a;733",
-                "ref:De_Lijn": "400306",
-                "bus": "yes",
-                "name": "Hoolst Hoolstmolen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OLMENSEBAAN BALEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.150044,
-                    51.152359
+                    5.144353,
+                    51.159129
                 ]
             }
         },
@@ -131,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "17a",
-                "ref:De_Lijn": "400300",
+                "ref:De_Lijn": "400301",
                 "bus": "yes",
                 "name": "Neet Huis Blokken",
                 "public_transport": "platform",
@@ -143,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.144353,
-                    51.159129
+                    5.144293,
+                    51.15895
                 ]
             }
         },
@@ -166,6 +124,48 @@
                 "coordinates": [
                     5.157078,
                     51.154155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;17a;733",
+                "ref:De_Lijn": "400306",
+                "bus": "yes",
+                "name": "Hoolst Hoolstmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENSEBAAN BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.150044,
+                    51.152359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;733",
+                "ref:De_Lijn": "102491",
+                "bus": "yes",
+                "name": "Balen Hoolst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOLST BALEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.157118,
+                    51.153966
                 ]
             }
         }

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "47;56",
-                "ref:De_Lijn": "504830",
-                "bus": "yes",
-                "name": "Handzame Sint-Jan De Deo",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EDEWALLESTRAAT HANDZAME",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.003876,
-                    51.028313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "32",
                 "ref:De_Lijn": "508181",
                 "bus": "yes",
@@ -46,21 +25,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "56",
-                "ref:De_Lijn": "505637",
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "504830",
                 "bus": "yes",
-                "name": "Handzame Engelshof",
+                "name": "Handzame Sint-Jan De Deo",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SPONDESTRAAT HANDZAME",
+                "created_by": "EDEWALLESTRAAT HANDZAME",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.007402,
-                    51.031096
+                    3.003876,
+                    51.028313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "503182",
+                "bus": "yes",
+                "name": "Handzame Zwevelvoetwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.995154,
+                    51.027708
                 ]
             }
         },
@@ -89,6 +89,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "505637",
+                "bus": "yes",
+                "name": "Handzame Engelshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPONDESTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007402,
+                    51.031096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
                 "ref:De_Lijn": "505778",
                 "bus": "yes",
                 "name": "Handzame Wittehuisstraat",
@@ -103,27 +124,6 @@
                 "coordinates": [
                     2.991479,
                     51.03341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;47;56",
-                "ref:De_Lijn": "503182",
-                "bus": "yes",
-                "name": "Handzame Zwevelvoetwegstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WERKENSTRAAT HANDZAME",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.995154,
-                    51.027708
                 ]
             }
         },

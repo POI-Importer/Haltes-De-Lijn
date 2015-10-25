@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
-                "ref:De_Lijn": "408360",
-                "bus": "yes",
-                "name": "Tessenderlo Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT TESSENDERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.102676,
-                    51.066007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
                 "ref:De_Lijn": "408396",
                 "bus": "yes",
                 "name": "Tessenderlo Zandstraat",
@@ -47,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
-                "ref:De_Lijn": "408397",
+                "ref:De_Lijn": "408360",
                 "bus": "yes",
-                "name": "Tessenderlo Zandstraat",
+                "name": "Tessenderlo Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HULSTERWEG TESSENDERLO",
+                "created_by": "STATIONSSTRAAT TESSENDERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.106771,
-                    51.066935
+                    5.102676,
+                    51.066007
                 ]
             }
         },
@@ -109,6 +88,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
+                "ref:De_Lijn": "408274",
+                "bus": "yes",
+                "name": "Hulst Hulsterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTERWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.114345,
+                    51.068595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "409132",
                 "bus": "yes",
                 "name": "Tessenderlo Bronckaers Garage",
@@ -131,9 +131,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
-                "ref:De_Lijn": "408274",
+                "ref:De_Lijn": "408397",
                 "bus": "yes",
-                "name": "Hulst Hulsterweg",
+                "name": "Tessenderlo Zandstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HULSTERWEG TESSENDERLO",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.114345,
-                    51.068595
+                    5.106771,
+                    51.066935
                 ]
             }
         }

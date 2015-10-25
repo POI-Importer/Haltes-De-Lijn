@@ -4,54 +4,13 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "551;552;558",
-                "ref:De_Lijn": "102087",
-                "bus": "yes",
-                "name": "Sint-Katelijne-Waver Zonstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.523926,
-                    51.070432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "551;552;558",
-                "ref:De_Lijn": "109510",
-                "bus": "yes",
-                "name": "Sint-Katelijne-Waver Fortsesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.507006,
-                    51.070858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "551;552;558",
                 "ref:De_Lijn": "109509",
                 "bus": "yes",
                 "name": "Sint-Katelijne-Waver Fortsesteenweg",
                 "public_transport": "platform",
+                "railway": "tram_stop",
                 "highway": "bus_stop",
+                "tram": "yes",
                 "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -67,7 +26,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "551;552;558",
                 "ref:De_Lijn": "109514",
                 "bus": "yes",
                 "name": "Sint-Katelijne-Waver Heidijk",
@@ -88,49 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "551;552;558",
-                "ref:De_Lijn": "109511",
-                "bus": "yes",
-                "name": "Sint-Katelijne-Waver Bredeheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.51053,
-                    51.070755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "551;552;558",
-                "ref:De_Lijn": "109512",
-                "bus": "yes",
-                "name": "Sint-Katelijne-Waver Bredeheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.510816,
-                    51.070862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "551;552;558",
                 "ref:De_Lijn": "102086",
                 "bus": "yes",
                 "name": "Sint-Katelijne-Waver Zonstraat",
@@ -151,7 +66,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "551;552;558",
+                "ref:De_Lijn": "102087",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Zonstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.523926,
+                    51.070432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109511",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Bredeheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.51053,
+                    51.070755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "109513",
                 "bus": "yes",
                 "name": "Sint-Katelijne-Waver Heidijk",
@@ -166,6 +120,46 @@
                 "coordinates": [
                     4.517977,
                     51.070539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109510",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Fortsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507006,
+                    51.070858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109512",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Bredeheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.510816,
+                    51.070862
                 ]
             }
         }

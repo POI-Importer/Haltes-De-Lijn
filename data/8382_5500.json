@@ -5,7 +5,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "163",
-                "ref:De_Lijn": "307566",
+                "ref:De_Lijn": "307568",
+                "bus": "yes",
+                "name": "Elingen Stoeterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTE MOLENSTRAAT ELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.181448,
+                    50.786118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "163",
+                "ref:De_Lijn": "307567",
                 "bus": "yes",
                 "name": "Elingen Hoefijzer",
                 "public_transport": "platform",
@@ -17,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.175929,
-                    50.783161
+                    4.176057,
+                    50.783089
                 ]
             }
         },
@@ -47,6 +68,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "163",
+                "ref:De_Lijn": "307566",
+                "bus": "yes",
+                "name": "Elingen Hoefijzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTE MOLENSTRAAT ELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.175929,
+                    50.783161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "163",
+                "ref:De_Lijn": "307569",
+                "bus": "yes",
+                "name": "Elingen Stoeterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTE MOLENSTRAAT ELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.181533,
+                    50.786029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "163",
                 "ref:De_Lijn": "307584",
                 "bus": "yes",
                 "name": "Sint-Laureins-Hof ter Rammeken",
@@ -61,48 +124,6 @@
                 "coordinates": [
                     4.191037,
                     50.789136
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "163",
-                "ref:De_Lijn": "307568",
-                "bus": "yes",
-                "name": "Elingen Stoeterij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWARTE MOLENSTRAAT ELINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.181448,
-                    50.786118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "144;163",
-                "ref:De_Lijn": "307586",
-                "bus": "yes",
-                "name": "Sint-Laureins-Weg naar Lennik",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENBORRESTRAAT SINT-LAUREINS-BERCHEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.194536,
-                    50.786399
                 ]
             }
         },
@@ -130,42 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "163",
-                "ref:De_Lijn": "307567",
+                "route_ref:De_Lijn": "144;163",
+                "ref:De_Lijn": "307586",
                 "bus": "yes",
-                "name": "Elingen Hoefijzer",
+                "name": "Sint-Laureins-Weg naar Lennik",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZWARTE MOLENSTRAAT ELINGEN",
+                "created_by": "MOLENBORRESTRAAT SINT-LAUREINS-BERCHEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.176057,
-                    50.783089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "163",
-                "ref:De_Lijn": "307569",
-                "bus": "yes",
-                "name": "Elingen Stoeterij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWARTE MOLENSTRAAT ELINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.181533,
-                    50.786029
+                    4.194536,
+                    50.786399
                 ]
             }
         }

@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68;79",
-                "ref:De_Lijn": "504579",
+                "ref:De_Lijn": "509579",
                 "bus": "yes",
                 "name": "Westouter Zwarteberg",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.747275,
-                    50.783189
+                    2.746974,
+                    50.783274
                 ]
             }
         },
@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "509578",
+                "bus": "yes",
+                "name": "Westouter Rodeberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODEBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.760537,
+                    50.785269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
                 "ref:De_Lijn": "505215",
                 "bus": "yes",
                 "name": "Westouter Kleine Bergstraat",
@@ -68,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68;79",
-                "ref:De_Lijn": "509579",
+                "ref:De_Lijn": "504579",
                 "bus": "yes",
                 "name": "Westouter Zwarteberg",
                 "public_transport": "platform",
@@ -80,29 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.746974,
-                    50.783274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;79",
-                "ref:De_Lijn": "509578",
-                "bus": "yes",
-                "name": "Westouter Rodeberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RODEBERGSTRAAT WESTOUTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.760537,
-                    50.785269
+                    2.747275,
+                    50.783189
                 ]
             }
         }

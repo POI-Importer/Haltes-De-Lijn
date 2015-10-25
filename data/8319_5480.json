@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;41;49",
-                "ref:De_Lijn": "509252",
-                "bus": "yes",
-                "name": "Lampernisse Paradijshof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PERVIJZESTRAAT LAMPERNISSE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.793944,
-                    51.061208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "49",
                 "ref:De_Lijn": "505794",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     2.794087,
                     51.062064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "509252",
+                "bus": "yes",
+                "name": "Lampernisse Paradijshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERVIJZESTRAAT LAMPERNISSE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793944,
+                    51.061208
                 ]
             }
         }

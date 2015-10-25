@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "507612",
-                "bus": "yes",
-                "name": "Wingene Barrierke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEERNEMSTEENWEG WINGENE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.289775,
-                    51.071544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "26;28",
                 "ref:De_Lijn": "502623",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.289588,
                     51.071597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507612",
+                "bus": "yes",
+                "name": "Wingene Barrierke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289775,
+                    51.071544
                 ]
             }
         },

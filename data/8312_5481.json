@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "504060",
-                "bus": "yes",
-                "name": "Bulskamp Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BULSKAMPSTRAAT BULSKAMP",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.650029,
-                    51.043201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "51;58;59",
                 "ref:De_Lijn": "509060",
                 "bus": "yes",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     2.644928,
                     51.046921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504060",
+                "bus": "yes",
+                "name": "Bulskamp Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BULSKAMPSTRAAT BULSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.650029,
+                    51.043201
                 ]
             }
         }

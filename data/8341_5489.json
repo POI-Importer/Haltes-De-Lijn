@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;59",
-                "ref:De_Lijn": "508587",
-                "bus": "yes",
-                "name": "Meulebeke Hazewind",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INGELMUNSTERSTEENWEG MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.275792,
-                    50.94195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "505241",
                 "bus": "yes",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     3.287627,
                     50.931604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505096",
-                "bus": "yes",
-                "name": "Meulebeke Mandellaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MANDELLAAN MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.293086,
-                    50.9405
                 ]
             }
         },
@@ -110,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "508587",
+                "bus": "yes",
+                "name": "Meulebeke Hazewind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGELMUNSTERSTEENWEG MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.275792,
+                    50.94195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
                 "ref:De_Lijn": "503587",
                 "bus": "yes",
                 "name": "Meulebeke Hazewind",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.276398,
                     50.942207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505096",
+                "bus": "yes",
+                "name": "Meulebeke Mandellaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MANDELLAAN MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.293086,
+                    50.9405
                 ]
             }
         }

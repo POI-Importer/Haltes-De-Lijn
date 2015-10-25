@@ -4,70 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "204040",
-                "bus": "yes",
-                "name": "Verrebroek Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VERHEYENPLEIN VERREBROEK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.188821,
-                    51.255429
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "205041",
-                "bus": "yes",
-                "name": "Verrebroek Aven Ackers",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N451 VERREBROEK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.189773,
-                    51.250047
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "240",
-                "ref:De_Lijn": "205598",
-                "bus": "yes",
-                "name": "Verrebroek Braakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSTRAAT KIELDRECHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.177177,
-                    51.255115
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204039",
                 "bus": "yes",
                 "name": "Verrebroek Rijkstraat",
@@ -88,10 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "205039",
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "205040",
                 "bus": "yes",
-                "name": "Verrebroek Rijkstraat",
+                "name": "Verrebroek Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KIELDRECHTSEBAAN VERREBROEK",
@@ -101,15 +38,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.18826,
-                    51.259941
+                    4.188891,
+                    51.255906
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204041",
                 "bus": "yes",
                 "name": "Verrebroek Aven Ackers",
@@ -130,10 +67,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "205040",
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "205041",
                 "bus": "yes",
-                "name": "Verrebroek Dorp",
+                "name": "Verrebroek Aven Ackers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N451 VERREBROEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.189773,
+                    51.250047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "205039",
+                "bus": "yes",
+                "name": "Verrebroek Rijkstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KIELDRECHTSEBAAN VERREBROEK",
@@ -143,8 +101,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.188891,
-                    51.255906
+                    4.18826,
+                    51.259941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205598",
+                "bus": "yes",
+                "name": "Verrebroek Braakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.177177,
+                    51.255115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "204040",
+                "bus": "yes",
+                "name": "Verrebroek Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERHEYENPLEIN VERREBROEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.188821,
+                    51.255429
                 ]
             }
         }

@@ -4,132 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153;154;155;810",
-                "ref:De_Lijn": "303229",
-                "bus": "yes",
-                "name": "Drogenbos Dorent",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUMANITEITSLAAN RUISBROEK (SINT-PIETERS-LEEUW)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.302075,
-                    50.794258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;171;571",
-                "ref:De_Lijn": "304661",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw E. Ghijsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.288713,
-                    50.803042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;171;571",
-                "ref:De_Lijn": "304606",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw J.Vanderstraetenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.284797,
-                    50.795263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;154;155;810",
-                "ref:De_Lijn": "303225",
-                "bus": "yes",
-                "name": "Drogenbos Pathé",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUMANITEITSLAAN DROGENBOS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.302673,
-                    50.802349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;171;571",
-                "ref:De_Lijn": "304660",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw E. Ghijsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.28839,
-                    50.801396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;154;155;810",
-                "ref:De_Lijn": "303226",
-                "bus": "yes",
-                "name": "Drogenbos Pathé",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUMANITEITSLAAN VORST (BRUSSEL)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.302844,
-                    50.802376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "170;171;571",
                 "ref:De_Lijn": "304605",
                 "bus": "yes",
@@ -172,21 +46,105 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "309466",
+                "route_ref:De_Lijn": "153;154;155;810",
+                "ref:De_Lijn": "303225",
                 "bus": "yes",
-                "name": "Drogenbos Stelplaats Het Rad2 nieuw",
+                "name": "Drogenbos Pathé",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DORENT DROGENBOS",
+                "created_by": "HUMANITEITSLAAN DROGENBOS",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.301037,
-                    50.795696
+                    4.302673,
+                    50.802349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;154;155;810",
+                "ref:De_Lijn": "303226",
+                "bus": "yes",
+                "name": "Drogenbos Pathé",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUMANITEITSLAAN VORST (BRUSSEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.302844,
+                    50.802376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;171;571",
+                "ref:De_Lijn": "304660",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw E. Ghijsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.28839,
+                    50.801396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;171;571",
+                "ref:De_Lijn": "304606",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw J.Vanderstraetenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.284797,
+                    50.795263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;154;155;810",
+                "ref:De_Lijn": "303229",
+                "bus": "yes",
+                "name": "Drogenbos Dorent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUMANITEITSLAAN RUISBROEK (SINT-PIETERS-LEEUW)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.302075,
+                    50.794258
                 ]
             }
         },
@@ -208,6 +166,48 @@
                 "coordinates": [
                     4.301165,
                     50.79566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "309466",
+                "bus": "yes",
+                "name": "Drogenbos Stelplaats Het Rad2 nieuw",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DORENT DROGENBOS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301037,
+                    50.795696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;171;571",
+                "ref:De_Lijn": "304661",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw E. Ghijsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.288713,
+                    50.803042
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
                 "ref:De_Lijn": "205995",
                 "bus": "yes",
                 "name": "Waarschoot Hogevoorde",
@@ -19,27 +18,6 @@
                 "coordinates": [
                     3.619816,
                     51.129107
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69;160",
-                "ref:De_Lijn": "202979",
-                "bus": "yes",
-                "name": "Waarschoot Mercator",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE STAATSBAAN BEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.607203,
-                    51.12899
                 ]
             }
         },
@@ -61,6 +39,27 @@
                 "coordinates": [
                     3.607072,
                     51.129169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "202979",
+                "bus": "yes",
+                "name": "Waarschoot Mercator",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE STAATSBAAN BEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607203,
+                    51.12899
                 ]
             }
         }

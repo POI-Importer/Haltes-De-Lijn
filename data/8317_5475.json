@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "41;69",
+                "ref:De_Lijn": "506244",
+                "bus": "yes",
+                "name": "Nieuwpoort Steenweg Op Sint-Joris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMSKAPELLESTRAAT SINT-JORIS (NIEUWPOORT)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.768229,
+                    51.128122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506240",
+                "bus": "yes",
+                "name": "Nieuwpoort Monument Albert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUSTWEG NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.75466,
+                    51.136245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506768",
+                "bus": "yes",
+                "name": "Nieuwpoort Parklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKLAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.746669,
+                    51.129716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "501238",
                 "bus": "yes",
@@ -47,48 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;68;69",
-                "ref:De_Lijn": "501243",
-                "bus": "yes",
-                "name": "Nieuwpoort Stad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAAI NIEUWPOORT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.752584,
-                    51.13387
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "501244",
-                "bus": "yes",
-                "name": "Nieuwpoort Steenweg Op Sint-Joris",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RAMSKAPELLESTRAAT SINT-JORIS (NIEUWPOORT)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.76831,
-                    51.127818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;68;69",
                 "ref:De_Lijn": "506243",
                 "bus": "yes",
                 "name": "Nieuwpoort Stad",
@@ -103,6 +124,27 @@
                 "coordinates": [
                     2.751665,
                     51.133597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;68;69",
+                "ref:De_Lijn": "501243",
+                "bus": "yes",
+                "name": "Nieuwpoort Stad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAAI NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.752584,
+                    51.13387
                 ]
             }
         },
@@ -130,43 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506242",
-                "zone:De_Lijn": "04",
-                "name": "Nieuwpoort Stad",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "KAAI NIEUWPOORT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.752476,
-                    51.133707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "506768",
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "501244",
                 "bus": "yes",
-                "name": "Nieuwpoort Parklaan",
+                "name": "Nieuwpoort Steenweg Op Sint-Joris",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PARKLAAN NIEUWPOORT",
+                "created_by": "RAMSKAPELLESTRAAT SINT-JORIS (NIEUWPOORT)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.746669,
-                    51.129716
+                    2.76831,
+                    51.127818
                 ]
             }
         },
@@ -194,21 +214,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;69",
-                "ref:De_Lijn": "506244",
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501246",
                 "bus": "yes",
-                "name": "Nieuwpoort Steenweg Op Sint-Joris",
+                "name": "Nieuwpoort Vismijn",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RAMSKAPELLESTRAAT SINT-JORIS (NIEUWPOORT)",
+                "created_by": "ASTRIDLAAN NIEUWPOORT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.768229,
-                    51.128122
+                    2.747616,
+                    51.131662
                 ]
             }
         },
@@ -237,42 +257,22 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "501246",
-                "bus": "yes",
-                "name": "Nieuwpoort Vismijn",
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506242",
+                "zone:De_Lijn": "04",
+                "name": "Nieuwpoort Stad",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ASTRIDLAAN NIEUWPOORT",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KAAI NIEUWPOORT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.747616,
-                    51.131662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;69",
-                "ref:De_Lijn": "506240",
-                "bus": "yes",
-                "name": "Nieuwpoort Monument Albert",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KUSTWEG NIEUWPOORT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.75466,
-                    51.136245
+                    2.752476,
+                    51.133707
                 ]
             }
         }

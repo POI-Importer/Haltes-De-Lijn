@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;721",
-                "ref:De_Lijn": "401832",
+                "ref:De_Lijn": "401833",
                 "bus": "yes",
                 "name": "Rotem Haagstraat",
                 "public_transport": "platform",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.731128,
-                    51.052421
+                    5.730966,
+                    51.05271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;721",
+                "ref:De_Lijn": "401831",
+                "bus": "yes",
+                "name": "Rotem E. Dorlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANTONSWEG DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.712986,
+                    51.053474
                 ]
             }
         },
@@ -47,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;721",
+                "ref:De_Lijn": "401832",
+                "bus": "yes",
+                "name": "Rotem Haagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL DORLAAN ROTEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.731128,
+                    51.052421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;721",
                 "ref:De_Lijn": "401827",
                 "bus": "yes",
                 "name": "Rotem Biesestraat",
@@ -68,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;721",
-                "ref:De_Lijn": "401766",
+                "ref:De_Lijn": "401825",
                 "bus": "yes",
-                "name": "Rotem Ritserstraat",
+                "name": "Rotem Bessenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KANTONSWEG DILSEN",
@@ -80,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.71864,
-                    51.045732
+                    5.716197,
+                    51.049077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61",
+                "ref:De_Lijn": "401768",
+                "bus": "yes",
+                "name": "Dilsen Stansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.733067,
+                    51.041618
                 ]
             }
         },
@@ -130,29 +193,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;61",
-                "ref:De_Lijn": "401768",
-                "bus": "yes",
-                "name": "Dilsen Stansstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG DILSEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.733067,
-                    51.041618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "61;721",
-                "ref:De_Lijn": "401767",
+                "ref:De_Lijn": "401766",
                 "bus": "yes",
                 "name": "Rotem Ritserstraat",
                 "public_transport": "platform",
@@ -164,29 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.718551,
-                    51.045643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;721",
-                "ref:De_Lijn": "401831",
-                "bus": "yes",
-                "name": "Rotem E. Dorlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANTONSWEG DILSEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.712986,
-                    51.053474
+                    5.71864,
+                    51.045732
                 ]
             }
         },
@@ -236,30 +257,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;721",
-                "ref:De_Lijn": "401833",
+                "ref:De_Lijn": "401767",
                 "bus": "yes",
-                "name": "Rotem Haagstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EMIEL DORLAAN ROTEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.730966,
-                    51.05271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;721",
-                "ref:De_Lijn": "401825",
-                "bus": "yes",
-                "name": "Rotem Bessenstraat",
+                "name": "Rotem Ritserstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KANTONSWEG DILSEN",
@@ -269,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.716197,
-                    51.049077
+                    5.718551,
+                    51.045643
                 ]
             }
         }

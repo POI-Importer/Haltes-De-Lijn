@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "504068",
+                "bus": "yes",
+                "name": "Dikkebus Sint-Huibrechtshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDERDOMSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.809709,
+                    50.817521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "71;79",
                 "ref:De_Lijn": "509112",
                 "bus": "yes",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     2.803288,
                     50.809145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "504068",
-                "bus": "yes",
-                "name": "Dikkebus Sint-Huibrechtshoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDERDOMSEWEG DIKKEBUS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.809709,
-                    50.817521
                 ]
             }
         }

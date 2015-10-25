@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;78;89;92",
+                "route_ref:De_Lijn": "71;78;92",
                 "ref:De_Lijn": "504201",
                 "bus": "yes",
                 "name": "Vichte Diesveldstraat",

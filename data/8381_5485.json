@@ -25,28 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;320",
-                "ref:De_Lijn": "206345",
-                "bus": "yes",
-                "name": "Lebbeke Lindekenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POTAARDESTRAAT LEBBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.153849,
-                    50.998581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "340",
                 "ref:De_Lijn": "207873",
                 "bus": "yes",
                 "name": "Opwijk Brabantse Beek",
@@ -67,7 +45,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "206689",
+                "bus": "yes",
+                "name": "Opstal Wiesbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKSKEN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.167753,
+                    50.988286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "206688",
                 "bus": "yes",
                 "name": "Lebbeke Kakemanstraat",
@@ -88,28 +85,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
-                "ref:De_Lijn": "207717",
-                "bus": "yes",
-                "name": "Lebbeke Klein Antwerpenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEIN ANTWERPENSTRAAT LEBBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.156668,
-                    50.992626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207718",
                 "bus": "yes",
                 "name": "Lebbeke Heizijde Station",
@@ -130,21 +105,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
-                "ref:De_Lijn": "206689",
+                "ref:De_Lijn": "207717",
                 "bus": "yes",
-                "name": "Opstal Wiesbeek",
+                "name": "Lebbeke Klein Antwerpenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EEKSKEN OPWIJK",
+                "created_by": "KLEIN ANTWERPENSTRAAT LEBBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.167753,
-                    50.988286
+                    4.156668,
+                    50.992626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "206345",
+                "bus": "yes",
+                "name": "Lebbeke Lindekenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTAARDESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.153849,
+                    50.998581
                 ]
             }
         }

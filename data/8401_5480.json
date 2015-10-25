@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510;511;529",
                 "ref:De_Lijn": "108086",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Prinsenstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510;511;529",
                 "ref:De_Lijn": "108084",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Prinsenstraat",

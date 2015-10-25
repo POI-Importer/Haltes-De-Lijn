@@ -5,28 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "509377",
-                "bus": "yes",
-                "name": "Ploegsteert Gedenksteen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MESENSTRAAT PLOEGSTEERT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.882308,
-                    50.737109
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "509534",
+                "ref:De_Lijn": "504534",
                 "bus": "yes",
                 "name": "Waasten La Hutte",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.890052,
-                    50.742746
+                    2.88984,
+                    50.742707
                 ]
             }
         },
@@ -68,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "509533",
+                "ref:De_Lijn": "509534",
                 "bus": "yes",
-                "name": "Waasten Kruissteen",
+                "name": "Waasten La Hutte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MESENSTRAAT WAASTEN (KOMEN-WAASTEN)",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.890573,
-                    50.745117
+                    2.890052,
+                    50.742746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509377",
+                "bus": "yes",
+                "name": "Ploegsteert Gedenksteen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MESENSTRAAT PLOEGSTEERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.882308,
+                    50.737109
                 ]
             }
         },
@@ -110,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "72",
-                "ref:De_Lijn": "504534",
+                "ref:De_Lijn": "509533",
                 "bus": "yes",
-                "name": "Waasten La Hutte",
+                "name": "Waasten Kruissteen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MESENSTRAAT WAASTEN (KOMEN-WAASTEN)",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.88984,
-                    50.742707
+                    2.890573,
+                    50.745117
                 ]
             }
         }

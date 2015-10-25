@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;330",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "207517",
                 "bus": "yes",
                 "name": "Aspelare Heghestraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;330",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "206517",
                 "bus": "yes",
                 "name": "Aspelare Heghestraat",

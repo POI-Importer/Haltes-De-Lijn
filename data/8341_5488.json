@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505944",
+                "bus": "yes",
+                "name": "Meulebeke Bloemenhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DIKSMUIDSE BOTERWEG MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.29525,
+                    50.94479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "52;59",
                 "ref:De_Lijn": "503586",
                 "bus": "yes",
@@ -19,48 +40,6 @@
                 "coordinates": [
                     3.286833,
                     50.950629
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505098",
-                "bus": "yes",
-                "name": "Meulebeke Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.288458,
-                    50.949924
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505095",
-                "bus": "yes",
-                "name": "Meulebeke Onze-Lieve-Vrouwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ONZE-LIEVE-VROUWSTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.29198,
-                    50.945264
                 ]
             }
         },
@@ -110,6 +89,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "508589",
+                "bus": "yes",
+                "name": "Meulebeke Oosthoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHUTTERIJSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.290869,
+                    50.953381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "503589",
+                "bus": "yes",
+                "name": "Meulebeke Oosthoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.29166,
+                    50.95301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
                 "ref:De_Lijn": "508586",
                 "bus": "yes",
                 "name": "Meulebeke Goethalsplaats",
@@ -124,6 +145,48 @@
                 "coordinates": [
                     3.286349,
                     50.950651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505663",
+                "bus": "yes",
+                "name": "Meulebeke Ter Deeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BONESTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295847,
+                    50.954154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505095",
+                "bus": "yes",
+                "name": "Meulebeke Onze-Lieve-Vrouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.29198,
+                    50.945264
                 ]
             }
         },
@@ -152,48 +215,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505663",
-                "bus": "yes",
-                "name": "Meulebeke Ter Deeve",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BONESTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.295847,
-                    50.954154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;59",
-                "ref:De_Lijn": "503589",
-                "bus": "yes",
-                "name": "Meulebeke Oosthoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.29166,
-                    50.95301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
                 "ref:De_Lijn": "504867",
                 "bus": "yes",
                 "name": "Meulebeke Tuinwijk",
@@ -208,6 +229,27 @@
                 "coordinates": [
                     3.282027,
                     50.951663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505098",
+                "bus": "yes",
+                "name": "Meulebeke Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.288458,
+                    50.949924
                 ]
             }
         },
@@ -229,48 +271,6 @@
                 "coordinates": [
                     3.27843,
                     50.947854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505944",
-                "bus": "yes",
-                "name": "Meulebeke Bloemenhove",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE DIKSMUIDSE BOTERWEG MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.29525,
-                    50.94479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;59",
-                "ref:De_Lijn": "508589",
-                "bus": "yes",
-                "name": "Meulebeke Oosthoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHUTTERIJSTRAAT MEULEBEKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.290869,
-                    50.953381
                 ]
             }
         }

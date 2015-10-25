@@ -4,26 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "101697",
-                "bus": "yes",
-                "name": "Gompel Turfstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELLEKENSDREEF GOMPEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.149666,
-                    51.189531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "101694",
                 "bus": "yes",
                 "name": "Gompel Kerkhof",
@@ -38,6 +18,27 @@
                 "coordinates": [
                     5.145536,
                     51.190655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "406776",
+                "bus": "yes",
+                "name": "Gompel Glaverbel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COLBURNLEI MOL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.161083,
+                    51.193024
                 ]
             }
         },
@@ -107,21 +108,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "406776",
+                "ref:De_Lijn": "101697",
                 "bus": "yes",
-                "name": "Gompel Glaverbel",
+                "name": "Gompel Turfstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "COLBURNLEI MOL",
+                "created_by": "KAPELLEKENSDREEF GOMPEL",
                 "operator": "De Lijn",
-                "network": "DLLi"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.161083,
-                    51.193024
+                    5.149666,
+                    51.189531
                 ]
             }
         },

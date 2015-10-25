@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "337;341",
-                "ref:De_Lijn": "307973",
+                "ref:De_Lijn": "307964",
                 "bus": "yes",
-                "name": "Waver Carioca",
+                "name": "Waver Noire Epine",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE BRUXELLES WAVER",
+                "created_by": "N257 WAVER",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.602404,
-                    50.724516
+                    4.602758,
+                    50.73586
                 ]
             }
         },
@@ -26,20 +26,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "337;341",
-                "ref:De_Lijn": "307970",
+                "ref:De_Lijn": "307965",
                 "bus": "yes",
-                "name": "Waver Rijs",
+                "name": "Waver Noire Epine",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE BRUXELLES WAVER",
+                "created_by": "N257 WAVER",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.595755,
-                    50.725958
+                    4.603041,
+                    50.73577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305363",
+                "bus": "yes",
+                "name": "Wavre Chapelle",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE D'OTTENBOURG WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.613022,
+                    50.729213
                 ]
             }
         },
@@ -109,28 +130,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "337;341",
-                "ref:De_Lijn": "307965",
-                "bus": "yes",
-                "name": "Waver Noire Epine",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N257 WAVER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.603041,
-                    50.73577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "305363",
+                "ref:De_Lijn": "305362",
                 "bus": "yes",
                 "name": "Wavre Chapelle",
                 "public_transport": "platform",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.613022,
-                    50.729213
+                    4.612838,
+                    50.729169
                 ]
             }
         },
@@ -172,21 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "305362",
+                "route_ref:De_Lijn": "337;341",
+                "ref:De_Lijn": "307973",
                 "bus": "yes",
-                "name": "Wavre Chapelle",
+                "name": "Waver Carioca",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE D'OTTENBOURG WAVER",
+                "created_by": "CHAUSSÉE DE BRUXELLES WAVER",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.612838,
-                    50.729169
+                    4.602404,
+                    50.724516
                 ]
             }
         },
@@ -194,20 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "337;341",
-                "ref:De_Lijn": "307964",
+                "ref:De_Lijn": "307970",
                 "bus": "yes",
-                "name": "Waver Noire Epine",
+                "name": "Waver Rijs",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N257 WAVER",
+                "created_by": "CHAUSSÉE DE BRUXELLES WAVER",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.602758,
-                    50.73586
+                    4.595755,
+                    50.725958
                 ]
             }
         }

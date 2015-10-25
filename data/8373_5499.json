@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206707",
                 "bus": "yes",
                 "name": "Denderwindeke Nijken",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206735",
                 "bus": "yes",
                 "name": "Denderwindeke Roost",

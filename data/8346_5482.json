@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;77",
-                "ref:De_Lijn": "502762",
-                "bus": "yes",
-                "name": "Ruiselede Pontstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSTRAAT RUISELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.387687,
-                    51.028718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505650",
+                "ref:De_Lijn": "505058",
                 "bus": "yes",
-                "name": "Ruiselede Tuinwijk",
+                "name": "Ruiselede Oude Tieltstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TUINWIJK RUISELEDE",
+                "created_by": "KRUISWEGESTRAAT RUISELEDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.393338,
-                    51.037333
+                    3.385252,
+                    51.040124
                 ]
             }
         },
@@ -89,69 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15;77",
-                "ref:De_Lijn": "502756",
-                "bus": "yes",
-                "name": "Ruiselede Tieltstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSTRAAT RUISELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.395533,
-                    51.035337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505058",
-                "bus": "yes",
-                "name": "Ruiselede Oude Tieltstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISWEGESTRAAT RUISELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.385252,
-                    51.040124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;77",
-                "ref:De_Lijn": "502755",
-                "bus": "yes",
-                "name": "Ruiselede Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT RUISELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.396036,
-                    51.040609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;77",
                 "ref:De_Lijn": "502754",
                 "bus": "yes",
                 "name": "Ruiselede Polenplein",
@@ -166,6 +82,27 @@
                 "coordinates": [
                     3.399467,
                     51.040907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "507755",
+                "bus": "yes",
+                "name": "Ruiselede Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.395906,
+                    51.040698
                 ]
             }
         },
@@ -215,6 +152,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505650",
+                "bus": "yes",
+                "name": "Ruiselede Tuinwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TUINWIJK RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.393338,
+                    51.037333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "502762",
+                "bus": "yes",
+                "name": "Ruiselede Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387687,
+                    51.028718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "502755",
+                "bus": "yes",
+                "name": "Ruiselede Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.396036,
+                    51.040609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
                 "ref:De_Lijn": "505651",
                 "bus": "yes",
                 "name": "Ruiselede Rusthuis",
@@ -229,27 +229,6 @@
                 "coordinates": [
                     3.393697,
                     51.041345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;77",
-                "ref:De_Lijn": "507755",
-                "bus": "yes",
-                "name": "Ruiselede Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT RUISELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.395906,
-                    51.040698
                 ]
             }
         },
@@ -271,6 +250,27 @@
                 "coordinates": [
                     3.386421,
                     51.03332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "502756",
+                "bus": "yes",
+                "name": "Ruiselede Tieltstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.395533,
+                    51.035337
                 ]
             }
         }

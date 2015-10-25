@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;140",
-                "ref:De_Lijn": "202460",
-                "bus": "yes",
-                "name": "Heusden Doolaegepark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEERSSTRAAT HEUSDEN (DESTELBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.79495,
-                    51.041338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;140",
-                "ref:De_Lijn": "202465",
-                "bus": "yes",
-                "name": "Heusden Sint-Barbarastraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDAKKERLAAN HEUSDEN (DESTELBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.800831,
-                    51.028979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;140",
+                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "202461",
                 "bus": "yes",
                 "name": "Heusden Hooistraat",
@@ -68,41 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "27",
-                "ref:De_Lijn": "203816",
+                "ref:De_Lijn": "203465",
                 "bus": "yes",
-                "name": "Heusden Aelmeersstraat",
+                "name": "Heusden Sint-Barbarastraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N447 HEUSDEN (DESTELBERGEN)",
+                "created_by": "ZANDAKKERLAAN HEUSDEN (DESTELBERGEN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.790267,
-                    51.027957
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "209848",
-                "bus": "yes",
-                "name": "Heusden Gemengde Basisschool",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "STEENVOORDESTRAAT HEUSDEN (DESTELBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.800656,
-                    51.028188
+                    3.801032,
+                    51.02889
                 ]
             }
         },
@@ -151,7 +88,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;140",
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "203816",
+                "bus": "yes",
+                "name": "Heusden Aelmeersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N447 HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.790267,
+                    51.027957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "202460",
+                "bus": "yes",
+                "name": "Heusden Doolaegepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSSTRAAT HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.79495,
+                    51.041338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "202816",
                 "bus": "yes",
                 "name": "Heusden Aelmeersstraat",
@@ -172,28 +151,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27",
-                "ref:De_Lijn": "203465",
+                "ref:De_Lijn": "209848",
                 "bus": "yes",
-                "name": "Heusden Sint-Barbarastraat",
+                "name": "Heusden Gemengde Basisschool",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ZANDAKKERLAAN HEUSDEN (DESTELBERGEN)",
+                "created_by": "STEENVOORDESTRAAT HEUSDEN (DESTELBERGEN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.801032,
-                    51.02889
+                    3.800656,
+                    51.028188
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;140",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "202776",
                 "bus": "yes",
                 "name": "Melle Wevershof",
@@ -229,6 +208,27 @@
                 "coordinates": [
                     3.794736,
                     51.041292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "202465",
+                "bus": "yes",
+                "name": "Heusden Sint-Barbarastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDAKKERLAAN HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.800831,
+                    51.028979
                 ]
             }
         }

@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "208485",
+                "bus": "yes",
+                "name": "Deftinge Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEKOUTER GEMELDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.861527,
+                    50.789334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "209658",
                 "bus": "yes",
                 "name": "Deftinge Molenhof",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;370;410",
-                "ref:De_Lijn": "208485",
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "209050",
                 "bus": "yes",
-                "name": "Deftinge Broekstraat",
+                "name": "Deftinge Kasteelken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LINDEKOUTER GEMELDORP",
+                "created_by": "GERAARDSBERGSESTRAAT DEFTINGE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.861527,
-                    50.789334
+                    3.852243,
+                    50.782398
                 ]
             }
         },
@@ -68,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "16;17",
-                "ref:De_Lijn": "209050",
-                "bus": "yes",
-                "name": "Deftinge Kasteelken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GERAARDSBERGSESTRAAT DEFTINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.852243,
-                    50.782398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;17;370;410",
                 "ref:De_Lijn": "208050",
                 "bus": "yes",
                 "name": "Deftinge Kasteelken",

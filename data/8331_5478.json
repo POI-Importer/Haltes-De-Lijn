@@ -5,49 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;79",
-                "ref:De_Lijn": "507535",
-                "bus": "yes",
-                "name": "Wijnendale Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ALBERIC DELEUSTRAAT WIJNENDALE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.066952,
-                    51.09177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;59;64",
-                "ref:De_Lijn": "507215",
-                "bus": "yes",
-                "name": "Ichtegem Oostendse Baan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKSMUIDEBAAN ICHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.056311,
-                    51.085341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;79",
-                "ref:De_Lijn": "507508",
+                "ref:De_Lijn": "502508",
                 "bus": "yes",
                 "name": "Torhout Smissestraat",
                 "public_transport": "platform",
@@ -59,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.067968,
-                    51.083439
+                    3.067866,
+                    51.083527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "502215",
+                "bus": "yes",
+                "name": "Ichtegem Oostendse Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDEBAAN ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05613,
+                    51.085186
                 ]
             }
         },
@@ -89,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;79",
-                "ref:De_Lijn": "502508",
+                "ref:De_Lijn": "507508",
                 "bus": "yes",
                 "name": "Torhout Smissestraat",
                 "public_transport": "platform",
@@ -101,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.067866,
-                    51.083527
+                    3.067968,
+                    51.083439
                 ]
             }
         },
@@ -110,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;79",
-                "ref:De_Lijn": "507536",
+                "ref:De_Lijn": "507535",
                 "bus": "yes",
-                "name": "Wijnendale Station",
+                "name": "Wijnendale Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDE WIJNENDALESTRAAT WIJNENDALE",
+                "created_by": "ALBERIC DELEUSTRAAT WIJNENDALE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.07431,
-                    51.085864
+                    3.066952,
+                    51.09177
                 ]
             }
         },
@@ -152,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56;59;64",
-                "ref:De_Lijn": "502215",
+                "ref:De_Lijn": "507215",
                 "bus": "yes",
                 "name": "Ichtegem Oostendse Baan",
                 "public_transport": "platform",
@@ -164,8 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.05613,
-                    51.085186
+                    3.056311,
+                    51.085341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;79",
+                "ref:De_Lijn": "507536",
+                "bus": "yes",
+                "name": "Wijnendale Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE WIJNENDALESTRAAT WIJNENDALE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07431,
+                    51.085864
                 ]
             }
         },

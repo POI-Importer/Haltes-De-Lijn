@@ -46,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "21;64;79;95",
+                "ref:De_Lijn": "507189",
+                "bus": "yes",
+                "name": "Hertsberge Smisje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROOSDIJSTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.264562,
+                    51.105994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "28",
                 "ref:De_Lijn": "507184",
                 "bus": "yes",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     3.27348,
                     51.105681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;64;79;95",
-                "ref:De_Lijn": "507189",
-                "bus": "yes",
-                "name": "Hertsberge Smisje",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROOSDIJSTRAAT HERTSBERGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.264562,
-                    51.105994
                 ]
             }
         },

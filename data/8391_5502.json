@@ -5,90 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "155",
-                "ref:De_Lijn": "307697",
-                "bus": "yes",
-                "name": "Sint-Genesius-Rode Linkebeeksedreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINKEBEEKSEDREEF SINT-GENESIUS-RODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.374434,
-                    50.75972
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "304431",
-                "bus": "yes",
-                "name": "Sint-Genesius-Rode Bloemenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONIËNWOUDLAAN SINT-GENESIUS-RODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.37612,
-                    50.755531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "304450",
-                "bus": "yes",
-                "name": "Sint-Genesius-Rode Middenhut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG SINT-GENESIUS-RODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.384327,
-                    50.76016
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "304432",
-                "bus": "yes",
-                "name": "Sint-Genesius-Rode Bloemenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONIËNWOUDLAAN SINT-GENESIUS-RODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.374505,
-                    50.754605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "155",
                 "ref:De_Lijn": "307714",
                 "bus": "yes",
                 "name": "Sint-Genesius-Rode Ahornlaan",
@@ -103,27 +19,6 @@
                 "coordinates": [
                     4.388336,
                     50.755386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "304448",
-                "bus": "yes",
-                "name": "Sint-Genesius-Rode Middenhut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG SINT-GENESIUS-RODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.384001,
-                    50.760412
                 ]
             }
         },
@@ -173,6 +68,90 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "307697",
+                "bus": "yes",
+                "name": "Sint-Genesius-Rode Linkebeeksedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINKEBEEKSEDREEF SINT-GENESIUS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.374434,
+                    50.75972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "304450",
+                "bus": "yes",
+                "name": "Sint-Genesius-Rode Middenhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSE STEENWEG SINT-GENESIUS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.384327,
+                    50.76016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "304431",
+                "bus": "yes",
+                "name": "Sint-Genesius-Rode Bloemenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONIËNWOUDLAAN SINT-GENESIUS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37612,
+                    50.755531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "304432",
+                "bus": "yes",
+                "name": "Sint-Genesius-Rode Bloemenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONIËNWOUDLAAN SINT-GENESIUS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.374505,
+                    50.754605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
                 "ref:De_Lijn": "307715",
                 "bus": "yes",
                 "name": "Sint-Genesius-Rode Ahornlaan",
@@ -208,6 +187,27 @@
                 "coordinates": [
                     4.382428,
                     50.758407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "304448",
+                "bus": "yes",
+                "name": "Sint-Genesius-Rode Middenhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSE STEENWEG SINT-GENESIUS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.384001,
+                    50.760412
                 ]
             }
         }

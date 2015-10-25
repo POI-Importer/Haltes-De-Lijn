@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125;450",
                 "ref:De_Lijn": "201667",
                 "bus": "yes",
                 "name": "Petegem-aan-de-Leie Terwilgenstraat",

@@ -26,28 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "118;570;573",
-                "ref:De_Lijn": "306135",
-                "bus": "yes",
-                "name": "Schepdaal Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DREEF SCHEPDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.194324,
-                    50.836165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "118;570;573",
-                "ref:De_Lijn": "301348",
+                "ref:De_Lijn": "301349",
                 "bus": "yes",
                 "name": "Schepdaal Geraardsbergsestraat",
                 "public_transport": "platform",
@@ -59,29 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.194843,
-                    50.833946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "118;128",
-                "ref:De_Lijn": "301367",
-                "bus": "yes",
-                "name": "Schepdaal Vossegat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NINOOFSESTEENWEG SCHEPDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.181742,
-                    50.837117
+                    4.194658,
+                    50.834017
                 ]
             }
         },
@@ -130,7 +88,49 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "118;570;573",
-                "ref:De_Lijn": "301349",
+                "ref:De_Lijn": "306135",
+                "bus": "yes",
+                "name": "Schepdaal Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEF SCHEPDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.194324,
+                    50.836165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "118;128",
+                "ref:De_Lijn": "301367",
+                "bus": "yes",
+                "name": "Schepdaal Vossegat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NINOOFSESTEENWEG SCHEPDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.181742,
+                    50.837117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "118;570;573",
+                "ref:De_Lijn": "301348",
                 "bus": "yes",
                 "name": "Schepdaal Geraardsbergsestraat",
                 "public_transport": "platform",
@@ -142,8 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.194658,
-                    50.834017
+                    4.194843,
+                    50.833946
                 ]
             }
         }

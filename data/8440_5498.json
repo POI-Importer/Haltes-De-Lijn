@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;104",
-                "ref:De_Lijn": "408671",
-                "bus": "yes",
-                "name": "Riksingen Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BILZERSTEENWEG RIKSINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.466063,
-                    50.806707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;104",
                 "ref:De_Lijn": "404327",
                 "bus": "yes",
                 "name": "Hoeselt Metser",
@@ -47,41 +26,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;104",
-                "ref:De_Lijn": "404326",
+                "ref:De_Lijn": "408670",
                 "bus": "yes",
-                "name": "Hoeselt Metser",
+                "name": "Riksingen Kruispunt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TONGERSESTEENWEG HOESELT",
+                "created_by": "BILZERSTEENWEG HENIS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.466995,
-                    50.819285
+                    5.466219,
+                    50.806077
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "736",
-                "ref:De_Lijn": "408762",
+                "route_ref:De_Lijn": "10;104",
+                "ref:De_Lijn": "408671",
                 "bus": "yes",
-                "name": "Riksingen Sint-Geertruistraat",
+                "name": "Riksingen Kruispunt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-GEERTRUISTRAAT RIKSINGEN",
+                "created_by": "BILZERSTEENWEG RIKSINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.458205,
-                    50.808669
+                    5.466063,
+                    50.806707
                 ]
             }
         },
@@ -103,48 +82,6 @@
                 "coordinates": [
                     5.466733,
                     50.812914
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "736",
-                "ref:De_Lijn": "408756",
-                "bus": "yes",
-                "name": "Riksingen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-GEERTRUISTRAAT RIKSINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.462122,
-                    50.806834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;104",
-                "ref:De_Lijn": "408670",
-                "bus": "yes",
-                "name": "Riksingen Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BILZERSTEENWEG HENIS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.466219,
-                    50.806077
                 ]
             }
         },
@@ -187,6 +124,69 @@
                 "coordinates": [
                     5.466531,
                     50.812763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;104",
+                "ref:De_Lijn": "404326",
+                "bus": "yes",
+                "name": "Hoeselt Metser",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG HOESELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.466995,
+                    50.819285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "736",
+                "ref:De_Lijn": "408756",
+                "bus": "yes",
+                "name": "Riksingen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GEERTRUISTRAAT RIKSINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.462122,
+                    50.806834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "736",
+                "ref:De_Lijn": "408762",
+                "bus": "yes",
+                "name": "Riksingen Sint-Geertruistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GEERTRUISTRAAT RIKSINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.458205,
+                    50.808669
                 ]
             }
         }

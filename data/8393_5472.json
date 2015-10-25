@@ -4,198 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "102305",
-                "bus": "yes",
-                "name": "Frans van Dunlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.426136,
-                    51.172273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "104595",
-                "bus": "yes",
-                "name": "Oosterveldlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.425269,
-                    51.176157
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7;15;90;91;92",
-                "ref:De_Lijn": "102705",
+                "ref:De_Lijn": "104485",
                 "bus": "yes",
                 "name": "Kuijpers",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "created_by": "ANTWERPSESTRAAT MORTSEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.436452,
-                    51.176852
+                    4.436337,
+                    51.17651
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "101875",
-                "bus": "yes",
-                "name": "De Burletlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.426506,
-                    51.170844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "104490",
-                "bus": "yes",
-                "name": "Oosterveldlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.424626,
-                    51.176256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;33",
-                "ref:De_Lijn": "105135",
-                "bus": "yes",
-                "name": "Sint-Augustinusziekenhuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PIETER COECKELAAN ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.417518,
-                    51.175891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "104890",
-                "bus": "yes",
-                "name": "Pius X-plein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROENENBORGERLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.421496,
-                    51.177839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;33",
-                "ref:De_Lijn": "105130",
-                "bus": "yes",
-                "name": "Sint-Augustinusziekenhuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTERVELDLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.417175,
-                    51.175495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "103520",
-                "bus": "yes",
-                "name": "Edegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PRINS BOUDEWIJNLAAN EDEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.42653,
-                    51.166682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33",
                 "ref:De_Lijn": "104625",
                 "bus": "yes",
                 "name": "Pius X-plein",
@@ -216,8 +44,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;33",
-                "ref:De_Lijn": "105587",
+                "ref:De_Lijn": "105586",
                 "bus": "yes",
                 "name": "Groenenborgerlaan",
                 "public_transport": "platform",
@@ -229,7 +56,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.417105,
+                    4.416962,
                     51.177014
                 ]
             }
@@ -237,7 +64,86 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "104890",
+                "bus": "yes",
+                "name": "Pius X-plein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENENBORGERLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421496,
+                    51.177839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102930",
+                "bus": "yes",
+                "name": "Edegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINS BOUDEWIJNLAAN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426115,
+                    51.166485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101870",
+                "name": "De Burletlaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426035,
+                    51.170835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102705",
+                "bus": "yes",
+                "name": "Kuijpers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436452,
+                    51.176852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101174",
                 "bus": "yes",
                 "name": "Wolfbeemdstraat",
@@ -258,33 +164,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "101870",
+                "ref:De_Lijn": "105135",
                 "bus": "yes",
-                "name": "De Burletlaan",
+                "name": "Sint-Augustinusziekenhuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
+                "created_by": "PIETER COECKELAAN ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.426035,
-                    51.170835
+                    4.417518,
+                    51.175891
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32",
                 "ref:De_Lijn": "102300",
-                "bus": "yes",
                 "name": "Frans van Dunlaan",
                 "public_transport": "platform",
-                "highway": "bus_stop",
+                "railway": "tram_stop",
+                "tram": "yes",
                 "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -294,27 +198,6 @@
                 "coordinates": [
                     4.425651,
                     51.172561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32",
-                "ref:De_Lijn": "102930",
-                "bus": "yes",
-                "name": "Edegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PRINS BOUDEWIJNLAAN EDEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.426115,
-                    51.166485
                 ]
             }
         },
@@ -342,12 +225,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;33",
-                "ref:De_Lijn": "102865",
+                "ref:De_Lijn": "105587",
                 "bus": "yes",
-                "name": "Hindenstraat",
+                "name": "Groenenborgerlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.417105,
+                    51.177014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102865",
+                "name": "Hindenstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
                 "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -363,28 +265,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;33",
-                "ref:De_Lijn": "105586",
-                "bus": "yes",
-                "name": "Groenenborgerlaan",
+                "ref:De_Lijn": "101875",
+                "name": "De Burletlaan",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN ANTWERPEN",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.416962,
-                    51.177014
+                    4.426506,
+                    51.170844
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "104595",
+                "bus": "yes",
+                "name": "Oosterveldlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.425269,
+                    51.176157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101173",
                 "bus": "yes",
                 "name": "Wolfbeemdstraat",
@@ -405,23 +325,80 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "7;15;90;91;92",
-                "ref:De_Lijn": "104485",
-                "bus": "yes",
-                "name": "Kuijpers",
+                "ref:De_Lijn": "103520",
+                "name": "Edegem Kerk",
                 "public_transport": "platform",
                 "railway": "tram_stop",
-                "highway": "bus_stop",
                 "tram": "yes",
-                "created_by": "ANTWERPSESTRAAT MORTSEL",
+                "created_by": "PRINS BOUDEWIJNLAAN EDEGEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.436337,
-                    51.17651
+                    4.42653,
+                    51.166682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102305",
+                "name": "Frans van Dunlaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426136,
+                    51.172273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105130",
+                "bus": "yes",
+                "name": "Sint-Augustinusziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTERVELDLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.417175,
+                    51.175495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104490",
+                "bus": "yes",
+                "name": "Oosterveldlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424626,
+                    51.176256
                 ]
             }
         }

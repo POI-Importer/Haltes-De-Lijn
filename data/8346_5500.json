@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "91;93;99",
+                "ref:De_Lijn": "508222",
+                "bus": "yes",
+                "name": "Heestert Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERG HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.392367,
+                    50.780854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "91;99",
                 "ref:De_Lijn": "508224",
                 "bus": "yes",
@@ -19,6 +40,27 @@
                 "coordinates": [
                     3.40065,
                     50.780123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;93;99",
+                "ref:De_Lijn": "503221",
+                "bus": "yes",
+                "name": "Heestert Keiberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERG MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.383826,
+                    50.786483
                 ]
             }
         },
@@ -47,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "91;93;99",
-                "ref:De_Lijn": "503221",
-                "bus": "yes",
-                "name": "Heestert Keiberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIBERG MOEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.383826,
-                    50.786483
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;93;99",
                 "ref:De_Lijn": "508221",
                 "bus": "yes",
                 "name": "Heestert Keiberg",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     3.384924,
                     50.786195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;93;99",
-                "ref:De_Lijn": "508222",
-                "bus": "yes",
-                "name": "Heestert Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEIBERG HEESTERT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.392367,
-                    50.780854
                 ]
             }
         },

@@ -4,153 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4;284;285;652",
-                "ref:De_Lijn": "307819",
-                "bus": "yes",
-                "name": "Herent Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPOORWEGSTRAAT HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.672901,
-                    50.903409
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "285",
-                "ref:De_Lijn": "302024",
-                "bus": "yes",
-                "name": "Herent Kempen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.664228,
-                    50.909922
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;652",
-                "ref:De_Lijn": "306381",
-                "bus": "yes",
-                "name": "Herent Wijk Den Bremt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WINKSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.663731,
-                    50.905608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;284;511;529",
-                "ref:De_Lijn": "302014",
-                "bus": "yes",
-                "name": "Herent De Wildeman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WILSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.674199,
-                    50.906121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;284;285;529;652",
-                "ref:De_Lijn": "302008",
-                "bus": "yes",
-                "name": "Herent Den Bremt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.665494,
-                    50.905559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302028",
-                "bus": "yes",
-                "name": "Herent Mechelsesteenweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.670232,
-                    50.906203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "284;285",
-                "ref:De_Lijn": "302023",
-                "bus": "yes",
-                "name": "Herent Keiberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.667655,
-                    50.907854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "302042",
                 "bus": "yes",
                 "name": "Herent Station",
@@ -166,48 +19,6 @@
                 "coordinates": [
                     4.673432,
                     50.904127
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;284;511",
-                "ref:De_Lijn": "302015",
-                "bus": "yes",
-                "name": "Herent De Wildeman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WILSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.674895,
-                    50.906011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;652",
-                "ref:De_Lijn": "306380",
-                "bus": "yes",
-                "name": "Herent Wijk Den Bremt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WINKSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.663759,
-                    50.9055
                 ]
             }
         },
@@ -235,28 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "284;285",
-                "ref:De_Lijn": "302022",
-                "bus": "yes",
-                "name": "Herent Keiberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.66655,
-                    50.908424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302029",
+                "ref:De_Lijn": "302028",
                 "bus": "yes",
                 "name": "Herent Mechelsesteenweg",
                 "public_transport": "platform",
@@ -269,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.670331,
-                    50.906023
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;284;285;529;652",
-                "ref:De_Lijn": "307818",
-                "bus": "yes",
-                "name": "Herent Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPOORWEGSTRAAT HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.673057,
-                    50.90331
+                    4.670232,
+                    50.906203
                 ]
             }
         },
@@ -319,6 +88,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "284;285",
+                "ref:De_Lijn": "302023",
+                "bus": "yes",
+                "name": "Herent Keiberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.667655,
+                    50.907854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302029",
+                "bus": "yes",
+                "name": "Herent Mechelsesteenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.670331,
+                    50.906023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "4;284;285;511",
                 "ref:De_Lijn": "306341",
                 "bus": "yes",
@@ -340,21 +151,105 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4;284;285;652",
-                "ref:De_Lijn": "302009",
+                "route_ref:De_Lijn": "4;284;511",
+                "ref:De_Lijn": "302015",
                 "bus": "yes",
-                "name": "Herent Den Bremt",
+                "name": "Herent De Wildeman",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
+                "created_by": "WILSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.665691,
-                    50.905244
+                    4.674895,
+                    50.906011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "284",
+                "ref:De_Lijn": "302046",
+                "bus": "yes",
+                "name": "Herent Tildonksesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TILDONKSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.665408,
+                    50.909982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;284;285;652",
+                "ref:De_Lijn": "307819",
+                "bus": "yes",
+                "name": "Herent Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.672901,
+                    50.903409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;284;511;529",
+                "ref:De_Lijn": "302014",
+                "bus": "yes",
+                "name": "Herent De Wildeman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.674199,
+                    50.906121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "285",
+                "ref:De_Lijn": "302024",
+                "bus": "yes",
+                "name": "Herent Kempen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.664228,
+                    50.909922
                 ]
             }
         },
@@ -382,6 +277,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "4;284;285;652",
+                "ref:De_Lijn": "302009",
+                "bus": "yes",
+                "name": "Herent Den Bremt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.665691,
+                    50.905244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "285",
                 "ref:De_Lijn": "302025",
                 "bus": "yes",
@@ -403,21 +319,105 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "284",
-                "ref:De_Lijn": "302046",
+                "route_ref:De_Lijn": "284;285",
+                "ref:De_Lijn": "302022",
                 "bus": "yes",
-                "name": "Herent Tildonksesteenweg",
+                "name": "Herent Keiberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TILDONKSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.665408,
-                    50.909982
+                    4.66655,
+                    50.908424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;284;285;529;652",
+                "ref:De_Lijn": "307818",
+                "bus": "yes",
+                "name": "Herent Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.673057,
+                    50.90331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;652",
+                "ref:De_Lijn": "306381",
+                "bus": "yes",
+                "name": "Herent Wijk Den Bremt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.663731,
+                    50.905608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;284;285;529;652",
+                "ref:De_Lijn": "302008",
+                "bus": "yes",
+                "name": "Herent Den Bremt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.665494,
+                    50.905559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;652",
+                "ref:De_Lijn": "306380",
+                "bus": "yes",
+                "name": "Herent Wijk Den Bremt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKSELSESTEENWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.663759,
+                    50.9055
                 ]
             }
         }

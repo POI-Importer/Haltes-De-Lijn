@@ -5,27 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56;57;58",
-                "ref:De_Lijn": "203022",
+                "ref:De_Lijn": "203020",
                 "bus": "yes",
-                "name": "Sleidinge Wurmstraat",
+                "name": "Evergem Kromveldstraatje",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POLENSTRAAT SLEIDINGE",
+                "created_by": "KWADEWEG EVERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.677585,
-                    51.121567
+                    3.690911,
+                    51.114695
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "56;57;58;150",
+                "route_ref:De_Lijn": "56;57;58",
                 "ref:De_Lijn": "202021",
                 "bus": "yes",
                 "name": "Evergem Asschout",
@@ -46,7 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "56;57;58;150",
+                "route_ref:De_Lijn": "56;57;58",
+                "ref:De_Lijn": "203022",
+                "bus": "yes",
+                "name": "Sleidinge Wurmstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLENSTRAAT SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677585,
+                    51.121567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;57;58",
                 "ref:De_Lijn": "202003",
                 "bus": "yes",
                 "name": "Sleidinge Bernt",
@@ -89,27 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56;57;58",
-                "ref:De_Lijn": "203020",
-                "bus": "yes",
-                "name": "Evergem Kromveldstraatje",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWADEWEG EVERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.690911,
-                    51.114695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;57;58;150",
                 "ref:De_Lijn": "202022",
                 "bus": "yes",
                 "name": "Sleidinge Wurmstraat",

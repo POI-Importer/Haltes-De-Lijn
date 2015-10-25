@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;85;99",
-                "ref:De_Lijn": "508331",
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "503330",
                 "bus": "yes",
-                "name": "Kooigem Klein Molentje",
+                "name": "Kooigem Garage Tune Up",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DOORNIKSERIJKSWEG KOOIGEM",
@@ -17,18 +17,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.321101,
-                    50.74612
+                    3.323924,
+                    50.742791
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;85;99",
-                "ref:De_Lijn": "508332",
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "508330",
                 "bus": "yes",
-                "name": "Kooigem Koninklijk Jacht",
+                "name": "Kooigem Garage Tune Up",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DOORNIKSERIJKSWEG KOOIGEM",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.328381,
-                    50.737967
+                    3.324527,
+                    50.742437
                 ]
             }
         },
@@ -67,28 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;85;99",
-                "ref:De_Lijn": "503330",
-                "bus": "yes",
-                "name": "Kooigem Garage Tune Up",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNIKSERIJKSWEG KOOIGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.323924,
-                    50.742791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;85;99",
+                "route_ref:De_Lijn": "85;99",
                 "ref:De_Lijn": "503331",
                 "bus": "yes",
                 "name": "Kooigem Klein Molentje",
@@ -109,7 +88,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;85;99",
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "508331",
+                "bus": "yes",
+                "name": "Kooigem Klein Molentje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG KOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.321101,
+                    50.74612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "508332",
+                "bus": "yes",
+                "name": "Kooigem Koninklijk Jacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG KOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.328381,
+                    50.737967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;99",
                 "ref:De_Lijn": "503332",
                 "bus": "yes",
                 "name": "Kooigem Koninklijk Jacht",
@@ -124,27 +145,6 @@
                 "coordinates": [
                     3.328226,
                     50.737912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;85;99",
-                "ref:De_Lijn": "508330",
-                "bus": "yes",
-                "name": "Kooigem Garage Tune Up",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNIKSERIJKSWEG KOOIGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.324527,
-                    50.742437
                 ]
             }
         }

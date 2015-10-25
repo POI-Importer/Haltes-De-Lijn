@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "301418",
-                "bus": "yes",
-                "name": "Lettelingen Achterkant Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP ASSE EDINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.047032,
-                    50.697763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "71;160;732",
-                "ref:De_Lijn": "301413",
+                "ref:De_Lijn": "301414",
                 "bus": "yes",
                 "name": "Edingen Oude Markt",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.043411,
-                    50.695343
+                    4.043369,
+                    50.695199
                 ]
             }
         },
@@ -47,28 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "301421",
-                "bus": "yes",
-                "name": "Lettelingen Handel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP ASSE EDINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.05153,
-                    50.69817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "302133",
+                "ref:De_Lijn": "302132",
                 "bus": "yes",
                 "name": "Herne Groenstraat",
                 "public_transport": "platform",
@@ -80,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.05779,
-                    50.701891
+                    4.057014,
+                    50.701547
                 ]
             }
         },
@@ -110,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "302132",
+                "ref:De_Lijn": "302133",
                 "bus": "yes",
                 "name": "Herne Groenstraat",
                 "public_transport": "platform",
@@ -122,8 +80,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.057014,
-                    50.701547
+                    4.05779,
+                    50.701891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "301420",
+                "bus": "yes",
+                "name": "Lettelingen Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIBLOEMSTRAAT EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.043363,
+                    50.698085
                 ]
             }
         },
@@ -151,8 +130,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "301422",
+                "bus": "yes",
+                "name": "Lettelingen Handel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP ASSE EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.051672,
+                    50.698081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "301415",
+                "bus": "yes",
+                "name": "Edingen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIBLOEMSTRAAT EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.046002,
+                    50.697202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "71;160;732",
-                "ref:De_Lijn": "301414",
+                "ref:De_Lijn": "301413",
                 "bus": "yes",
                 "name": "Edingen Oude Markt",
                 "public_transport": "platform",
@@ -164,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.043369,
-                    50.695199
+                    4.043411,
+                    50.695343
                 ]
             }
         },
@@ -215,28 +236,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "301415",
-                "bus": "yes",
-                "name": "Edingen Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEIBLOEMSTRAAT EDINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.046002,
-                    50.697202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "301422",
+                "ref:De_Lijn": "301421",
                 "bus": "yes",
                 "name": "Lettelingen Handel",
                 "public_transport": "platform",
@@ -248,8 +248,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.051672,
-                    50.698081
+                    4.05153,
+                    50.69817
                 ]
             }
         },
@@ -257,20 +257,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "301420",
+                "ref:De_Lijn": "301418",
                 "bus": "yes",
-                "name": "Lettelingen Brug",
+                "name": "Lettelingen Achterkant Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEIBLOEMSTRAAT EDINGEN",
+                "created_by": "STEENWEG OP ASSE EDINGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.043363,
-                    50.698085
+                    4.047032,
+                    50.697763
                 ]
             }
         }

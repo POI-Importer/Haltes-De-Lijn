@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385",
-                "ref:De_Lijn": "206553",
-                "bus": "yes",
-                "name": "Bambrugge Katstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EGEMSTRAAT BAMBRUGGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.928562,
-                    50.922031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "385;390",
                 "ref:De_Lijn": "209750",
                 "bus": "yes",
                 "name": "Zonnegem Steenbergstraat",
@@ -67,7 +45,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385;390",
+                "route_ref:De_Lijn": "84;91;93",
+                "ref:De_Lijn": "206485",
+                "bus": "yes",
+                "name": "Bambrugge Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.931763,
+                    50.91727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "209756",
                 "bus": "yes",
                 "name": "Zonnegem Hazenakkerstraat",
@@ -88,21 +86,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84;91;93;385",
-                "ref:De_Lijn": "206485",
+                "ref:De_Lijn": "206553",
                 "bus": "yes",
-                "name": "Bambrugge Sint-Annastraat",
+                "name": "Bambrugge Katstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDENAARDSESTEENWEG BAMBRUGGE",
+                "created_by": "EGEMSTRAAT BAMBRUGGE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.931763,
-                    50.91727
+                    3.928562,
+                    50.922031
                 ]
             }
         }

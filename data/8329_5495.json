@@ -4,91 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;94",
-                "ref:De_Lijn": "504022",
-                "bus": "yes",
-                "name": "Beselare Beselarestraat 194",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BESELARESTRAAT BESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.015305,
-                    50.856767
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39",
-                "ref:De_Lijn": "505830",
-                "bus": "yes",
-                "name": "Beselare Ontmoetingscentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DADIZELESTRAAT BESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.021986,
-                    50.851629
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39;84;94",
-                "ref:De_Lijn": "504020",
-                "bus": "yes",
-                "name": "Beselare Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BESELARESTRAAT BESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.02476,
-                    50.84801
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;94",
-                "ref:De_Lijn": "509022",
-                "bus": "yes",
-                "name": "Beselare Beselarestraat 194",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BESELARESTRAAT BESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.015194,
-                    50.856648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;94",
+                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "505428",
                 "bus": "yes",
                 "name": "Beselare Markizaatstraat",
@@ -130,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;94",
+                "route_ref:De_Lijn": "39",
                 "ref:De_Lijn": "505429",
                 "bus": "yes",
                 "name": "Beselare Markizaatstraat",
@@ -145,6 +61,90 @@
                 "coordinates": [
                     3.019022,
                     50.853465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505830",
+                "bus": "yes",
+                "name": "Beselare Ontmoetingscentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZELESTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.021986,
+                    50.851629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "509022",
+                "bus": "yes",
+                "name": "Beselare Beselarestraat 194",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESELARESTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.015194,
+                    50.856648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "504020",
+                "bus": "yes",
+                "name": "Beselare Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESELARESTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02476,
+                    50.84801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504022",
+                "bus": "yes",
+                "name": "Beselare Beselarestraat 194",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESELARESTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.015305,
+                    50.856767
                 ]
             }
         }

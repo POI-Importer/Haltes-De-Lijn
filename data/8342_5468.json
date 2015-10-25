@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98",
-                "ref:De_Lijn": "502529",
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "501769",
                 "bus": "yes",
-                "name": "Vivenkapelle De Serren",
+                "name": "Vivenkapelle Legeweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SIJSEELSESTEENWEG MOERKERKE",
+                "created_by": "LEGEWEG DAMME",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.310792,
-                    51.22435
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "49;62;98",
-                "ref:De_Lijn": "507530",
-                "bus": "yes",
-                "name": "Vivenkapelle Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRADERICPLEIN VIJVE KAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.306483,
-                    51.231287
+                    3.300948,
+                    51.233494
                 ]
             }
         },
@@ -68,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "49;62",
-                "ref:De_Lijn": "507705",
-                "bus": "yes",
-                "name": "Vivenkapelle Vivenmolenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOERKERKESTEENWEG VIJVE KAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.301079,
-                    51.229684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "49;62",
                 "ref:De_Lijn": "502705",
                 "bus": "yes",
                 "name": "Vivenkapelle Vivenmolenstraat",
@@ -109,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "49",
-                "ref:De_Lijn": "501769",
+                "route_ref:De_Lijn": "49;62;98",
+                "ref:De_Lijn": "507530",
                 "bus": "yes",
-                "name": "Vivenkapelle Legeweg",
+                "name": "Vivenkapelle Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEGEWEG DAMME",
+                "created_by": "BRADERICPLEIN VIJVE KAPELLE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.300948,
-                    51.233494
+                    3.306483,
+                    51.231287
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     3.308008,
                     51.23158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "502529",
+                "bus": "yes",
+                "name": "Vivenkapelle De Serren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SIJSEELSESTEENWEG MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.310792,
+                    51.22435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;62",
+                "ref:De_Lijn": "507705",
+                "bus": "yes",
+                "name": "Vivenkapelle Vivenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKERKESTEENWEG VIJVE KAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.301079,
+                    51.229684
                 ]
             }
         }

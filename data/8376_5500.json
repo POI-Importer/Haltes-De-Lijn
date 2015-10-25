@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206732",
                 "bus": "yes",
                 "name": "Lieferinge Kasseide",

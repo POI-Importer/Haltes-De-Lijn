@@ -4,54 +4,13 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "218915",
-                "bus": "yes",
-                "name": "DFDS (Havendag 2015)",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.757591,
-                    51.118988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204943",
-                "bus": "yes",
-                "name": "Volvo Logistics HD",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PHILIPS LANDSBERGIUSLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.761806,
-                    51.113409
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "200727",
                 "bus": "yes",
                 "name": "Belgicastraat",
                 "public_transport": "platform",
+                "railway": "tram_stop",
                 "highway": "bus_stop",
+                "tram": "yes",
                 "created_by": "BELGICASTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
@@ -61,48 +20,6 @@
                 "coordinates": [
                     3.768876,
                     51.122219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204942",
-                "bus": "yes",
-                "name": "VLS Group HD",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BELGICASTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.769108,
-                    51.121968
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "201727",
-                "bus": "yes",
-                "name": "Havenbedrijf HD",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "SELMA LAGERLÖFSTRAAT DESTELDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.774538,
-                    51.11947
                 ]
             }
         },
@@ -130,6 +47,69 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "201727",
+                "bus": "yes",
+                "name": "Havenbedrijf HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SELMA LAGERLÖFSTRAAT DESTELDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.774538,
+                    51.11947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "218915",
+                "bus": "yes",
+                "name": "DFDS (Havendag 2015)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.757591,
+                    51.118988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204942",
+                "bus": "yes",
+                "name": "VLS Group HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BELGICASTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769108,
+                    51.121968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "205943",
                 "bus": "yes",
                 "name": "Volvo Logistics HD",
@@ -151,7 +131,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "204943",
+                "bus": "yes",
+                "name": "Volvo Logistics HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PHILIPS LANDSBERGIUSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761806,
+                    51.113409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "202684",
                 "bus": "yes",
                 "name": "Mai Zetterlingstraat",

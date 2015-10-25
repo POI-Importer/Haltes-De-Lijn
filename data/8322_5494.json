@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20;40",
-                "ref:De_Lijn": "504048",
+                "ref:De_Lijn": "509048",
                 "bus": "yes",
                 "name": "Boezinge Sint-Pieter",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.8717,
-                    50.872133
+                    2.872283,
+                    50.871664
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20;40",
-                "ref:De_Lijn": "509048",
+                "ref:De_Lijn": "504048",
                 "bus": "yes",
                 "name": "Boezinge Sint-Pieter",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.872283,
-                    50.871664
+                    2.8717,
+                    50.872133
                 ]
             }
         }

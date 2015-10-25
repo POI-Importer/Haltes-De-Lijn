@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "706;707",
+                "ref:De_Lijn": "404257",
+                "bus": "yes",
+                "name": "Hoeselt Kiezelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELSTRAAT HOESELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500787,
+                    50.846367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "704;706",
                 "ref:De_Lijn": "409565",
                 "bus": "yes",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     5.514608,
                     50.836001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "706;707",
-                "ref:De_Lijn": "404649",
-                "bus": "yes",
-                "name": "Hoeselt Kiezelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KIEZELSTRAAT HOESELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.500704,
-                    50.84644
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "706;707",
-                "ref:De_Lijn": "404257",
+                "ref:De_Lijn": "404649",
                 "bus": "yes",
                 "name": "Hoeselt Kiezelstraat",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.500787,
-                    50.846367
+                    5.500704,
+                    50.84644
                 ]
             }
         }

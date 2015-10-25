@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "250;251;821",
-                "ref:De_Lijn": "303697",
+                "ref:De_Lijn": "303696",
                 "bus": "yes",
                 "name": "Meise Oppem Kerk",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.306025,
-                    50.939045
+                    4.305627,
+                    50.939134
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "250;251;821",
-                "ref:De_Lijn": "303696",
+                "ref:De_Lijn": "303697",
                 "bus": "yes",
                 "name": "Meise Oppem Kerk",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.305627,
-                    50.939134
+                    4.306025,
+                    50.939045
                 ]
             }
         }

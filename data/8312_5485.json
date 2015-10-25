@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "509261",
+                "ref:De_Lijn": "504198",
                 "bus": "yes",
-                "name": "Leisele Nieuw Station",
+                "name": "Izenberge Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "IZENBERGESTRAAT LEISELE",
+                "created_by": "IZENBERGESTRAAT IZENBERGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.641533,
-                    50.991655
+                    2.655341,
+                    50.994311
                 ]
             }
         },
@@ -40,6 +40,27 @@
                 "coordinates": [
                     2.647478,
                     50.99309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504261",
+                "bus": "yes",
+                "name": "Leisele Nieuw Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZENBERGESTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.641706,
+                    50.991585
                 ]
             }
         },
@@ -89,27 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "504262",
-                "bus": "yes",
-                "name": "Leisele Noordwijk 8",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IZENBERGESTRAAT IZENBERGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.647412,
-                    50.992955
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59",
                 "ref:De_Lijn": "504259",
                 "bus": "yes",
                 "name": "Leisele Kapel",
@@ -131,28 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "504198",
-                "bus": "yes",
-                "name": "Izenberge Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IZENBERGESTRAAT IZENBERGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.655341,
-                    50.994311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "504261",
+                "ref:De_Lijn": "509261",
                 "bus": "yes",
                 "name": "Leisele Nieuw Station",
                 "public_transport": "platform",
@@ -164,8 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.641706,
-                    50.991585
+                    2.641533,
+                    50.991655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504262",
+                "bus": "yes",
+                "name": "Leisele Noordwijk 8",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZENBERGESTRAAT IZENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.647412,
+                    50.992955
                 ]
             }
         }

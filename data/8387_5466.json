@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "204508",
-                "bus": "yes",
-                "name": "Electrabel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FORT ST-MARIE ZWIJNDRECHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.291944,
-                    51.252287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "89",
                 "ref:De_Lijn": "204507",
                 "bus": "yes",
                 "name": "Kallo Ebeslaan",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     4.292202,
                     51.252413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "204508",
+                "bus": "yes",
+                "name": "Electrabel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORT ST-MARIE ZWIJNDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.291944,
+                    51.252287
                 ]
             }
         },

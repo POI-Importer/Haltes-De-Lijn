@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "400493",
+                "ref:De_Lijn": "400494",
                 "bus": "yes",
-                "name": "Bassenge Route de Tongres École",
+                "name": "Bassenge Rue Neuve Chapelle",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RUE ROYALE BITSINGEN",
+                "created_by": "RUE NEUVE BITSINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.608492,
-                    50.758812
+                    5.611666,
+                    50.752862
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "400494",
+                "ref:De_Lijn": "400492",
                 "bus": "yes",
-                "name": "Bassenge Rue Neuve Chapelle",
+                "name": "Bassenge Route de Tongres École",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RUE NEUVE BITSINGEN",
+                "created_by": "RUE ROYALE BITSINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.611666,
-                    50.752862
+                    5.608209,
+                    50.758294
                 ]
             }
         },
@@ -89,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "400492",
-                "bus": "yes",
-                "name": "Bassenge Route de Tongres École",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE ROYALE BITSINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.608209,
-                    50.758294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
                 "ref:De_Lijn": "400495",
                 "bus": "yes",
                 "name": "Bassenge Rue Neuve Chapelle",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     5.611922,
                     50.753399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "400493",
+                "bus": "yes",
+                "name": "Bassenge Route de Tongres École",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE ROYALE BITSINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.608492,
+                    50.758812
                 ]
             }
         }

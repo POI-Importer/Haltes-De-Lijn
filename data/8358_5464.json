@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200904",
                 "bus": "yes",
                 "name": "Watervliet Maagd Van Gent",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200903",
                 "bus": "yes",
                 "name": "Watervliet Calusdijk",

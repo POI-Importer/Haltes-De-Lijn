@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;450;485",
+                "route_ref:De_Lijn": "44",
                 "ref:De_Lijn": "208267",
                 "bus": "yes",
                 "name": "Lozer Neerrechemstraat",
@@ -19,6 +19,27 @@
                 "coordinates": [
                     3.576951,
                     50.927022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "208268",
+                "bus": "yes",
+                "name": "Lozer Geldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAZARETHSESTEENWEG LOZER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.572524,
+                    50.925526
                 ]
             }
         },
@@ -46,48 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450;485",
-                "ref:De_Lijn": "201767",
-                "bus": "yes",
-                "name": "Lozer Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOZERSTRAAT LOZER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.566703,
-                    50.919886
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;450;485",
-                "ref:De_Lijn": "208268",
-                "bus": "yes",
-                "name": "Lozer Geldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAZARETHSESTEENWEG LOZER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.572524,
-                    50.925526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "44",
                 "ref:De_Lijn": "209268",
                 "bus": "yes",
@@ -109,21 +88,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450;485",
-                "ref:De_Lijn": "201772",
+                "ref:De_Lijn": "201767",
                 "bus": "yes",
-                "name": "Lozer Neerrechem",
+                "name": "Lozer Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NEERRECHEMSTRAAT KRUISHOUTEM",
+                "created_by": "LOZERSTRAAT LOZER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.579153,
-                    50.922964
+                    3.566703,
+                    50.919886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "208269",
+                "bus": "yes",
+                "name": "Lozer Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG LOZER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.568728,
+                    50.91874
                 ]
             }
         },
@@ -151,21 +150,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;450;485",
-                "ref:De_Lijn": "208269",
+                "ref:De_Lijn": "201772",
                 "bus": "yes",
-                "name": "Lozer Kasteelstraat",
+                "name": "Lozer Neerrechem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUWEGEMSESTEENWEG LOZER",
+                "created_by": "NEERRECHEMSTRAAT KRUISHOUTEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.568728,
-                    50.91874
+                    3.579153,
+                    50.922964
                 ]
             }
         }

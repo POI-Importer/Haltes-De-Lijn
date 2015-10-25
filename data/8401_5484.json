@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "306434",
+                "bus": "yes",
+                "name": "Keerbergen Zandstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.61087,
+                    51.006993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107621",
                 "bus": "yes",
                 "name": "Rijmenam Jachthoornlaan",
@@ -18,6 +39,27 @@
                 "coordinates": [
                     4.598224,
                     51.011271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "660;931",
+                "ref:De_Lijn": "108542",
+                "bus": "yes",
+                "name": "Rijmenam Grote Paallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEWEG RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.604882,
+                    51.009046
                 ]
             }
         },
@@ -45,42 +87,62 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306435",
+                "ref:De_Lijn": "306430",
                 "bus": "yes",
-                "name": "Keerbergen Zandstraat",
+                "name": "Keerbergen Rijmenamsebaan",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT KEERBERGEN",
+                "created_by": "EMIEL OPDEBEECKLAAN KEERBERGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.610728,
-                    51.007039
+                    4.611518,
+                    51.002758
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539",
-                "ref:De_Lijn": "108537",
+                "ref:De_Lijn": "107619",
                 "bus": "yes",
-                "name": "Rijmenam Heidestraat",
+                "name": "Rijmenam Jachthoornlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANGE DREEF RIJMENAM",
+                "created_by": "WEYNESBAAN RIJMENAM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.593047,
-                    51.007272
+                    4.598282,
+                    51.011477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "660;931",
+                "ref:De_Lijn": "108543",
+                "bus": "yes",
+                "name": "Rijmenam Grote Paallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEWEG RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.605238,
+                    51.009099
                 ]
             }
         },
@@ -108,7 +170,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539",
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "103722",
+                "bus": "yes",
+                "name": "Rijmenam Rattenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE KEERBERGSEBAAN RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.603223,
+                    51.004959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108541",
+                "bus": "yes",
+                "name": "Rijmenam Jachthoornlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEWEG RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.599148,
+                    51.010649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108538",
                 "bus": "yes",
                 "name": "Rijmenam Heidestraat",
@@ -123,110 +225,6 @@
                 "coordinates": [
                     4.592533,
                     51.00703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306434",
-                "bus": "yes",
-                "name": "Keerbergen Zandstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.61087,
-                    51.006993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660;931",
-                "ref:De_Lijn": "108543",
-                "bus": "yes",
-                "name": "Rijmenam Grote Paallaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJMENAMSEWEG RIJMENAM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.605238,
-                    51.009099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306428",
-                "bus": "yes",
-                "name": "Keerbergen Manège Ruitershof",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "EMIEL OPDEBEECKLAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.608255,
-                    51.000032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660;931",
-                "ref:De_Lijn": "108542",
-                "bus": "yes",
-                "name": "Rijmenam Grote Paallaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJMENAMSEWEG RIJMENAM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.604882,
-                    51.009046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "107619",
-                "bus": "yes",
-                "name": "Rijmenam Jachthoornlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEYNESBAAN RIJMENAM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.598282,
-                    51.011477
                 ]
             }
         },
@@ -254,49 +252,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306430",
-                "bus": "yes",
-                "name": "Keerbergen Rijmenamsebaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "EMIEL OPDEBEECKLAAN KEERBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.611518,
-                    51.002758
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660;931",
-                "ref:De_Lijn": "108541",
-                "bus": "yes",
-                "name": "Rijmenam Jachthoornlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJMENAMSEWEG RIJMENAM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.599148,
-                    51.010649
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;533;538;539;660;931",
+                "route_ref:De_Lijn": "660;931",
                 "ref:De_Lijn": "108539",
                 "bus": "yes",
                 "name": "Rijmenam Jachthoornlaan",
@@ -317,21 +273,62 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "103722",
+                "ref:De_Lijn": "306435",
                 "bus": "yes",
-                "name": "Rijmenam Rattenbergstraat",
+                "name": "Keerbergen Zandstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.610728,
+                    51.007039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306428",
+                "bus": "yes",
+                "name": "Keerbergen Manège Ruitershof",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EMIEL OPDEBEECKLAAN KEERBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.608255,
+                    51.000032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108537",
+                "bus": "yes",
+                "name": "Rijmenam Heidestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDE KEERBERGSEBAAN RIJMENAM",
+                "created_by": "LANGE DREEF RIJMENAM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.603223,
-                    51.004959
+                    4.593047,
+                    51.007272
                 ]
             }
         }

@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "209851",
+                "bus": "yes",
+                "name": "Rozebeke Boembeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEMBEEKSTRAAT ROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759325,
+                    50.848855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "208816",
                 "bus": "yes",
                 "name": "Roborst Groenstraat",
@@ -25,7 +44,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;24;41;420",
+                "route_ref:De_Lijn": "23;24;41",
                 "ref:De_Lijn": "208129",
                 "bus": "yes",
                 "name": "Roborst Machelgemstraat",
@@ -40,27 +59,6 @@
                 "coordinates": [
                     3.759065,
                     50.861188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "420",
-                "ref:De_Lijn": "209851",
-                "bus": "yes",
-                "name": "Rozebeke Boembeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEMBEEKSTRAAT ROZEBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.759325,
-                    50.848855
                 ]
             }
         },

@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "411;414",
-                "ref:De_Lijn": "106099",
-                "bus": "yes",
-                "name": "Zoersel Antwerpsedreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT ANTONIUSBAAN ZOERSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.658262,
-                    51.267451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "408;411",
                 "ref:De_Lijn": "106101",
                 "bus": "yes",
                 "name": "Zoersel Manderleylaan",
@@ -46,7 +24,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;411",
+                "ref:De_Lijn": "106099",
+                "bus": "yes",
+                "name": "Zoersel Antwerpsedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANTONIUSBAAN ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.658262,
+                    51.267451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106104",
+                "bus": "yes",
+                "name": "Zoersel Gagelhoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANTONIUSBAAN ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.67753,
+                    51.269083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106098",
                 "bus": "yes",
                 "name": "Zoersel Antwerpsedreef",
@@ -67,7 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "411;414",
                 "ref:De_Lijn": "106102",
                 "bus": "yes",
                 "name": "Zoersel Manderleylaan",
@@ -88,7 +104,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;411",
                 "ref:De_Lijn": "106103",
                 "bus": "yes",
                 "name": "Zoersel Gagelhoflaan",
@@ -103,27 +118,6 @@
                 "coordinates": [
                     4.676426,
                     51.269095
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "411;414",
-                "ref:De_Lijn": "106104",
-                "bus": "yes",
-                "name": "Zoersel Gagelhoflaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT ANTONIUSBAAN ZOERSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.67753,
-                    51.269083
                 ]
             }
         }

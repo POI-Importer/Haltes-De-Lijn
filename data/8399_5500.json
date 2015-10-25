@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "344;349;395;547;549;598",
-                "ref:De_Lijn": "304048",
+                "ref:De_Lijn": "302311",
                 "bus": "yes",
-                "name": "Overijse Kouterstraat",
+                "name": "Huldenberg Kaalheide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DREEF OVERIJSE",
+                "created_by": "DE PEUTHYSTRAAT HULDENBERG",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.557919,
-                    50.780539
+                    4.568418,
+                    50.785457
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "344;349;395;547;549;598",
-                "ref:De_Lijn": "302311",
+                "ref:De_Lijn": "304048",
                 "bus": "yes",
-                "name": "Huldenberg Kaalheide",
+                "name": "Overijse Kouterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DE PEUTHYSTRAAT HULDENBERG",
+                "created_by": "DREEF OVERIJSE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.568418,
-                    50.785457
+                    4.557919,
+                    50.780539
                 ]
             }
         }

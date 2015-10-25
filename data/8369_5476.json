@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
                 "ref:De_Lijn": "205068",
                 "bus": "yes",
                 "name": "Eksaarde Doorslaarstraat",

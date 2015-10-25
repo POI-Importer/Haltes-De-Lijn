@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
-                "ref:De_Lijn": "102088",
+                "ref:De_Lijn": "102089",
                 "bus": "yes",
                 "name": "Reet Hoge Meentochtstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOLLEBEEKSTRAAT RUMST",
+                "created_by": "HOLLEBEEKSTRAAT REET",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.420412,
-                    51.091045
+                    4.420597,
+                    51.091036
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
                 "ref:De_Lijn": "106807",
                 "bus": "yes",
                 "name": "Rumst Hollebeekstraat",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
                 "ref:De_Lijn": "106808",
                 "bus": "yes",
                 "name": "Rumst Hollebeekstraat",
@@ -67,28 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
-                "ref:De_Lijn": "106806",
-                "bus": "yes",
-                "name": "Reet Watertoren",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUMSTSESTRAAT REET",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.419115,
-                    51.093257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
                 "ref:De_Lijn": "106805",
                 "bus": "yes",
                 "name": "Reet Watertoren",
@@ -109,21 +84,40 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "181;191;507;508",
-                "ref:De_Lijn": "102089",
+                "ref:De_Lijn": "102088",
                 "bus": "yes",
                 "name": "Reet Hoge Meentochtstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOLLEBEEKSTRAAT REET",
+                "created_by": "HOLLEBEEKSTRAAT RUMST",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.420597,
-                    51.091036
+                    4.420412,
+                    51.091045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106806",
+                "bus": "yes",
+                "name": "Reet Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMSTSESTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419115,
+                    51.093257
                 ]
             }
         }

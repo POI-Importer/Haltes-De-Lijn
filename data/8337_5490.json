@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "60;68",
+                "ref:De_Lijn": "508296",
+                "bus": "yes",
+                "name": "Izegem Abeele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT IZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.190605,
+                    50.92409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68",
                 "ref:De_Lijn": "508315",
                 "bus": "yes",
                 "name": "Izegem Zwart Paard",
@@ -47,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "505934",
+                "ref:De_Lijn": "505826",
                 "bus": "yes",
-                "name": "Izegem De Drie Gezellen",
+                "name": "Izegem Sportcentrum De Krekel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MENTENHOEKSTRAAT IZEGEM",
+                "created_by": "HEILIG HARTSTRAAT IZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.1941,
-                    50.919702
+                    3.206958,
+                    50.917411
                 ]
             }
         },
@@ -88,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "505900",
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503315",
                 "bus": "yes",
-                "name": "Izegem Frunpark",
+                "name": "Izegem Zwart Paard",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEILIG HARTSTRAAT IZEGEM",
+                "created_by": "ROESELAARSESTRAAT IZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.199648,
-                    50.917977
+                    3.205321,
+                    50.920317
                 ]
             }
         },
@@ -151,42 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "60",
-                "ref:De_Lijn": "503315",
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505900",
                 "bus": "yes",
-                "name": "Izegem Zwart Paard",
+                "name": "Izegem Frunpark",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ROESELAARSESTRAAT IZEGEM",
+                "created_by": "HEILIG HARTSTRAAT IZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.205321,
-                    50.920317
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "60;68",
-                "ref:De_Lijn": "508296",
-                "bus": "yes",
-                "name": "Izegem Abeele",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAARSESTRAAT IZEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.190605,
-                    50.92409
+                    3.199648,
+                    50.917977
                 ]
             }
         },
@@ -215,20 +215,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "505826",
+                "ref:De_Lijn": "505934",
                 "bus": "yes",
-                "name": "Izegem Sportcentrum De Krekel",
+                "name": "Izegem De Drie Gezellen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEILIG HARTSTRAAT IZEGEM",
+                "created_by": "MENTENHOEKSTRAAT IZEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.206958,
-                    50.917411
+                    3.1941,
+                    50.919702
                 ]
             }
         }

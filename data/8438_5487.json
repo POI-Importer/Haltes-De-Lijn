@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46;G4",
+                "ref:De_Lijn": "402118",
+                "bus": "yes",
+                "name": "Bokrijk Domein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N726 GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.408969,
+                    50.959371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;G4",
                 "ref:De_Lijn": "402123",
                 "bus": "yes",
                 "name": "Bokrijk Genkerdreef",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     5.419647,
                     50.964553
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;G4",
-                "ref:De_Lijn": "402122",
-                "bus": "yes",
-                "name": "Bokrijk Genkerdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CRAENEVENNE GENK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.420072,
-                    50.964451
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46;G4",
-                "ref:De_Lijn": "402118",
+                "ref:De_Lijn": "402122",
                 "bus": "yes",
-                "name": "Bokrijk Domein",
+                "name": "Bokrijk Genkerdreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N726 GENK",
+                "created_by": "CRAENEVENNE GENK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.408969,
-                    50.959371
+                    5.420072,
+                    50.964451
                 ]
             }
         }

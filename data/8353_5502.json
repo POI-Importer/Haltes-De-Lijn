@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460;470",
-                "ref:De_Lijn": "208763",
-                "bus": "yes",
-                "name": "Zomerij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROZENAAKSESTEENWEG RONSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.545294,
-                    50.750572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "460;470",
                 "ref:De_Lijn": "208405",
                 "bus": "yes",
                 "name": "Bremtstraat",
@@ -82,6 +60,26 @@
                 "coordinates": [
                     3.54535,
                     50.750662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208763",
+                "bus": "yes",
+                "name": "Zomerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENAAKSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.545294,
+                    50.750572
                 ]
             }
         }

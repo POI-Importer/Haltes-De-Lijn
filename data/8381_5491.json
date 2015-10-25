@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "215",
+                "ref:De_Lijn": "300176",
+                "bus": "yes",
+                "name": "Asse Asbeek Gem. School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KESPIER ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.160255,
+                    50.906345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "307174",
                 "bus": "yes",
                 "name": "Asse Asbeek Gem. School",
@@ -26,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "215",
-                "ref:De_Lijn": "300176",
+                "ref:De_Lijn": "300177",
                 "bus": "yes",
-                "name": "Asse Asbeek Gem. School",
+                "name": "Asse Asbeek Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KESPIER ASSE",
@@ -38,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.160255,
-                    50.906345
+                    4.165795,
+                    50.90408
                 ]
             }
         },
@@ -82,69 +103,6 @@
                 "coordinates": [
                     4.153236,
                     50.914701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "215",
-                "ref:De_Lijn": "300177",
-                "bus": "yes",
-                "name": "Asse Asbeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KESPIER ASSE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.165795,
-                    50.90408
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "215",
-                "ref:De_Lijn": "300178",
-                "bus": "yes",
-                "name": "Asse Asbeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KESPIER ASSE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.165369,
-                    50.904151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "215",
-                "ref:De_Lijn": "300221",
-                "bus": "yes",
-                "name": "Asse Varentstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEERHEIDE ASSE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.153363,
-                    50.914944
                 ]
             }
         },
@@ -194,9 +152,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "215",
-                "ref:De_Lijn": "300175",
+                "ref:De_Lijn": "300178",
                 "bus": "yes",
-                "name": "Asse Asbeek Gem. School",
+                "name": "Asse Asbeek Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KESPIER ASSE",
@@ -206,8 +164,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.160725,
-                    50.906157
+                    4.165369,
+                    50.904151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "215",
+                "ref:De_Lijn": "300221",
+                "bus": "yes",
+                "name": "Asse Varentstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERHEIDE ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.153363,
+                    50.914944
                 ]
             }
         },
@@ -229,6 +208,27 @@
                 "coordinates": [
                     4.1575,
                     50.912012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "215",
+                "ref:De_Lijn": "300175",
+                "bus": "yes",
+                "name": "Asse Asbeek Gem. School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KESPIER ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.160725,
+                    50.906157
                 ]
             }
         }

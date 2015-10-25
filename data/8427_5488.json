@@ -4,29 +4,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "35c;735",
-                "ref:De_Lijn": "403965",
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402935",
                 "bus": "yes",
-                "name": "Schulen Muggenhoekstraat",
+                "name": "Schulen Tuffellaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MUGGENHOEK SCHULEN",
+                "created_by": "VANARENBERGLAAN SCHULEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.183986,
-                    50.956626
+                    5.17988,
+                    50.95705
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;90;35c",
-                "ref:De_Lijn": "403961",
+                "route_ref:De_Lijn": "30;90;35c;735",
+                "ref:De_Lijn": "403960",
                 "bus": "yes",
                 "name": "Schulen Kerk",
                 "public_transport": "platform",
@@ -38,8 +38,92 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.177232,
-                    50.956223
+                    5.17691,
+                    50.956486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c;735",
+                "ref:De_Lijn": "403964",
+                "bus": "yes",
+                "name": "Schulen Muggenhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUGGENHOEK SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.183867,
+                    50.956321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;90;35c",
+                "ref:De_Lijn": "403970",
+                "bus": "yes",
+                "name": "Schulen Sint-Jansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.178386,
+                    50.953815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402933",
+                "bus": "yes",
+                "name": "Herk-de-Stad Industrieweg II",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.163997,
+                    50.946254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c;735",
+                "ref:De_Lijn": "403978",
+                "bus": "yes",
+                "name": "Schulen Van Arenberglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUGGENHOEK SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.182147,
+                    50.954796
                 ]
             }
         },
@@ -68,132 +152,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35c;735",
-                "ref:De_Lijn": "403964",
-                "bus": "yes",
-                "name": "Schulen Muggenhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MUGGENHOEK SCHULEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.183867,
-                    50.956321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "402931",
-                "bus": "yes",
-                "name": "Herk-de-Stad Industrieweg I",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "INDUSTRIEWEG HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.170927,
-                    50.94538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "402933",
-                "bus": "yes",
-                "name": "Herk-de-Stad Industrieweg II",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "INDUSTRIEWEG HERK-DE-STAD",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.163997,
-                    50.946254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "402934",
-                "bus": "yes",
-                "name": "Schulen Tuffellaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VANARENBERGLAAN SCHULEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.180009,
-                    50.957085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;90;35c",
-                "ref:De_Lijn": "403970",
-                "bus": "yes",
-                "name": "Schulen Sint-Jansstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KIEZELWEG SCHULEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.178386,
-                    50.953815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35c;735",
-                "ref:De_Lijn": "403978",
-                "bus": "yes",
-                "name": "Schulen Van Arenberglaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MUGGENHOEK SCHULEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.182147,
-                    50.954796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35c;735",
                 "ref:De_Lijn": "403979",
                 "bus": "yes",
                 "name": "Schulen Van Arenberglaan",
@@ -214,21 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;90;35c;735",
-                "ref:De_Lijn": "403981",
+                "route_ref:De_Lijn": "35c;735",
+                "ref:De_Lijn": "403965",
                 "bus": "yes",
-                "name": "Schulen Weg op Beringen",
+                "name": "Schulen Muggenhoekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KIEZELWEG SCHULEN",
+                "created_by": "MUGGENHOEK SCHULEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.178131,
-                    50.944791
+                    5.183986,
+                    50.956626
                 ]
             }
         },
@@ -256,27 +214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;90;35c;735",
-                "ref:De_Lijn": "403960",
-                "bus": "yes",
-                "name": "Schulen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KIEZELWEG SCHULEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.17691,
-                    50.956486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "402932",
                 "bus": "yes",
                 "name": "Herk-de-Stad Industrieweg II",
@@ -298,8 +235,71 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "30;90;35c;735",
+                "ref:De_Lijn": "403981",
+                "bus": "yes",
+                "name": "Schulen Weg op Beringen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.178131,
+                    50.944791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;90;35c",
+                "ref:De_Lijn": "403961",
+                "bus": "yes",
+                "name": "Schulen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.177232,
+                    50.956223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402931",
+                "bus": "yes",
+                "name": "Herk-de-Stad Industrieweg I",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.170927,
+                    50.94538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "402935",
+                "ref:De_Lijn": "402934",
                 "bus": "yes",
                 "name": "Schulen Tuffellaan",
                 "public_transport": "platform",
@@ -311,8 +311,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.17988,
-                    50.95705
+                    5.180009,
+                    50.957085
                 ]
             }
         }

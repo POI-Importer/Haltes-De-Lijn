@@ -25,28 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140;141",
-                "ref:De_Lijn": "101907",
-                "bus": "yes",
-                "name": "Kerkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRABSTRAAT MORTSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.462878,
-                    51.169913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "140;141",
                 "ref:De_Lijn": "101916",
                 "bus": "yes",
                 "name": "Neerhoevelaan",
@@ -67,14 +45,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;90",
-                "ref:De_Lijn": "107790",
+                "ref:De_Lijn": "101917",
                 "bus": "yes",
-                "name": "Hof Savelkoul",
+                "name": "Neerhoevelaan",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "highway": "bus_stop",
-                "tram": "yes",
+                "created_by": "DRABSTRAAT MORTSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.46434,
+                    51.17143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107920",
+                "bus": "yes",
+                "name": "Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
                 "created_by": "LIERSESTEENWEG MORTSEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -82,22 +77,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.479545,
-                    51.168118
+                    4.463349,
+                    51.169292
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;90",
-                "ref:De_Lijn": "107880",
+                "ref:De_Lijn": "107925",
                 "bus": "yes",
-                "name": "Kaphaan",
+                "name": "Kerkstraat",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "highway": "bus_stop",
-                "tram": "yes",
                 "created_by": "LIERSESTEENWEG MORTSEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -105,15 +97,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.474027,
-                    51.168258
+                    4.462392,
+                    51.169625
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140;141",
                 "ref:De_Lijn": "101913",
                 "bus": "yes",
                 "name": "Meidoorn",
@@ -134,141 +125,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15;90",
-                "ref:De_Lijn": "107920",
-                "bus": "yes",
-                "name": "Kerkstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "LIERSESTEENWEG MORTSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.463349,
-                    51.169292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;90",
-                "ref:De_Lijn": "107795",
-                "bus": "yes",
-                "name": "Hof Savelkoul",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "LIERSESTEENWEG MORTSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.479144,
-                    51.167813
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "140;141",
-                "ref:De_Lijn": "101908",
-                "bus": "yes",
-                "name": "Zaaldenrode",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRABSTRAAT MORTSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.467347,
-                    51.173414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;90;140;141",
-                "ref:De_Lijn": "107925",
-                "bus": "yes",
-                "name": "Kerkstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "LIERSESTEENWEG MORTSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.462392,
-                    51.169625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15;90",
-                "ref:De_Lijn": "107885",
-                "bus": "yes",
-                "name": "Kaphaan",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "LIERSESTEENWEG MORTSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.472641,
-                    51.168637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "140;141",
-                "ref:De_Lijn": "101912",
-                "bus": "yes",
-                "name": "Meidoorn",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRABSTRAAT MORTSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.466314,
-                    51.178844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "140;141",
                 "ref:De_Lijn": "101909",
                 "bus": "yes",
                 "name": "Zaaldenrode",
@@ -289,10 +145,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140;141",
-                "ref:De_Lijn": "101917",
+                "ref:De_Lijn": "107880",
                 "bus": "yes",
-                "name": "Neerhoevelaan",
+                "name": "Kaphaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSESTEENWEG MORTSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.474027,
+                    51.168258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107790",
+                "bus": "yes",
+                "name": "Hof Savelkoul",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSESTEENWEG MORTSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479545,
+                    51.168118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107795",
+                "bus": "yes",
+                "name": "Hof Savelkoul",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSESTEENWEG MORTSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479144,
+                    51.167813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101912",
+                "bus": "yes",
+                "name": "Meidoorn",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DRABSTRAAT MORTSEL",
@@ -302,8 +217,70 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.46434,
-                    51.17143
+                    4.466314,
+                    51.178844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107885",
+                "bus": "yes",
+                "name": "Kaphaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSESTEENWEG MORTSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.472641,
+                    51.168637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101907",
+                "bus": "yes",
+                "name": "Kerkstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "DRABSTRAAT MORTSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462878,
+                    51.169913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101908",
+                "bus": "yes",
+                "name": "Zaaldenrode",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRABSTRAAT MORTSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.467347,
+                    51.173414
                 ]
             }
         }

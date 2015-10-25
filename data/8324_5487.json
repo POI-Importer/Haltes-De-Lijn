@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "509714",
+                "bus": "yes",
+                "name": "Woumen Jonkershove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBEEKSTRAAT JONKERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.911618,
+                    50.969676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
                 "ref:De_Lijn": "504714",
                 "bus": "yes",
                 "name": "Woumen Jonkershove",
@@ -46,27 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;28",
-                "ref:De_Lijn": "509619",
-                "bus": "yes",
-                "name": "Houthulst Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONKERSHOVEPLEIN JONKERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.910445,
-                    50.972134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "20;30",
                 "ref:De_Lijn": "504618",
                 "bus": "yes",
@@ -88,21 +88,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "505711",
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "509619",
                 "bus": "yes",
-                "name": "Houthulst Bosdreef",
+                "name": "Houthulst Kabien",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOSDREEF JONKERSHOVE",
+                "created_by": "JONKERSHOVEPLEIN JONKERSHOVE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.913097,
-                    50.966071
+                    2.910445,
+                    50.972134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "504619",
+                "bus": "yes",
+                "name": "Houthulst Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVEPLEIN JONKERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.910273,
+                    50.972158
                 ]
             }
         },
@@ -131,41 +152,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "509714",
+                "ref:De_Lijn": "505711",
                 "bus": "yes",
-                "name": "Woumen Jonkershove",
+                "name": "Houthulst Bosdreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENBEEKSTRAAT JONKERSHOVE",
+                "created_by": "BOSDREEF JONKERSHOVE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.911618,
-                    50.969676
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;28",
-                "ref:De_Lijn": "504619",
-                "bus": "yes",
-                "name": "Houthulst Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONKERSHOVEPLEIN JONKERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.910273,
-                    50.972158
+                    2.913097,
+                    50.966071
                 ]
             }
         }

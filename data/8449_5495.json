@@ -5,71 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406364",
-                "bus": "yes",
-                "zone:De_Lijn": "6658",
-                "name": "Maastricht Keurmeestersdreef Oost",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER BAKSTRAAT MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.66417,
-                    50.848379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "406317",
-                "bus": "yes",
-                "name": "Maastricht Via Regia/A.Flamentstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VIA REGIA MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.668655,
-                    50.851351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406301",
-                "bus": "yes",
-                "zone:De_Lijn": "6659",
-                "name": "Maastricht Dokter Bakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER BAKSTRAAT MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.667899,
-                    50.85019
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62",
                 "ref:De_Lijn": "406305",
                 "bus": "yes",
                 "name": "Maastricht Dokter Bakstraat",
@@ -111,6 +46,28 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "406364",
+                "bus": "yes",
+                "zone:De_Lijn": "6658",
+                "name": "Maastricht Keurmeestersdreef Oost",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER BAKSTRAAT MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.66417,
+                    50.848379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "20a",
                 "ref:De_Lijn": "406411",
                 "bus": "yes",
@@ -126,6 +83,49 @@
                 "coordinates": [
                     5.65503,
                     50.856904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "406301",
+                "bus": "yes",
+                "zone:De_Lijn": "6659",
+                "name": "Maastricht Dokter Bakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER BAKSTRAAT MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.667899,
+                    50.85019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "406317",
+                "bus": "yes",
+                "name": "Maastricht Via Regia/A.Flamentstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIA REGIA MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.668655,
+                    50.851351
                 ]
             }
         }

@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440",
-                "ref:De_Lijn": "208835",
-                "bus": "yes",
-                "name": "Balegem Yshoute",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "YSHOUTE BALEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.823375,
-                    50.929196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "206968",
                 "bus": "yes",
                 "name": "Sint-Lievens-Houtem Blareveld",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209723",
                 "bus": "yes",
                 "name": "Sint-Lievens-Houtem Hauwerzele",
@@ -61,6 +38,26 @@
                 "coordinates": [
                     3.844328,
                     50.921506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208835",
+                "bus": "yes",
+                "name": "Balegem Yshoute",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "YSHOUTE BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.823375,
+                    50.929196
                 ]
             }
         }

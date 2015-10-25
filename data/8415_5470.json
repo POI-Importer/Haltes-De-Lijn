@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;214;219",
-                "ref:De_Lijn": "103123",
-                "bus": "yes",
-                "name": "Lichtaart Spechtendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OLENSTEENWEG EERSELINGEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.901733,
-                    51.20479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "215",
                 "ref:De_Lijn": "107703",
                 "bus": "yes",
@@ -46,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;214;219",
                 "ref:De_Lijn": "103124",
                 "bus": "yes",
                 "name": "Lichtaart Spechtendreef",
@@ -61,6 +39,26 @@
                 "coordinates": [
                     4.901919,
                     51.204717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103123",
+                "bus": "yes",
+                "name": "Lichtaart Spechtendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLENSTEENWEG EERSELINGEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.901733,
+                    51.20479
                 ]
             }
         }

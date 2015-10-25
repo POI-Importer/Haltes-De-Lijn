@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "506408",
-                "bus": "yes",
-                "name": "De Haan Zwarte Kiezel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WENDUINESTEENWEG VLISSEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.054509,
-                    51.282605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "31;36",
                 "ref:De_Lijn": "501418",
                 "bus": "yes",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     3.061266,
                     51.284954
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;36",
-                "ref:De_Lijn": "506229",
-                "bus": "yes",
-                "name": "Nieuwmunster Lekkerbek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRIFTWEG NIEUWMUNSTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.067899,
-                    51.289225
                 ]
             }
         },
@@ -110,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;36",
+                "ref:De_Lijn": "506229",
+                "bus": "yes",
+                "name": "Nieuwmunster Lekkerbek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIFTWEG NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.067899,
+                    51.289225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;36",
                 "ref:De_Lijn": "501229",
                 "bus": "yes",
                 "name": "Nieuwmunster Lekkerbek",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.066158,
                     51.288945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "506408",
+                "bus": "yes",
+                "name": "De Haan Zwarte Kiezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WENDUINESTEENWEG VLISSEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.054509,
+                    51.282605
                 ]
             }
         }

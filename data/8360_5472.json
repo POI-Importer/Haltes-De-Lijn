@@ -5,6 +5,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "201859",
+                "bus": "yes",
+                "name": "Ertvelde Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVENEN ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709402,
+                    51.168653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "201858",
+                "bus": "yes",
+                "name": "Ertvelde Wijk Tervenen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVENEN ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.696368,
+                    51.170225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
                 "ref:De_Lijn": "211035",
                 "bus": "yes",
                 "name": "Ertvelde Warandestraat",
@@ -40,48 +82,6 @@
                 "coordinates": [
                     3.696212,
                     51.170152
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;150",
-                "ref:De_Lijn": "201858",
-                "bus": "yes",
-                "name": "Ertvelde Wijk Tervenen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVENEN ERTVELDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.696368,
-                    51.170225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;150",
-                "ref:De_Lijn": "201859",
-                "bus": "yes",
-                "name": "Ertvelde Warandestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVENEN ERTVELDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.709402,
-                    51.168653
                 ]
             }
         }

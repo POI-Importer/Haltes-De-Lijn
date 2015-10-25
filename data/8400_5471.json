@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153;243;420;421;422;423;426",
                 "ref:De_Lijn": "106421",
                 "bus": "yes",
                 "name": "Broechem Achterlo",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "153;243;420;421;422;423;426",
                 "ref:De_Lijn": "106420",
                 "bus": "yes",
                 "name": "Broechem Achterlo",

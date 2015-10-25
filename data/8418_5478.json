@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "408147",
-                "bus": "yes",
-                "name": "Eindhout Trichelhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TRICHELHOEK EINDHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.974285,
-                    51.090793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
                 "ref:De_Lijn": "408152",
                 "bus": "yes",
                 "name": "Eindhout Kapel",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     4.977652,
                     51.088429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408147",
+                "bus": "yes",
+                "name": "Eindhout Trichelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRICHELHOEK EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.974285,
+                    51.090793
                 ]
             }
         },

@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;370",
-                "ref:De_Lijn": "208570",
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "208571",
                 "bus": "yes",
-                "name": "Galmaarden Bosstraat",
+                "name": "Galmaarden Kapelledreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GERAARDSBERGSESTRAAT SINT-PAULUS",
@@ -17,15 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.940449,
-                    50.753725
+                    3.944798,
+                    50.75393
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;370",
+                "route_ref:De_Lijn": "71;72",
                 "ref:De_Lijn": "208572",
                 "bus": "yes",
                 "name": "Galmaarden Berg Van Eynde",
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;370",
-                "ref:De_Lijn": "208569",
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "208570",
                 "bus": "yes",
-                "name": "Moerbeke Geraardsbergsestraat",
+                "name": "Galmaarden Bosstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GERAARDSBERGSESTRAAT GALMAARDEN",
+                "created_by": "GERAARDSBERGSESTRAAT SINT-PAULUS",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.933626,
-                    50.754491
+                    3.940449,
+                    50.753725
                 ]
             }
         },
@@ -151,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;370",
-                "ref:De_Lijn": "208571",
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "208569",
                 "bus": "yes",
-                "name": "Galmaarden Kapelledreef",
+                "name": "Moerbeke Geraardsbergsestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GERAARDSBERGSESTRAAT SINT-PAULUS",
+                "created_by": "GERAARDSBERGSESTRAAT GALMAARDEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.944798,
-                    50.75393
+                    3.933626,
+                    50.754491
                 ]
             }
         }

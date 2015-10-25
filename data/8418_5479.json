@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405863",
+                "bus": "yes",
+                "name": "Veerle Kabienstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982056,
+                    51.073817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
                 "ref:De_Lijn": "405120",
                 "bus": "yes",
                 "name": "Veerle Kabienstraat",
@@ -25,84 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405121",
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "409970",
                 "bus": "yes",
-                "name": "Veerle Kerkeveld",
+                "name": "Veerle Dorp keerpunt Lijn 19",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HULSTSESTRAAT VEERLE",
+                "created_by": "DIESTSE BAAN VEERLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.986239,
-                    51.073975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405848",
-                "bus": "yes",
-                "name": "Veerle Wijngaardbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIJNGAARDBOS VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.974207,
-                    51.070433
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405044",
-                "bus": "yes",
-                "name": "Veerle Grote Laak",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EINDHOUTSEWEG VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.986158,
-                    51.079719
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405056",
-                "bus": "yes",
-                "name": "Veerle Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEERLEDORP VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.985772,
-                    51.069968
+                    4.987369,
+                    51.069906
                 ]
             }
         },
@@ -131,69 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405119",
-                "bus": "yes",
-                "name": "Veerle Binneveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HULSTSESTRAAT VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.977617,
-                    51.072626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "409970",
-                "bus": "yes",
-                "name": "Veerle Dorp keerpunt Lijn 19",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIESTSE BAAN VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.987369,
-                    51.069906
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405859",
-                "bus": "yes",
-                "name": "Veerle Vest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIJNGAARDBOS VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.978529,
-                    51.069269
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
                 "ref:De_Lijn": "405117",
                 "bus": "yes",
                 "name": "Veerle Wijngaardbos",
@@ -208,111 +103,6 @@
                 "coordinates": [
                     4.974077,
                     51.070316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405073",
-                "bus": "yes",
-                "name": "Veerle Zand",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VORSTSE BAAN VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.987559,
-                    51.072395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405118",
-                "bus": "yes",
-                "name": "Veerle Pecotex",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HULSTSESTRAAT VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.967587,
-                    51.070467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405038",
-                "bus": "yes",
-                "name": "Veerle Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEERLEDORP VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.987746,
-                    51.070362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405057",
-                "bus": "yes",
-                "name": "Veerle Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEERLEDORP VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.985985,
-                    51.069886
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405039",
-                "bus": "yes",
-                "name": "Veerle Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEERLEDORP VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.987635,
-                    51.070606
                 ]
             }
         },
@@ -383,30 +173,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405116",
+                "ref:De_Lijn": "405821",
                 "bus": "yes",
-                "name": "Veerle Vest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIJNGAARDBOS VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.978457,
-                    51.069197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405863",
-                "bus": "yes",
-                "name": "Veerle Kabienstraat",
+                "name": "Veerle Pecotex",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HULSTSESTRAAT VEERLE",
@@ -416,50 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.982056,
-                    51.073817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405045",
-                "bus": "yes",
-                "name": "Veerle Grote Laak",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EINDHOUTSEWEG VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.98604,
-                    51.079441
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405040",
-                "bus": "yes",
-                "name": "Veerle Eindhoutseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EINDHOUTSEWEG VEERLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.986833,
-                    51.075734
+                    4.9675,
+                    51.070377
                 ]
             }
         },
@@ -487,8 +214,197 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405040",
+                "bus": "yes",
+                "name": "Veerle Eindhoutseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDHOUTSEWEG VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986833,
+                    51.075734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405056",
+                "bus": "yes",
+                "name": "Veerle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERLEDORP VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.985772,
+                    51.069968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405821",
+                "ref:De_Lijn": "405859",
+                "bus": "yes",
+                "name": "Veerle Vest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNGAARDBOS VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.978529,
+                    51.069269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405038",
+                "bus": "yes",
+                "name": "Veerle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERLEDORP VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.987746,
+                    51.070362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405044",
+                "bus": "yes",
+                "name": "Veerle Grote Laak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDHOUTSEWEG VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986158,
+                    51.079719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405073",
+                "bus": "yes",
+                "name": "Veerle Zand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VORSTSE BAAN VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.987559,
+                    51.072395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405848",
+                "bus": "yes",
+                "name": "Veerle Wijngaardbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNGAARDBOS VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.974207,
+                    51.070433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405057",
+                "bus": "yes",
+                "name": "Veerle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERLEDORP VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.985985,
+                    51.069886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405119",
+                "bus": "yes",
+                "name": "Veerle Binneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.977617,
+                    51.072626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405118",
                 "bus": "yes",
                 "name": "Veerle Pecotex",
                 "public_transport": "platform",
@@ -500,8 +416,92 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.9675,
-                    51.070377
+                    4.967587,
+                    51.070467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405039",
+                "bus": "yes",
+                "name": "Veerle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERLEDORP VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.987635,
+                    51.070606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405116",
+                "bus": "yes",
+                "name": "Veerle Vest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNGAARDBOS VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.978457,
+                    51.069197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405045",
+                "bus": "yes",
+                "name": "Veerle Grote Laak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDHOUTSEWEG VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.98604,
+                    51.079441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405121",
+                "bus": "yes",
+                "name": "Veerle Kerkeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT VEERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986239,
+                    51.073975
                 ]
             }
         }

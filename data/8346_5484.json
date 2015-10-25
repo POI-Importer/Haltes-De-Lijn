@@ -25,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505081",
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "508327",
                 "bus": "yes",
-                "name": "Kanegem Kruiswege",
+                "name": "Kanegem Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TER KOUTER KANEGEM",
+                "created_by": "KANEGEM-DORP KANEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.401038,
-                    51.009698
+                    3.403092,
+                    51.013051
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;77",
-                "ref:De_Lijn": "508327",
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505081",
                 "bus": "yes",
-                "name": "Kanegem Kerk",
+                "name": "Kanegem Kruiswege",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KANEGEM-DORP KANEGEM",
+                "created_by": "TER KOUTER KANEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.403092,
-                    51.013051
+                    3.401038,
+                    51.009698
                 ]
             }
         },

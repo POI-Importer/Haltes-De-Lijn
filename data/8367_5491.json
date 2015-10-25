@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46;47",
-                "ref:De_Lijn": "203873",
+                "ref:De_Lijn": "202873",
                 "bus": "yes",
                 "name": "Sint-Lievens-Houtem Polbroek",
                 "public_transport": "platform",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.851611,
-                    50.914976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "49;92;385;390",
-                "ref:De_Lijn": "202737",
-                "bus": "yes",
-                "name": "Sint-Lievens-Houtem Kapelleweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIEPESTRAAT SINT-LIEVENS-HOUTEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.86312,
-                    50.915862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "49;92",
-                "ref:De_Lijn": "203738",
-                "bus": "yes",
-                "name": "Sint-Lievens-Houtem Ouden Heerweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTEMSTRAAT BORSBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.866686,
-                    50.909531
+                    3.851852,
+                    50.915013
                 ]
             }
         },
@@ -88,7 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "49;92;385;390",
+                "route_ref:De_Lijn": "49;92",
+                "ref:De_Lijn": "202737",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Kapelleweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIEPESTRAAT SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.86312,
+                    50.915862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;92",
                 "ref:De_Lijn": "202738",
                 "bus": "yes",
                 "name": "Sint-Lievens-Houtem Ouden Heerweg",
@@ -109,7 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209712",
                 "bus": "yes",
                 "name": "Sint-Lievens-Houtem Kapel Cotthem",
@@ -130,8 +108,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;390",
-                "ref:De_Lijn": "202873",
+                "route_ref:De_Lijn": "49;92",
+                "ref:De_Lijn": "203738",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Ouden Heerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.866686,
+                    50.909531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "203873",
                 "bus": "yes",
                 "name": "Sint-Lievens-Houtem Polbroek",
                 "public_transport": "platform",
@@ -143,8 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.851852,
-                    50.915013
+                    3.851611,
+                    50.914976
                 ]
             }
         }

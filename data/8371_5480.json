@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37;53;54",
-                "ref:De_Lijn": "203967",
-                "bus": "yes",
-                "name": "Overmere Ooringstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT OVERMERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.947799,
-                    51.06237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "37;53;54;355",
                 "ref:De_Lijn": "202966",
                 "bus": "yes",
                 "name": "Overmere Kattebroeckstraat",
@@ -46,7 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;53;54;355",
+                "route_ref:De_Lijn": "37;53;54",
+                "ref:De_Lijn": "203967",
+                "bus": "yes",
+                "name": "Overmere Ooringstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.947799,
+                    51.06237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54",
                 "ref:De_Lijn": "202967",
                 "bus": "yes",
                 "name": "Overmere Ooringstraat",

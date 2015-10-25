@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "507370",
+                "bus": "yes",
+                "name": "Sijsele Warandelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31491,
+                    51.213177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "26;49",
                 "ref:De_Lijn": "505416",
                 "bus": "yes",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;49;98",
-                "ref:De_Lijn": "502370",
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505348",
                 "bus": "yes",
-                "name": "Sijsele Warandelaan",
+                "name": "Sijsele Bibliotheek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT SIJSELE",
+                "created_by": "MARGRIET DIERICXSTRAAT SIJSELE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.314822,
-                    51.213878
+                    3.30965,
+                    51.216025
                 ]
             }
         },
@@ -88,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;49",
-                "ref:De_Lijn": "505348",
+                "route_ref:De_Lijn": "26;49;98",
+                "ref:De_Lijn": "502370",
                 "bus": "yes",
-                "name": "Sijsele Bibliotheek",
+                "name": "Sijsele Warandelaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARGRIET DIERICXSTRAAT SIJSELE",
+                "created_by": "STATIONSSTRAAT SIJSELE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.30965,
-                    51.216025
+                    3.314822,
+                    51.213878
                 ]
             }
         },
@@ -145,27 +166,6 @@
                 "coordinates": [
                     3.316072,
                     51.209871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "98",
-                "ref:De_Lijn": "507370",
-                "bus": "yes",
-                "name": "Sijsele Warandelaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT SIJSELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.31491,
-                    51.213177
                 ]
             }
         }

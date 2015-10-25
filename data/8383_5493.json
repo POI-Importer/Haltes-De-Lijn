@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "301383",
+                "route_ref:De_Lijn": "103;116;355",
+                "ref:De_Lijn": "304797",
                 "bus": "yes",
-                "name": "Sint-Ulriks-Kapelle Weg op Bodegem",
+                "name": "Ternat Vitseroel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSTRAAT TERNAT",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.206183,
-                    50.875898
+                    4.197246,
+                    50.875831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "301381",
+                "bus": "yes",
+                "name": "Sint-Ulriks-Kapelle Vier Winden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSTRAAT SINT-ULRIKS-KAPELLE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.215368,
+                    50.878113
                 ]
             }
         },
@@ -67,10 +88,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "103;116;355",
-                "ref:De_Lijn": "304798",
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "301383",
                 "bus": "yes",
-                "name": "Ternat Vitseroel",
+                "name": "Sint-Ulriks-Kapelle Weg op Bodegem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUSSELSTRAAT TERNAT",
@@ -80,29 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.19709,
-                    50.87575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "301378",
-                "bus": "yes",
-                "name": "Sint-Ulriks-Kapelle Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSTRAAT SINT-ULRIKS-KAPELLE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.218478,
-                    50.8788
+                    4.206183,
+                    50.875898
                 ]
             }
         },
@@ -130,8 +130,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "301378",
+                "bus": "yes",
+                "name": "Sint-Ulriks-Kapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSTRAAT SINT-ULRIKS-KAPELLE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.218478,
+                    50.8788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "103;116;355",
-                "ref:De_Lijn": "304797",
+                "ref:De_Lijn": "304798",
                 "bus": "yes",
                 "name": "Ternat Vitseroel",
                 "public_transport": "platform",
@@ -143,29 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.197246,
-                    50.875831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "301381",
-                "bus": "yes",
-                "name": "Sint-Ulriks-Kapelle Vier Winden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSTRAAT SINT-ULRIKS-KAPELLE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.215368,
-                    50.878113
+                    4.19709,
+                    50.87575
                 ]
             }
         }

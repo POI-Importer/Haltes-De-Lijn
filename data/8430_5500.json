@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;734",
-                "ref:De_Lijn": "407890",
-                "bus": "yes",
-                "name": "Gelmen Interbeton",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG GELINDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.242308,
-                    50.780622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "26;734;S12",
                 "ref:De_Lijn": "407891",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     5.242515,
                     50.780306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;734;S12",
+                "ref:De_Lijn": "407845",
+                "bus": "yes",
+                "name": "Brustem Saffraanberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG BRUSTEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.235683,
+                    50.784321
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;734;S12",
-                "ref:De_Lijn": "407845",
+                "route_ref:De_Lijn": "26;734",
+                "ref:De_Lijn": "407890",
                 "bus": "yes",
-                "name": "Brustem Saffraanberg",
+                "name": "Gelmen Interbeton",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG BRUSTEM",
+                "created_by": "LUIKERSTEENWEG GELINDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.235683,
-                    50.784321
+                    5.242308,
+                    50.780622
                 ]
             }
         }

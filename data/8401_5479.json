@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;561;569",
                 "ref:De_Lijn": "108831",
                 "bus": "yes",
                 "name": "Koningshooikt Zoetewei",
@@ -46,7 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;561;569",
                 "ref:De_Lijn": "108832",
                 "bus": "yes",
                 "name": "Koningshooikt Zoetewei",

@@ -4,26 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "108556",
-                "bus": "yes",
-                "name": "Geel Kruispunt Haag",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELVEKEN GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.931061,
-                    51.149786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "104972",
                 "bus": "yes",
                 "name": "Geel Heesstraat",
@@ -44,20 +24,20 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "102431",
+                "ref:De_Lijn": "108556",
                 "bus": "yes",
-                "name": "Geel Puntstraat",
+                "name": "Geel Kruispunt Haag",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PUNTSTRAAT HET PUNT",
+                "created_by": "VELVEKEN GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.939003,
-                    51.13897
+                    4.931061,
+                    51.149786
                 ]
             }
         },
@@ -78,6 +58,26 @@
                 "coordinates": [
                     4.926328,
                     51.144856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102431",
+                "bus": "yes",
+                "name": "Geel Puntstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUNTSTRAAT HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.939003,
+                    51.13897
                 ]
             }
         }

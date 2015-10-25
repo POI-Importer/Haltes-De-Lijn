@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "501437",
+                "bus": "yes",
+                "name": "Westende Hofstraat 73b",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOFSTRAAT WESTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.772423,
+                    51.158433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "68;69",
                 "ref:De_Lijn": "506423",
                 "bus": "yes",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     2.779507,
                     51.164957
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "501437",
-                "bus": "yes",
-                "name": "Westende Hofstraat 73b",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HOFSTRAAT WESTENDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.772423,
-                    51.158433
                 ]
             }
         }

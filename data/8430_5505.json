@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "408965",
+                "ref:De_Lijn": "408957",
                 "bus": "yes",
-                "name": "Bettincourt Rue des Betto",
+                "name": "Bettincourt Centre",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RUE DES BETTO BETTENHOVEN",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.235573,
-                    50.712183
+                    5.235182,
+                    50.709426
                 ]
             }
         },
@@ -68,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "37",
-                "ref:De_Lijn": "408957",
+                "ref:De_Lijn": "408965",
                 "bus": "yes",
-                "name": "Bettincourt Centre",
+                "name": "Bettincourt Rue des Betto",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "RUE DES BETTO BETTENHOVEN",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.235182,
-                    50.709426
+                    5.235573,
+                    50.712183
                 ]
             }
         }

@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "501158",
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "506158",
                 "bus": "yes",
-                "name": "Knokke Sparrendreef",
+                "name": "Knokke Sparredreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KUSTLAAN HET ZOUTE",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.303706,
-                    51.355419
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;41",
-                "ref:De_Lijn": "509836",
-                "bus": "yes",
-                "name": "Knokke Het Zoute",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ELIZABETLAAN HET ZOUTE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.29844,
-                    51.354023
+                    3.304546,
+                    51.355723
                 ]
             }
         },
@@ -61,27 +40,6 @@
                 "coordinates": [
                     3.309898,
                     51.357074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "509831",
-                "bus": "yes",
-                "name": "Knokke Lekkerbek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRONLAAN HET ZOUTE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.315236,
-                    51.357832
                 ]
             }
         },
@@ -130,6 +88,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "509831",
+                "bus": "yes",
+                "name": "Knokke Lekkerbek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRONLAAN HET ZOUTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315236,
+                    51.357832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "12;41",
                 "ref:De_Lijn": "509832",
                 "bus": "yes",
@@ -172,10 +151,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "506158",
+                "route_ref:De_Lijn": "12;41",
+                "ref:De_Lijn": "509836",
                 "bus": "yes",
-                "name": "Knokke Sparredreef",
+                "name": "Knokke Het Zoute",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELIZABETLAAN HET ZOUTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.29844,
+                    51.354023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "501158",
+                "bus": "yes",
+                "name": "Knokke Sparrendreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KUSTLAAN HET ZOUTE",
@@ -185,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.304546,
-                    51.355723
+                    3.303706,
+                    51.355419
                 ]
             }
         }

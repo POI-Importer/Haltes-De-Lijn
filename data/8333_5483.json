@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "502256",
-                "bus": "yes",
-                "name": "Lichtervelde Artois",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAREBAAN LICHTERVELDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.113031,
-                    51.018505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "32;74;78",
-                "ref:De_Lijn": "507703",
+                "ref:De_Lijn": "507261",
                 "bus": "yes",
-                "name": "Lichtervelde Jive",
+                "name": "Lichtervelde Kruiskalsijde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KORTEMARKSTRAAT LICHTERVELDE",
@@ -38,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.118235,
-                    51.024323
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "507256",
-                "bus": "yes",
-                "name": "Lichtervelde Artois",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAREBAAN LICHTERVELDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.112883,
-                    51.018171
+                    3.113246,
+                    51.023758
                 ]
             }
         },
@@ -89,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32;74;78",
-                "ref:De_Lijn": "507261",
-                "bus": "yes",
-                "name": "Lichtervelde Kruiskalsijde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTEMARKSTRAAT LICHTERVELDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.113246,
-                    51.023758
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;74;78",
                 "ref:De_Lijn": "502261",
                 "bus": "yes",
                 "name": "Lichtervelde Kruiskalsijde",
@@ -124,6 +61,69 @@
                 "coordinates": [
                     3.113334,
                     51.02366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "507256",
+                "bus": "yes",
+                "name": "Lichtervelde Artois",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAREBAAN LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.112883,
+                    51.018171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;74;78",
+                "ref:De_Lijn": "507703",
+                "bus": "yes",
+                "name": "Lichtervelde Jive",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMARKSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.118235,
+                    51.024323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "502256",
+                "bus": "yes",
+                "name": "Lichtervelde Artois",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAREBAAN LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.113031,
+                    51.018505
                 ]
             }
         }

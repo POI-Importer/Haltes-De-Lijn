@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;140",
-                "ref:De_Lijn": "202508",
-                "bus": "yes",
-                "name": "Destelbergen Damvalleistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.820819,
-                    51.059269
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35;140",
-                "ref:De_Lijn": "202489",
-                "bus": "yes",
-                "name": "Destelbergen Dorekenswegel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOUTERSTRAAT DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.803728,
-                    51.060662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35;140",
+                "route_ref:De_Lijn": "35",
                 "ref:De_Lijn": "202491",
                 "bus": "yes",
                 "name": "Destelbergen Vissershoek",
@@ -61,131 +19,6 @@
                 "coordinates": [
                     3.816011,
                     51.065449
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "201944",
-                "bus": "yes",
-                "name": "Destelbergen Houtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTSTRAAT DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.802905,
-                    51.068569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35;140",
-                "ref:De_Lijn": "202001",
-                "bus": "yes",
-                "name": "Destelbergen Hoenderstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAENHOUTSTRAAT DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.822726,
-                    51.068276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;140",
-                "ref:De_Lijn": "202507",
-                "bus": "yes",
-                "name": "Destelbergen Ring R4",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.811292,
-                    51.057966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35",
-                "ref:De_Lijn": "203001",
-                "bus": "yes",
-                "name": "Destelbergen Hoenderstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAENHOUTSTRAAT DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.822798,
-                    51.068177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35",
-                "ref:De_Lijn": "203488",
-                "bus": "yes",
-                "name": "Destelbergen Hermelijnestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEINGENTSTRAAT DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.801812,
-                    51.063386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;140",
-                "ref:De_Lijn": "202506",
-                "bus": "yes",
-                "name": "Destelbergen Sint-Pietershofstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.804302,
-                    51.056881
                 ]
             }
         },
@@ -207,6 +40,27 @@
                 "coordinates": [
                     3.81608,
                     51.065638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "202489",
+                "bus": "yes",
+                "name": "Destelbergen Dorekenswegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.803728,
+                    51.060662
                 ]
             }
         },
@@ -255,6 +109,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "202930",
+                "bus": "yes",
+                "name": "Destelbergen Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.809277,
+                    51.061839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "202490",
+                "bus": "yes",
+                "name": "Destelbergen Damstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.818233,
+                    51.062052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "203488",
+                "bus": "yes",
+                "name": "Destelbergen Hermelijnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINGENTSTRAAT DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.801812,
+                    51.063386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "36",
                 "ref:De_Lijn": "203508",
                 "bus": "yes",
@@ -276,29 +193,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "35;140",
-                "ref:De_Lijn": "202490",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203506",
                 "bus": "yes",
-                "name": "Destelbergen Damstraat",
+                "name": "Destelbergen Sint-Pietershofstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOUTERSTRAAT DESTELBERGEN",
+                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.818233,
-                    51.062052
+                    3.80436,
+                    51.056764
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "35;140",
-                "ref:De_Lijn": "202930",
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "203930",
                 "bus": "yes",
                 "name": "Destelbergen Zandstraat",
                 "public_transport": "platform",
@@ -310,29 +227,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.809277,
-                    51.061839
+                    3.808539,
+                    51.061566
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "35;140",
-                "ref:De_Lijn": "202488",
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "203001",
                 "bus": "yes",
-                "name": "Destelbergen Hermelijnestraat",
+                "name": "Destelbergen Hoenderstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KLEINGENTSTRAAT DESTELBERGEN",
+                "created_by": "HAENHOUTSTRAAT DESTELBERGEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.801768,
-                    51.063476
+                    3.822798,
+                    51.068177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201944",
+                "bus": "yes",
+                "name": "Destelbergen Houtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTSTRAAT DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.802905,
+                    51.068569
                 ]
             }
         },
@@ -361,20 +298,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35",
-                "ref:De_Lijn": "203930",
+                "ref:De_Lijn": "202001",
                 "bus": "yes",
-                "name": "Destelbergen Zandstraat",
+                "name": "Destelbergen Hoenderstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOUTERSTRAAT DESTELBERGEN",
+                "created_by": "HAENHOUTSTRAAT DESTELBERGEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.808539,
-                    51.061566
+                    3.822726,
+                    51.068276
                 ]
             }
         },
@@ -382,7 +319,70 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "36",
-                "ref:De_Lijn": "203506",
+                "ref:De_Lijn": "202507",
+                "bus": "yes",
+                "name": "Destelbergen Ring R4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.811292,
+                    51.057966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "202488",
+                "bus": "yes",
+                "name": "Destelbergen Hermelijnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINGENTSTRAAT DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.801768,
+                    51.063476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202508",
+                "bus": "yes",
+                "name": "Destelbergen Damvalleistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.820819,
+                    51.059269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202506",
                 "bus": "yes",
                 "name": "Destelbergen Sint-Pietershofstraat",
                 "public_transport": "platform",
@@ -394,8 +394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.80436,
-                    51.056764
+                    3.804302,
+                    51.056881
                 ]
             }
         }

@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "286;287",
-                "ref:De_Lijn": "107498",
-                "bus": "yes",
-                "name": "Heffen Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP BLAASVELD HEFFEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.417553,
-                    51.046345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "287",
                 "ref:De_Lijn": "107528",
                 "bus": "yes",
                 "name": "Heffen Brouwerijstraat",
@@ -46,49 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "286;287",
-                "ref:De_Lijn": "107501",
-                "bus": "yes",
-                "name": "Mechelen Mechelbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTSESTEENWEG BATTEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.430011,
-                    51.042653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "287",
-                "ref:De_Lijn": "107748",
-                "bus": "yes",
-                "name": "Heffen Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROUWERIJSTRAAT HEFFEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.417525,
-                    51.046911
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "287",
                 "ref:De_Lijn": "107529",
                 "bus": "yes",
                 "name": "Heffen Brouwerijstraat",
@@ -109,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "286;287",
+                "ref:De_Lijn": "107498",
+                "bus": "yes",
+                "name": "Heffen Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP BLAASVELD HEFFEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.417553,
+                    51.046345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107502",
                 "bus": "yes",
                 "name": "Mechelen Mechelbaan",
@@ -124,6 +78,46 @@
                 "coordinates": [
                     4.430097,
                     51.042788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107501",
+                "name": "Mechelen Mechelbaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GENTSESTEENWEG BATTEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.430011,
+                    51.042653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107748",
+                "bus": "yes",
+                "name": "Heffen Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT HEFFEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.417525,
+                    51.046911
                 ]
             }
         }

@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "333;433;500;512;513",
-                "ref:De_Lijn": "304337",
+                "ref:De_Lijn": "304334",
                 "bus": "yes",
-                "name": "Werchter Dijlekant",
+                "name": "Werchter De Brug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PROVINCIEBAAN WERCHTER",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.693315,
-                    50.966756
+                    4.691207,
+                    50.968767
                 ]
             }
         },
@@ -40,69 +40,6 @@
                 "coordinates": [
                     4.69391,
                     50.966422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "333;433;500;512;513",
-                "ref:De_Lijn": "304334",
-                "bus": "yes",
-                "name": "Werchter De Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIEBAAN WERCHTER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.691207,
-                    50.968767
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;333;433;500",
-                "ref:De_Lijn": "304335",
-                "bus": "yes",
-                "name": "Werchter Kerkplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WERCHTERPLEIN WERCHTER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.694166,
-                    50.970494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "333;433;500;512;513",
-                "ref:De_Lijn": "304333",
-                "bus": "yes",
-                "name": "Werchter De Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIEBAAN WERCHTER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.691704,
-                    50.968505
                 ]
             }
         },
@@ -145,6 +82,69 @@
                 "coordinates": [
                     4.694154,
                     50.97079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "333;433;500;512;513",
+                "ref:De_Lijn": "304337",
+                "bus": "yes",
+                "name": "Werchter Dijlekant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN WERCHTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.693315,
+                    50.966756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "333;433;500;512;513",
+                "ref:De_Lijn": "304333",
+                "bus": "yes",
+                "name": "Werchter De Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN WERCHTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691704,
+                    50.968505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;333;433;500",
+                "ref:De_Lijn": "304335",
+                "bus": "yes",
+                "name": "Werchter Kerkplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERPLEIN WERCHTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.694166,
+                    50.970494
                 ]
             }
         }

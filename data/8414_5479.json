@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "306;490;944",
-                "ref:De_Lijn": "103013",
-                "bus": "yes",
-                "name": "Herselt Ollemanshoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTERLOSESTEENWEG BERGOM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.894408,
-                    51.069135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "306;490;944",
                 "ref:De_Lijn": "103014",
                 "bus": "yes",
                 "name": "Herselt Ollemanshoek",
@@ -46,7 +24,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "305;944",
+                "route_ref:De_Lijn": "306;944",
+                "ref:De_Lijn": "103013",
+                "bus": "yes",
+                "name": "Herselt Ollemanshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTERLOSESTEENWEG BERGOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894408,
+                    51.069135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "109374",
                 "bus": "yes",
                 "name": "Herselt Snepkens",
@@ -67,7 +65,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "305;944",
+                "route_ref:De_Lijn": "944",
                 "ref:De_Lijn": "109375",
                 "bus": "yes",
                 "name": "Herselt Snepkens",

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;47;48",
-                "ref:De_Lijn": "203828",
-                "bus": "yes",
-                "name": "Semmerzake Duffelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSTRAAT SEMMERZAKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.67029,
-                    50.945287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "45;48",
                 "ref:De_Lijn": "202827",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     3.68367,
                     50.948898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48",
+                "ref:De_Lijn": "202828",
+                "bus": "yes",
+                "name": "Semmerzake Duffelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670377,
+                    50.945179
                 ]
             }
         },
@@ -109,8 +109,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;47;48;145",
-                "ref:De_Lijn": "202828",
+                "route_ref:De_Lijn": "45;47;48",
+                "ref:De_Lijn": "203828",
                 "bus": "yes",
                 "name": "Semmerzake Duffelstraat",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.670377,
-                    50.945179
+                    3.67029,
+                    50.945287
                 ]
             }
         }

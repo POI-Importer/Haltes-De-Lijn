@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "104;453;710",
-                "ref:De_Lijn": "404863",
+                "route_ref:De_Lijn": "4;104;453;710",
+                "ref:De_Lijn": "404861",
                 "bus": "yes",
-                "name": "Guigoven Kleine Weg",
+                "name": "Guigoven Kaberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRANDSTRAAT GUIGOVEN",
+                "created_by": "TONGERSESTEENWEG GUIGOVEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.404017,
-                    50.842218
+                    5.397298,
+                    50.842071
                 ]
             }
         },
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4;104;453;710",
-                "ref:De_Lijn": "404860",
+                "route_ref:De_Lijn": "104;453;710",
+                "ref:De_Lijn": "404865",
                 "bus": "yes",
-                "name": "Guigoven Kaberg",
+                "name": "Guigoven Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TONGERSESTEENWEG GUIGOVEN",
+                "created_by": "BRANDSTRAAT GUIGOVEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.397029,
-                    50.842109
+                    5.400954,
+                    50.838532
                 ]
             }
         },
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "4;104;453;710",
-                "ref:De_Lijn": "404861",
+                "ref:De_Lijn": "404860",
                 "bus": "yes",
                 "name": "Guigoven Kaberg",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.397298,
-                    50.842071
+                    5.397029,
+                    50.842109
                 ]
             }
         },
@@ -110,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "104;453;710",
-                "ref:De_Lijn": "404865",
+                "ref:De_Lijn": "404863",
                 "bus": "yes",
-                "name": "Guigoven Kerk",
+                "name": "Guigoven Kleine Weg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRANDSTRAAT GUIGOVEN",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.400954,
-                    50.838532
+                    5.404017,
+                    50.842218
                 ]
             }
         },
@@ -151,27 +151,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "710",
-                "ref:De_Lijn": "402214",
-                "bus": "yes",
-                "name": "Guigoven Lelielaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LELIELAAN GUIGOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.398104,
-                    50.836741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "4;104;453",
                 "ref:De_Lijn": "404867",
                 "bus": "yes",
@@ -187,6 +166,27 @@
                 "coordinates": [
                     5.394084,
                     50.847035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "710",
+                "ref:De_Lijn": "402214",
+                "bus": "yes",
+                "name": "Guigoven Lelielaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LELIELAAN GUIGOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.398104,
+                    50.836741
                 ]
             }
         },

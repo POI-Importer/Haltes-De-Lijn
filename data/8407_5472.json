@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;152",
-                "ref:De_Lijn": "107041",
-                "bus": "yes",
-                "name": "Bouwel Lindekens Liersesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIERSE STEENWEG GROBBENDONK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.742006,
-                    51.172568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150",
-                "ref:De_Lijn": "107039",
-                "bus": "yes",
-                "name": "Bouwel Lindekens Liersesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIERSE STEENWEG BOUWEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.742248,
-                    51.172459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "152;513;943",
                 "ref:De_Lijn": "108246",
                 "bus": "yes",
                 "name": "Bouwel Lindekens Bouwelsesteenweg",
@@ -67,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;152",
                 "ref:De_Lijn": "107038",
                 "bus": "yes",
                 "name": "Bouwel Bergenhof",
@@ -88,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "152;513;943",
                 "ref:De_Lijn": "108244",
                 "bus": "yes",
                 "name": "Bouwel Lindekens Bouwelsesteenweg",
@@ -109,7 +64,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107041",
+                "bus": "yes",
+                "name": "Bouwel Lindekens Liersesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSE STEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.742006,
+                    51.172568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107037",
                 "bus": "yes",
                 "name": "Bouwel Bergenhof",
@@ -130,7 +104,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "513;943",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108242",
+                "bus": "yes",
+                "name": "Bouwel Roode Haagjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONLEI BOUWEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.744591,
+                    51.170411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108243",
                 "bus": "yes",
                 "name": "Bouwel Roode Haagjes",
@@ -151,21 +146,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "513;943",
-                "ref:De_Lijn": "108242",
+                "ref:De_Lijn": "107039",
                 "bus": "yes",
-                "name": "Bouwel Roode Haagjes",
+                "name": "Bouwel Lindekens Liersesteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONLEI BOUWEL",
+                "created_by": "LIERSE STEENWEG BOUWEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.744591,
-                    51.170411
+                    4.742248,
+                    51.172459
                 ]
             }
         }

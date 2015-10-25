@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209747",
                 "bus": "yes",
                 "name": "Letterhoutem Groenestraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209746",
                 "bus": "yes",
                 "name": "Letterhoutem Keiberg",

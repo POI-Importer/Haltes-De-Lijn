@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "303600",
-                "bus": "yes",
-                "name": "Berg Kerkwegel",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KERKWEGEL BERG (KAMPENHOUT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.536256,
-                    50.92845
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "303597",
-                "bus": "yes",
-                "name": "Berg Lemmekensstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEMMEKENSTRAAT BERG (KAMPENHOUT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.527562,
-                    50.923212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "307657",
-                "bus": "yes",
-                "name": "Berg Kerkwegel",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KERKWEGEL BERG (KAMPENHOUT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.536327,
-                    50.928369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "303598",
                 "bus": "yes",
                 "name": "Berg Lelieveldbaan",
@@ -82,27 +19,6 @@
                 "coordinates": [
                     4.531465,
                     50.920987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "303599",
-                "bus": "yes",
-                "name": "Berg Grootveldstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GROOTVELDSTRAAT BERG (KAMPENHOUT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.532979,
-                    50.926693
                 ]
             }
         },
@@ -151,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307656",
+                "route_ref:De_Lijn": "505;514",
+                "ref:De_Lijn": "302459",
                 "bus": "yes",
-                "name": "Berg Grootveldstraat",
+                "name": "Berg Pastorijstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GROOTVELDSTRAAT BERG (KAMPENHOUT)",
+                "created_by": "BERGSTRAAT BERG (KAMPENHOUT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.533021,
-                    50.926603
+                    4.542409,
+                    50.930697
                 ]
             }
         },
@@ -193,21 +109,105 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "505;514",
-                "ref:De_Lijn": "302459",
+                "ref:De_Lijn": "303599",
                 "bus": "yes",
-                "name": "Berg Pastorijstraat",
+                "name": "Berg Grootveldstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BERGSTRAAT BERG (KAMPENHOUT)",
+                "created_by": "GROOTVELDSTRAAT BERG (KAMPENHOUT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.542409,
-                    50.930697
+                    4.532979,
+                    50.926693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303600",
+                "bus": "yes",
+                "name": "Berg Kerkwegel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KERKWEGEL BERG (KAMPENHOUT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.536256,
+                    50.92845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307657",
+                "bus": "yes",
+                "name": "Berg Kerkwegel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KERKWEGEL BERG (KAMPENHOUT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.536327,
+                    50.928369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303597",
+                "bus": "yes",
+                "name": "Berg Lemmekensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEMMEKENSTRAAT BERG (KAMPENHOUT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.527562,
+                    50.923212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307656",
+                "bus": "yes",
+                "name": "Berg Grootveldstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROOTVELDSTRAAT BERG (KAMPENHOUT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.533021,
+                    50.926603
                 ]
             }
         }

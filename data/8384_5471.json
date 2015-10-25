@@ -4,112 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "204308",
-                "bus": "yes",
-                "name": "Haasdonk Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WILLEM VAN DOORNYCKSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.236845,
-                    51.180862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "204307",
-                "bus": "yes",
-                "name": "Haasdonk Hoge Wegel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.236503,
-                    51.185257
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "204306",
-                "bus": "yes",
-                "name": "Haasdonk Stuurstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.235779,
-                    51.188564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "205305",
-                "bus": "yes",
-                "name": "Haasdonk Sint-Gomaruslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.236168,
-                    51.192564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "205307",
-                "bus": "yes",
-                "name": "Haasdonk Hoge Wegel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.236733,
-                    51.185086
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "205309",
                 "bus": "yes",
                 "name": "Haasdonk Bergstraat",
@@ -130,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "205308",
                 "bus": "yes",
                 "name": "Haasdonk Dorp",
@@ -151,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "204305",
                 "bus": "yes",
                 "name": "Haasdonk Sint-Gomaruslaan",
@@ -172,7 +67,70 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "205307",
+                "bus": "yes",
+                "name": "Haasdonk Hoge Wegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236733,
+                    51.185086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "205305",
+                "bus": "yes",
+                "name": "Haasdonk Sint-Gomaruslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236168,
+                    51.192564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "204307",
+                "bus": "yes",
+                "name": "Haasdonk Hoge Wegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236503,
+                    51.185257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "205306",
                 "bus": "yes",
                 "name": "Haasdonk Stuurstraat",
@@ -187,6 +145,48 @@
                 "coordinates": [
                     4.235936,
                     51.188654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "204308",
+                "bus": "yes",
+                "name": "Haasdonk Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILLEM VAN DOORNYCKSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236845,
+                    51.180862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "204306",
+                "bus": "yes",
+                "name": "Haasdonk Stuurstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.235779,
+                    51.188564
                 ]
             }
         }

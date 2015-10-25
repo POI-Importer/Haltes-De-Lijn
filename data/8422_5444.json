@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "104636",
-                "bus": "yes",
-                "name": "Tilburg Hart van Brabantlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HART VAN BRABANTLAAN TILBURG",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.067311,
-                    51.560514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "102754",
                 "bus": "yes",
                 "name": "Tilburg Hart van Brabantlaan",
@@ -46,7 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "104636",
+                "bus": "yes",
+                "name": "Tilburg Hart van Brabantlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HART VAN BRABANTLAAN TILBURG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067311,
+                    51.560514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "102753",
                 "bus": "yes",
                 "name": "Tilburg Ringbaan West / GGD",
@@ -67,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "102752",
                 "bus": "yes",
                 "name": "Tilburg Ringbaan West / GGD",

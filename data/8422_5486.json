@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "702",
-                "ref:De_Lijn": "308253",
+                "ref:De_Lijn": "301065",
                 "bus": "yes",
-                "name": "Diest Parelsberg",
+                "name": "Webbekom Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HALENSEBAAN WEBBEKOM",
+                "created_by": "OUDE BAAN WEBBEKOM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.065048,
-                    50.974535
+                    5.070946,
+                    50.972854
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "702",
-                "ref:De_Lijn": "305951",
-                "bus": "yes",
-                "name": "Diest Meidoornstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEIDOORNSTRAAT DIEST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.063453,
-                    50.977421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702",
                 "ref:De_Lijn": "307909",
                 "bus": "yes",
                 "name": "Diest Slachthuis",
@@ -88,147 +67,20 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307036",
+                "ref:De_Lijn": "307850",
                 "bus": "yes",
-                "name": "Diest Hasseltsepoort",
+                "name": "Diest Beukenlaan",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "COMMISSARIS NEYSKENSLAAN DIEST",
+                "created_by": "BEUKENLAAN DIEST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.054724,
-                    50.979306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "307789",
-                "bus": "yes",
-                "name": "Webbekom Kerk",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OUDE BAAN WEBBEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.070919,
-                    50.97298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7;19;22;35;36;179;17a;299;35c;370;375;550;551;552",
-                "ref:De_Lijn": "301242",
-                "bus": "yes",
-                "name": "Diest Sint-Jansplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGIN ASTRIDLAAN DIEST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.060075,
-                    50.981989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;299;35c;375;550;551;702",
-                "ref:De_Lijn": "301237",
-                "bus": "yes",
-                "name": "Diest Bevrijdingsstraat (Hasseltsepoort)",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EDUARD ROBEYNSLAAN DIEST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.056443,
-                    50.979026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "401646",
-                "bus": "yes",
-                "name": "Diest Hasseltsepoort",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "COMMISSARIS NEYSKENSLAAN DIEST",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.054866,
-                    50.979332
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "307844",
-                "bus": "yes",
-                "name": "Diest Slachthuis",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OUDE BAAN DIEST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.064456,
-                    50.975887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;299;35c;375;550;551;702",
-                "ref:De_Lijn": "301269",
-                "bus": "yes",
-                "name": "Webbekom Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALENSEBAAN WEBBEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.069583,
-                    50.973078
+                    5.061601,
+                    50.976371
                 ]
             }
         },
@@ -256,63 +108,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "702",
-                "ref:De_Lijn": "307613",
+                "ref:De_Lijn": "307036",
                 "bus": "yes",
-                "name": "Diest Rustoord",
+                "name": "Diest Hasseltsepoort",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "FABIOLALAAN DIEST",
+                "created_by": "COMMISSARIS NEYSKENSLAAN DIEST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.054046,
-                    50.976784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702",
-                "ref:De_Lijn": "307908",
-                "bus": "yes",
-                "name": "Diest Parelsberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENBERGSTRAAT WEBBEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.064333,
-                    50.97337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;299;35c;375;550;551;702",
-                "ref:De_Lijn": "301234",
-                "bus": "yes",
-                "name": "Diest Beukenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EDUARD ROBEYNSLAAN DIEST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.061456,
-                    50.976228
+                    5.054724,
+                    50.979306
                 ]
             }
         },
@@ -361,20 +171,252 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307850",
+                "ref:De_Lijn": "307789",
                 "bus": "yes",
-                "name": "Diest Beukenlaan",
+                "name": "Webbekom Kerk",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BEUKENLAAN DIEST",
+                "created_by": "OUDE BAAN WEBBEKOM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.061601,
-                    50.976371
+                    5.070919,
+                    50.97298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;299;35c;375;550;551;702",
+                "ref:De_Lijn": "301269",
+                "bus": "yes",
+                "name": "Webbekom Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN WEBBEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.069583,
+                    50.973078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "307613",
+                "bus": "yes",
+                "name": "Diest Rustoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FABIOLALAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.054046,
+                    50.976784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401646",
+                "bus": "yes",
+                "name": "Diest Hasseltsepoort",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "COMMISSARIS NEYSKENSLAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.054866,
+                    50.979332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;19;22;35;36;179;17a;299;35c;370;375;550;551;552",
+                "ref:De_Lijn": "301242",
+                "bus": "yes",
+                "name": "Diest Sint-Jansplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.060075,
+                    50.981989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;299;35c;375;550;551",
+                "ref:De_Lijn": "301270",
+                "bus": "yes",
+                "name": "Webbekom Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN WEBBEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.069184,
+                    50.973117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;299;35c;375;550;551;702",
+                "ref:De_Lijn": "301237",
+                "bus": "yes",
+                "name": "Diest Bevrijdingsstraat (Hasseltsepoort)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDUARD ROBEYNSLAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056443,
+                    50.979026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "307908",
+                "bus": "yes",
+                "name": "Diest Parelsberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENBERGSTRAAT WEBBEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.064333,
+                    50.97337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307844",
+                "bus": "yes",
+                "name": "Diest Slachthuis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.064456,
+                    50.975887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;299;35c;375;550;551;702",
+                "ref:De_Lijn": "301234",
+                "bus": "yes",
+                "name": "Diest Beukenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDUARD ROBEYNSLAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.061456,
+                    50.976228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "305951",
+                "bus": "yes",
+                "name": "Diest Meidoornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIDOORNSTRAAT DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.063453,
+                    50.977421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;19;22;35;36;17a;299;35c;370;375;550;551;552",
+                "ref:De_Lijn": "301238",
+                "bus": "yes",
+                "name": "Diest Hasseltsepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056469,
+                    50.979826
                 ]
             }
         },
@@ -403,20 +445,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "702",
-                "ref:De_Lijn": "301065",
+                "ref:De_Lijn": "308253",
                 "bus": "yes",
-                "name": "Webbekom Kerk",
+                "name": "Diest Parelsberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDE BAAN WEBBEKOM",
+                "created_by": "HALENSEBAAN WEBBEKOM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.070946,
-                    50.972854
+                    5.065048,
+                    50.974535
                 ]
             }
         },
@@ -438,48 +480,6 @@
                 "coordinates": [
                     5.06225,
                     50.98559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7;19;22;35;36;17a;299;35c;370;375;550;551;552",
-                "ref:De_Lijn": "301238",
-                "bus": "yes",
-                "name": "Diest Hasseltsepoort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGIN ASTRIDLAAN DIEST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.056469,
-                    50.979826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;299;35c;375;550;551",
-                "ref:De_Lijn": "301270",
-                "bus": "yes",
-                "name": "Webbekom Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALENSEBAAN WEBBEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.069184,
-                    50.973117
                 ]
             }
         }

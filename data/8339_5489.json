@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "505393",
-                "bus": "yes",
-                "name": "Ingelmunster De Hoogte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGGESTRAAT INGELMUNSTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.250147,
-                    50.936683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68",
                 "ref:De_Lijn": "505956",
                 "bus": "yes",
                 "name": "Ingelmunster Aviflora",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.237363,
                     50.934619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505393",
+                "bus": "yes",
+                "name": "Ingelmunster De Hoogte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.250147,
+                    50.936683
                 ]
             }
         },

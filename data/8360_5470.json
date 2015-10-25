@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;98;195",
+                "route_ref:De_Lijn": "53;98",
                 "ref:De_Lijn": "202726",
                 "bus": "yes",
                 "name": "Oosteeklo Muikemstraat",

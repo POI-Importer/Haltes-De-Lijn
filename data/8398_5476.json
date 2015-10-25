@@ -4,10 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "550;555",
-                "ref:De_Lijn": "106946",
+                "ref:De_Lijn": "106947",
                 "bus": "yes",
-                "name": "Lier Lachenen",
+                "name": "Lier Het Ven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MECHELSESTEENWEG LIER",
@@ -17,78 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.534706,
-                    51.116863
+                    4.527889,
+                    51.111065
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "550;555",
-                "ref:De_Lijn": "106943",
-                "bus": "yes",
-                "name": "Lier Maaikeneveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG LIER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.540732,
-                    51.120432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "550;555",
-                "ref:De_Lijn": "106945",
-                "bus": "yes",
-                "name": "Lier Lachenen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG LIER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.534666,
-                    51.117636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "550;555",
-                "ref:De_Lijn": "106944",
-                "bus": "yes",
-                "name": "Lier Maaikeneveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG LIER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.540016,
-                    51.12001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "550;555",
                 "ref:De_Lijn": "106948",
                 "bus": "yes",
                 "name": "Lier Het Ven",
@@ -109,10 +44,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "550;555",
-                "ref:De_Lijn": "106947",
+                "ref:De_Lijn": "106946",
                 "bus": "yes",
-                "name": "Lier Het Ven",
+                "name": "Lier Lachenen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MECHELSESTEENWEG LIER",
@@ -122,8 +56,68 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.527889,
-                    51.111065
+                    4.534706,
+                    51.116863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106944",
+                "bus": "yes",
+                "name": "Lier Maaikeneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.540016,
+                    51.12001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106945",
+                "bus": "yes",
+                "name": "Lier Lachenen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.534666,
+                    51.117636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106943",
+                "bus": "yes",
+                "name": "Lier Maaikeneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.540732,
+                    51.120432
                 ]
             }
         }

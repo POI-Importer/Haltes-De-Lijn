@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;424",
                 "ref:De_Lijn": "106561",
                 "bus": "yes",
                 "name": "Oelegem Oelegemsteenweg",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;424",
                 "ref:De_Lijn": "106560",
                 "bus": "yes",
                 "name": "Oelegem Oelegemsteenweg",

@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;563",
-                "ref:De_Lijn": "305127",
+                "route_ref:De_Lijn": "22;23;24;25;26;27;542;563;712",
+                "ref:De_Lijn": "305107",
                 "bus": "yes",
-                "name": "Oplinter Kloosterstraat",
+                "name": "Oplinter Huiskensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT OPLINTER",
+                "created_by": "OPLINTERSESTEENWEG SINT-MARGRIETE-HOUTEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.984703,
-                    50.821089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;23;24;26;27;542;712",
-                "ref:De_Lijn": "305105",
-                "bus": "yes",
-                "name": "Oplinter Halverwege",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPLINTERSESTEENWEG OPLINTER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.978099,
-                    50.826203
+                    4.971083,
+                    50.823632
                 ]
             }
         },
@@ -67,8 +46,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;23;24;26;27;542;712",
-                "ref:De_Lijn": "305099",
+                "route_ref:De_Lijn": "22;23;24;26;27;542",
+                "ref:De_Lijn": "305098",
                 "bus": "yes",
                 "name": "Oplinter Oplintersesteenweg",
                 "public_transport": "platform",
@@ -80,8 +59,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.982691,
-                    50.827833
+                    4.983302,
+                    50.827947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;563",
+                "ref:De_Lijn": "305127",
+                "bus": "yes",
+                "name": "Oplinter Kloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.984703,
+                    50.821089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;24;25;26;27;542;563",
+                "ref:De_Lijn": "305106",
+                "bus": "yes",
+                "name": "Oplinter Huiskensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPLINTERSESTEENWEG OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.971281,
+                    50.823577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;24;26;27;542;712",
+                "ref:De_Lijn": "305105",
+                "bus": "yes",
+                "name": "Oplinter Halverwege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPLINTERSESTEENWEG OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.978099,
+                    50.826203
                 ]
             }
         },
@@ -109,10 +151,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;23;24;26;27;542",
-                "ref:De_Lijn": "305104",
+                "route_ref:De_Lijn": "22;23;24;26;27;542;712",
+                "ref:De_Lijn": "305099",
                 "bus": "yes",
-                "name": "Oplinter Halverwege",
+                "name": "Oplinter Oplintersesteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OPLINTERSESTEENWEG OPLINTER",
@@ -122,29 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.978767,
-                    50.826307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;23;24;25;26;27;542;563;712",
-                "ref:De_Lijn": "305107",
-                "bus": "yes",
-                "name": "Oplinter Huiskensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPLINTERSESTEENWEG SINT-MARGRIETE-HOUTEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.971083,
-                    50.823632
+                    4.982691,
+                    50.827833
                 ]
             }
         },
@@ -173,9 +194,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "22;23;24;26;27;542",
-                "ref:De_Lijn": "305098",
+                "ref:De_Lijn": "305104",
                 "bus": "yes",
-                "name": "Oplinter Oplintersesteenweg",
+                "name": "Oplinter Halverwege",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OPLINTERSESTEENWEG OPLINTER",
@@ -185,29 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.983302,
-                    50.827947
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;23;24;25;26;27;542;563",
-                "ref:De_Lijn": "305106",
-                "bus": "yes",
-                "name": "Oplinter Huiskensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPLINTERSESTEENWEG OPLINTER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.971281,
-                    50.823577
+                    4.978767,
+                    50.826307
                 ]
             }
         }

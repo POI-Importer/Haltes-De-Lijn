@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204557",
                 "bus": "yes",
                 "name": "Kieldrecht Singel",
@@ -25,7 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "205030",
+                "bus": "yes",
+                "name": "Kieldrecht Sportpleinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.170769,
+                    51.293655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204030",
                 "bus": "yes",
                 "name": "Kieldrecht Sportpleinstraat",
@@ -46,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "205030",
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "204031",
                 "bus": "yes",
-                "name": "Kieldrecht Sportpleinstraat",
+                "name": "Kieldrecht Merodestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOUTERSTRAAT KIELDRECHT",
+                "created_by": "KOUTERSTRAAT MEERDONK",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.170769,
-                    51.293655
+                    4.165616,
+                    51.291893
                 ]
             }
         },
@@ -82,27 +103,6 @@
                 "coordinates": [
                     4.172776,
                     51.293775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
-                "ref:De_Lijn": "204031",
-                "bus": "yes",
-                "name": "Kieldrecht Merodestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOUTERSTRAAT MEERDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.165616,
-                    51.291893
                 ]
             }
         }

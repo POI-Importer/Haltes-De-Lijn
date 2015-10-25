@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "209553",
+                "ref:De_Lijn": "208553",
                 "bus": "yes",
                 "name": "Viane Embeke",
                 "public_transport": "platform",
@@ -17,15 +17,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.944708,
-                    50.740256
+                    3.944724,
+                    50.740121
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370",
                 "ref:De_Lijn": "206800",
                 "bus": "yes",
                 "name": "Viane Rodestraat",
@@ -46,7 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370",
                 "ref:De_Lijn": "208554",
                 "bus": "yes",
                 "name": "Viane Dieveketse",
@@ -67,8 +65,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;370",
-                "ref:De_Lijn": "208553",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "209553",
                 "bus": "yes",
                 "name": "Viane Embeke",
                 "public_transport": "platform",
@@ -80,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.944724,
-                    50.740121
+                    3.944708,
+                    50.740256
                 ]
             }
         }

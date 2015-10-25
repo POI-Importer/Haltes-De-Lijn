@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;601;602;620;621;629",
                 "ref:De_Lijn": "105479",
                 "bus": "yes",
                 "name": "Schoten Spaans Wijnhuis",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "443;600;601;602;620;621;629",
                 "ref:De_Lijn": "105480",
                 "bus": "yes",
                 "name": "Schoten Spaans Wijnhuis",

@@ -5,47 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "335;512",
-                "ref:De_Lijn": "304351",
-                "bus": "yes",
-                "name": "Wezemaal Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGESTRAAT HEIKANT (ROTSELAAR)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.746671,
-                    50.956268
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "300519",
-                "bus": "yes",
-                "name": "Wezemaal Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BENINKSSTRAAT WEZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.764317,
-                    50.947535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "335;512",
                 "ref:De_Lijn": "304353",
                 "bus": "yes",
                 "name": "Wezemaal Vleugtweg",
@@ -60,48 +19,6 @@
                 "coordinates": [
                     4.753163,
                     50.949478
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "335;512",
-                "ref:De_Lijn": "304352",
-                "bus": "yes",
-                "name": "Wezemaal Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGESTRAAT WEZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.747436,
-                    50.955834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "334;512",
-                "ref:De_Lijn": "304348",
-                "bus": "yes",
-                "name": "Wezemaal School",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.75141,
-                    50.947425
                 ]
             }
         },
@@ -129,20 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306360",
+                "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "304351",
                 "bus": "yes",
-                "name": "Wezemaal Steenweg op Nieuwrode",
+                "name": "Wezemaal Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP NIEUWRODE WEZEMAAL",
+                "created_by": "LANGESTRAAT HEIKANT (ROTSELAAR)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.757783,
-                    50.947233
+                    4.746671,
+                    50.956268
                 ]
             }
         },
@@ -150,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "334;512",
-                "ref:De_Lijn": "304347",
+                "ref:De_Lijn": "304348",
                 "bus": "yes",
                 "name": "Wezemaal School",
                 "public_transport": "platform",
@@ -162,8 +80,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.752451,
-                    50.94779
+                    4.75141,
+                    50.947425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300519",
+                "bus": "yes",
+                "name": "Wezemaal Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BENINKSSTRAAT WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.764317,
+                    50.947535
                 ]
             }
         },
@@ -185,6 +123,68 @@
                 "coordinates": [
                     4.752087,
                     50.951891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306359",
+                "bus": "yes",
+                "name": "Wezemaal Steenweg op Nieuwrode",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP NIEUWRODE WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.757769,
+                    50.947242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "334;512",
+                "ref:De_Lijn": "304342",
+                "bus": "yes",
+                "name": "Wezemaal Eektweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.746108,
+                    50.944611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "334;512",
+                "ref:De_Lijn": "304347",
+                "bus": "yes",
+                "name": "Wezemaal School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.752451,
+                    50.94779
                 ]
             }
         },
@@ -213,6 +213,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "304354",
+                "bus": "yes",
+                "name": "Wezemaal Vleugtweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.753421,
+                    50.949738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "335;512",
                 "ref:De_Lijn": "304356",
                 "bus": "yes",
                 "name": "Wezemaal Langestraat",
@@ -227,68 +248,6 @@
                 "coordinates": [
                     4.751763,
                     50.952359
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "334;512",
-                "ref:De_Lijn": "304342",
-                "bus": "yes",
-                "name": "Wezemaal Eektweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.746108,
-                    50.944611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "334;335",
-                "ref:De_Lijn": "304357",
-                "bus": "yes",
-                "name": "Wezemaal Wijngaardberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.762098,
-                    50.954365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306359",
-                "bus": "yes",
-                "name": "Wezemaal Steenweg op Nieuwrode",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP NIEUWRODE WEZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.757769,
-                    50.947242
                 ]
             }
         },
@@ -317,9 +276,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "335;512",
-                "ref:De_Lijn": "304354",
+                "ref:De_Lijn": "304352",
                 "bus": "yes",
-                "name": "Wezemaal Vleugtweg",
+                "name": "Wezemaal Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LANGESTRAAT WEZEMAAL",
@@ -329,8 +288,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.753421,
-                    50.949738
+                    4.747436,
+                    50.955834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "334;335",
+                "ref:De_Lijn": "304357",
+                "bus": "yes",
+                "name": "Wezemaal Wijngaardberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.762098,
+                    50.954365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306360",
+                "bus": "yes",
+                "name": "Wezemaal Steenweg op Nieuwrode",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP NIEUWRODE WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.757783,
+                    50.947233
                 ]
             }
         }

@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "508676",
+                "bus": "yes",
+                "name": "Oudekapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEKAPELLESTRAAT OUDEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.808637,
+                    51.013787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
                 "ref:De_Lijn": "508959",
                 "bus": "yes",
                 "name": "Oudekapelle De Grognie",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     2.796158,
                     51.014439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24",
-                "ref:De_Lijn": "508676",
-                "bus": "yes",
-                "name": "Oudekapelle Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDEKAPELLESTRAAT OUDEKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.808637,
-                    51.013787
                 ]
             }
         }

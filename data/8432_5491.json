@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403313",
+                "ref:De_Lijn": "403312",
                 "bus": "yes",
                 "name": "Sint-Lambrechts-Herk Vuurdoorn",
                 "public_transport": "platform",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.279966,
-                    50.915043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403304",
-                "bus": "yes",
-                "name": "Sint-Lambrechts-Herk Oosterbeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE ROOST SINT-LAMBRECHTS-HERK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.291242,
-                    50.910622
+                    5.280119,
+                    50.914854
                 ]
             }
         },
@@ -68,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403312",
+                "ref:De_Lijn": "403305",
                 "bus": "yes",
-                "name": "Sint-Lambrechts-Herk Vuurdoorn",
+                "name": "Sint-Lambrechts-Herk Oosterbeekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTE ROOST SINT-LAMBRECHTS-HERK",
@@ -80,50 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.280119,
-                    50.914854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403310",
-                "bus": "yes",
-                "name": "Sint-Lambrechts-Herk Voetbalveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE ROOST SINT-LAMBRECHTS-HERK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.27694,
-                    50.91593
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403294",
-                "bus": "yes",
-                "name": "Sint-Lambrechts-Herk Klein Roost",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE ROOST SINT-LAMBRECHTS-HERK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.284484,
-                    50.913381
+                    5.291507,
+                    50.910386
                 ]
             }
         },
@@ -152,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "403305",
+                "ref:De_Lijn": "403304",
                 "bus": "yes",
                 "name": "Sint-Lambrechts-Herk Oosterbeekstraat",
                 "public_transport": "platform",
@@ -164,8 +101,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.291507,
-                    50.910386
+                    5.291242,
+                    50.910622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "403294",
+                "bus": "yes",
+                "name": "Sint-Lambrechts-Herk Klein Roost",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE ROOST SINT-LAMBRECHTS-HERK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.284484,
+                    50.913381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "403310",
+                "bus": "yes",
+                "name": "Sint-Lambrechts-Herk Voetbalveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE ROOST SINT-LAMBRECHTS-HERK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27694,
+                    50.91593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "403313",
+                "bus": "yes",
+                "name": "Sint-Lambrechts-Herk Vuurdoorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE ROOST SINT-LAMBRECHTS-HERK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.279966,
+                    50.915043
                 ]
             }
         }

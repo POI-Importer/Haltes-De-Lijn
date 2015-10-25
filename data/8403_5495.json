@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "7;8;9;558;616",
-                "ref:De_Lijn": "306402",
+                "route_ref:De_Lijn": "395",
+                "ref:De_Lijn": "302919",
                 "bus": "yes",
-                "name": "Heverlee Toverberg",
+                "name": "Heverlee Rotspoelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOLEEGSTRAAT HEVERLEE",
+                "created_by": "SINT-JANSBERGSESTEENWEG HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.655328,
-                    50.861383
+                    4.653864,
+                    50.856451
                 ]
             }
         },
@@ -67,6 +67,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "7;8;9;558;616",
+                "ref:De_Lijn": "306402",
+                "bus": "yes",
+                "name": "Heverlee Toverberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOLEEGSTRAAT HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.655328,
+                    50.861383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "395",
                 "ref:De_Lijn": "300508",
                 "bus": "yes",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     4.649394,
                     50.849908
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "395",
-                "ref:De_Lijn": "302918",
-                "bus": "yes",
-                "name": "Heverlee Rotspoelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JANSBERGSESTEENWEG HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.653594,
-                    50.856371
                 ]
             }
         },
@@ -131,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "395",
-                "ref:De_Lijn": "302919",
+                "ref:De_Lijn": "302918",
                 "bus": "yes",
                 "name": "Heverlee Rotspoelstraat",
                 "public_transport": "platform",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.653864,
-                    50.856451
+                    4.653594,
+                    50.856371
                 ]
             }
         }

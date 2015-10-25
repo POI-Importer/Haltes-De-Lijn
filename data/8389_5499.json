@@ -4,6 +4,90 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "153;154;155",
+                "ref:De_Lijn": "307683",
+                "bus": "yes",
+                "name": "Hercule Poirot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EGIDE VAN OPHEMSTRAAT UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328839,
+                    50.793785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301119",
+                "bus": "yes",
+                "name": "Globe",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUGMANNLAAN UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337359,
+                    50.80052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301174",
+                "bus": "yes",
+                "name": "Wagen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STALLESTRAAT UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.329305,
+                    50.796877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301140",
+                "bus": "yes",
+                "name": "Helden",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HELDENSQUARE UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.342252,
+                    50.803165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "301173",
                 "bus": "yes",
                 "name": "Wagen",
@@ -46,27 +130,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "301120",
-                "bus": "yes",
-                "name": "Globe",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BRUGMANNLAAN UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.337232,
-                    50.800646
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "301135",
                 "bus": "yes",
                 "name": "Beeldhouwers",
@@ -82,27 +145,6 @@
                 "coordinates": [
                     4.348153,
                     50.803444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "301174",
-                "bus": "yes",
-                "name": "Wagen",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "STALLESTRAAT UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.329305,
-                    50.796877
                 ]
             }
         },
@@ -130,28 +172,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "301140",
-                "bus": "yes",
-                "name": "Helden",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HELDENSQUARE UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.342252,
-                    50.803165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "301119",
+                "ref:De_Lijn": "301120",
                 "bus": "yes",
                 "name": "Globe",
                 "public_transport": "platform",
@@ -164,29 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.337359,
-                    50.80052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;154;155",
-                "ref:De_Lijn": "307683",
-                "bus": "yes",
-                "name": "Hercule Poirot",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EGIDE VAN OPHEMSTRAAT UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.328839,
-                    50.793785
+                    4.337232,
+                    50.800646
                 ]
             }
         }

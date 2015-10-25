@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407916",
+                "ref:De_Lijn": "407918",
                 "bus": "yes",
-                "name": "Halmaal Kerk",
+                "name": "Halmaal Maasrodestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HALMAAL-DORP HALMAAL",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.153329,
-                    50.803746
+                    5.147822,
+                    50.798469
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407921",
+                "ref:De_Lijn": "407920",
                 "bus": "yes",
                 "name": "Halmaal Velmerlaan",
                 "public_transport": "platform",
@@ -59,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.145588,
-                    50.795427
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407918",
-                "bus": "yes",
-                "name": "Halmaal Maasrodestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALMAAL-DORP HALMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.147822,
-                    50.798469
+                    5.1452,
+                    50.795169
                 ]
             }
         },
@@ -110,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407920",
+                "ref:De_Lijn": "407921",
                 "bus": "yes",
                 "name": "Halmaal Velmerlaan",
                 "public_transport": "platform",
@@ -122,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.1452,
-                    50.795169
+                    5.145588,
+                    50.795427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407916",
+                "bus": "yes",
+                "name": "Halmaal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALMAAL-DORP HALMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.153329,
+                    50.803746
                 ]
             }
         }

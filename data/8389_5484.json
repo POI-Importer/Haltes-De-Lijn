@@ -4,63 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260;288",
-                "ref:De_Lijn": "302540",
+                "route_ref:De_Lijn": "261;288",
+                "ref:De_Lijn": "307810",
                 "bus": "yes",
-                "name": "Ramsdonk Grotstraat",
+                "name": "Londerzeel Sporthuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LONDERZEELSEWEG RAMSDONK",
+                "created_by": "BERGKAPELSTRAAT LONDERZEEL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.335283,
-                    51.011212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "288",
-                "ref:De_Lijn": "302541",
-                "bus": "yes",
-                "name": "Ramsdonk Hagelboom",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LONDERZEELSEWEG RAMSDONK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.330069,
-                    51.010033
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "260;288",
-                "ref:De_Lijn": "302538",
-                "bus": "yes",
-                "name": "Ramsdonk Dreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LONDERZEELSEWEG RAMSDONK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.342236,
-                    51.012706
+                    4.329543,
+                    51.00855
                 ]
             }
         },
@@ -88,10 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260;288",
-                "ref:De_Lijn": "302539",
+                "route_ref:De_Lijn": "288",
+                "ref:De_Lijn": "302541",
                 "bus": "yes",
-                "name": "Ramsdonk Grotstraat",
+                "name": "Ramsdonk Hagelboom",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LONDERZEELSEWEG RAMSDONK",
@@ -101,49 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.335383,
-                    51.011356
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306768",
-                "bus": "yes",
-                "name": "Londerzeel Oudeman",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDEMANSTRAAT RAMSDONK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.3289,
-                    51.010491
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "261;288",
-                "ref:De_Lijn": "307810",
-                "bus": "yes",
-                "name": "Londerzeel Sporthuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGKAPELSTRAAT LONDERZEEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.329543,
-                    51.00855
+                    4.330069,
+                    51.010033
                 ]
             }
         },
@@ -171,6 +88,47 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "306769",
+                "bus": "yes",
+                "name": "Londerzeel Oudeman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEMANSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328729,
+                    51.010626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260;288",
+                "ref:De_Lijn": "302539",
+                "bus": "yes",
+                "name": "Ramsdonk Grotstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LONDERZEELSEWEG RAMSDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335383,
+                    51.011356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "288",
                 "ref:De_Lijn": "302542",
                 "bus": "yes",
@@ -192,20 +150,62 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306769",
+                "route_ref:De_Lijn": "260;288",
+                "ref:De_Lijn": "302538",
                 "bus": "yes",
-                "name": "Londerzeel Oudeman",
+                "name": "Ramsdonk Dreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDEMANSTRAAT LONDERZEEL",
+                "created_by": "LONDERZEELSEWEG RAMSDONK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.328729,
-                    51.010626
+                    4.342236,
+                    51.012706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306768",
+                "bus": "yes",
+                "name": "Londerzeel Oudeman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEMANSTRAAT RAMSDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3289,
+                    51.010491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260;288",
+                "ref:De_Lijn": "302540",
+                "bus": "yes",
+                "name": "Ramsdonk Grotstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LONDERZEELSEWEG RAMSDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335283,
+                    51.011212
                 ]
             }
         }

@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
-                "ref:De_Lijn": "107921",
-                "bus": "yes",
-                "name": "Lippelo Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKSTRAAT LIPPELO",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.261342,
-                    51.04334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "254;938",
-                "ref:De_Lijn": "107919",
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "107918",
                 "bus": "yes",
                 "name": "Lippelo Breutheide",
                 "public_transport": "platform",
@@ -38,57 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.254363,
-                    51.04586
+                    4.254278,
+                    51.045761
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
-                "ref:De_Lijn": "107916",
-                "bus": "yes",
-                "name": "Lippelo Oude Heirbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIALEWEG LIPPELO",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.24363,
-                    51.044321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308842",
-                "bus": "yes",
-                "name": "Lippelo Oppuurseweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OPPUURSEWEG LIPPELO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.251104,
-                    51.049326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "254;938",
+                "route_ref:De_Lijn": "938",
                 "ref:De_Lijn": "107917",
                 "bus": "yes",
                 "name": "Lippelo Oude Heirbaan",
@@ -103,27 +40,6 @@
                 "coordinates": [
                     4.243444,
                     51.044437
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308841",
-                "bus": "yes",
-                "name": "Lippelo Oppuurseweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OPPUURSEWEG LIPPELO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.251275,
-                    51.049335
                 ]
             }
         },
@@ -172,8 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
-                "ref:De_Lijn": "107918",
+                "ref:De_Lijn": "107919",
                 "bus": "yes",
                 "name": "Lippelo Breutheide",
                 "public_transport": "platform",
@@ -185,8 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.254278,
-                    51.045761
+                    4.254363,
+                    51.04586
                 ]
             }
         },
@@ -194,20 +109,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "101551",
+                "ref:De_Lijn": "107916",
                 "bus": "yes",
-                "name": "Lippelo Oppuurseweg",
+                "name": "Lippelo Oude Heirbaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OPPUURSEWEG LIPPELO",
+                "created_by": "PROVINCIALEWEG LIPPELO",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.254956,
-                    51.048548
+                    4.24363,
+                    51.044321
                 ]
             }
         },
@@ -235,7 +150,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
+                "ref:De_Lijn": "308841",
+                "bus": "yes",
+                "name": "Lippelo Oppuurseweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OPPUURSEWEG LIPPELO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.251275,
+                    51.049335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "107921",
+                "bus": "yes",
+                "name": "Lippelo Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT LIPPELO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.261342,
+                    51.04334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107922",
                 "bus": "yes",
                 "name": "Lippelo Dorp",
@@ -250,6 +206,47 @@
                 "coordinates": [
                     4.26147,
                     51.043403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308842",
+                "bus": "yes",
+                "name": "Lippelo Oppuurseweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OPPUURSEWEG LIPPELO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.251104,
+                    51.049326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101551",
+                "bus": "yes",
+                "name": "Lippelo Oppuurseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPPUURSEWEG LIPPELO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.254956,
+                    51.048548
                 ]
             }
         }

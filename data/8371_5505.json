@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;74",
-                "ref:De_Lijn": "209606",
-                "bus": "yes",
-                "name": "Burght",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKHOVE BEVER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.935848,
-                    50.714656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "161",
-                "ref:De_Lijn": "307741",
-                "bus": "yes",
-                "name": "Bever Eeckhout",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N263 BEVER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.937352,
-                    50.720451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "72;74;161;732",
                 "ref:De_Lijn": "307596",
                 "bus": "yes",
@@ -67,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "161;732",
-                "ref:De_Lijn": "307595",
+                "ref:De_Lijn": "208605",
                 "bus": "yes",
-                "name": "Bever Kamstraat",
+                "name": "Plaats/Place",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "N249 BEVER",
+                "created_by": "PLAATS BEVER",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.94902,
-                    50.717365
+                    3.940092,
+                    50.716578
                 ]
             }
         },
@@ -110,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "161",
-                "ref:De_Lijn": "307740",
+                "ref:De_Lijn": "307741",
                 "bus": "yes",
                 "name": "Bever Eeckhout",
                 "public_transport": "platform",
@@ -122,36 +80,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.937183,
-                    50.720388
+                    3.937352,
+                    50.720451
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;74",
-                "ref:De_Lijn": "208604",
+                "route_ref:De_Lijn": "161;732",
+                "ref:De_Lijn": "307595",
                 "bus": "yes",
-                "name": "Kamstraat",
+                "name": "Bever Kamstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "N249 BEVER",
                 "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.948964,
-                    50.717311
+                    3.94902,
+                    50.717365
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "208605",
+                "ref:De_Lijn": "209605",
                 "bus": "yes",
                 "name": "Plaats/Place",
                 "public_transport": "platform",
@@ -164,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.940092,
-                    50.716578
+                    3.940404,
+                    50.716588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "209606",
+                "bus": "yes",
+                "name": "Burght",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOVE BEVER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.935848,
+                    50.714656
                 ]
             }
         },
@@ -214,6 +193,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "161",
+                "ref:De_Lijn": "307740",
+                "bus": "yes",
+                "name": "Bever Eeckhout",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N263 BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.937183,
+                    50.720388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "73;74",
                 "ref:De_Lijn": "208606",
                 "bus": "yes",
@@ -235,21 +235,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "209605",
+                "route_ref:De_Lijn": "72;74",
+                "ref:De_Lijn": "208604",
                 "bus": "yes",
-                "name": "Plaats/Place",
+                "name": "Kamstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PLAATS BEVER",
+                "created_by": "N249 BEVER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.940404,
-                    50.716588
+                    3.948964,
+                    50.717311
                 ]
             }
         }

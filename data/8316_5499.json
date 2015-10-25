@@ -5,6 +5,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;68;79",
+                "ref:De_Lijn": "509576",
+                "bus": "yes",
+                "name": "Westouter Neerplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N315 WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.745871,
+                    50.798015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "509577",
+                "bus": "yes",
+                "name": "Westouter Ondank",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGESTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.743458,
+                    50.804617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68;79",
                 "ref:De_Lijn": "504576",
                 "bus": "yes",
                 "name": "Westouter Neerplaats",
@@ -40,48 +82,6 @@
                 "coordinates": [
                     2.743292,
                     50.80448
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "509577",
-                "bus": "yes",
-                "name": "Westouter Ondank",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POPERINGESTRAAT WESTOUTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.743458,
-                    50.804617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;68;79",
-                "ref:De_Lijn": "509576",
-                "bus": "yes",
-                "name": "Westouter Neerplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N315 WESTOUTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.745871,
-                    50.798015
                 ]
             }
         }

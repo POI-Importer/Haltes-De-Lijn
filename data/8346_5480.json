@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505652",
+                "bus": "yes",
+                "name": "Kruiskerke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISKERKESTRAAT KRUISKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387355,
+                    51.067695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
                 "ref:De_Lijn": "504376",
                 "bus": "yes",
                 "name": "Kruiskerke De Wante",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     3.403316,
                     51.056868
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505652",
-                "bus": "yes",
-                "name": "Kruiskerke Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISKERKESTRAAT KRUISKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.387355,
-                    51.067695
                 ]
             }
         }

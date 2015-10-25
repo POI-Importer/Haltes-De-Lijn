@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202576",
-                "bus": "yes",
-                "name": "Sint-Kruis-Winkel Kapelledreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WINKELWARANDE GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.836227,
-                    51.15696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "203575",
                 "bus": "yes",
@@ -46,7 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "203576",
+                "bus": "yes",
+                "name": "Sint-Kruis-Winkel Kapelledreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKELWARANDE GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.836512,
+                    51.157024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "202575",
                 "bus": "yes",
                 "name": "Sint-Kruis-Winkel Kerk",
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "203576",
+                "ref:De_Lijn": "202576",
                 "bus": "yes",
                 "name": "Sint-Kruis-Winkel Kapelledreef",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.836512,
-                    51.157024
+                    3.836227,
+                    51.15696
                 ]
             }
         }

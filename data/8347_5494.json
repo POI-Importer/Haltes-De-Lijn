@@ -25,21 +25,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;88",
-                "ref:De_Lijn": "503846",
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "504993",
                 "bus": "yes",
-                "name": "Waregem Gaverbeek",
+                "name": "Waregem Biest (Kerk)",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PLATANENDREEF NIEUWENHOVE (WAREGEM)",
+                "created_by": "BIESTSTRAAT WAREGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.409542,
-                    50.862943
+                    3.42467,
+                    50.874294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;88",
+                "ref:De_Lijn": "503849",
+                "bus": "yes",
+                "name": "Waregem Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.412578,
+                    50.866609
                 ]
             }
         },
@@ -67,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "88",
-                "ref:De_Lijn": "504993",
+                "route_ref:De_Lijn": "71;88",
+                "ref:De_Lijn": "508846",
                 "bus": "yes",
-                "name": "Waregem Biest (Kerk)",
+                "name": "Waregem Gaverbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BIESTSTRAAT WAREGEM",
+                "created_by": "PLATANENDREEF NIEUWENHOVE (WAREGEM)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.42467,
-                    50.874294
+                    3.409712,
+                    50.862944
                 ]
             }
         },
@@ -110,28 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "71;72;88",
-                "ref:De_Lijn": "503849",
-                "bus": "yes",
-                "name": "Waregem Kabien",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VICHTSEWEG WAREGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.412578,
-                    50.866609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;88",
-                "ref:De_Lijn": "508846",
+                "ref:De_Lijn": "503846",
                 "bus": "yes",
                 "name": "Waregem Gaverbeek",
                 "public_transport": "platform",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.409712,
-                    50.862944
+                    3.409542,
+                    50.862943
                 ]
             }
         }

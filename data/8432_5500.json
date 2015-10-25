@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "400195",
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "403769",
                 "bus": "yes",
-                "name": "Groot-Gelmen Helshovenstraat",
+                "name": "Mettekoven Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HELSHOVENSTRAAT GROOT-GELMEN",
+                "created_by": "METTEKOVENSTRAAT METTEKOVEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.274034,
-                    50.786782
+                    5.289619,
+                    50.780915
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "403769",
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "400195",
                 "bus": "yes",
-                "name": "Mettekoven Kerk",
+                "name": "Groot-Gelmen Helshovenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "METTEKOVENSTRAAT METTEKOVEN",
+                "created_by": "HELSHOVENSTRAAT GROOT-GELMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.289619,
-                    50.780915
+                    5.274034,
+                    50.786782
                 ]
             }
         }

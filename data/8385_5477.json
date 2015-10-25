@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;938",
-                "ref:De_Lijn": "104921",
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "107859",
                 "bus": "yes",
-                "name": "Bornem Houtenmolenstraat",
+                "name": "Bornem Broekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLENVELDWEG BORNEM",
+                "created_by": "HINGENESTEENWEG BORNEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.244818,
-                    51.0967
+                    4.24655,
+                    51.100361
                 ]
             }
         },
@@ -45,7 +45,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;257;938",
+                "route_ref:De_Lijn": "98;938",
+                "ref:De_Lijn": "102597",
+                "bus": "yes",
+                "name": "Bornem Sint-Rochuskapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HINGENESTEENWEG BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.253729,
+                    51.101069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;938",
                 "ref:De_Lijn": "102596",
                 "bus": "yes",
                 "name": "Bornem Sint-Rochuskapel",
@@ -66,21 +87,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;257;938",
-                "ref:De_Lijn": "102601",
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104921",
                 "bus": "yes",
-                "name": "Hingene Het Zand",
+                "name": "Bornem Houtenmolenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HINGENESTEENWEG BORNEM",
+                "created_by": "MOLENVELDWEG BORNEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.261849,
-                    51.102793
+                    4.244818,
+                    51.0967
                 ]
             }
         },
@@ -108,69 +129,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;257;938",
-                "ref:De_Lijn": "102602",
-                "bus": "yes",
-                "name": "Hingene Het Zand",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HINGENESTEENWEG BORNEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.261906,
-                    51.102694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;938",
-                "ref:De_Lijn": "104919",
-                "bus": "yes",
-                "name": "Bornem Houtenmolenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENVELDWEG BORNEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.244746,
-                    51.09688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "98;257;938",
-                "ref:De_Lijn": "107861",
-                "bus": "yes",
-                "name": "Bornem Broekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HINGENESTEENWEG BORNEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.246864,
-                    51.100487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "107863",
                 "bus": "yes",
                 "name": "Bornem Mansbroek",
@@ -192,10 +150,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;257;938",
-                "ref:De_Lijn": "102597",
+                "route_ref:De_Lijn": "98;938",
+                "ref:De_Lijn": "102601",
                 "bus": "yes",
-                "name": "Bornem Sint-Rochuskapel",
+                "name": "Hingene Het Zand",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HINGENESTEENWEG BORNEM",
@@ -205,16 +163,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.253729,
-                    51.101069
+                    4.261849,
+                    51.102793
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "257;938",
-                "ref:De_Lijn": "107859",
+                "ref:De_Lijn": "107861",
                 "bus": "yes",
                 "name": "Bornem Broekstraat",
                 "public_transport": "platform",
@@ -226,8 +183,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.24655,
-                    51.100361
+                    4.246864,
+                    51.100487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102602",
+                "bus": "yes",
+                "name": "Hingene Het Zand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HINGENESTEENWEG BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.261906,
+                    51.102694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104919",
+                "bus": "yes",
+                "name": "Bornem Houtenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENVELDWEG BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.244746,
+                    51.09688
                 ]
             }
         }

@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "392",
-                "ref:De_Lijn": "308012",
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "308029",
                 "bus": "yes",
-                "name": "Sint-Joris-Winge Wingerstraat",
+                "name": "Sint-Joris-Winge Dommelhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WINGERSTRAAT SINT-JORIS-WINGE",
+                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.878219,
-                    50.908594
+                    4.885297,
+                    50.908419
                 ]
             }
         },
@@ -46,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "308029",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Dommelhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.885297,
-                    50.908419
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "370;392;524",
                 "ref:De_Lijn": "305018",
                 "bus": "yes",
@@ -88,168 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "301267",
+                "route_ref:De_Lijn": "392",
+                "ref:De_Lijn": "308012",
                 "bus": "yes",
-                "name": "Sint-Joris-Winge Bronstraat",
+                "name": "Sint-Joris-Winge Wingerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GLABBEEKSESTEENWEG SINT-JORIS-WINGE",
+                "created_by": "WINGERSTRAAT SINT-JORIS-WINGE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.886405,
-                    50.903119
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;392;524",
-                "ref:De_Lijn": "304982",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Glabbeeksesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.885641,
-                    50.90991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;392;524",
-                "ref:De_Lijn": "304985",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Hoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.892291,
-                    50.912119
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;392;524",
-                "ref:De_Lijn": "304983",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Glabbeeksesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.884715,
-                    50.909761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "308027",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Bremberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.893866,
-                    50.909262
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;392;524",
-                "ref:De_Lijn": "304984",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Hoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.891334,
-                    50.911691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "308028",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Bremberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.89391,
-                    50.90937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "308030",
-                "bus": "yes",
-                "name": "Sint-Joris-Winge Dommelhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.885256,
-                    50.908518
+                    4.878219,
+                    50.908594
                 ]
             }
         },
@@ -278,6 +110,90 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "370;392;524",
+                "ref:De_Lijn": "304984",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891334,
+                    50.911691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "308030",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Dommelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885256,
+                    50.908518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "308027",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Bremberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893866,
+                    50.909262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;392;524",
+                "ref:De_Lijn": "304982",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Glabbeeksesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885641,
+                    50.90991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;392;524",
                 "ref:De_Lijn": "305017",
                 "bus": "yes",
                 "name": "Tielt-Winge Kiekenbos",
@@ -292,6 +208,90 @@
                 "coordinates": [
                     4.899335,
                     50.915072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "308028",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Bremberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89391,
+                    50.90937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;392;524",
+                "ref:De_Lijn": "304985",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892291,
+                    50.912119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "301267",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Bronstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLABBEEKSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886405,
+                    50.903119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;392;524",
+                "ref:De_Lijn": "304983",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Glabbeeksesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.884715,
+                    50.909761
                 ]
             }
         }

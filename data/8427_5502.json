@@ -4,42 +4,40 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;730;731",
-                "ref:De_Lijn": "402518",
+                "ref:De_Lijn": "404096",
                 "bus": "yes",
-                "name": "Buvingen Weg naar Gingelom",
+                "name": "Muizen Kruisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TRUILINGENSTRAAT BUVINGEN",
+                "created_by": "KANEELSTRAAT MUIZEN (GINGELOM)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.172761,
-                    50.755336
+                    5.180342,
+                    50.758538
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;730;731",
-                "ref:De_Lijn": "402517",
+                "ref:De_Lijn": "404097",
                 "bus": "yes",
-                "name": "Buvingen Kerk",
+                "name": "Muizen Kruisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TRUILINGENSTRAAT BUVINGEN",
+                "created_by": "KANEELSTRAAT MUIZEN (GINGELOM)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.175818,
-                    50.751782
+                    5.18049,
+                    50.758951
                 ]
             }
         },
@@ -89,27 +87,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42;730;731",
-                "ref:De_Lijn": "402520",
-                "bus": "yes",
-                "name": "Buvingen Weg naar Mielen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TRUILINGENSTRAAT BUVINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.177429,
-                    50.753182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;730;731",
                 "ref:De_Lijn": "402523",
                 "bus": "yes",
                 "name": "Buvingen Weg naar Mielen",
@@ -130,20 +107,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404097",
+                "route_ref:De_Lijn": "42;730;731",
+                "ref:De_Lijn": "402520",
                 "bus": "yes",
-                "name": "Muizen Kruisstraat",
+                "name": "Buvingen Weg naar Mielen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KANEELSTRAAT MUIZEN (GINGELOM)",
+                "created_by": "TRUILINGENSTRAAT BUVINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.18049,
-                    50.758951
+                    5.177429,
+                    50.753182
                 ]
             }
         },
@@ -171,20 +149,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "404096",
+                "route_ref:De_Lijn": "42;730;731",
+                "ref:De_Lijn": "402517",
                 "bus": "yes",
-                "name": "Muizen Kruisstraat",
+                "name": "Buvingen Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KANEELSTRAAT MUIZEN (GINGELOM)",
+                "created_by": "TRUILINGENSTRAAT BUVINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.180342,
-                    50.758538
+                    5.175818,
+                    50.751782
                 ]
             }
         },
@@ -206,6 +185,27 @@
                 "coordinates": [
                     5.175216,
                     50.75968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;730;731",
+                "ref:De_Lijn": "402518",
+                "bus": "yes",
+                "name": "Buvingen Weg naar Gingelom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRUILINGENSTRAAT BUVINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172761,
+                    50.755336
                 ]
             }
         }

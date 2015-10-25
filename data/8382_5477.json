@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "101202",
-                "bus": "yes",
-                "name": "Weert Scheldestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHELDESTRAAT WEERT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.190792,
-                    51.102762
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "938",
                 "ref:De_Lijn": "101203",
                 "bus": "yes",
                 "name": "Weert Weert",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.192939,
                     51.101237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "101202",
+                "bus": "yes",
+                "name": "Weert Scheldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDESTRAAT WEERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190792,
+                    51.102762
                 ]
             }
         }

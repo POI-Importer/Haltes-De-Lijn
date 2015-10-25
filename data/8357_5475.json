@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;150;160",
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "202029",
                 "bus": "yes",
                 "name": "Sleidinge Eeksken",

@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "68;71;79",
+                "ref:De_Lijn": "509114",
+                "bus": "yes",
+                "name": "Loker Scherpenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSTRAAT LOKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.78096,
+                    50.795411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504699",
+                "bus": "yes",
+                "name": "Reningelst Brander",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOKERSEWEG RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.770505,
+                    50.805421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "71",
                 "ref:De_Lijn": "509110",
                 "bus": "yes",
@@ -61,48 +103,6 @@
                 "coordinates": [
                     2.789642,
                     50.798397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "504699",
-                "bus": "yes",
-                "name": "Reningelst Brander",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOKERSEWEG RENINGELST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.770505,
-                    50.805421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68;71;79",
-                "ref:De_Lijn": "509114",
-                "bus": "yes",
-                "name": "Loker Scherpenberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKKEBUSSTRAAT LOKER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.78096,
-                    50.795411
                 ]
             }
         }

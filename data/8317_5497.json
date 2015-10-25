@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "504465",
-                "bus": "yes",
-                "name": "Reningelst Hoogte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BALJUWSTRAAT RENINGELST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.756054,
-                    50.8213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;68",
-                "ref:De_Lijn": "509465",
-                "bus": "yes",
-                "name": "Reningelst Hoogte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BALJUWSTRAAT RENINGELST",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.756355,
-                    50.821223
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;68",
                 "ref:De_Lijn": "504464",
                 "bus": "yes",
                 "name": "Reningelst Hemelstraat",
@@ -68,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "504465",
+                "bus": "yes",
+                "name": "Reningelst Hoogte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALJUWSTRAAT RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.756054,
+                    50.8213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
                 "ref:De_Lijn": "504467",
                 "bus": "yes",
                 "name": "Reningelst Robaartbeek",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.750271,
                     50.828494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "509465",
+                "bus": "yes",
+                "name": "Reningelst Hoogte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALJUWSTRAAT RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.756355,
+                    50.821223
                 ]
             }
         },

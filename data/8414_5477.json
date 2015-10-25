@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "541;543;946",
-                "ref:De_Lijn": "108752",
-                "bus": "yes",
-                "name": "Tongerlo Steine Hoevestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENEINDE WESTERLO",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.883563,
-                    51.103998
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "541;543;946",
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "108754",
                 "bus": "yes",
                 "name": "Tongerlo Geneinde",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "541;543;946",
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "108756",
                 "bus": "yes",
                 "name": "Tongerlo Geneinde",
@@ -67,7 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "541;543;946",
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "108752",
+                "bus": "yes",
+                "name": "Tongerlo Steine Hoevestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENEINDE WESTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883563,
+                    51.103998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "108753",
                 "bus": "yes",
                 "name": "Tongerlo Steine Hoevestraat",

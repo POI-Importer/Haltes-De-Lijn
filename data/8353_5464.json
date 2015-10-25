@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62;195",
-                "ref:De_Lijn": "202239",
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203239",
                 "bus": "yes",
                 "name": "Sint-Margriete Gemeentehuis",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.5472,
-                    51.280358
+                    3.547571,
+                    51.28046
                 ]
             }
         },
@@ -46,8 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "203239",
+                "ref:De_Lijn": "202239",
                 "bus": "yes",
                 "name": "Sint-Margriete Gemeentehuis",
                 "public_transport": "platform",
@@ -59,15 +58,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.547571,
-                    51.28046
+                    3.5472,
+                    51.280358
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62;195",
                 "ref:De_Lijn": "202238",
                 "bus": "yes",
                 "name": "Sint-Margriete Groenstraat",

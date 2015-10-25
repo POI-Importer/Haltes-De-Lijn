@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "202286",
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "202285",
                 "bus": "yes",
-                "name": "Maldegem Groot Burkel",
+                "name": "Maldegem Harinkweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROOT BURKELKALSEINDE MALDEGEM",
+                "created_by": "AALTERBAAN MALDEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.434469,
-                    51.159797
+                    3.441155,
+                    51.165073
                 ]
             }
         },
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "202287",
                 "bus": "yes",
                 "name": "Maldegem Oude Bruggeweg",
@@ -88,21 +88,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;185",
-                "ref:De_Lijn": "202285",
+                "ref:De_Lijn": "202286",
                 "bus": "yes",
-                "name": "Maldegem Harinkweg",
+                "name": "Maldegem Groot Burkel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AALTERBAAN MALDEGEM",
+                "created_by": "GROOT BURKELKALSEINDE MALDEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.441155,
-                    51.165073
+                    3.434469,
+                    51.159797
                 ]
             }
         }

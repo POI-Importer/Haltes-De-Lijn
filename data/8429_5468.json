@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "109837",
-                "bus": "yes",
-                "name": "Mol Kiezelweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "F. S. EMSENSLAAN RAUW",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.213003,
-                    51.22097
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "405881",
                 "bus": "yes",
                 "name": "Werkplaatsen Stevensvennen",
@@ -81,6 +60,27 @@
                 "coordinates": [
                     5.211682,
                     51.221555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "109837",
+                "bus": "yes",
+                "name": "Mol Kiezelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "F. S. EMSENSLAAN RAUW",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.213003,
+                    51.22097
                 ]
             }
         },

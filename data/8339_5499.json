@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81",
-                "ref:De_Lijn": "504767",
-                "bus": "yes",
-                "name": "Marke Ontmoetingscentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELLESTRAAT MARKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.238987,
-                    50.80509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "504793",
-                "bus": "yes",
-                "name": "Marke Vannestesmolen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POTTELBERG MARKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.245696,
-                    50.805182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "504794",
-                "bus": "yes",
-                "name": "Marke Vannestesmolen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POTTELBERG MARKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.245204,
-                    50.804961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "83",
                 "ref:De_Lijn": "503526",
                 "bus": "yes",
@@ -110,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "81",
-                "ref:De_Lijn": "504686",
+                "ref:De_Lijn": "504766",
                 "bus": "yes",
-                "name": "Marke Goed Te Marke",
+                "name": "Marke Ontmoetingscentrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VAN BELLEGHEMDREEF MARKE",
+                "created_by": "HELLESTRAAT MARKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.230248,
-                    50.805626
+                    3.239055,
+                    50.80519
                 ]
             }
         },
@@ -145,6 +82,90 @@
                 "coordinates": [
                     3.230349,
                     50.805528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "504767",
+                "bus": "yes",
+                "name": "Marke Ontmoetingscentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELLESTRAAT MARKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.238987,
+                    50.80509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "504794",
+                "bus": "yes",
+                "name": "Marke Vannestesmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTELBERG MARKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.245204,
+                    50.804961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "504793",
+                "bus": "yes",
+                "name": "Marke Vannestesmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTELBERG MARKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.245696,
+                    50.805182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "508524",
+                "bus": "yes",
+                "name": "Marke De Prins",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTELBERG MARKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.242271,
+                    50.801858
                 ]
             }
         },
@@ -173,41 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "81",
-                "ref:De_Lijn": "504766",
+                "ref:De_Lijn": "504686",
                 "bus": "yes",
-                "name": "Marke Ontmoetingscentrum",
+                "name": "Marke Goed Te Marke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HELLESTRAAT MARKE",
+                "created_by": "VAN BELLEGHEMDREEF MARKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.239055,
-                    50.80519
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "508524",
-                "bus": "yes",
-                "name": "Marke De Prins",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POTTELBERG MARKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.242271,
-                    50.801858
+                    3.230248,
+                    50.805626
                 ]
             }
         }

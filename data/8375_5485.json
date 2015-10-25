@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54",
-                "ref:De_Lijn": "207284",
-                "bus": "yes",
-                "name": "Schoonaarde Pontstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MIGROSTRAAT SCHOONAARDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.032961,
-                    50.990685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "54",
                 "ref:De_Lijn": "206873",
                 "bus": "yes",
@@ -47,20 +26,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;54",
-                "ref:De_Lijn": "207282",
+                "ref:De_Lijn": "207284",
                 "bus": "yes",
-                "name": "Schoonaarde Schuiteplasstraat",
+                "name": "Schoonaarde Pontstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VRANKRIJKSTRAAT SCHOONAARDE",
+                "created_by": "MIGROSTRAAT SCHOONAARDE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.021621,
-                    50.996756
+                    4.032961,
+                    50.990685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54",
+                "ref:De_Lijn": "206283",
+                "bus": "yes",
+                "name": "Schoonaarde Migrodries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIGROSTRAAT SCHOONAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.026919,
+                    50.995063
                 ]
             }
         },
@@ -88,28 +88,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54;355",
-                "ref:De_Lijn": "206283",
-                "bus": "yes",
-                "name": "Schoonaarde Migrodries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MIGROSTRAAT SCHOONAARDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.026919,
-                    50.995063
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;54;355",
+                "route_ref:De_Lijn": "53;54",
                 "ref:De_Lijn": "206282",
                 "bus": "yes",
                 "name": "Schoonaarde Schuiteplasstraat",
@@ -151,7 +130,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54;355",
+                "route_ref:De_Lijn": "53;54",
                 "ref:De_Lijn": "206284",
                 "bus": "yes",
                 "name": "Schoonaarde Pontstraat",
@@ -166,6 +145,27 @@
                 "coordinates": [
                     4.032977,
                     50.990505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54",
+                "ref:De_Lijn": "207282",
+                "bus": "yes",
+                "name": "Schoonaarde Schuiteplasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRANKRIJKSTRAAT SCHOONAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.021621,
+                    50.996756
                 ]
             }
         }

@@ -4,7 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762",
+                "route_ref:De_Lijn": "763",
+                "ref:De_Lijn": "104865",
+                "bus": "yes",
+                "name": "Royerssluis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTERWEELSTEENWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399402,
+                    51.241719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "102630",
                 "bus": "yes",
                 "name": "Kaai 104",
@@ -25,33 +45,32 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762;763;764",
-                "ref:De_Lijn": "101704",
+                "route_ref:De_Lijn": "762;763",
+                "ref:De_Lijn": "102278",
                 "bus": "yes",
-                "name": "Ferdinanduspolder",
+                "name": "Binnenvaartstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEXICOSTRAAT ANTWERPEN",
+                "created_by": "KEMPISCHDOK-WESTKAAI ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.409051,
-                    51.239038
+                    4.413257,
+                    51.234632
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762",
                 "ref:De_Lijn": "103170",
-                "bus": "yes",
                 "name": "Kaai 110",
                 "public_transport": "platform",
-                "highway": "bus_stop",
+                "railway": "tram_stop",
+                "tram": "yes",
                 "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -61,27 +80,6 @@
                 "coordinates": [
                     4.415819,
                     51.247951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "763;764",
-                "ref:De_Lijn": "104870",
-                "bus": "yes",
-                "name": "Royerssluis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTERWEELSTEENWEG ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.399316,
-                    51.241503
                 ]
             }
         },
@@ -109,49 +107,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "763;764",
-                "ref:De_Lijn": "104865",
+                "ref:De_Lijn": "101704",
                 "bus": "yes",
-                "name": "Royerssluis",
+                "name": "Ferdinanduspolder",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OOSTERWEELSTEENWEG ANTWERPEN",
+                "created_by": "MEXICOSTRAAT ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.399402,
-                    51.241719
+                    4.409051,
+                    51.239038
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762;763;764",
-                "ref:De_Lijn": "102278",
-                "bus": "yes",
-                "name": "Binnenvaartstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEMPISCHDOK-WESTKAAI ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.413257,
-                    51.234632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "762;763;764",
                 "ref:De_Lijn": "102282",
                 "bus": "yes",
                 "name": "Indiëstraat",
@@ -193,7 +168,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762;763;764",
                 "ref:De_Lijn": "101703",
                 "bus": "yes",
                 "name": "Ferdinanduspolder",
@@ -208,6 +182,26 @@
                 "coordinates": [
                     4.408908,
                     51.239092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104870",
+                "bus": "yes",
+                "name": "Royerssluis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTERWEELSTEENWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399316,
+                    51.241503
                 ]
             }
         }

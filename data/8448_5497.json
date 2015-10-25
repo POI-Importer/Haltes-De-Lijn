@@ -4,73 +4,31 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407723",
+                "route_ref:De_Lijn": "39b;724",
+                "ref:De_Lijn": "409772",
                 "bus": "yes",
-                "name": "Vroenhoven Maastrichtersteenweg 111",
+                "name": "Lafelt Oostheuvel",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
+                "created_by": "IERS KRUISSTRAAT VLIJTINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.629033,
-                    50.825548
+                    5.625065,
+                    50.828459
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407722",
+                "route_ref:De_Lijn": "39b;726",
+                "ref:De_Lijn": "407729",
                 "bus": "yes",
-                "name": "Vroenhoven Maastrichtersteenweg 111",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.629272,
-                    50.825474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "407724",
-                "bus": "yes",
-                "name": "Vroenhoven Grens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.64559,
-                    50.83204
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "18;61;39b",
-                "ref:De_Lijn": "407646",
-                "bus": "yes",
-                "name": "Vroenhoven Lafelterweg",
+                "name": "Vroenhoven Bibliotheek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LAFELTERWEG VROENHOVEN",
@@ -80,50 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.635419,
-                    50.827592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39;62;39b",
-                "ref:De_Lijn": "407716",
-                "bus": "yes",
-                "name": "Vroenhoven Krijtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.637773,
-                    50.829068
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;20a",
-                "ref:De_Lijn": "407703",
-                "bus": "yes",
-                "name": "Vlijtingen Lafelt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BURGEMEESTER MARRESBAAN VLIJTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.625552,
-                    50.828615
+                    5.638204,
+                    50.827184
                 ]
             }
         },
@@ -152,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "726",
-                "ref:De_Lijn": "409779",
+                "ref:De_Lijn": "409777",
                 "bus": "yes",
-                "name": "Vroenhoven Pastoor Counestraat",
+                "name": "Vroenhoven Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PASTOOR COUNESTRAAT VROENHOVEN",
@@ -164,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.644645,
-                    50.824939
+                    5.640457,
+                    50.825964
                 ]
             }
         },
@@ -193,52 +109,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18;61;39b",
-                "ref:De_Lijn": "407728",
-                "bus": "yes",
-                "name": "Vroenhoven Bibliotheek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAFELTERWEG VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.638432,
-                    50.8272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39;39b;726",
-                "ref:De_Lijn": "407727",
-                "bus": "yes",
-                "name": "Vroenhoven Weg naar Kanne",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MUIZENBERG VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.644859,
-                    50.830726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "39b;726",
-                "ref:De_Lijn": "407729",
+                "ref:De_Lijn": "407720",
                 "bus": "yes",
-                "name": "Vroenhoven Bibliotheek",
+                "name": "Vroenhoven Lafelterweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LAFELTERWEG VROENHOVEN",
@@ -248,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.638204,
-                    50.827184
+                    5.635373,
+                    50.827458
                 ]
             }
         },
@@ -277,63 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39b;726",
-                "ref:De_Lijn": "407720",
+                "route_ref:De_Lijn": "61;20a",
+                "ref:De_Lijn": "407702",
                 "bus": "yes",
-                "name": "Vroenhoven Lafelterweg",
+                "name": "Vlijtingen Lafelt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LAFELTERWEG VROENHOVEN",
+                "created_by": "BURGEMEESTER MARRESBAAN VLIJTINGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.635373,
-                    50.827458
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b;724",
-                "ref:De_Lijn": "409772",
-                "bus": "yes",
-                "name": "Lafelt Oostheuvel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IERS KRUISSTRAAT VLIJTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.625065,
-                    50.828459
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "18;39;61;62;39b;726",
-                "ref:De_Lijn": "409521",
-                "bus": "yes",
-                "name": "Vroenhoven Burgemeester Marresbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.629033,
-                    50.825548
+                    5.625782,
+                    50.828721
                 ]
             }
         },
@@ -361,6 +193,90 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "39;39b;726",
+                "ref:De_Lijn": "407727",
+                "bus": "yes",
+                "name": "Vroenhoven Weg naar Kanne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUIZENBERG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.644859,
+                    50.830726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;61;62;39b;726",
+                "ref:De_Lijn": "409521",
+                "bus": "yes",
+                "name": "Vroenhoven Burgemeester Marresbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.629033,
+                    50.825548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a",
+                "ref:De_Lijn": "407703",
+                "bus": "yes",
+                "name": "Vlijtingen Lafelt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER MARRESBAAN VLIJTINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.625552,
+                    50.828615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;62;39b",
+                "ref:De_Lijn": "407716",
+                "bus": "yes",
+                "name": "Vroenhoven Krijtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.637773,
+                    50.829068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "61;62",
                 "ref:De_Lijn": "407718",
                 "bus": "yes",
@@ -376,69 +292,6 @@
                 "coordinates": [
                     5.635457,
                     50.827951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "726",
-                "ref:De_Lijn": "409777",
-                "bus": "yes",
-                "name": "Vroenhoven Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR COUNESTRAAT VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.640457,
-                    50.825964
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;20a",
-                "ref:De_Lijn": "407702",
-                "bus": "yes",
-                "name": "Vlijtingen Lafelt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BURGEMEESTER MARRESBAAN VLIJTINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.625782,
-                    50.828721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b;726",
-                "ref:De_Lijn": "407726",
-                "bus": "yes",
-                "name": "Vroenhoven Weg naar Kanne",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MUIZENBERG VROENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.644716,
-                    50.830701
                 ]
             }
         },
@@ -481,6 +334,153 @@
                 "coordinates": [
                     5.645138,
                     50.823746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407722",
+                "bus": "yes",
+                "name": "Vroenhoven Maastrichtersteenweg 111",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.629272,
+                    50.825474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b;726",
+                "ref:De_Lijn": "407726",
+                "bus": "yes",
+                "name": "Vroenhoven Weg naar Kanne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUIZENBERG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.644716,
+                    50.830701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407723",
+                "bus": "yes",
+                "name": "Vroenhoven Maastrichtersteenweg 111",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.629033,
+                    50.825548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "409779",
+                "bus": "yes",
+                "name": "Vroenhoven Pastoor Counestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR COUNESTRAAT VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.644645,
+                    50.824939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;61;39b",
+                "ref:De_Lijn": "407646",
+                "bus": "yes",
+                "name": "Vroenhoven Lafelterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAFELTERWEG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.635419,
+                    50.827592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "407724",
+                "bus": "yes",
+                "name": "Vroenhoven Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.64559,
+                    50.83204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;61;39b",
+                "ref:De_Lijn": "407728",
+                "bus": "yes",
+                "name": "Vroenhoven Bibliotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAFELTERWEG VROENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.638432,
+                    50.8272
                 ]
             }
         }

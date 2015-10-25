@@ -4,28 +4,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;130",
-                "ref:De_Lijn": "202241",
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "202960",
                 "bus": "yes",
-                "name": "Wetteren Serskampstraat",
+                "name": "Wetteren Warandestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SERSKAMPSTRAAT WETTEREN",
+                "created_by": "WEGVOERINGSTRAAT WETTEREN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.896794,
-                    51.000835
+                    3.904998,
+                    51.011133
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "203958",
+                "bus": "yes",
+                "name": "Wetteren Achttien Augustuslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTTIEN AUGUSTUSLAAN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.895222,
+                    51.008415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "201935",
                 "bus": "yes",
                 "name": "Wetteren Schelderust",
@@ -46,7 +66,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;130",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "202241",
+                "bus": "yes",
+                "name": "Wetteren Serskampstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SERSKAMPSTRAAT WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.896794,
+                    51.000835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28",
                 "ref:De_Lijn": "203956",
                 "bus": "yes",
                 "name": "Wetteren Zwemkom",
@@ -67,7 +108,91 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;130",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "201239",
+                "bus": "yes",
+                "name": "Wetteren Buyssestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICTOR VAN SANDELAAN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.890522,
+                    51.002598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "202957",
+                "bus": "yes",
+                "name": "Wetteren Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTTIEN AUGUSTUSLAAN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.897899,
+                    51.004291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "201240",
+                "bus": "yes",
+                "name": "Wetteren Buyssestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDELAAN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.889921,
+                    51.002857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "203959",
+                "bus": "yes",
+                "name": "Wetteren Ziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEGVOERINGSTRAAT WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.899126,
+                    51.009797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "203241",
                 "bus": "yes",
                 "name": "Wetteren Serskampstraat",
@@ -88,7 +213,70 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;130",
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "203957",
+                "bus": "yes",
+                "name": "Wetteren Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTTIEN AUGUSTUSLAAN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.898055,
+                    51.004382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "202956",
+                "bus": "yes",
+                "name": "Wetteren Zwemkom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDELAAN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.893692,
+                    51.003294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;46;47;58;59",
+                "ref:De_Lijn": "202955",
+                "bus": "yes",
+                "name": "Wetteren Buyssestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN BROECKAERTLAAN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.889265,
+                    51.002872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28",
                 "ref:De_Lijn": "202959",
                 "bus": "yes",
                 "name": "Wetteren Ziekenhuis",
@@ -103,27 +291,6 @@
                 "coordinates": [
                     3.899096,
                     51.009932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;130",
-                "ref:De_Lijn": "202957",
-                "bus": "yes",
-                "name": "Wetteren Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ACHTTIEN AUGUSTUSLAAN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.897899,
-                    51.004291
                 ]
             }
         },
@@ -152,111 +319,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "27;28",
-                "ref:De_Lijn": "201240",
-                "bus": "yes",
-                "name": "Wetteren Buyssestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WARANDELAAN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.889921,
-                    51.002857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;130",
-                "ref:De_Lijn": "203958",
-                "bus": "yes",
-                "name": "Wetteren Achttien Augustuslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ACHTTIEN AUGUSTUSLAAN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.895222,
-                    51.008415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;130",
-                "ref:De_Lijn": "203960",
-                "bus": "yes",
-                "name": "Wetteren Warandestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDESTEENWEG WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.905939,
-                    51.011074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "201239",
-                "bus": "yes",
-                "name": "Wetteren Buyssestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VICTOR VAN SANDELAAN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.890522,
-                    51.002598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;130",
-                "ref:De_Lijn": "202960",
-                "bus": "yes",
-                "name": "Wetteren Warandestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEGVOERINGSTRAAT WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.904998,
-                    51.011133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;130",
                 "ref:De_Lijn": "202958",
                 "bus": "yes",
                 "name": "Wetteren Achttien Augustuslaan",
@@ -277,84 +339,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;28;130",
-                "ref:De_Lijn": "202956",
+                "route_ref:De_Lijn": "27;28",
+                "ref:De_Lijn": "203960",
                 "bus": "yes",
-                "name": "Wetteren Zwemkom",
+                "name": "Wetteren Warandestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WARANDELAAN WETTEREN",
+                "created_by": "DENDERMONDESTEENWEG WETTEREN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.893692,
-                    51.003294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;46;47;58;59;130",
-                "ref:De_Lijn": "202955",
-                "bus": "yes",
-                "name": "Wetteren Buyssestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JAN BROECKAERTLAAN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.889265,
-                    51.002872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;130",
-                "ref:De_Lijn": "203959",
-                "bus": "yes",
-                "name": "Wetteren Ziekenhuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEGVOERINGSTRAAT WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.899126,
-                    51.009797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;28;130",
-                "ref:De_Lijn": "203957",
-                "bus": "yes",
-                "name": "Wetteren Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ACHTTIEN AUGUSTUSLAAN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.898055,
-                    51.004382
+                    3.905939,
+                    51.011074
                 ]
             }
         }

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;302",
-                "ref:De_Lijn": "406501",
-                "bus": "yes",
-                "name": "Zittaart Biezenhoed",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N126 MEERHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.052036,
-                    51.104489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "406507",
                 "bus": "yes",
                 "name": "Zittaart Genebroek",
@@ -60,6 +39,27 @@
                 "coordinates": [
                     5.052225,
                     51.10474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;302",
+                "ref:De_Lijn": "406501",
+                "bus": "yes",
+                "name": "Zittaart Biezenhoed",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N126 MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.052036,
+                    51.104489
                 ]
             }
         }

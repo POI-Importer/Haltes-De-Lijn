@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "307201",
+                "ref:De_Lijn": "303122",
                 "bus": "yes",
-                "name": "Lembeek Kerk",
+                "name": "Lembeek Gieterij",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "J.EN C. COLRUYTSTRAAT LEMBEEK",
+                "created_by": "HELDENSTRAAT LEMBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.223406,
-                    50.713334
+                    4.22361,
+                    50.711437
                 ]
             }
         },
@@ -46,63 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "303123",
+                "route_ref:De_Lijn": "153",
+                "ref:De_Lijn": "307200",
                 "bus": "yes",
-                "name": "Lembeek Gieterij",
+                "name": "Halle Kerkhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HELDENSTRAAT LEMBEEK",
+                "created_by": "BERGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.223752,
-                    50.711329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "307219",
-                "bus": "yes",
-                "name": "Lembeek Malheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER SPITAELSLAAN LEMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.23559,
-                    50.710831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "306384",
-                "bus": "yes",
-                "name": "Lembeek Blekerijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOKTER SPITAELSLAAN LEMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.239416,
-                    50.709666
+                    4.22339,
+                    50.718754
                 ]
             }
         },
@@ -131,69 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "153;156",
-                "ref:De_Lijn": "307607",
-                "bus": "yes",
-                "name": "Lembeek Sancta Maria",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEERSTANDSSTRAAT LEMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.221867,
-                    50.716487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "307204",
-                "bus": "yes",
-                "name": "Lembeek Sas",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSLAAN LEMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.22342,
-                    50.709036
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153",
-                "ref:De_Lijn": "307200",
-                "bus": "yes",
-                "name": "Halle Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.22339,
-                    50.718754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;156",
                 "ref:De_Lijn": "307599",
                 "bus": "yes",
                 "name": "Lembeek Sancta Maria",
@@ -215,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "303122",
+                "ref:De_Lijn": "307201",
                 "bus": "yes",
-                "name": "Lembeek Gieterij",
+                "name": "Lembeek Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HELDENSTRAAT LEMBEEK",
+                "created_by": "J.EN C. COLRUYTSTRAAT LEMBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.22361,
-                    50.711437
+                    4.223406,
+                    50.713334
                 ]
             }
         },
@@ -236,41 +131,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "307220",
+                "ref:De_Lijn": "307202",
                 "bus": "yes",
-                "name": "Lembeek Malheide",
+                "name": "Lembeek Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOKTER SPITAELSLAAN LEMBEEK",
+                "created_by": "WEERSTANDSSTRAAT LEMBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.235732,
-                    50.710804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153",
-                "ref:De_Lijn": "307197",
-                "bus": "yes",
-                "name": "Halle Europalaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.225195,
-                    50.721229
+                    4.22458,
+                    50.714
                 ]
             }
         },
@@ -320,9 +194,72 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "156",
-                "ref:De_Lijn": "307202",
+                "ref:De_Lijn": "303123",
                 "bus": "yes",
-                "name": "Lembeek Kerk",
+                "name": "Lembeek Gieterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELDENSTRAAT LEMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.223752,
+                    50.711329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153",
+                "ref:De_Lijn": "307197",
+                "bus": "yes",
+                "name": "Halle Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.225195,
+                    50.721229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "307220",
+                "bus": "yes",
+                "name": "Lembeek Malheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER SPITAELSLAAN LEMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.235732,
+                    50.710804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;156",
+                "ref:De_Lijn": "307607",
+                "bus": "yes",
+                "name": "Lembeek Sancta Maria",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WEERSTANDSSTRAAT LEMBEEK",
@@ -332,8 +269,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.22458,
-                    50.714
+                    4.221867,
+                    50.716487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "307219",
+                "bus": "yes",
+                "name": "Lembeek Malheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER SPITAELSLAAN LEMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.23559,
+                    50.710831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "307204",
+                "bus": "yes",
+                "name": "Lembeek Sas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN LEMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.22342,
+                    50.709036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "306384",
+                "bus": "yes",
+                "name": "Lembeek Blekerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER SPITAELSLAAN LEMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.239416,
+                    50.709666
                 ]
             }
         }

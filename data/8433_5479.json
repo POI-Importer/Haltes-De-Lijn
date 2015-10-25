@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "406854",
+                "ref:De_Lijn": "406845",
                 "bus": "yes",
                 "name": "Koersel Leemstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.300632,
-                    51.072635
+                    5.300605,
+                    51.072743
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "406845",
+                "ref:De_Lijn": "406854",
                 "bus": "yes",
                 "name": "Koersel Leemstraat",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.300605,
-                    51.072743
+                    5.300632,
+                    51.072635
                 ]
             }
         }

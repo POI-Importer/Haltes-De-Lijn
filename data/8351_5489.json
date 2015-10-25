@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "200677",
                 "bus": "yes",
                 "name": "Machelen Sparrenstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "200674",
                 "bus": "yes",
                 "name": "Machelen Vrijstraat",

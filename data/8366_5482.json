@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;130",
-                "ref:De_Lijn": "202470",
-                "bus": "yes",
-                "name": "Laarne Kasteel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EEKHOEKSTRAAT LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.840139,
-                    51.028371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;130",
+                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "201958",
                 "bus": "yes",
                 "name": "Laarne Vagevuurstraat",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;130",
+                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "200958",
                 "bus": "yes",
                 "name": "Laarne Vagevuurstraat",
@@ -61,6 +40,90 @@
                 "coordinates": [
                     3.837847,
                     51.03068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "202470",
+                "bus": "yes",
+                "name": "Laarne Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKHOEKSTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.840139,
+                    51.028371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "202468",
+                "bus": "yes",
+                "name": "Heusden Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARNEBAAN HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.826384,
+                    51.033271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "202469",
+                "bus": "yes",
+                "name": "Laarne Korte Eekhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKHOEKSTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.832226,
+                    51.033531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "203470",
+                "bus": "yes",
+                "name": "Laarne Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKHOEKSTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.839998,
+                    51.028254
                 ]
             }
         },
@@ -88,49 +151,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;130",
-                "ref:De_Lijn": "202469",
-                "bus": "yes",
-                "name": "Laarne Korte Eekhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EEKHOEKSTRAAT LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.832226,
-                    51.033531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;140",
-                "ref:De_Lijn": "202468",
-                "bus": "yes",
-                "name": "Heusden Broekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAARNEBAAN HEUSDEN (DESTELBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.826384,
-                    51.033271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;130",
+                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "203469",
                 "bus": "yes",
                 "name": "Laarne Korte Eekhoekstraat",
@@ -145,27 +166,6 @@
                 "coordinates": [
                     3.832843,
                     51.033201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;130",
-                "ref:De_Lijn": "203470",
-                "bus": "yes",
-                "name": "Laarne Kasteel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EEKHOEKSTRAAT LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.839998,
-                    51.028254
                 ]
             }
         }

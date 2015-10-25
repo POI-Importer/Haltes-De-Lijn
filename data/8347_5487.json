@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;77;88",
-                "ref:De_Lijn": "503110",
+                "route_ref:De_Lijn": "77;88",
+                "ref:De_Lijn": "505667",
                 "bus": "yes",
-                "name": "Dentergem Bamstraat",
+                "name": "Dentergem Bunderswijk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARKEGEMSESTEENWEG DENTERGEM",
+                "created_by": "BUNDERSWIJK DENTERGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.411889,
-                    50.960505
+                    3.410655,
+                    50.96445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;88",
+                "ref:De_Lijn": "505083",
+                "bus": "yes",
+                "name": "Dentergem Nellekenshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUNDERSWIJK DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.408575,
+                    50.964568
                 ]
             }
         },
@@ -40,48 +61,6 @@
                 "coordinates": [
                     3.416109,
                     50.965789
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;77;88",
-                "ref:De_Lijn": "508113",
-                "bus": "yes",
-                "name": "Dentergem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKEGEMSESTEENWEG DENTERGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.418424,
-                    50.963246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;77;88",
-                "ref:De_Lijn": "508110",
-                "bus": "yes",
-                "name": "Dentergem Bamstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKEGEMSESTEENWEG DENTERGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.410446,
-                    50.96007
                 ]
             }
         },
@@ -130,31 +109,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;88",
-                "ref:De_Lijn": "505667",
-                "bus": "yes",
-                "name": "Dentergem Bunderswijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BUNDERSWIJK DENTERGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.410655,
-                    50.96445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "53;77;88",
-                "ref:De_Lijn": "503113",
+                "ref:De_Lijn": "508110",
                 "bus": "yes",
-                "name": "Dentergem Dorp",
+                "name": "Dentergem Bamstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MARKEGEMSESTEENWEG DENTERGEM",
@@ -164,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.418357,
-                    50.963074
+                    3.410446,
+                    50.96007
                 ]
             }
         },
@@ -194,6 +152,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;77;88",
+                "ref:De_Lijn": "508113",
+                "bus": "yes",
+                "name": "Dentergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKEGEMSESTEENWEG DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.418424,
+                    50.963246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77;88",
+                "ref:De_Lijn": "503113",
+                "bus": "yes",
+                "name": "Dentergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKEGEMSESTEENWEG DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.418357,
+                    50.963074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77;88",
                 "ref:De_Lijn": "508112",
                 "bus": "yes",
                 "name": "Dentergem RVT Mariaburcht",
@@ -214,21 +214,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;88",
-                "ref:De_Lijn": "505083",
+                "route_ref:De_Lijn": "53;77;88",
+                "ref:De_Lijn": "503110",
                 "bus": "yes",
-                "name": "Dentergem Nellekenshof",
+                "name": "Dentergem Bamstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BUNDERSWIJK DENTERGEM",
+                "created_by": "MARKEGEMSESTEENWEG DENTERGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.408575,
-                    50.964568
+                    3.411889,
+                    50.960505
                 ]
             }
         }

@@ -4,126 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "297",
-                "ref:De_Lijn": "107329",
+                "ref:De_Lijn": "104738",
                 "bus": "yes",
-                "name": "Berlaar Molenlei",
+                "name": "Berlaar Doelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LIERSESTEENWEG BERLAAR",
+                "created_by": "SMIDSTRAAT BERLAAR",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.639502,
-                    51.119068
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "104749",
-                "bus": "yes",
-                "name": "Berlaar Stationsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIAMANTSTRAAT BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.644661,
-                    51.114643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "297",
-                "ref:De_Lijn": "107334",
-                "bus": "yes",
-                "name": "Berlaar Daalstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.654075,
-                    51.117542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "297",
-                "ref:De_Lijn": "107331",
-                "bus": "yes",
-                "name": "Berlaar Kapellebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIERSESTEENWEG BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.646804,
-                    51.11719
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "104752",
-                "bus": "yes",
-                "name": "Berlaar Stationsplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSPLEIN BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.639569,
-                    51.113333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "297",
-                "ref:De_Lijn": "107333",
-                "bus": "yes",
-                "name": "Berlaar Daalstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.653645,
-                    51.117327
+                    4.65392,
+                    51.115457
                 ]
             }
         },
@@ -151,7 +45,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107333",
+                "bus": "yes",
+                "name": "Berlaar Daalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653645,
+                    51.117327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "104736",
                 "bus": "yes",
                 "name": "Berlaar Rusthuis",
@@ -172,28 +85,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "104746",
-                "bus": "yes",
-                "name": "Berlaar Meistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SMIDSTRAAT BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.652102,
-                    51.112405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "297",
                 "ref:De_Lijn": "107332",
                 "bus": "yes",
                 "name": "Berlaar Kapellebaan",
@@ -208,6 +99,26 @@
                 "coordinates": [
                     4.646633,
                     51.117299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104746",
+                "bus": "yes",
+                "name": "Berlaar Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMIDSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.652102,
+                    51.112405
                 ]
             }
         },
@@ -236,27 +147,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "104738",
-                "bus": "yes",
-                "name": "Berlaar Doelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SMIDSTRAAT BERLAAR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.65392,
-                    51.115457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "102703",
                 "bus": "yes",
                 "name": "Berlaar Zomerstraat",
@@ -277,7 +167,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "297",
                 "ref:De_Lijn": "107328",
                 "bus": "yes",
                 "name": "Berlaar Molenlei",
@@ -292,6 +181,106 @@
                 "coordinates": [
                     4.639345,
                     51.11897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104752",
+                "bus": "yes",
+                "name": "Berlaar Stationsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.639569,
+                    51.113333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107334",
+                "bus": "yes",
+                "name": "Berlaar Daalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.654075,
+                    51.117542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104749",
+                "bus": "yes",
+                "name": "Berlaar Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIAMANTSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.644661,
+                    51.114643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107329",
+                "bus": "yes",
+                "name": "Berlaar Molenlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSESTEENWEG BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.639502,
+                    51.119068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107331",
+                "bus": "yes",
+                "name": "Berlaar Kapellebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSESTEENWEG BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.646804,
+                    51.11719
                 ]
             }
         }

@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "541;543",
-                "ref:De_Lijn": "108751",
-                "bus": "yes",
-                "name": "Voortkapel Ter Voort",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENEINDE VOORTKAPEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.86958,
-                    51.107519
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "305;946",
+                "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "101948",
                 "bus": "yes",
                 "name": "Voortkapel Ter Voort Olenseweg",
@@ -46,7 +25,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "541;543",
+                "ref:De_Lijn": "108751",
+                "bus": "yes",
+                "name": "Voortkapel Ter Voort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENEINDE VOORTKAPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.86958,
+                    51.107519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108749",
                 "bus": "yes",
                 "name": "Voortkapel Ter Voort",

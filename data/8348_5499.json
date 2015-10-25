@@ -5,28 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "503673",
-                "bus": "yes",
-                "name": "Otegem Brouwerijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHELDESTRAAT OTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.430927,
-                    50.798548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "503671",
+                "ref:De_Lijn": "508671",
                 "bus": "yes",
                 "name": "Otegem Casino",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.436762,
-                    50.796158
+                    3.437016,
+                    50.796232
                 ]
             }
         },
@@ -68,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "508671",
-                "bus": "yes",
-                "name": "Otegem Casino",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHELDESTRAAT OTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.437016,
-                    50.796232
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;99",
                 "ref:De_Lijn": "508673",
                 "bus": "yes",
                 "name": "Otegem Brouwerijstraat",
@@ -103,6 +61,48 @@
                 "coordinates": [
                     3.430749,
                     50.798942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;99",
+                "ref:De_Lijn": "503671",
+                "bus": "yes",
+                "name": "Otegem Casino",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDESTRAAT OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.436762,
+                    50.796158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;99",
+                "ref:De_Lijn": "503673",
+                "bus": "yes",
+                "name": "Otegem Brouwerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDESTRAAT OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.430927,
+                    50.798548
                 ]
             }
         }

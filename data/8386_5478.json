@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306657",
-                "bus": "yes",
-                "name": "Hingene Rijksweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KLEIN-MECHELEN BORNEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.267898,
-                    51.091329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306658",
                 "bus": "yes",
                 "name": "Hingene Rijksweg",
@@ -61,6 +40,26 @@
                 "coordinates": [
                     4.267727,
                     51.091311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107944",
+                "bus": "yes",
+                "name": "Hingene Klein-Mechelen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN-MECHELEN BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.27302,
+                    51.085679
                 ]
             }
         },
@@ -88,28 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;252",
-                "ref:De_Lijn": "107944",
-                "bus": "yes",
-                "name": "Hingene Klein-Mechelen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEIN-MECHELEN BORNEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.27302,
-                    51.085679
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252",
                 "ref:De_Lijn": "101218",
                 "bus": "yes",
                 "name": "Bornem Pedro Colomalaan",
@@ -124,48 +101,6 @@
                 "coordinates": [
                     4.264671,
                     51.085789
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252",
-                "ref:De_Lijn": "101217",
-                "bus": "yes",
-                "name": "Bornem Pedro Colomalaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PUURSESTEENWEG BORNEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.264699,
-                    51.085672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252",
-                "ref:De_Lijn": "101220",
-                "bus": "yes",
-                "name": "Hingene Klein-Mechelen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEIN-MECHELEN BORNEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.273406,
-                    51.085284
                 ]
             }
         },
@@ -193,7 +128,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;938",
+                "ref:De_Lijn": "306657",
+                "bus": "yes",
+                "name": "Hingene Rijksweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEIN-MECHELEN BORNEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.267898,
+                    51.091329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101217",
+                "bus": "yes",
+                "name": "Bornem Pedro Colomalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUURSESTEENWEG BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.264699,
+                    51.085672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107943",
                 "bus": "yes",
                 "name": "Hingene Klein-Mechelen",
@@ -208,6 +183,26 @@
                 "coordinates": [
                     4.272561,
                     51.086551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101220",
+                "bus": "yes",
+                "name": "Hingene Klein-Mechelen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN-MECHELEN BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.273406,
+                    51.085284
                 ]
             }
         }

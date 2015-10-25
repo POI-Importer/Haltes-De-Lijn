@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;214;219;305",
-                "ref:De_Lijn": "109172",
-                "bus": "yes",
-                "name": "Lichtaart Olensteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N123 LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.902419,
-                    51.209721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "212;214;219;305",
-                "ref:De_Lijn": "109171",
-                "bus": "yes",
-                "name": "Lichtaart Olensteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N123 LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.902248,
-                    51.209785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "212;214;219;305",
                 "ref:De_Lijn": "109169",
                 "bus": "yes",
                 "name": "Lichtaart Kastanjelaan",
@@ -67,7 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;214;219;305",
+                "ref:De_Lijn": "109171",
+                "bus": "yes",
+                "name": "Lichtaart Olensteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N123 LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.902248,
+                    51.209785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "109170",
                 "bus": "yes",
                 "name": "Lichtaart Kastanjelaan",
@@ -82,6 +58,27 @@
                 "coordinates": [
                     4.909887,
                     51.218137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305",
+                "ref:De_Lijn": "109172",
+                "bus": "yes",
+                "name": "Lichtaart Olensteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N123 LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.902419,
+                    51.209721
                 ]
             }
         }

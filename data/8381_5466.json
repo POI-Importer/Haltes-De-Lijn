@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
+                "route_ref:De_Lijn": "21;23;27",
                 "ref:De_Lijn": "205755",
                 "bus": "yes",
                 "name": "Meerdonk Margrietstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;23;27;240",
+                "route_ref:De_Lijn": "21;23;27",
                 "ref:De_Lijn": "204755",
                 "bus": "yes",
                 "name": "Meerdonk Margrietstraat",

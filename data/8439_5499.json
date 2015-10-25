@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "4;104",
+                "ref:De_Lijn": "408748",
+                "bus": "yes",
+                "name": "Tongeren Zavelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG NEERREPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.446178,
+                    50.799592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;104",
                 "ref:De_Lijn": "408620",
                 "bus": "yes",
                 "name": "Neerrepen Weg naar Dorp",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.441105,
                     50.802353
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;104",
-                "ref:De_Lijn": "408748",
-                "bus": "yes",
-                "name": "Tongeren Zavelberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HASSELTSESTEENWEG NEERREPEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.446178,
-                    50.799592
                 ]
             }
         }

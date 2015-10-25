@@ -4,11 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "302038",
+                "route_ref:De_Lijn": "4;284;285;529;652",
+                "ref:De_Lijn": "302032",
                 "bus": "yes",
-                "name": "Herent Schaffelkant",
+                "name": "Herent Molenweg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.67782,
-                    50.899081
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;284;285;652",
-                "ref:De_Lijn": "302037",
-                "bus": "yes",
-                "name": "Herent Rijweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.679917,
-                    50.900173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;284;285;529;652",
-                "ref:De_Lijn": "302036",
-                "bus": "yes",
-                "name": "Herent Rijweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.680029,
-                    50.899831
+                    4.664777,
+                    50.900032
                 ]
             }
         },
@@ -89,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "4;284;285;652",
-                "ref:De_Lijn": "308756",
+                "ref:De_Lijn": "302037",
                 "bus": "yes",
-                "name": "Herent Kouterstraat",
+                "name": "Herent Rijweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOUTERSTRAAT HERENT (VLAAMS-BRABANT)",
+                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.667476,
-                    50.899827
+                    4.679917,
+                    50.900173
                 ]
             }
         },
@@ -130,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4;284;285;652",
-                "ref:De_Lijn": "302033",
+                "route_ref:De_Lijn": "4;284;285;529;652",
+                "ref:De_Lijn": "302036",
                 "bus": "yes",
-                "name": "Herent Molenweg",
+                "name": "Herent Rijweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
+                "created_by": "MECHELSESTEENWEG HERENT (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.665267,
-                    50.901208
+                    4.680029,
+                    50.899831
                 ]
             }
         },
@@ -172,11 +130,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4;284;285;529;652",
-                "ref:De_Lijn": "302032",
+                "ref:De_Lijn": "302038",
                 "bus": "yes",
-                "name": "Herent Molenweg",
+                "name": "Herent Schaffelkant",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
@@ -185,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.664777,
-                    50.900032
+                    4.67782,
+                    50.899081
                 ]
             }
         },
@@ -214,21 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "302039",
+                "route_ref:De_Lijn": "4;284;285;652",
+                "ref:De_Lijn": "308756",
                 "bus": "yes",
-                "name": "Herent Schaffelkant",
+                "name": "Herent Kouterstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
+                "created_by": "KOUTERSTRAAT HERENT (VLAAMS-BRABANT)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.677877,
-                    50.899072
+                    4.667476,
+                    50.899827
                 ]
             }
         },
@@ -250,6 +208,48 @@
                 "coordinates": [
                     4.674849,
                     50.899098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302039",
+                "bus": "yes",
+                "name": "Herent Schaffelkant",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.677877,
+                    50.899072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;284;285;652",
+                "ref:De_Lijn": "302033",
+                "bus": "yes",
+                "name": "Herent Molenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG HERENT (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.665267,
+                    50.901208
                 ]
             }
         }

@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "11;45;61",
-                "ref:De_Lijn": "401775",
-                "bus": "yes",
-                "name": "Elen Breemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJKSWEG ELEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.757069,
-                    51.075753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "721",
                 "ref:De_Lijn": "401870",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     5.760785,
                     51.080735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;45;61",
+                "ref:De_Lijn": "401775",
+                "bus": "yes",
+                "name": "Elen Breemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.757069,
+                    51.075753
                 ]
             }
         }

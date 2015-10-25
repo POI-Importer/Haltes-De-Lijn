@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "200737",
+                "bus": "yes",
+                "name": "Desteldonk Busstraat 15",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUSSTRAAT DESTELDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.819392,
+                    51.129916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "203594",
                 "bus": "yes",
@@ -25,28 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202593",
-                "bus": "yes",
-                "name": "Desteldonk Keurestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDESTRAAT DESTELDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.804389,
-                    51.124236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "73;175",
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "202594",
                 "bus": "yes",
                 "name": "Desteldonk Busstraat",
@@ -67,21 +66,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
-                "ref:De_Lijn": "200737",
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "202593",
                 "bus": "yes",
-                "name": "Desteldonk Busstraat 15",
+                "name": "Desteldonk Keurestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BUSSTRAAT DESTELDONK",
+                "created_by": "LINDESTRAAT DESTELDONK",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.819392,
-                    51.129916
+                    3.804389,
+                    51.124236
                 ]
             }
         }

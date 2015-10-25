@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;81;420",
+                "route_ref:De_Lijn": "45;81",
                 "ref:De_Lijn": "208432",
                 "bus": "yes",
                 "name": "Hundelgem Kazernestraat",
@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
                 "ref:De_Lijn": "206867",
                 "bus": "yes",
                 "name": "Munkzwalm Camping",
@@ -40,27 +39,6 @@
                 "coordinates": [
                     3.74058,
                     50.875429
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "420",
-                "ref:De_Lijn": "208807",
-                "bus": "yes",
-                "name": "Munkzwalm Zwalmmolen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REKEGEMSTRAAT MUNKZWALM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.742022,
-                    50.879158
                 ]
             }
         },
@@ -88,7 +66,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208808",
+                "bus": "yes",
+                "name": "Munkzwalm Krekelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREKELSTRAAT MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.748749,
+                    50.880893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "205983",
                 "bus": "yes",
                 "name": "Munkzwalm Steenweg",
@@ -109,21 +106,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
-                "ref:De_Lijn": "208808",
+                "ref:De_Lijn": "208807",
                 "bus": "yes",
-                "name": "Munkzwalm Krekelstraat",
+                "name": "Munkzwalm Zwalmmolen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KREKELSTRAAT MUNKZWALM",
+                "created_by": "REKEGEMSTRAAT MUNKZWALM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.748749,
-                    50.880893
+                    3.742022,
+                    50.879158
                 ]
             }
         }

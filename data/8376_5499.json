@@ -26,20 +26,40 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "153",
-                "ref:De_Lijn": "307029",
+                "ref:De_Lijn": "206993",
                 "bus": "yes",
-                "name": "Neigem Nieuwstraat",
+                "name": "Neigem Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HALSESTEENWEG NEIGEM",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.063557,
-                    50.799769
+                    4.059367,
+                    50.802743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206704",
+                "bus": "yes",
+                "name": "Lieferinge Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASSEINDE LIEFERINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.052558,
+                    50.792081
                 ]
             }
         },
@@ -67,36 +87,15 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "207608",
+                "ref:De_Lijn": "307563",
                 "bus": "yes",
                 "name": "Neigem Dorp",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "HALSESTEENWEG NEIGEM",
                 "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.06035,
-                    50.802062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "153;330",
-                "ref:De_Lijn": "206993",
-                "bus": "yes",
-                "name": "Neigem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALSESTEENWEG NEIGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
@@ -110,9 +109,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "153",
-                "ref:De_Lijn": "307562",
+                "ref:De_Lijn": "307029",
                 "bus": "yes",
-                "name": "Neigem Dorp",
+                "name": "Neigem Nieuwstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HALSESTEENWEG NEIGEM",
@@ -122,8 +121,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.059693,
-                    50.802681
+                    4.063557,
+                    50.799769
                 ]
             }
         },
@@ -151,11 +150,31 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307563",
+                "ref:De_Lijn": "207608",
                 "bus": "yes",
                 "name": "Neigem Dorp",
                 "public_transport": "platform",
-                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HALSESTEENWEG NEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.06035,
+                    50.802062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153",
+                "ref:De_Lijn": "307562",
+                "bus": "yes",
+                "name": "Neigem Dorp",
+                "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HALSESTEENWEG NEIGEM",
                 "operator": "De Lijn",
@@ -164,29 +183,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.059367,
-                    50.802743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206704",
-                "bus": "yes",
-                "name": "Lieferinge Plaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASSEINDE LIEFERINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.052558,
-                    50.792081
+                    4.059693,
+                    50.802681
                 ]
             }
         }

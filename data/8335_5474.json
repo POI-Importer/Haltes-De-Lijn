@@ -25,69 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;99",
-                "ref:De_Lijn": "507674",
-                "bus": "yes",
-                "name": "Zedelgem Ter Loo",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORHOUTSESTEENWEG LOPPEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.162598,
-                    51.143877
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;99",
-                "ref:De_Lijn": "502674",
-                "bus": "yes",
-                "name": "Zedelgem Ter Loo",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORHOUTSESTEENWEG LOPPEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.162961,
-                    51.144186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "72;94",
-                "ref:De_Lijn": "502673",
-                "bus": "yes",
-                "name": "Zedelgem Abdijhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOPPEMSESTRAAT ZEDELGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.152866,
-                    51.149351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "79",
                 "ref:De_Lijn": "505018",
                 "bus": "yes",
@@ -124,6 +61,69 @@
                 "coordinates": [
                     3.152606,
                     51.149429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;94",
+                "ref:De_Lijn": "502673",
+                "bus": "yes",
+                "name": "Zedelgem Abdijhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOPPEMSESTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.152866,
+                    51.149351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;99",
+                "ref:De_Lijn": "502674",
+                "bus": "yes",
+                "name": "Zedelgem Ter Loo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG LOPPEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162961,
+                    51.144186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;99",
+                "ref:De_Lijn": "507674",
+                "bus": "yes",
+                "name": "Zedelgem Ter Loo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG LOPPEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162598,
+                    51.143877
                 ]
             }
         }

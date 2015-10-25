@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;49;140",
-                "ref:De_Lijn": "202735",
+                "ref:De_Lijn": "202847",
                 "bus": "yes",
-                "name": "Merelbeke Wijnpeerstraat",
+                "name": "Merelbeke Salisburylaan",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LAMSTRAAT MERELBEKE",
+                "created_by": "LEMBERGSESTEENWEG MERELBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.759568,
-                    50.988025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44",
-                "ref:De_Lijn": "203948",
-                "bus": "yes",
-                "name": "Merelbeke Ruiterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SALISBURYLAAN MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.767044,
-                    50.992549
+                    3.763248,
+                    50.989796
                 ]
             }
         },
@@ -67,10 +46,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;140",
-                "ref:De_Lijn": "202850",
+                "route_ref:De_Lijn": "44;49",
+                "ref:De_Lijn": "203849",
                 "bus": "yes",
-                "name": "Merelbeke Campus Diergeneeskunde",
+                "name": "Merelbeke Lembergsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAMSTRAAT MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762926,
+                    50.989336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "202948",
+                "bus": "yes",
+                "name": "Merelbeke Ruiterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SALISBURYLAAN MERELBEKE",
@@ -80,16 +80,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.769524,
-                    50.998018
+                    3.766916,
+                    50.992584
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;49;140",
-                "ref:De_Lijn": "202851",
+                "route_ref:De_Lijn": "44;49",
+                "ref:De_Lijn": "202849",
+                "bus": "yes",
+                "name": "Merelbeke Lembergsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAMSTRAAT MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762769,
+                    50.989389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;49",
+                "ref:De_Lijn": "203851",
                 "bus": "yes",
                 "name": "Merelbeke Industriepark",
                 "public_transport": "platform",
@@ -101,71 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.765323,
-                    50.987955
+                    3.765311,
+                    50.987766
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "202846",
+                "route_ref:De_Lijn": "44;49",
+                "ref:De_Lijn": "203735",
                 "bus": "yes",
-                "name": "Merelbeke Boomgaardstraat",
+                "name": "Merelbeke Wijnpeerstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LEMBERGSESTEENWEG MERELBEKE",
+                "created_by": "LAMSTRAAT MERELBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.758387,
-                    50.991183
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44",
-                "ref:De_Lijn": "203339",
-                "bus": "yes",
-                "name": "Merelbeke Campus Diergeneeskunde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SALISBURYLAAN MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.767978,
-                    50.997462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "140",
-                "ref:De_Lijn": "202909",
-                "bus": "yes",
-                "name": "Melle Caritas",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CARITASSTRAAT MELLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.775711,
-                    50.994274
+                    3.759654,
+                    50.987944
                 ]
             }
         },
@@ -214,27 +193,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "202847",
-                "bus": "yes",
-                "name": "Merelbeke Salisburylaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LEMBERGSESTEENWEG MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.763248,
-                    50.989796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "43;44",
                 "ref:De_Lijn": "203909",
                 "bus": "yes",
@@ -250,6 +208,69 @@
                 "coordinates": [
                     3.774863,
                     50.993739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "203948",
+                "bus": "yes",
+                "name": "Merelbeke Ruiterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SALISBURYLAAN MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767044,
+                    50.992549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "202850",
+                "bus": "yes",
+                "name": "Merelbeke Campus Diergeneeskunde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SALISBURYLAAN MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769524,
+                    50.998018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202846",
+                "bus": "yes",
+                "name": "Merelbeke Boomgaardstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEMBERGSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758387,
+                    50.991183
                 ]
             }
         },
@@ -278,7 +299,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "43;49",
-                "ref:De_Lijn": "203851",
+                "ref:De_Lijn": "202851",
                 "bus": "yes",
                 "name": "Merelbeke Industriepark",
                 "public_transport": "platform",
@@ -290,29 +311,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.765311,
-                    50.987766
+                    3.765323,
+                    50.987955
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;49;140",
-                "ref:De_Lijn": "202849",
+                "ref:De_Lijn": "202909",
                 "bus": "yes",
-                "name": "Merelbeke Lembergsesteenweg",
+                "name": "Melle Caritas",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LAMSTRAAT MERELBEKE",
+                "created_by": "CARITASSTRAAT MELLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.762769,
-                    50.989389
+                    3.775711,
+                    50.994274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44",
+                "ref:De_Lijn": "203339",
+                "bus": "yes",
+                "name": "Merelbeke Campus Diergeneeskunde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SALISBURYLAAN MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767978,
+                    50.997462
                 ]
             }
         },
@@ -320,28 +361,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "44;49",
-                "ref:De_Lijn": "203849",
-                "bus": "yes",
-                "name": "Merelbeke Lembergsesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAMSTRAAT MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.762926,
-                    50.989336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;49",
-                "ref:De_Lijn": "203735",
+                "ref:De_Lijn": "202735",
                 "bus": "yes",
                 "name": "Merelbeke Wijnpeerstraat",
                 "public_transport": "platform",
@@ -353,29 +373,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.759654,
-                    50.987944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;44;140",
-                "ref:De_Lijn": "202948",
-                "bus": "yes",
-                "name": "Merelbeke Ruiterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SALISBURYLAAN MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.766916,
-                    50.992584
+                    3.759568,
+                    50.988025
                 ]
             }
         }

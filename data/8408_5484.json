@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306534",
-                "bus": "yes",
-                "name": "Baal Aertgeertstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BOOISCHOTSESTRAAT BAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.754528,
-                    51.009791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "308537",
-                "bus": "yes",
-                "name": "Begijnendijk Remerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REMERSTRAAT BEGIJNENDIJK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.766371,
-                    51.011811
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306542",
                 "bus": "yes",
                 "name": "Baal Balenbergstraatje",
@@ -61,6 +19,27 @@
                 "coordinates": [
                     4.762185,
                     51.00537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306534",
+                "bus": "yes",
+                "name": "Baal Aertgeertstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOOISCHOTSESTRAAT BAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.754528,
+                    51.009791
                 ]
             }
         },
@@ -88,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306537",
+                "ref:De_Lijn": "306527",
                 "bus": "yes",
-                "name": "Baal Booischotstraat",
+                "name": "Baal Geertruimoerstraat",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LANGE VENSTRAAT BAAL",
+                "created_by": "NOBELSTRAAT BAAL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.752271,
-                    51.012595
+                    4.746466,
+                    51.010168
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     4.7622,
                     51.00546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308537",
+                "bus": "yes",
+                "name": "Begijnendijk Remerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REMERSTRAAT BEGIJNENDIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.766371,
+                    51.011811
                 ]
             }
         },
@@ -172,28 +172,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306526",
-                "bus": "yes",
-                "name": "Baal Geertruimoerstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "NOBELSTRAAT BAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.746636,
-                    51.010132
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306544",
+                "ref:De_Lijn": "306545",
                 "bus": "yes",
                 "name": "Baal Balenbergstraat",
                 "public_transport": "platform",
@@ -206,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.766246,
-                    51.000413
+                    4.766002,
+                    51.000162
                 ]
             }
         },
@@ -235,7 +214,28 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306527",
+                "ref:De_Lijn": "306524",
+                "bus": "yes",
+                "name": "Baal Nobelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NOBELSTRAAT BAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.748161,
+                    51.003079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306526",
                 "bus": "yes",
                 "name": "Baal Geertruimoerstraat",
                 "public_transport": "platform",
@@ -248,8 +248,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.746466,
-                    51.010168
+                    4.746636,
+                    51.010132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306537",
+                "bus": "yes",
+                "name": "Baal Booischotstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LANGE VENSTRAAT BAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.752271,
+                    51.012595
                 ]
             }
         },
@@ -277,21 +298,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306524",
+                "ref:De_Lijn": "306544",
                 "bus": "yes",
-                "name": "Baal Nobelstraat",
+                "name": "Baal Balenbergstraat",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "NOBELSTRAAT BAAL",
+                "created_by": "MOORSEMSESTRAAT TREMELO",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.748161,
-                    51.003079
+                    4.766246,
+                    51.000413
                 ]
             }
         },
@@ -334,27 +355,6 @@
                 "coordinates": [
                     4.754468,
                     51.006052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306545",
-                "bus": "yes",
-                "name": "Baal Balenbergstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MOORSEMSESTRAAT TREMELO",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.766002,
-                    51.000162
                 ]
             }
         }

@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "24;49;57",
-                "ref:De_Lijn": "504678",
-                "bus": "yes",
-                "name": "Lo Melkerij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTSTRAAT LO",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.756979,
-                    50.982845
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "57",
                 "ref:De_Lijn": "504679",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     2.758555,
                     50.976761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49;57",
+                "ref:De_Lijn": "505436",
+                "bus": "yes",
+                "name": "Lo Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTSTRAAT LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.756946,
+                    50.98297
                 ]
             }
         },
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;49;57",
-                "ref:De_Lijn": "505436",
+                "ref:De_Lijn": "504678",
                 "bus": "yes",
                 "name": "Lo Melkerij",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.756946,
-                    50.98297
+                    2.756979,
+                    50.982845
                 ]
             }
         }

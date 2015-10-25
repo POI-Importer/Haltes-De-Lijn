@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408879",
+                "bus": "yes",
+                "name": "Eindhout Oude Veerlebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE VEERLEBAAN EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990526,
+                    51.091607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "19;19b;751",
                 "ref:De_Lijn": "405019",
                 "bus": "yes",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     4.988667,
                     51.086017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "408879",
-                "bus": "yes",
-                "name": "Eindhout Oude Veerlebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE VEERLEBAAN EINDHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.990526,
-                    51.091607
                 ]
             }
         },

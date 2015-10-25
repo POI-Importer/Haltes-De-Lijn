@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;390;480",
                 "ref:De_Lijn": "107182",
                 "bus": "yes",
                 "name": "Arendonk Neerstraat",

@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;67;69;160",
-                "ref:De_Lijn": "202368",
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "203366",
                 "bus": "yes",
-                "name": "Lovendegem Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDESTRAAT KOUTER LOVENDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.615193,
-                    51.103027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "65;67;69;160",
-                "ref:De_Lijn": "202367",
-                "bus": "yes",
-                "name": "Lovendegem Binnenslag",
+                "name": "Lovendegem Oostveldkouter",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTE BAAN LOVENDEGEM",
@@ -38,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.620421,
-                    51.106485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "65;67;69",
-                "ref:De_Lijn": "203369",
-                "bus": "yes",
-                "name": "Lovendegem Triestlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENDREEF LOVENDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.609524,
-                    51.097786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "65;67;69",
-                "ref:De_Lijn": "203368",
-                "bus": "yes",
-                "name": "Lovendegem Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDESTRAAT KOUTER LOVENDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.61488,
-                    51.102953
+                    3.625288,
+                    51.104781
                 ]
             }
         },
@@ -109,31 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69;160",
-                "ref:De_Lijn": "202976",
-                "bus": "yes",
-                "name": "Lovendegem Bredestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN LOVENDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.614307,
-                    51.109305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "65;67;69",
-                "ref:De_Lijn": "203367",
+                "ref:De_Lijn": "203368",
                 "bus": "yes",
-                "name": "Lovendegem Binnenslag",
+                "name": "Lovendegem Nieuwstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BREDESTRAAT KOUTER LOVENDEGEM",
@@ -143,15 +59,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.618767,
-                    51.106322
+                    3.61488,
+                    51.102953
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;67;69;160",
+                "route_ref:De_Lijn": "65;67;69",
                 "ref:De_Lijn": "202369",
                 "bus": "yes",
                 "name": "Lovendegem Triestlaan",
@@ -194,9 +110,30 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "65;67;69",
-                "ref:De_Lijn": "203366",
+                "ref:De_Lijn": "202368",
                 "bus": "yes",
-                "name": "Lovendegem Oostveldkouter",
+                "name": "Lovendegem Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT KOUTER LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615193,
+                    51.103027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "202367",
+                "bus": "yes",
+                "name": "Lovendegem Binnenslag",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GROTE BAAN LOVENDEGEM",
@@ -206,8 +143,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.625288,
-                    51.104781
+                    3.620421,
+                    51.106485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "203367",
+                "bus": "yes",
+                "name": "Lovendegem Binnenslag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT KOUTER LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.618767,
+                    51.106322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "202976",
+                "bus": "yes",
+                "name": "Lovendegem Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614307,
+                    51.109305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "203369",
+                "bus": "yes",
+                "name": "Lovendegem Triestlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENDREEF LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.609524,
+                    51.097786
                 ]
             }
         }

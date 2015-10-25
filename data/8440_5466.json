@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409043",
-                "bus": "yes",
-                "name": "Achel Witte Berg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDE PASTORIJSTRAAT ACHEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.469867,
-                    51.258687
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
                 "ref:De_Lijn": "409044",
                 "bus": "yes",
                 "name": "Achel Witte Berg",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     5.469927,
                     51.258795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "409470",
+                "bus": "yes",
+                "name": "Neerpelt Patrijzenpad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILDLAAN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.453084,
+                    51.253467
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "743;745",
-                "ref:De_Lijn": "409470",
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409043",
                 "bus": "yes",
-                "name": "Neerpelt Patrijzenpad",
+                "name": "Achel Witte Berg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WILDLAAN NEERPELT",
+                "created_by": "OUDE PASTORIJSTRAAT ACHEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.453084,
-                    51.253467
+                    5.469867,
+                    51.258687
                 ]
             }
         }

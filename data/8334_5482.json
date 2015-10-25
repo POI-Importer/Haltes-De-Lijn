@@ -5,20 +5,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "502921",
+                "ref:De_Lijn": "502262",
                 "bus": "yes",
-                "name": "Lichtervelde Sportcentrum",
+                "name": "Lichtervelde Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT LICHTERVELDE",
+                "created_by": "BURGEMEESTER CALLEWAERTLAAN LICHTERVELDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.135758,
-                    51.027987
+                    3.139395,
+                    51.027899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "502258",
+                "bus": "yes",
+                "name": "Lichtervelde Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.137496,
+                    51.03126
                 ]
             }
         },
@@ -40,27 +61,6 @@
                 "coordinates": [
                     3.132779,
                     51.037135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "502262",
-                "bus": "yes",
-                "name": "Lichtervelde Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BURGEMEESTER CALLEWAERTLAAN LICHTERVELDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.139395,
-                    51.027899
                 ]
             }
         },
@@ -89,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "502258",
+                "ref:De_Lijn": "502921",
                 "bus": "yes",
-                "name": "Lichtervelde Kapel",
+                "name": "Lichtervelde Sportcentrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TORHOUTSTRAAT LICHTERVELDE",
+                "created_by": "ZANDSTRAAT LICHTERVELDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.137496,
-                    51.03126
+                    3.135758,
+                    51.027987
                 ]
             }
         }

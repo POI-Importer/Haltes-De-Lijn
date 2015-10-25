@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "200676",
                 "bus": "yes",
                 "name": "Machelen Brandstraat",
@@ -25,7 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "75;125",
+                "route_ref:De_Lijn": "75",
                 "ref:De_Lijn": "200461",
                 "bus": "yes",
                 "name": "Machelen De Prins",
@@ -46,28 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
-                "ref:De_Lijn": "210082",
-                "bus": "yes",
-                "name": "Machelen Kruishoutemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISHOUTEMSTRAAT MACHELEN (ZULTE)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.499021,
-                    50.947444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "200678",
                 "bus": "yes",
                 "name": "Machelen Bokstraat",
@@ -82,6 +59,26 @@
                 "coordinates": [
                     3.512488,
                     50.957333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210082",
+                "bus": "yes",
+                "name": "Machelen Kruishoutemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.499021,
+                    50.947444
                 ]
             }
         }

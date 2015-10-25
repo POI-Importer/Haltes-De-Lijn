@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "105547",
-                "bus": "yes",
-                "name": "Sint-Lenaarts Groenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSSTRAAT SINT-LENAARTS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.708522,
-                    51.347483
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "600;608;620",
                 "ref:De_Lijn": "105546",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Groenstraat",
@@ -39,27 +18,6 @@
                 "coordinates": [
                     4.707919,
                     51.347539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "600;608;620",
-                "ref:De_Lijn": "105549",
-                "bus": "yes",
-                "name": "Rijkevorsel Grensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-LENAARTSESTEENWEG RIJKEVORSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.722428,
-                    51.349222
                 ]
             }
         },
@@ -86,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;608;620",
+                "ref:De_Lijn": "105547",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSSTRAAT SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708522,
+                    51.347483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105548",
                 "bus": "yes",
                 "name": "Sint-Lenaarts Leeuwerk",
@@ -101,6 +78,26 @@
                 "coordinates": [
                     4.715605,
                     51.348451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105549",
+                "bus": "yes",
+                "name": "Rijkevorsel Grensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LENAARTSESTEENWEG RIJKEVORSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.722428,
+                    51.349222
                 ]
             }
         },

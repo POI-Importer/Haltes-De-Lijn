@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404032",
+                "bus": "yes",
+                "name": "Berbroek Bosstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT BERBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211587,
+                    50.936959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
                 "ref:De_Lijn": "404033",
                 "bus": "yes",
                 "name": "Berbroek Bosstraat I",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.22728,
                     50.9385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "735",
-                "ref:De_Lijn": "404032",
-                "bus": "yes",
-                "name": "Berbroek Bosstraat I",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSSTRAAT BERBROEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.211587,
-                    50.936959
                 ]
             }
         },

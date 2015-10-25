@@ -46,28 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;49;440",
-                "ref:De_Lijn": "202868",
-                "bus": "yes",
-                "name": "Oosterzele Boekhoutstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTEMSTRAAT OOSTERZELE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.827324,
-                    50.938275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;49;390",
+                "route_ref:De_Lijn": "46;49",
                 "ref:De_Lijn": "202869",
                 "bus": "yes",
                 "name": "Sint-Lievens-Houtem Swessestraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.83768,
                     50.932156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;49",
+                "ref:De_Lijn": "202868",
+                "bus": "yes",
+                "name": "Oosterzele Boekhoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827324,
+                    50.938275
                 ]
             }
         }

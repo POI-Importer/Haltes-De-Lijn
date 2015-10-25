@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "305;490;492",
-                "ref:De_Lijn": "108932",
-                "bus": "yes",
-                "name": "Kasterlee Zandhoef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TURNHOUTSEBAAN KASTERLEE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.96073,
-                    51.261263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "305;490;492",
                 "ref:De_Lijn": "108937",
                 "bus": "yes",
                 "name": "Kasterlee Mertenshof",
@@ -46,7 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "305;490;492",
+                "route_ref:De_Lijn": "305",
                 "ref:De_Lijn": "108941",
                 "bus": "yes",
                 "name": "Kasterlee Groot Goor",
@@ -67,49 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "305;490;492",
-                "ref:De_Lijn": "108934",
-                "bus": "yes",
-                "name": "Kasterlee Eikenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TURNHOUTSEBAAN KASTERLEE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.961685,
-                    51.257474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "305;490;492",
-                "ref:De_Lijn": "108936",
-                "bus": "yes",
-                "name": "Kasterlee Eikenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TURNHOUTSEBAAN KASTERLEE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.962468,
-                    51.255987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "305;490;492",
                 "ref:De_Lijn": "108939",
                 "bus": "yes",
                 "name": "Kasterlee Groot Goor",
@@ -130,7 +65,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "305;490;492",
+                "route_ref:De_Lijn": "305",
+                "ref:De_Lijn": "108936",
+                "bus": "yes",
+                "name": "Kasterlee Eikenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.962468,
+                    51.255987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108932",
+                "bus": "yes",
+                "name": "Kasterlee Zandhoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.96073,
+                    51.261263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305",
                 "ref:De_Lijn": "108938",
                 "bus": "yes",
                 "name": "Kasterlee Mertenshof",
@@ -145,6 +121,26 @@
                 "coordinates": [
                     4.963085,
                     51.252676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108934",
+                "bus": "yes",
+                "name": "Kasterlee Eikenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.961685,
+                    51.257474
                 ]
             }
         }

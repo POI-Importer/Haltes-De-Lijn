@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62;69",
-                "ref:De_Lijn": "508638",
+                "ref:De_Lijn": "503639",
                 "bus": "yes",
-                "name": "Oekene Ieperseweg",
+                "name": "Oekene Oude God",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-ELOOIS-WINKELSESTRAAT OEKENE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.161287,
-                    50.901478
+                    3.161916,
+                    50.898005
                 ]
             }
         },
@@ -47,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62;69",
-                "ref:De_Lijn": "503639",
+                "ref:De_Lijn": "503638",
                 "bus": "yes",
-                "name": "Oekene Oude God",
+                "name": "Oekene Ieperseweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-ELOOIS-WINKELSESTRAAT OEKENE",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.161916,
-                    50.898005
+                    3.161472,
+                    50.901453
                 ]
             }
         },
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62;69",
-                "ref:De_Lijn": "503638",
+                "ref:De_Lijn": "508638",
                 "bus": "yes",
                 "name": "Oekene Ieperseweg",
                 "public_transport": "platform",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.161472,
-                    50.901453
+                    3.161287,
+                    50.901478
                 ]
             }
         }

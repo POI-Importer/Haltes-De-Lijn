@@ -4,70 +4,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;608",
-                "ref:De_Lijn": "102231",
+                "ref:De_Lijn": "105523",
                 "bus": "yes",
-                "name": "Brecht Gemeentehuis",
+                "name": "Brecht Biest",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GEMEENTEPARK BRECHT",
+                "created_by": "GASTHUISSTRAAT BRECHT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.641053,
-                    51.347873
+                    4.639317,
+                    51.350349
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;608",
-                "ref:De_Lijn": "102607",
+                "ref:De_Lijn": "102228",
                 "bus": "yes",
-                "name": "Brecht Hendrik Schoofsstraat",
+                "name": "Brecht Wemersweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VAARTSTRAAT BRECHT",
+                "created_by": "VELDSTRAAT BRECHT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.644593,
-                    51.346993
+                    4.640876,
+                    51.354309
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;600;602;605;620;629",
-                "ref:De_Lijn": "105526",
-                "bus": "yes",
-                "name": "Brecht Schoolstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LESSIUSSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.644131,
-                    51.351317
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;600;602;605;620;629",
                 "ref:De_Lijn": "105527",
                 "bus": "yes",
                 "name": "Brecht Schoolstraat",
@@ -88,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;608",
                 "ref:De_Lijn": "106974",
                 "bus": "yes",
                 "name": "Brecht Duivelstraatje",
@@ -103,6 +78,86 @@
                 "coordinates": [
                     4.651009,
                     51.344623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105524",
+                "bus": "yes",
+                "name": "Brecht Biest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.639532,
+                    51.350312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102227",
+                "bus": "yes",
+                "name": "Brecht Wemersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.641062,
+                    51.354201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102607",
+                "bus": "yes",
+                "name": "Brecht Hendrik Schoofsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.644593,
+                    51.346993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102738",
+                "bus": "yes",
+                "name": "Brecht Gasthuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.636868,
+                    51.348871
                 ]
             }
         },
@@ -130,175 +185,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;600;602;605;620;629",
-                "ref:De_Lijn": "105529",
-                "bus": "yes",
-                "name": "Brecht Broekhovenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LESSIUSSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.652131,
-                    51.352161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "446;600;602;605;620;629;640",
-                "ref:De_Lijn": "105523",
-                "bus": "yes",
-                "name": "Brecht Biest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GASTHUISSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.639317,
-                    51.350349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "446;600;602;605;620;629;640",
-                "ref:De_Lijn": "105524",
-                "bus": "yes",
-                "name": "Brecht Biest",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GASTHUISSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.639532,
-                    51.350312
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "440;446;608",
-                "ref:De_Lijn": "102229",
-                "bus": "yes",
-                "name": "Brecht Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VAARTSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.641368,
-                    51.347657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
-                "ref:De_Lijn": "102738",
-                "bus": "yes",
-                "name": "Brecht Gasthuisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GASTHUISSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.636868,
-                    51.348871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;446;640",
-                "ref:De_Lijn": "102228",
-                "bus": "yes",
-                "name": "Brecht Wemersweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELDSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.640876,
-                    51.354309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;446;640",
-                "ref:De_Lijn": "102227",
-                "bus": "yes",
-                "name": "Brecht Wemersweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VELDSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.641062,
-                    51.354201
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "440;446;608",
-                "ref:De_Lijn": "106973",
-                "bus": "yes",
-                "name": "Brecht Duivelstraatje",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VAARTSTRAAT BRECHT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.651052,
-                    51.344731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;600;602;605;620;629",
                 "ref:De_Lijn": "105528",
                 "bus": "yes",
                 "name": "Brecht Broekhovenstraat",
@@ -319,7 +205,106 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "440;446;608",
+                "ref:De_Lijn": "102229",
+                "bus": "yes",
+                "name": "Brecht Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.641368,
+                    51.347657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105529",
+                "bus": "yes",
+                "name": "Brecht Broekhovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LESSIUSSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.652131,
+                    51.352161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102739",
+                "bus": "yes",
+                "name": "Brecht Gasthuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.636668,
+                    51.348917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105526",
+                "bus": "yes",
+                "name": "Brecht Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LESSIUSSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.644131,
+                    51.351317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102231",
+                "bus": "yes",
+                "name": "Brecht Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEMEENTEPARK BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.641053,
+                    51.347873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "102608",
                 "bus": "yes",
                 "name": "Brecht Hendrik Schoofsstraat",
@@ -340,21 +325,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
-                "ref:De_Lijn": "102739",
+                "ref:De_Lijn": "106973",
                 "bus": "yes",
-                "name": "Brecht Gasthuisstraat",
+                "name": "Brecht Duivelstraatje",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GASTHUISSTRAAT BRECHT",
+                "created_by": "VAARTSTRAAT BRECHT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.636668,
-                    51.348917
+                    4.651052,
+                    51.344731
                 ]
             }
         }

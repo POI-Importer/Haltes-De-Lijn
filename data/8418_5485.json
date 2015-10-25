@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "304419",
-                "bus": "yes",
-                "name": "Zichem Lindeboom",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG SCHERPENHEUVEL ZICHEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.973919,
-                    50.995293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "304423",
-                "bus": "yes",
-                "name": "Zichem Mollenveldwijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG SCHERPENHEUVEL ZICHEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.975012,
-                    50.991754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "707;708",
                 "ref:De_Lijn": "307419",
                 "bus": "yes",
@@ -61,69 +19,6 @@
                 "coordinates": [
                     4.967271,
                     50.989007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307397",
-                "bus": "yes",
-                "name": "Zichem Van Thienwinckelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEG MESSELBROEK ZICHEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.969804,
-                    50.998784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307394",
-                "bus": "yes",
-                "name": "Zichem Wijk de Stad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VESTSTRAAT ZICHEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.983063,
-                    50.998499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "701;707;708",
-                "ref:De_Lijn": "307393",
-                "bus": "yes",
-                "name": "Zichem Wijk de Stad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VESTSTRAAT ZICHEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.983121,
-                    50.99858
                 ]
             }
         },
@@ -151,7 +46,91 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;701;707;708",
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304419",
+                "bus": "yes",
+                "name": "Zichem Lindeboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG SCHERPENHEUVEL ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.973919,
+                    50.995293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307394",
+                "bus": "yes",
+                "name": "Zichem Wijk de Stad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VESTSTRAAT ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.983063,
+                    50.998499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304423",
+                "bus": "yes",
+                "name": "Zichem Mollenveldwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG SCHERPENHEUVEL ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.975012,
+                    50.991754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;701;708",
+                "ref:De_Lijn": "304420",
+                "bus": "yes",
+                "name": "Zichem Lindeboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG SCHERPENHEUVEL ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.974013,
+                    50.993773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;701;708",
                 "ref:De_Lijn": "304424",
                 "bus": "yes",
                 "name": "Zichem Mollenveldwijk",
@@ -172,7 +151,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "307420",
                 "bus": "yes",
                 "name": "Keiberg Vossekotstraat",
@@ -193,21 +172,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;701;707;708",
-                "ref:De_Lijn": "304420",
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307397",
                 "bus": "yes",
-                "name": "Zichem Lindeboom",
+                "name": "Zichem Van Thienwinckelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG SCHERPENHEUVEL ZICHEM",
+                "created_by": "WEG MESSELBROEK ZICHEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.974013,
-                    50.993773
+                    4.969804,
+                    50.998784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;708",
+                "ref:De_Lijn": "307393",
+                "bus": "yes",
+                "name": "Zichem Wijk de Stad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VESTSTRAAT ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.983121,
+                    50.99858
                 ]
             }
         }

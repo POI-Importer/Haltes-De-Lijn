@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "943",
-                "ref:De_Lijn": "108192",
-                "bus": "yes",
-                "name": "Herenthout Uilenbergkapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIEKEVORSTSE STEENWEG HERENTHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.768655,
-                    51.130485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108191",
                 "bus": "yes",
                 "name": "Herenthout Uilenbergkapel",
@@ -61,6 +40,26 @@
                 "coordinates": [
                     4.769893,
                     51.131658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108192",
+                "bus": "yes",
+                "name": "Herenthout Uilenbergkapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIEKEVORSTSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.768655,
+                    51.130485
                 ]
             }
         }

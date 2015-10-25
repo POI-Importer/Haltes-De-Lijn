@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "47;390",
+                "route_ref:De_Lijn": "47",
                 "ref:De_Lijn": "202882",
                 "bus": "yes",
                 "name": "Letterhoutem Nederweg",
@@ -19,6 +19,69 @@
                 "coordinates": [
                     3.854065,
                     50.936256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "203815",
+                "bus": "yes",
+                "name": "Bavegem Meulestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULESTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.863373,
+                    50.942517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "202883",
+                "bus": "yes",
+                "name": "Bavegem Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WETTERSESTEENWEG BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.860425,
+                    50.944095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "202884",
+                "bus": "yes",
+                "name": "Bavegem Kerkkouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANTONIUSSTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.865576,
+                    50.944126
                 ]
             }
         },
@@ -47,48 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "47",
-                "ref:De_Lijn": "203815",
-                "bus": "yes",
-                "name": "Bavegem Meulestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEULESTRAAT BAVEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.863373,
-                    50.942517
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "47;390",
-                "ref:De_Lijn": "202884",
-                "bus": "yes",
-                "name": "Bavegem Kerkkouterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-ANTONIUSSTRAAT BAVEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.865576,
-                    50.944126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "47;390",
                 "ref:De_Lijn": "202815",
                 "bus": "yes",
                 "name": "Bavegem Meulestraat",
@@ -103,48 +124,6 @@
                 "coordinates": [
                     3.863515,
                     50.94258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;390",
-                "ref:De_Lijn": "202883",
-                "bus": "yes",
-                "name": "Bavegem Vijverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WETTERSESTEENWEG BAVEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.860425,
-                    50.944095
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "47",
-                "ref:De_Lijn": "203884",
-                "bus": "yes",
-                "name": "Bavegem Kerkkouterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-ANTONIUSSTRAAT BAVEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.865719,
-                    50.944064
                 ]
             }
         },
@@ -166,6 +145,27 @@
                 "coordinates": [
                     3.860395,
                     50.944239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "203884",
+                "bus": "yes",
+                "name": "Bavegem Kerkkouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANTONIUSSTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.865719,
+                    50.944064
                 ]
             }
         }

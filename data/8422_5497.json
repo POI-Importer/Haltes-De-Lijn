@@ -5,28 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "25;27;563",
-                "ref:De_Lijn": "303273",
-                "bus": "yes",
-                "name": "Melkwezer Groenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GALERIJSTRAAT MELKWEZER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.070027,
-                    50.825931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;27;563;712",
-                "ref:De_Lijn": "303270",
+                "ref:De_Lijn": "303271",
                 "bus": "yes",
                 "name": "Melkwezer Galerijstraat",
                 "public_transport": "platform",
@@ -38,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.073854,
-                    50.825575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;27;563",
-                "ref:De_Lijn": "303277",
-                "bus": "yes",
-                "name": "Melkwezer Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT MELKWEZER",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.058723,
-                    50.822591
+                    5.074376,
+                    50.825366
                 ]
             }
         },
@@ -89,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "25;27;563",
-                "ref:De_Lijn": "303271",
+                "ref:De_Lijn": "303273",
                 "bus": "yes",
-                "name": "Melkwezer Galerijstraat",
+                "name": "Melkwezer Groenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GALERIJSTRAAT MELKWEZER",
@@ -101,8 +59,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.074376,
-                    50.825366
+                    5.070027,
+                    50.825931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;27;563",
+                "ref:De_Lijn": "303277",
+                "bus": "yes",
+                "name": "Melkwezer Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT MELKWEZER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.058723,
+                    50.822591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;27;563",
+                "ref:De_Lijn": "303275",
+                "bus": "yes",
+                "name": "Melkwezer Hazenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT MELKWEZER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.061115,
+                    50.825067
                 ]
             }
         },
@@ -130,21 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;27;563",
-                "ref:De_Lijn": "303275",
+                "route_ref:De_Lijn": "25;27;563;712",
+                "ref:De_Lijn": "303270",
                 "bus": "yes",
-                "name": "Melkwezer Hazenbergstraat",
+                "name": "Melkwezer Galerijstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT MELKWEZER",
+                "created_by": "GALERIJSTRAAT MELKWEZER",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.061115,
-                    50.825067
+                    5.073854,
+                    50.825575
                 ]
             }
         },

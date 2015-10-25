@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203260",
+                "bus": "yes",
+                "name": "Bassevelde Christoffelpolder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENSTRAAT LANDSDIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.64083,
+                    51.252081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "202260",
                 "bus": "yes",
                 "name": "Bassevelde Christoffelpolder",
@@ -46,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
+                "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "202259",
                 "bus": "yes",
                 "name": "Bassevelde Knokstraat",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     3.637651,
                     51.251145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "63",
-                "ref:De_Lijn": "203260",
-                "bus": "yes",
-                "name": "Bassevelde Christoffelpolder",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GRAVENSTRAAT LANDSDIJK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.64083,
-                    51.252081
                 ]
             }
         }

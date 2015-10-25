@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "552",
-                "ref:De_Lijn": "304979",
+                "route_ref:De_Lijn": "373;375;391;392;701",
+                "ref:De_Lijn": "300460",
                 "bus": "yes",
-                "name": "Molenbeek-Wersbeek Kapel",
+                "name": "Molenbeek-Wersbeek Molenbeek Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DRIESSTRAAT MOLENBEEK-WERSBEEK",
+                "created_by": "HALENSEBAAN MOLENBEEK-WERSBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.930819,
-                    50.922207
+                    4.941084,
+                    50.918399
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "552",
-                "ref:De_Lijn": "305021",
+                "ref:De_Lijn": "304979",
                 "bus": "yes",
-                "name": "Tielt-Winge Stevensstraat",
+                "name": "Molenbeek-Wersbeek Kapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIESTSESTEENWEG TIELT-WINGE",
+                "created_by": "DRIESSTRAAT MOLENBEEK-WERSBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.928595,
-                    50.928851
+                    4.930819,
+                    50.922207
                 ]
             }
         },
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "373;375;391;392;701",
-                "ref:De_Lijn": "300460",
+                "route_ref:De_Lijn": "552",
+                "ref:De_Lijn": "305021",
                 "bus": "yes",
-                "name": "Molenbeek-Wersbeek Molenbeek Kerk",
+                "name": "Tielt-Winge Stevensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HALENSEBAAN MOLENBEEK-WERSBEEK",
+                "created_by": "DIESTSESTEENWEG TIELT-WINGE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.941084,
-                    50.918399
+                    4.928595,
+                    50.928851
                 ]
             }
         }

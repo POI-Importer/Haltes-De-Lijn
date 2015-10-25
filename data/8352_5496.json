@@ -25,7 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;450",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "208089",
+                "bus": "yes",
+                "name": "Wortegem Heerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.521462,
+                    50.844961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "208303",
                 "bus": "yes",
                 "name": "Elsegem Meganckstraat",
@@ -46,7 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "200776",
                 "bus": "yes",
                 "name": "Wortegem Heerbaan 21-22",
@@ -61,27 +81,6 @@
                 "coordinates": [
                     3.533321,
                     50.844884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;450",
-                "ref:De_Lijn": "208089",
-                "bus": "yes",
-                "name": "Wortegem Heerbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONNESTRAAT PETEGEM-AAN-DE-SCHELDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.521462,
-                    50.844961
                 ]
             }
         },

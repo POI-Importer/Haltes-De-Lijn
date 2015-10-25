@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "202573",
+                "bus": "yes",
+                "name": "Kattenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOHN KENNEDYLAAN SINT-KRUIS-WINKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.813266,
+                    51.156162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "203573",
                 "bus": "yes",
                 "name": "Kattenhoek",
@@ -25,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "202574",
                 "bus": "yes",
                 "name": "Sint-Kruis-Winkel De Baetsplaats",
@@ -46,7 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "202606",
                 "bus": "yes",
                 "name": "Gent N.M.B.S. Station Noord",
@@ -82,27 +102,6 @@
                 "coordinates": [
                     3.816561,
                     51.155485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202573",
-                "bus": "yes",
-                "name": "Kattenhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JOHN KENNEDYLAAN SINT-KRUIS-WINKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.813266,
-                    51.156162
                 ]
             }
         }

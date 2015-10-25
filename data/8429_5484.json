@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;52;92",
-                "ref:De_Lijn": "405917",
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "405970",
                 "bus": "yes",
-                "name": "Genenbos Voetballokaal",
+                "name": "Genenbos Nieuwstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENENBOSSTRAAT GENENBOS (LUMMEN)",
+                "created_by": "HELVETIASTRAAT GENENBOS (LUMMEN)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.224363,
-                    51.006331
+                    5.225185,
+                    51.00842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "405971",
+                "bus": "yes",
+                "name": "Genenbos Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELVETIASTRAAT GENENBOS (LUMMEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.225341,
+                    51.008347
                 ]
             }
         },
@@ -67,8 +88,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "405935",
+                "bus": "yes",
+                "name": "Lummen Lijsterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREMSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.209313,
+                    51.006143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "405902",
+                "bus": "yes",
+                "name": "Lummen Bosheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELVETIASTRAAT GENENBOS (LUMMEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.219818,
+                    51.007101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "30;52;92",
-                "ref:De_Lijn": "405916",
+                "ref:De_Lijn": "405917",
                 "bus": "yes",
                 "name": "Genenbos Voetballokaal",
                 "public_transport": "platform",
@@ -80,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.224806,
-                    51.006364
+                    5.224363,
+                    51.006331
                 ]
             }
         },
@@ -110,48 +173,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "405902",
-                "bus": "yes",
-                "name": "Lummen Bosheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELVETIASTRAAT GENENBOS (LUMMEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.219818,
-                    51.007101
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "405971",
-                "bus": "yes",
-                "name": "Genenbos Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELVETIASTRAAT GENENBOS (LUMMEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.225341,
-                    51.008347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
                 "ref:De_Lijn": "405934",
                 "bus": "yes",
                 "name": "Lummen Lijsterstraat",
@@ -172,42 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "405935",
+                "route_ref:De_Lijn": "30;52;92",
+                "ref:De_Lijn": "405916",
                 "bus": "yes",
-                "name": "Lummen Lijsterstraat",
+                "name": "Genenbos Voetballokaal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BREMSTRAAT LUMMEN",
+                "created_by": "GENENBOSSTRAAT GENENBOS (LUMMEN)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.209313,
-                    51.006143
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "405970",
-                "bus": "yes",
-                "name": "Genenbos Nieuwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELVETIASTRAAT GENENBOS (LUMMEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.225185,
-                    51.00842
+                    5.224806,
+                    51.006364
                 ]
             }
         }

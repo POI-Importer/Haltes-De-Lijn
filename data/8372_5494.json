@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;330",
-                "ref:De_Lijn": "207825",
-                "bus": "yes",
-                "name": "Heldergem Berenhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELDERGEMSTRAAT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.959195,
-                    50.873212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "206862",
                 "bus": "yes",
                 "name": "Heldergem Heldergemstraat",
@@ -46,49 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;330",
-                "ref:De_Lijn": "206510",
-                "bus": "yes",
-                "name": "Nederhasselt Keylandstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERLICHT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.95949,
-                    50.867055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "206468",
-                "bus": "yes",
-                "name": "Heldergem Watertoren",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HELDERGEMSTRAAT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.960017,
-                    50.871875
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;330",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "207469",
                 "bus": "yes",
                 "name": "Heldergem Leistraat",
@@ -109,49 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;87;330",
-                "ref:De_Lijn": "206469",
-                "bus": "yes",
-                "name": "Heldergem Leistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERLICHT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.966457,
-                    50.872967
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;330",
-                "ref:De_Lijn": "207510",
-                "bus": "yes",
-                "name": "Nederhasselt Keylandstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERLICHT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.959315,
-                    50.867576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206467",
                 "bus": "yes",
                 "name": "Heldergem Vijverstraat",
@@ -172,11 +66,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "207468",
+                "ref:De_Lijn": "206825",
                 "bus": "yes",
-                "name": "Heldergem Watertoren",
+                "name": "Heldergem Berenhoek",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "HELDERGEMSTRAAT HELDERGEM",
                 "operator": "De Lijn",
@@ -185,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.959818,
-                    50.871857
+                    3.959409,
+                    50.873168
                 ]
             }
         },
@@ -214,111 +107,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;330",
-                "ref:De_Lijn": "206509",
-                "bus": "yes",
-                "name": "Heldergem Watertoren",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERLICHT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.959976,
-                    50.870041
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206825",
-                "bus": "yes",
-                "name": "Heldergem Berenhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELDERGEMSTRAAT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.959409,
-                    50.873168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;330",
-                "ref:De_Lijn": "207467",
-                "bus": "yes",
-                "name": "Heldergem Vijverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HELDERGEMSTRAAT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.958285,
-                    50.874908
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "207172",
-                "bus": "yes",
-                "name": "Heldergem Mottedries",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MOTTEDRIES HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.960656,
-                    50.875159
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;330",
-                "ref:De_Lijn": "207862",
-                "bus": "yes",
-                "name": "Heldergem Watertoren",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERLICHT HELDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.959987,
-                    50.870392
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "207509",
                 "bus": "yes",
                 "name": "Heldergem Watertoren",
@@ -340,7 +128,112 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;33;330",
+                "route_ref:De_Lijn": "32;33",
+                "ref:De_Lijn": "206136",
+                "bus": "yes",
+                "name": "Nederhasselt Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELZANGSTRAAT NEDERHASSELT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.971424,
+                    50.861954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "207510",
+                "bus": "yes",
+                "name": "Nederhasselt Keylandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERLICHT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.959315,
+                    50.867576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "206509",
+                "bus": "yes",
+                "name": "Heldergem Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERLICHT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.959976,
+                    50.870041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207468",
+                "bus": "yes",
+                "name": "Heldergem Watertoren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HELDERGEMSTRAAT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.959818,
+                    50.871857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206468",
+                "bus": "yes",
+                "name": "Heldergem Watertoren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HELDERGEMSTRAAT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.960017,
+                    50.871875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33",
                 "ref:De_Lijn": "207136",
                 "bus": "yes",
                 "name": "Nederhasselt Groenstraat",
@@ -361,21 +254,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206171",
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "207862",
                 "bus": "yes",
-                "name": "Haaltert Leidstraat",
+                "name": "Heldergem Watertoren",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LEISTRAAT HELDERGEM",
+                "created_by": "TERLICHT HELDERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.967697,
-                    50.874257
+                    3.959987,
+                    50.870392
                 ]
             }
         },
@@ -403,21 +296,126 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;33;330",
-                "ref:De_Lijn": "206136",
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "207467",
                 "bus": "yes",
-                "name": "Nederhasselt Groenstraat",
+                "name": "Heldergem Vijverstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VOGELZANGSTRAAT NEDERHASSELT",
+                "created_by": "HELDERGEMSTRAAT HELDERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.971424,
-                    50.861954
+                    3.958285,
+                    50.874908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206171",
+                "bus": "yes",
+                "name": "Haaltert Leidstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEISTRAAT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.967697,
+                    50.874257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207172",
+                "bus": "yes",
+                "name": "Heldergem Mottedries",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOTTEDRIES HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.960656,
+                    50.875159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "207825",
+                "bus": "yes",
+                "name": "Heldergem Berenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELDERGEMSTRAAT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.959195,
+                    50.873212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "206510",
+                "bus": "yes",
+                "name": "Nederhasselt Keylandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERLICHT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.95949,
+                    50.867055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82;87",
+                "ref:De_Lijn": "206469",
+                "bus": "yes",
+                "name": "Heldergem Leistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERLICHT HELDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.966457,
+                    50.872967
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "201927",
                 "bus": "yes",
                 "name": "Wichelen Rimeir",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "201926",
                 "bus": "yes",
                 "name": "Wichelen Bogaert",

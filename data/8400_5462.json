@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
-                "ref:De_Lijn": "105504",
-                "bus": "yes",
-                "name": "Brecht Cambeenbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOTENSTEENWEG SINT-JOB-IN-'T-GOOR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.575044,
-                    51.308666
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105506",
                 "bus": "yes",
                 "name": "Brecht Bareeltje",
@@ -46,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105503",
                 "bus": "yes",
                 "name": "Brecht Cambeenbos",
@@ -67,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "600;602;608;620;629",
                 "ref:De_Lijn": "105507",
                 "bus": "yes",
                 "name": "Brecht Bareeltje",
@@ -82,6 +58,26 @@
                 "coordinates": [
                     4.586324,
                     51.31652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105504",
+                "bus": "yes",
+                "name": "Brecht Cambeenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.575044,
+                    51.308666
                 ]
             }
         }

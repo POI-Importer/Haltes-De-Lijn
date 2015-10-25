@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "407513",
+                "ref:De_Lijn": "400429",
                 "bus": "yes",
-                "name": "Balen Gervoortstraat",
+                "name": "Balen Schrieken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OLMSEBAAN MEERHOUT",
+                "created_by": "GERVOORT OLMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.122715,
-                    51.133723
+                    5.132761,
+                    51.128633
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400429",
+                "ref:De_Lijn": "407513",
                 "bus": "yes",
-                "name": "Balen Schrieken",
+                "name": "Balen Gervoortstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GERVOORT OLMEN",
+                "created_by": "OLMSEBAAN MEERHOUT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.132761,
-                    51.128633
+                    5.122715,
+                    51.133723
                 ]
             }
         }

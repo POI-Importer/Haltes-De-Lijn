@@ -5,69 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42;S12",
-                "ref:De_Lijn": "407822",
-                "bus": "yes",
-                "name": "Bevingen Romeinse Steenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG BEVINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.176514,
-                    50.792359
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;S12",
-                "ref:De_Lijn": "408004",
-                "bus": "yes",
-                "name": "Sint-Truiden N.O. Omleiding",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG BEVINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.180266,
-                    50.802627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;S12",
-                "ref:De_Lijn": "407818",
-                "bus": "yes",
-                "name": "Bevingen Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NAAMSESTEENWEG BEVINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.178673,
-                    50.798305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;S12",
                 "ref:De_Lijn": "407819",
                 "bus": "yes",
                 "name": "Bevingen Centrum",
@@ -103,6 +40,69 @@
                 "coordinates": [
                     5.180537,
                     50.802706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;S12",
+                "ref:De_Lijn": "408004",
+                "bus": "yes",
+                "name": "Sint-Truiden N.O. Omleiding",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSESTEENWEG BEVINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.180266,
+                    50.802627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;S12",
+                "ref:De_Lijn": "407822",
+                "bus": "yes",
+                "name": "Bevingen Romeinse Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSESTEENWEG BEVINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176514,
+                    50.792359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;S12",
+                "ref:De_Lijn": "407818",
+                "bus": "yes",
+                "name": "Bevingen Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSESTEENWEG BEVINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.178673,
+                    50.798305
                 ]
             }
         }

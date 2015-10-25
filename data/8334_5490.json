@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "505548",
-                "bus": "yes",
-                "name": "Rumbeke Kasteel Sterrebos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOORSEELSESTEENWEG ROESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.139149,
-                    50.928652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "69;74",
                 "ref:De_Lijn": "503966",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     3.13035,
                     50.930528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505548",
+                "bus": "yes",
+                "name": "Rumbeke Kasteel Sterrebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORSEELSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.139149,
+                    50.928652
                 ]
             }
         },

@@ -4,44 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506235",
-                "zone:De_Lijn": "04",
-                "name": "Nieuwpoort Cardijnlaan",
+                "route_ref:De_Lijn": "41;68;69",
+                "ref:De_Lijn": "506767",
+                "bus": "yes",
+                "name": "Nieuwpoort Parklaan",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "highway": "bus_stop",
+                "created_by": "PARKLAAN NIEUWPOORT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.741472,
-                    51.137008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "501235",
-                "zone:De_Lijn": "04",
-                "name": "Nieuwpoort Cardijnlaan",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ALBERT I LAAN NIEUWPOORT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.740847,
-                    51.13771
+                    2.746533,
+                    51.129534
                 ]
             }
         },
@@ -90,6 +67,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506235",
+                "zone:De_Lijn": "04",
+                "name": "Nieuwpoort Cardijnlaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.741472,
+                    51.137008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501235",
+                "zone:De_Lijn": "04",
+                "name": "Nieuwpoort Cardijnlaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.740847,
+                    51.13771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "68;69",
                 "ref:De_Lijn": "501249",
                 "bus": "yes",
@@ -126,27 +147,6 @@
                 "coordinates": [
                     2.741263,
                     51.137248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;68;69",
-                "ref:De_Lijn": "506767",
-                "bus": "yes",
-                "name": "Nieuwpoort Parklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PARKLAAN NIEUWPOORT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.746533,
-                    51.129534
                 ]
             }
         },

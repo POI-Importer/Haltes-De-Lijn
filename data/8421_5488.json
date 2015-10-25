@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "375",
+                "ref:De_Lijn": "301273",
+                "bus": "yes",
+                "name": "Webbekom Kwadestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPENBROEKSTRAAT WEBBEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.052714,
+                    50.957716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "375",
+                "ref:De_Lijn": "300443",
+                "bus": "yes",
+                "name": "Webbekom Wolvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPENBROEKSTRAAT WEBBEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.032617,
+                    50.953795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "375;701",
                 "ref:De_Lijn": "301275",
                 "bus": "yes",
@@ -46,8 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "375",
-                "ref:De_Lijn": "301273",
+                "route_ref:De_Lijn": "375;701;702",
+                "ref:De_Lijn": "301274",
                 "bus": "yes",
                 "name": "Webbekom Kwadestraat",
                 "public_transport": "platform",
@@ -59,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.052714,
-                    50.957716
+                    5.052787,
+                    50.95785
                 ]
             }
         },
@@ -82,48 +124,6 @@
                 "coordinates": [
                     5.03965,
                     50.954896
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "375",
-                "ref:De_Lijn": "300443",
-                "bus": "yes",
-                "name": "Webbekom Wolvenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAPENBROEKSTRAAT WEBBEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.032617,
-                    50.953795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "375;701;702",
-                "ref:De_Lijn": "301274",
-                "bus": "yes",
-                "name": "Webbekom Kwadestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAPENBROEKSTRAAT WEBBEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.052787,
-                    50.95785
                 ]
             }
         }

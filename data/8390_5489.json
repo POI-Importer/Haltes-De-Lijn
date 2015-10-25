@@ -25,10 +25,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "233;821",
-                "ref:De_Lijn": "301761",
+                "route_ref:De_Lijn": "224;230;231;232",
+                "ref:De_Lijn": "301717",
                 "bus": "yes",
-                "name": "Grimbergen Waardbeek",
+                "name": "Grimbergen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364628,
+                    50.932175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "233;821",
+                "ref:De_Lijn": "301702",
+                "bus": "yes",
+                "name": "Grimbergen Biesthoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WOLVERTEMSESTEENWEG GRIMBERGEN",
@@ -38,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.356874,
-                    50.93782
+                    4.351226,
+                    50.939042
                 ]
             }
         },
@@ -60,27 +81,6 @@
                 "coordinates": [
                     4.363134,
                     50.93596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "224;230;231;232",
-                "ref:De_Lijn": "301715",
-                "bus": "yes",
-                "name": "Grimbergen Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG GRIMBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.364571,
-                    50.932723
                 ]
             }
         },
@@ -108,21 +108,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "224;230;231;232",
-                "ref:De_Lijn": "301717",
+                "route_ref:De_Lijn": "233;821",
+                "ref:De_Lijn": "301701",
                 "bus": "yes",
-                "name": "Grimbergen Dorp",
+                "name": "Grimbergen Biesthoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG GRIMBERGEN",
+                "created_by": "WOLVERTEMSESTEENWEG GRIMBERGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.364628,
-                    50.932175
+                    4.351311,
+                    50.938889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;233;234",
+                "ref:De_Lijn": "301748",
+                "bus": "yes",
+                "name": "Grimbergen Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.363276,
+                    50.935564
                 ]
             }
         },
@@ -151,9 +171,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "233;821",
-                "ref:De_Lijn": "301701",
+                "ref:De_Lijn": "301761",
                 "bus": "yes",
-                "name": "Grimbergen Biesthoek",
+                "name": "Grimbergen Waardbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WOLVERTEMSESTEENWEG GRIMBERGEN",
@@ -163,16 +183,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.351311,
-                    50.938889
+                    4.356874,
+                    50.93782
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "224;234;821",
-                "ref:De_Lijn": "301750",
+                "route_ref:De_Lijn": "230;231;232;233",
+                "ref:De_Lijn": "301749",
                 "bus": "yes",
                 "name": "Grimbergen Stelplaats",
                 "public_transport": "platform",
@@ -183,8 +203,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.363276,
-                    50.936031
+                    4.363447,
+                    50.935582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "233;821",
+                "ref:De_Lijn": "301760",
+                "bus": "yes",
+                "name": "Grimbergen Waardbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N211 GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.357955,
+                    50.93746
                 ]
             }
         },
@@ -212,26 +253,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "230;231;232;233",
-                "ref:De_Lijn": "301749",
-                "bus": "yes",
-                "name": "Grimbergen Stelplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.363447,
-                    50.935582
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "230;233;234;533;821",
                 "ref:De_Lijn": "301724",
                 "bus": "yes",
@@ -253,29 +274,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "233;821",
-                "ref:De_Lijn": "301702",
+                "route_ref:De_Lijn": "224;230;231;232",
+                "ref:De_Lijn": "301715",
                 "bus": "yes",
-                "name": "Grimbergen Biesthoek",
+                "name": "Grimbergen Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WOLVERTEMSESTEENWEG GRIMBERGEN",
+                "created_by": "BRUSSELSESTEENWEG GRIMBERGEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.351226,
-                    50.939042
+                    4.364571,
+                    50.932723
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "230;231;232;233;234",
-                "ref:De_Lijn": "301748",
+                "route_ref:De_Lijn": "224;234;821",
+                "ref:De_Lijn": "301750",
                 "bus": "yes",
                 "name": "Grimbergen Stelplaats",
                 "public_transport": "platform",
@@ -287,28 +308,7 @@
                 "type": "Point",
                 "coordinates": [
                     4.363276,
-                    50.935564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "233;821",
-                "ref:De_Lijn": "301760",
-                "bus": "yes",
-                "name": "Grimbergen Waardbeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N211 GRIMBERGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.357955,
-                    50.93746
+                    50.936031
                 ]
             }
         }

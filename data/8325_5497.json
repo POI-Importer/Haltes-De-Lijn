@@ -25,10 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;89",
-                "ref:De_Lijn": "509642",
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "504647",
                 "bus": "yes",
-                "name": "Zillebeke Berg 60",
+                "name": "Zillebeke Weg Op Zwartleen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZWARTELEENSTRAAT ZILLEBEKE",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.931887,
-                    50.824899
+                    2.924812,
+                    50.822789
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39;89",
-                "ref:De_Lijn": "509648",
+                "ref:De_Lijn": "509642",
                 "bus": "yes",
-                "name": "Zillebeke Wervikstraat 94",
+                "name": "Zillebeke Berg 60",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WERVIKSTRAAT ZILLEBEKE",
+                "created_by": "ZWARTELEENSTRAAT ZILLEBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.927142,
-                    50.830128
+                    2.931887,
+                    50.824899
                 ]
             }
         },
@@ -130,21 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39",
-                "ref:De_Lijn": "504656",
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "509648",
                 "bus": "yes",
-                "name": "Zillebeke Klein Zillebeke",
+                "name": "Zillebeke Wervikstraat 94",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PAPPOTSTRAAT ZILLEBEKE",
+                "created_by": "WERVIKSTRAAT ZILLEBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.939148,
-                    50.822353
+                    2.927142,
+                    50.830128
                 ]
             }
         },
@@ -172,21 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "504647",
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504656",
                 "bus": "yes",
-                "name": "Zillebeke Weg Op Zwartleen",
+                "name": "Zillebeke Klein Zillebeke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZWARTELEENSTRAAT ZILLEBEKE",
+                "created_by": "PAPPOTSTRAAT ZILLEBEKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.924812,
-                    50.822789
+                    2.939148,
+                    50.822353
                 ]
             }
         }

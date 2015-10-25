@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505223",
+                "bus": "yes",
+                "name": "Zande Kapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT ZANDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.913477,
+                    51.115339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "66",
                 "ref:De_Lijn": "509797",
                 "bus": "yes",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     2.921925,
                     51.119767
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505223",
-                "bus": "yes",
-                "name": "Zande Kapellestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELLESTRAAT ZANDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.913477,
-                    51.115339
                 ]
             }
         }

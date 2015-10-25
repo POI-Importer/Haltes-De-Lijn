@@ -4,6 +4,90 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "10;62;63;91",
+                "ref:De_Lijn": "507422",
+                "bus": "yes",
+                "name": "Sint-Kruis Keizerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAAKSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.253376,
+                    51.212191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;11;62;98",
+                "ref:De_Lijn": "507418",
+                "bus": "yes",
+                "name": "Sint-Kruis Mexico",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKERKSE STEENWEG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.261026,
+                    51.213683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "502694",
+                "bus": "yes",
+                "name": "Sint-Kruis Doornhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNHUT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.264832,
+                    51.213745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;11;62;98",
+                "ref:De_Lijn": "507419",
+                "bus": "yes",
+                "name": "Sint-Kruis Doornhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.264253,
+                    51.213992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "26;58;58S",
                 "ref:De_Lijn": "507750",
                 "bus": "yes",
@@ -25,69 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;11;62;98",
-                "ref:De_Lijn": "502419",
-                "bus": "yes",
-                "name": "Sint-Kruis Doornhut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOERKERKSE STEENWEG BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.264272,
-                    51.213785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11;62",
-                "ref:De_Lijn": "502415",
-                "bus": "yes",
-                "name": "Sint-Kruis Beukenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNHUT BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.267139,
-                    51.209371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "507431",
-                "bus": "yes",
-                "name": "Sint-Kruis Puienbroek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRIEVERSWEG SINT-KRUIS (BRUGGE)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.272153,
-                    51.212816
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "58;91;58S",
                 "ref:De_Lijn": "502750",
                 "bus": "yes",
@@ -103,6 +124,48 @@
                 "coordinates": [
                     3.253943,
                     51.209391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;98",
+                "ref:De_Lijn": "507695",
+                "bus": "yes",
+                "name": "Sint-Kruis Bachten Beukenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKERKSE STEENWEG SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.270885,
+                    51.217442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;49;62;63;91",
+                "ref:De_Lijn": "502440",
+                "bus": "yes",
+                "name": "Sint-Kruis Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORTUINSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.254039,
+                    51.210192
                 ]
             }
         },
@@ -151,105 +214,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "507694",
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "507431",
                 "bus": "yes",
-                "name": "Sint-Kruis Doornhut",
+                "name": "Sint-Kruis Puienbroek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOORNHUT SINT-KRUIS (BRUGGE)",
+                "created_by": "BRIEVERSWEG SINT-KRUIS (BRUGGE)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.264973,
-                    51.213801
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62;98",
-                "ref:De_Lijn": "502695",
-                "bus": "yes",
-                "name": "Sint-Kruis Bachten Beukenbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOERKERKSE STEENWEG SINT-KRUIS (BRUGGE)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.270754,
-                    51.217513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;49;62;63;91",
-                "ref:De_Lijn": "502440",
-                "bus": "yes",
-                "name": "Sint-Kruis Watertoren",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FORTUINSTRAAT BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.254039,
-                    51.210192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;49;62;63;91",
-                "ref:De_Lijn": "502422",
-                "bus": "yes",
-                "name": "Sint-Kruis Keizerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHAAKSTRAAT BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.253532,
-                    51.212219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;11;62;98",
-                "ref:De_Lijn": "507417",
-                "bus": "yes",
-                "name": "Sint-Kruis Brieversweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOERKERKSE STEENWEG BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.257085,
-                    51.21388
+                    3.272153,
+                    51.212816
                 ]
             }
         },
@@ -277,27 +256,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;11;62;98",
-                "ref:De_Lijn": "502418",
-                "bus": "yes",
-                "name": "Sint-Kruis Mexico",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOERKERKSE STEENWEG BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.260885,
-                    51.213583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "10;62;63",
                 "ref:De_Lijn": "507050",
                 "bus": "yes",
@@ -319,21 +277,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "502431",
+                "route_ref:De_Lijn": "10;49;62;63;91",
+                "ref:De_Lijn": "502422",
                 "bus": "yes",
-                "name": "Sint-Kruis Puienbroek",
+                "name": "Sint-Kruis Keizerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRIEVERSWEG SINT-KRUIS (BRUGGE)",
+                "created_by": "SCHAAKSTRAAT BRUGGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.272269,
-                    51.212727
+                    3.253532,
+                    51.212219
                 ]
             }
         },
@@ -355,111 +313,6 @@
                 "coordinates": [
                     3.253868,
                     51.210137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;11;62;98",
-                "ref:De_Lijn": "507419",
-                "bus": "yes",
-                "name": "Sint-Kruis Doornhut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.264253,
-                    51.213992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;11;62;98",
-                "ref:De_Lijn": "502417",
-                "bus": "yes",
-                "name": "Sint-Kruis Brieversweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOERKERKSE STEENWEG BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.257188,
-                    51.213773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;11;62;98",
-                "ref:De_Lijn": "507418",
-                "bus": "yes",
-                "name": "Sint-Kruis Mexico",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOERKERKSE STEENWEG BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.261026,
-                    51.213683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "502414",
-                "bus": "yes",
-                "name": "Sint-Kruis Bachten Beukenbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PETEGEMSTRAAT SINT-KRUIS (BRUGGE)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.271837,
-                    51.217101
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;62;63;91",
-                "ref:De_Lijn": "507422",
-                "bus": "yes",
-                "name": "Sint-Kruis Keizerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHAAKSTRAAT BRUGGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.253376,
-                    51.212191
                 ]
             }
         },
@@ -488,7 +341,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62;98",
-                "ref:De_Lijn": "507695",
+                "ref:De_Lijn": "502695",
                 "bus": "yes",
                 "name": "Sint-Kruis Bachten Beukenbos",
                 "public_transport": "platform",
@@ -500,8 +353,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.270885,
-                    51.217442
+                    3.270754,
+                    51.217513
                 ]
             }
         },
@@ -509,9 +362,93 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "502694",
+                "ref:De_Lijn": "507694",
                 "bus": "yes",
                 "name": "Sint-Kruis Doornhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNHUT SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.264973,
+                    51.213801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;11;62;98",
+                "ref:De_Lijn": "507417",
+                "bus": "yes",
+                "name": "Sint-Kruis Brieversweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKERKSE STEENWEG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.257085,
+                    51.21388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "502414",
+                "bus": "yes",
+                "name": "Sint-Kruis Bachten Beukenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PETEGEMSTRAAT SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.271837,
+                    51.217101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "502431",
+                "bus": "yes",
+                "name": "Sint-Kruis Puienbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIEVERSWEG SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.272269,
+                    51.212727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;62",
+                "ref:De_Lijn": "502415",
+                "bus": "yes",
+                "name": "Sint-Kruis Beukenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DOORNHUT BRUGGE",
@@ -521,8 +458,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.264832,
-                    51.213745
+                    3.267139,
+                    51.209371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;11;62;98",
+                "ref:De_Lijn": "502419",
+                "bus": "yes",
+                "name": "Sint-Kruis Doornhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKERKSE STEENWEG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.264272,
+                    51.213785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;11;62;98",
+                "ref:De_Lijn": "502418",
+                "bus": "yes",
+                "name": "Sint-Kruis Mexico",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKERKSE STEENWEG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.260885,
+                    51.213583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;11;62;98",
+                "ref:De_Lijn": "502417",
+                "bus": "yes",
+                "name": "Sint-Kruis Brieversweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKERKSE STEENWEG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.257188,
+                    51.213773
                 ]
             }
         }

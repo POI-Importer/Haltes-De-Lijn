@@ -4,7 +4,48 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "571;943",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108150",
+                "bus": "yes",
+                "name": "Berlaar Berlaar-Heikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSEBAAN HEIKANT (BERLAAR)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.671934,
+                    51.081155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108147",
+                "bus": "yes",
+                "name": "Beerzel Houwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUWSTRAAT BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.664896,
+                    51.074126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108149",
                 "bus": "yes",
                 "name": "Beerzel Zilverberklaan",
@@ -25,7 +66,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "570;571;943",
                 "ref:De_Lijn": "108152",
                 "bus": "yes",
                 "name": "Berlaar Heikant Kerk",
@@ -88,28 +128,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "571;943",
-                "ref:De_Lijn": "108147",
-                "bus": "yes",
-                "name": "Beerzel Houwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUWSTRAAT BEERZEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.664896,
-                    51.074126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "570;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108151",
                 "bus": "yes",
                 "name": "Berlaar Berlaar-Heikant",
@@ -130,28 +149,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "570;571;943",
-                "ref:De_Lijn": "108150",
-                "bus": "yes",
-                "name": "Berlaar Berlaar-Heikant",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARSCHOTSEBAAN HEIKANT (BERLAAR)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.671934,
-                    51.081155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "570;943",
                 "ref:De_Lijn": "108153",
                 "bus": "yes",
                 "name": "Berlaar Heikant Kerk",

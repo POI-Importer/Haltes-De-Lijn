@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "106632",
+                "bus": "yes",
+                "name": "Ravels Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEELSESTRAAT EEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.009822,
+                    51.381594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "102306",
                 "bus": "yes",
                 "name": "Ravels Peelsestraat",
@@ -19,27 +39,6 @@
                 "coordinates": [
                     5.012974,
                     51.385155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450;456;459",
-                "ref:De_Lijn": "106632",
-                "bus": "yes",
-                "name": "Ravels Warandestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PEELSESTRAAT EEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.009822,
-                    51.381594
                 ]
             }
         }

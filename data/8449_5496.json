@@ -26,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406403",
+                "ref:De_Lijn": "406404",
                 "bus": "yes",
-                "name": "Maastricht Tongerseweg School",
+                "name": "Maastricht Tongerseweg Wolder",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TONGERSEWEG MAASTRICHT",
@@ -38,30 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.657453,
-                    50.83699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406365",
-                "bus": "yes",
-                "zone:De_Lijn": "6658",
-                "name": "Maastricht Keurmeestersdreef Oost",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEURMEESTERSDREEF MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.662485,
-                    50.847508
+                    5.652092,
+                    50.83463
                 ]
             }
         },
@@ -90,20 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406358",
+                "ref:De_Lijn": "406405",
                 "bus": "yes",
-                "name": "Maastricht Javastraat",
+                "name": "Maastricht Tongerseweg Wolder",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "JAVASTRAAT MAASTRICHT",
+                "created_by": "TONGERSEWEG MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.665071,
-                    50.842426
+                    5.652169,
+                    50.834836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "406401",
+                "bus": "yes",
+                "name": "Maastricht Tongerseweg Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSEWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.662349,
+                    50.838977
                 ]
             }
         },
@@ -133,41 +132,21 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406404",
+                "ref:De_Lijn": "406365",
                 "bus": "yes",
-                "name": "Maastricht Tongerseweg Wolder",
+                "zone:De_Lijn": "6658",
+                "name": "Maastricht Keurmeestersdreef Oost",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TONGERSEWEG MAASTRICHT",
+                "created_by": "KEURMEESTERSDREEF MAASTRICHT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.652092,
-                    50.83463
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406405",
-                "bus": "yes",
-                "name": "Maastricht Tongerseweg Wolder",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TONGERSEWEG MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.652169,
-                    50.834836
+                    5.662485,
+                    50.847508
                 ]
             }
         },
@@ -196,6 +175,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "406403",
+                "bus": "yes",
+                "name": "Maastricht Tongerseweg School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSEWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.657453,
+                    50.83699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "406358",
+                "bus": "yes",
+                "name": "Maastricht Javastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAVASTRAAT MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.665071,
+                    50.842426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
                 "ref:De_Lijn": "406339",
                 "bus": "yes",
                 "name": "Maastricht Gewantmakersdreef Zuid",
@@ -210,27 +231,6 @@
                 "coordinates": [
                     5.66145,
                     50.844489
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "62",
-                "ref:De_Lijn": "406401",
-                "bus": "yes",
-                "name": "Maastricht Tongerseweg Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TONGERSEWEG MAASTRICHT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.662349,
-                    50.838977
                 ]
             }
         }

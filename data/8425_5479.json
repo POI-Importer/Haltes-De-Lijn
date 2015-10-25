@@ -4,95 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408406",
-                "bus": "yes",
-                "name": "Hulst Termaden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERMADEN HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.126335,
-                    51.071575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17c;35c;717",
-                "ref:De_Lijn": "408270",
-                "bus": "yes",
-                "name": "Hulst Vertakking",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.135742,
-                    51.069239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
-                "ref:De_Lijn": "408267",
-                "bus": "yes",
-                "name": "Hulst Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HULSTERWEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.126869,
-                    51.069288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
-                "ref:De_Lijn": "408266",
-                "bus": "yes",
-                "name": "Hulst Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HULSTERWEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.127253,
-                    51.069223
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408268",
+                "ref:De_Lijn": "408269",
                 "bus": "yes",
                 "name": "Hulst Spekestraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "TUSHOEKSTRAAT HULST (TESSENDERLO)",
                 "operator": "De Lijn",
@@ -101,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.132377,
-                    51.069378
+                    5.132504,
+                    51.069251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;19b;717",
+                "ref:De_Lijn": "408278",
+                "bus": "yes",
+                "name": "Tessenderlo Kanaalweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALWEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.134621,
+                    51.072195
                 ]
             }
         },
@@ -131,104 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408022",
+                "ref:De_Lijn": "408268",
                 "bus": "yes",
-                "name": "Genebos Kerpensberg",
+                "name": "Hulst Spekestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENEBOSSTRAAT GENENBOS (HAM)",
+                "created_by": "TUSHOEKSTRAAT HULST (TESSENDERLO)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.127612,
-                    51.080807
+                    5.132377,
+                    51.069378
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408405",
+                "route_ref:De_Lijn": "32;17c;35c;717",
+                "ref:De_Lijn": "408375",
                 "bus": "yes",
-                "name": "Hulst Waterbroek",
+                "name": "Tusvoort Kraaienweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TERPLOEG HULST (TESSENDERLO)",
+                "created_by": "KRAAIENWEG HULST (TESSENDERLO)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.124269,
-                    51.071741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;19b;717",
-                "ref:De_Lijn": "408279",
-                "bus": "yes",
-                "name": "Tessenderlo Kanaalweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANAALWEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.134308,
-                    51.072242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408404",
-                "bus": "yes",
-                "name": "Hulst Ter Ploeg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERPLOEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.121723,
-                    51.070481
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;19b;717",
-                "ref:De_Lijn": "408278",
-                "bus": "yes",
-                "name": "Tessenderlo Kanaalweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANAALWEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.134621,
-                    51.072195
+                    5.138944,
+                    51.072212
                 ]
             }
         },
@@ -256,21 +130,189 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;17c;35c;717",
-                "ref:De_Lijn": "408375",
+                "ref:De_Lijn": "408411",
                 "bus": "yes",
-                "name": "Tusvoort Kraaienweg",
+                "name": "Tessenderlo Vertakking",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KRAAIENWEG HULST (TESSENDERLO)",
+                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.138944,
-                    51.072212
+                    5.134486,
+                    51.070093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408405",
+                "bus": "yes",
+                "name": "Hulst Waterbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERPLOEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.124269,
+                    51.071741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17c;35c;717",
+                "ref:De_Lijn": "408270",
+                "bus": "yes",
+                "name": "Hulst Vertakking",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.135742,
+                    51.069239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408406",
+                "bus": "yes",
+                "name": "Hulst Termaden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERMADEN HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.126335,
+                    51.071575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408404",
+                "bus": "yes",
+                "name": "Hulst Ter Ploeg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERPLOEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.121723,
+                    51.070481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
+                "ref:De_Lijn": "408266",
+                "bus": "yes",
+                "name": "Hulst Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTERWEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.127253,
+                    51.069223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;91;17c;19b;35c;717",
+                "ref:De_Lijn": "408267",
+                "bus": "yes",
+                "name": "Hulst Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTERWEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.126869,
+                    51.069288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408022",
+                "bus": "yes",
+                "name": "Genebos Kerpensberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENEBOSSTRAAT GENENBOS (HAM)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.127612,
+                    51.080807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;19b;717",
+                "ref:De_Lijn": "408279",
+                "bus": "yes",
+                "name": "Tessenderlo Kanaalweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALWEG HULST (TESSENDERLO)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.134308,
+                    51.072242
                 ]
             }
         },
@@ -313,48 +355,6 @@
                 "coordinates": [
                     5.139127,
                     51.072013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408411",
-                "bus": "yes",
-                "name": "Tessenderlo Vertakking",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PAALSEWEG HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.134486,
-                    51.070093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408269",
-                "bus": "yes",
-                "name": "Hulst Spekestraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "TUSHOEKSTRAAT HULST (TESSENDERLO)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.132504,
-                    51.069251
                 ]
             }
         }

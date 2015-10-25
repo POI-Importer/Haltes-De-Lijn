@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;49",
-                "ref:De_Lijn": "504363",
+                "route_ref:De_Lijn": "41;49",
+                "ref:De_Lijn": "504367",
                 "bus": "yes",
-                "name": "Pervijze De Snoek",
+                "name": "Pervijze Nieuwpoortstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VEURNESTRAAT PERVIJZE",
+                "created_by": "NIEUWPOORTSTRAAT PERVIJZE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.770026,
-                    51.074327
+                    2.789495,
+                    51.07806
                 ]
             }
         },
@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "32;49",
-                "ref:De_Lijn": "504370",
+                "ref:De_Lijn": "509370",
                 "bus": "yes",
                 "name": "Pervijze Veurnestraat 72",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.784458,
-                    51.073803
+                    2.784591,
+                    51.073661
                 ]
             }
         },
@@ -88,6 +88,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "32;49",
+                "ref:De_Lijn": "504370",
+                "bus": "yes",
+                "name": "Pervijze Veurnestraat 72",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNESTRAAT PERVIJZE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.784458,
+                    51.073803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;49",
+                "ref:De_Lijn": "504363",
+                "bus": "yes",
+                "name": "Pervijze De Snoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNESTRAAT PERVIJZE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.770026,
+                    51.074327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "41;49",
                 "ref:De_Lijn": "509367",
                 "bus": "yes",
@@ -103,48 +145,6 @@
                 "coordinates": [
                     2.789129,
                     51.078334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;49",
-                "ref:De_Lijn": "509370",
-                "bus": "yes",
-                "name": "Pervijze Veurnestraat 72",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEURNESTRAAT PERVIJZE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.784591,
-                    51.073661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;49",
-                "ref:De_Lijn": "504367",
-                "bus": "yes",
-                "name": "Pervijze Nieuwpoortstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWPOORTSTRAAT PERVIJZE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.789495,
-                    51.07806
                 ]
             }
         }

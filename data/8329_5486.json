@@ -25,10 +25,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "38;40",
-                "ref:De_Lijn": "508948",
+                "route_ref:De_Lijn": "30;31;38;40",
+                "ref:De_Lijn": "503802",
                 "bus": "yes",
-                "name": "Staden Sporthal",
+                "name": "Staden Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTPLAATS STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.014835,
+                    50.974694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40",
+                "ref:De_Lijn": "502202",
+                "bus": "yes",
+                "name": "Staden Stroveldkruis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUGGESTRAAT STADEN",
@@ -38,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.020039,
-                    50.97594
+                    3.028762,
+                    50.982657
                 ]
             }
         },
@@ -67,10 +88,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "40",
-                "ref:De_Lijn": "502202",
+                "route_ref:De_Lijn": "38;40",
+                "ref:De_Lijn": "508948",
                 "bus": "yes",
-                "name": "Staden Stroveldkruis",
+                "name": "Staden Sporthal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUGGESTRAAT STADEN",
@@ -80,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.028762,
-                    50.982657
+                    3.020039,
+                    50.97594
                 ]
             }
         },
@@ -124,27 +145,6 @@
                 "coordinates": [
                     3.028907,
                     50.982569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;31;38;40",
-                "ref:De_Lijn": "503802",
-                "bus": "yes",
-                "name": "Staden Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKTPLAATS STADEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.014835,
-                    50.974694
                 ]
             }
         },

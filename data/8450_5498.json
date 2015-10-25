@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "726",
-                "ref:De_Lijn": "407764",
+                "ref:De_Lijn": "407762",
                 "bus": "yes",
-                "name": "Kanne Bejats",
+                "name": "Kanne Zwerfstenenpark",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEJATS KANNE",
+                "created_by": "SINT-HUBERTUSSTRAAT KANNE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.670242,
-                    50.813805
+                    5.67198,
+                    50.813507
                 ]
             }
         },
@@ -46,28 +46,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "726",
-                "ref:De_Lijn": "407762",
+                "route_ref:De_Lijn": "18;39;62;39b;726",
+                "ref:De_Lijn": "407642",
                 "bus": "yes",
-                "name": "Kanne Zwerfstenenpark",
+                "name": "Kanne Rijkswacht",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-HUBERTUSSTRAAT KANNE",
+                "created_by": "N619 KANNE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.67198,
-                    50.813507
+                    5.671008,
+                    50.808672
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18;39;39b;726",
                 "ref:De_Lijn": "407643",
                 "bus": "yes",
                 "name": "Kanne Rijkswacht",
@@ -109,21 +108,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "18;39;62;39b;726",
-                "ref:De_Lijn": "407642",
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "407764",
                 "bus": "yes",
-                "name": "Kanne Rijkswacht",
+                "name": "Kanne Bejats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N619 KANNE",
+                "created_by": "BEJATS KANNE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.671008,
-                    50.808672
+                    5.670242,
+                    50.813805
                 ]
             }
         }

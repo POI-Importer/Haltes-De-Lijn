@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
                 "ref:De_Lijn": "204072",
                 "bus": "yes",
                 "name": "Belsele Puyveldewegsken",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
                 "ref:De_Lijn": "205097",
                 "bus": "yes",
                 "name": "Belsele Goudenleeuwstraat",

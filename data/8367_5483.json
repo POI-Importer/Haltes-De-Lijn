@@ -4,91 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;130",
-                "ref:De_Lijn": "203474",
-                "bus": "yes",
-                "name": "Laarne Meerhoekwegel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEIRHOEKSTRAAT LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.866344,
-                    51.022679
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "201929",
-                "bus": "yes",
-                "name": "Wetteren Damstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZAVELSTRAAT WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.861204,
-                    51.015609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;130",
-                "ref:De_Lijn": "202473",
-                "bus": "yes",
-                "name": "Laarne Termstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEGVOERINGSTRAAT LAARNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.86105,
-                    51.027187
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
-                "ref:De_Lijn": "210047",
-                "bus": "yes",
-                "name": "Wetteren Prullenbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRANDEKENSWEGEL WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.848987,
-                    51.018477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;130",
+                "route_ref:De_Lijn": "34",
                 "ref:De_Lijn": "202474",
                 "bus": "yes",
                 "name": "Laarne Meerhoekwegel",
@@ -109,7 +25,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "203473",
+                "bus": "yes",
+                "name": "Laarne Termstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEGVOERINGSTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.861094,
+                    51.027052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "201930",
                 "bus": "yes",
                 "name": "Laarne Hoogstraat",
@@ -130,8 +66,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;130",
-                "ref:De_Lijn": "203473",
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "203474",
+                "bus": "yes",
+                "name": "Laarne Meerhoekwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIRHOEKSTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.866344,
+                    51.022679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "202473",
                 "bus": "yes",
                 "name": "Laarne Termstraat",
                 "public_transport": "platform",
@@ -143,8 +100,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.861094,
-                    51.027052
+                    3.86105,
+                    51.027187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210047",
+                "bus": "yes",
+                "name": "Wetteren Prullenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRANDEKENSWEGEL WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.848987,
+                    51.018477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201929",
+                "bus": "yes",
+                "name": "Wetteren Damstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAVELSTRAAT WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.861204,
+                    51.015609
                 ]
             }
         }

@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "508626",
-                "bus": "yes",
-                "name": "Moorslede Masselis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.066594,
-                    50.896403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "503619",
-                "bus": "yes",
-                "name": "Moorslede Garage",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.069383,
-                    50.901424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;94",
-                "ref:De_Lijn": "508628",
-                "bus": "yes",
-                "name": "Moorslede Plaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.062325,
-                    50.892463
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "55",
                 "ref:De_Lijn": "590009",
                 "bus": "yes",
@@ -88,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "503626",
-                "bus": "yes",
-                "name": "Moorslede Masselis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.066424,
-                    50.896374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "55",
                 "ref:De_Lijn": "508627",
                 "bus": "yes",
@@ -124,27 +40,6 @@
                 "coordinates": [
                     3.060659,
                     50.890511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "508619",
-                "bus": "yes",
-                "name": "Moorslede Garage",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.069473,
-                    50.901281
                 ]
             }
         },
@@ -193,6 +88,90 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "508619",
+                "bus": "yes",
+                "name": "Moorslede Garage",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.069473,
+                    50.901281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;94",
+                "ref:De_Lijn": "508628",
+                "bus": "yes",
+                "name": "Moorslede Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.062325,
+                    50.892463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "508626",
+                "bus": "yes",
+                "name": "Moorslede Masselis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.066594,
+                    50.896403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "503626",
+                "bus": "yes",
+                "name": "Moorslede Masselis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.066424,
+                    50.896374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "55;94",
                 "ref:De_Lijn": "503628",
                 "bus": "yes",
@@ -208,6 +187,27 @@
                 "coordinates": [
                     3.061319,
                     50.892343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "503619",
+                "bus": "yes",
+                "name": "Moorslede Garage",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.069383,
+                    50.901424
                 ]
             }
         }

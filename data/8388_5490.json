@@ -46,26 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308579",
-                "bus": "yes",
-                "name": "Wemmel Korenbloem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWALUWENLAAN WEMMEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.310716,
-                    50.919774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "308580",
                 "bus": "yes",
                 "name": "Wemmel Vesalius",
@@ -80,6 +60,26 @@
                 "coordinates": [
                     4.319543,
                     50.924174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308579",
+                "bus": "yes",
+                "name": "Wemmel Korenbloem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWALUWENLAAN WEMMEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.310716,
+                    50.919774
                 ]
             }
         }

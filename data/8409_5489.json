@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "306363",
+                "bus": "yes",
+                "name": "Wezemaal Vlasselaer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP NIEUWRODE WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780495,
+                    50.942427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "306361",
                 "bus": "yes",
                 "name": "Wezemaal Molenbaan",
@@ -18,26 +38,6 @@
                 "coordinates": [
                     4.77498,
                     50.943094
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306362",
-                "bus": "yes",
-                "name": "Wezemaal Molenbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP NIEUWRODE WEZEMAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.775093,
-                    50.943075
                 ]
             }
         },
@@ -64,9 +64,9 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306363",
+                "ref:De_Lijn": "306362",
                 "bus": "yes",
-                "name": "Wezemaal Vlasselaer",
+                "name": "Wezemaal Molenbaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STEENWEG OP NIEUWRODE WEZEMAAL",
@@ -76,8 +76,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.780495,
-                    50.942427
+                    4.775093,
+                    50.943075
                 ]
             }
         }

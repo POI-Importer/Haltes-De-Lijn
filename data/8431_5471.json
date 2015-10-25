@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409720",
+                "bus": "yes",
+                "name": "Gelderhorsten Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUSKRUITSTRAAT GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.269997,
+                    51.183658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
                 "ref:De_Lijn": "409723",
                 "bus": "yes",
                 "name": "Gelderhorsten Oude Vosvijvers",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     5.263037,
                     51.189913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "711;712",
-                "ref:De_Lijn": "409724",
-                "bus": "yes",
-                "name": "Gelderhorsten Nieuwe Vosvijvers",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE VOSVIJVERS LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.258812,
-                    51.186673
                 ]
             }
         },
@@ -67,8 +67,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "409717",
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409722",
+                "bus": "yes",
+                "name": "Gelderhorsten Turfkuilenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURFKUILENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.26649,
+                    51.188737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409718",
                 "bus": "yes",
                 "name": "Gelderhorsten Electriciteitscabine",
                 "public_transport": "platform",
@@ -109,42 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "400423",
-                "bus": "yes",
-                "name": "Balen Kapelerf",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT BANKEI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.252308,
-                    51.186893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "711;712",
-                "ref:De_Lijn": "409718",
+                "ref:De_Lijn": "409724",
                 "bus": "yes",
-                "name": "Gelderhorsten Electriciteitscabine",
+                "name": "Gelderhorsten Nieuwe Vosvijvers",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GELDERHORSTEN GELDERSHORSTEN",
+                "created_by": "NIEUWE VOSVIJVERS LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.271984,
-                    51.183598
+                    5.258812,
+                    51.186673
                 ]
             }
         },
@@ -172,42 +172,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "711;712",
-                "ref:De_Lijn": "409722",
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409717",
                 "bus": "yes",
-                "name": "Gelderhorsten Turfkuilenstraat",
+                "name": "Gelderhorsten Electriciteitscabine",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TURFKUILENSTRAAT LOMMEL",
+                "created_by": "GELDERHORSTEN GELDERSHORSTEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.26649,
-                    51.188737
+                    5.271984,
+                    51.183598
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "711;712",
-                "ref:De_Lijn": "409720",
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "400423",
                 "bus": "yes",
-                "name": "Gelderhorsten Kapelleke",
+                "name": "Balen Kapelerf",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BUSKRUITSTRAAT GELDERSHORSTEN",
+                "created_by": "KAPELSTRAAT BANKEI",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.269997,
-                    51.183658
+                    5.252308,
+                    51.186893
                 ]
             }
         }

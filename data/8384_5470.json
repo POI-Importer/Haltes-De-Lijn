@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
+                "route_ref:De_Lijn": "82",
                 "ref:De_Lijn": "204304",
                 "bus": "yes",
                 "name": "Haasdonk Bosbeek",
@@ -25,31 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "204539",
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "205298",
                 "bus": "yes",
-                "name": "Beveren Klaveren Aas",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLAVEREN AAS BEVEREN-WAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.224744,
-                    51.204838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;280",
-                "ref:De_Lijn": "205299",
-                "bus": "yes",
-                "name": "Beveren Grote Heidestraat",
+                "name": "Beveren Duivendam",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GENTSEWEG BEVEREN-WAAS",
@@ -59,57 +38,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.22998,
-                    51.200314
+                    4.237581,
+                    51.203936
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "205352",
-                "bus": "yes",
-                "name": "Haasdonk Hof Ter Saksen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.23617,
-                    51.197058
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "82;280",
-                "ref:De_Lijn": "204352",
-                "bus": "yes",
-                "name": "Haasdonk Hof Ter Saksen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HAASDONK",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.235984,
-                    51.197004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;280",
+                "route_ref:De_Lijn": "81",
                 "ref:De_Lijn": "204299",
                 "bus": "yes",
                 "name": "Beveren Grote Heidestraat",
@@ -130,7 +67,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;280",
+                "ref:De_Lijn": "204539",
+                "bus": "yes",
+                "name": "Beveren Klaveren Aas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAVEREN AAS BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.224744,
+                    51.204838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
                 "ref:De_Lijn": "204298",
                 "bus": "yes",
                 "name": "Beveren Duivendam",
@@ -151,10 +108,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;280",
-                "ref:De_Lijn": "205298",
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "204352",
                 "bus": "yes",
-                "name": "Beveren Duivendam",
+                "name": "Haasdonk Hof Ter Saksen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.235984,
+                    51.197004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "205299",
+                "bus": "yes",
+                "name": "Beveren Grote Heidestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GENTSEWEG BEVEREN-WAAS",
@@ -164,8 +142,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.237581,
-                    51.203936
+                    4.22998,
+                    51.200314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82",
+                "ref:De_Lijn": "205352",
+                "bus": "yes",
+                "name": "Haasdonk Hof Ter Saksen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.23617,
+                    51.197058
                 ]
             }
         }

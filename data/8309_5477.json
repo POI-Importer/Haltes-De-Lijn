@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "501508",
+                "ref:De_Lijn": "506508",
                 "zone:De_Lijn": "01",
                 "name": "De Panne Esplanade",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.582526,
-                    51.097297
+                    2.582628,
+                    51.097244
                 ]
             }
         },
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "56",
-                "ref:De_Lijn": "501737",
+                "route_ref:De_Lijn": "56;58",
+                "ref:De_Lijn": "506073",
                 "bus": "yes",
-                "name": "De Panne Esplanade",
+                "name": "De Panne Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DUINKERKELAAN DE PANNE",
+                "created_by": "ZEELAAN DE PANNE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.583235,
-                    51.098548
+                    2.592018,
+                    51.098906
                 ]
             }
         },
@@ -89,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506508",
+                "ref:De_Lijn": "501508",
                 "zone:De_Lijn": "01",
                 "name": "De Panne Esplanade",
                 "public_transport": "platform",
@@ -101,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.582628,
-                    51.097244
+                    2.582526,
+                    51.097297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "501737",
+                "bus": "yes",
+                "name": "De Panne Esplanade",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUINKERKELAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.583235,
+                    51.098548
                 ]
             }
         },
@@ -147,27 +168,6 @@
                 "coordinates": [
                     2.589334,
                     51.102264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "56;58",
-                "ref:De_Lijn": "506073",
-                "bus": "yes",
-                "name": "De Panne Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEELAAN DE PANNE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.592018,
-                    51.098906
                 ]
             }
         }

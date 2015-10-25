@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
-                "ref:De_Lijn": "204235",
+                "ref:De_Lijn": "205587",
                 "bus": "yes",
-                "name": "Lokeren Berkenlaan",
+                "name": "Lokeren Tulpenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEUKENLAAN LOKEREN",
+                "created_by": "TULPENLAAN LOKEREN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.993499,
-                    51.11475
+                    3.988083,
+                    51.111586
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
                 "ref:De_Lijn": "204073",
                 "bus": "yes",
                 "name": "Lokeren G. Fierensstraat",
@@ -46,28 +44,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;74;270",
-                "ref:De_Lijn": "202109",
-                "bus": "yes",
-                "name": "Lokeren Groendreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROENDREEF LOKEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.983594,
-                    51.110574
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;74;270",
+                "route_ref:De_Lijn": "27;74",
                 "ref:De_Lijn": "203109",
                 "bus": "yes",
                 "name": "Lokeren Groendreef",
@@ -88,7 +65,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "203184",
                 "bus": "yes",
                 "name": "Lokeren Van Duysestraat",
@@ -109,7 +86,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27;74",
+                "ref:De_Lijn": "202109",
+                "bus": "yes",
+                "name": "Lokeren Groendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENDREEF LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.983594,
+                    51.110574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "202184",
                 "bus": "yes",
                 "name": "Lokeren Van Duysestraat",
@@ -130,21 +128,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
-                "ref:De_Lijn": "205587",
+                "ref:De_Lijn": "204235",
                 "bus": "yes",
-                "name": "Lokeren Tulpenlaan",
+                "name": "Lokeren Berkenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TULPENLAAN LOKEREN",
+                "created_by": "BEUKENLAAN LOKEREN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.988083,
-                    51.111586
+                    3.993499,
+                    51.11475
                 ]
             }
         }

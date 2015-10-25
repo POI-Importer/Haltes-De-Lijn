@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408801",
-                "bus": "yes",
-                "name": "Visé Allée des Acacias",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE LA CROIX ROUGE WEZET",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.697121,
-                    50.741988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
                 "ref:De_Lijn": "408802",
                 "bus": "yes",
                 "name": "Visé Garage Tcm",
@@ -40,6 +19,48 @@
                 "coordinates": [
                     5.69501,
                     50.74247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408800",
+                "bus": "yes",
+                "name": "Visé Allée des Acacias",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE MAESTRICHT WEZET",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.698985,
+                    50.741751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408801",
+                "bus": "yes",
+                "name": "Visé Allée des Acacias",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LA CROIX ROUGE WEZET",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.697121,
+                    50.741988
                 ]
             }
         },
@@ -68,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408806",
-                "bus": "yes",
-                "name": "Visé Place des Déportés",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AVENUE MARÉCHAL FOCH WEZET",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.693514,
-                    50.739682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
                 "ref:De_Lijn": "408804",
                 "bus": "yes",
                 "name": "Visé Gare IR",
@@ -110,6 +110,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408806",
+                "bus": "yes",
+                "name": "Visé Place des Déportés",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVENUE MARÉCHAL FOCH WEZET",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.693514,
+                    50.739682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
                 "ref:De_Lijn": "408808",
                 "bus": "yes",
                 "name": "Visé Place Reine Astrid",
@@ -124,27 +145,6 @@
                 "coordinates": [
                     5.69524,
                     50.738062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408800",
-                "bus": "yes",
-                "name": "Visé Allée des Acacias",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE MAESTRICHT WEZET",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.698985,
-                    50.741751
                 ]
             }
         }

@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "715",
-                "ref:De_Lijn": "307118",
+                "route_ref:De_Lijn": "23;560;715",
+                "ref:De_Lijn": "305739",
                 "bus": "yes",
-                "name": "Zoutleeuw Pompken",
+                "name": "Zoutleeuw Pelsberg Zagerij",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KLIPSTRAAT ZOUTLEEUW",
+                "created_by": "BUDINGENWEG ZOUTLEEUW",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.111448,
-                    50.858444
+                    5.113034,
+                    50.852797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;560;715",
+                "ref:De_Lijn": "305738",
+                "bus": "yes",
+                "name": "Zoutleeuw Pelsberg Zagerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUDINGENWEG ZOUTLEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11268,
+                    50.852818
                 ]
             }
         },
@@ -47,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "23;560;715",
-                "ref:De_Lijn": "305741",
+                "ref:De_Lijn": "305745",
                 "bus": "yes",
-                "name": "Zoutleeuw Pompken",
+                "name": "Zoutleeuw Retsbaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BUDINGENWEG ZOUTLEEUW",
@@ -59,8 +80,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.110426,
-                    50.858532
+                    5.114863,
+                    50.849028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "307118",
+                "bus": "yes",
+                "name": "Zoutleeuw Pompken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLIPSTRAAT ZOUTLEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.111448,
+                    50.858444
                 ]
             }
         },
@@ -89,9 +131,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "23;560;715",
-                "ref:De_Lijn": "305739",
+                "ref:De_Lijn": "305741",
                 "bus": "yes",
-                "name": "Zoutleeuw Pelsberg Zagerij",
+                "name": "Zoutleeuw Pompken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BUDINGENWEG ZOUTLEEUW",
@@ -101,50 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.113034,
-                    50.852797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23;560;715",
-                "ref:De_Lijn": "305745",
-                "bus": "yes",
-                "name": "Zoutleeuw Retsbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BUDINGENWEG ZOUTLEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.114863,
-                    50.849028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23;560;715",
-                "ref:De_Lijn": "305738",
-                "bus": "yes",
-                "name": "Zoutleeuw Pelsberg Zagerij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BUDINGENWEG ZOUTLEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.11268,
-                    50.852818
+                    5.110426,
+                    50.858532
                 ]
             }
         }

@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "395;553;598;830",
-                "ref:De_Lijn": "302226",
+                "ref:De_Lijn": "302218",
                 "bus": "yes",
-                "name": "Groenendaal Station",
+                "name": "Hoeilaart Dumbergplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VARKENSGATWEG HOEILAART",
+                "created_by": "GROENENDAALSESTEENWEG HOEILAART",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.44894,
-                    50.766579
+                    4.460238,
+                    50.766606
                 ]
             }
         },
@@ -47,11 +47,11 @@
             "type": "Feature",
             "properties": {
                 "ref:De_Lijn": "302227",
+                "bus": "yes",
                 "name": "Groenendaal Station",
                 "public_transport": "platform",
-                "railway": "tram_stop",
                 "odbl": "new",
-                "tram": "yes",
+                "highway": "bus_stop",
                 "created_by": "GROENENDAALSESTEENWEG HOEILAART",
                 "operator": "De Lijn",
                 "network": "DLVB"
@@ -61,27 +61,6 @@
                 "coordinates": [
                     4.449493,
                     50.766695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "345;544",
-                "ref:De_Lijn": "302212",
-                "bus": "yes",
-                "name": "Hoeilaart Au Gaz",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG HOEILAART",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.459715,
-                    50.774877
                 ]
             }
         },
@@ -110,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "395;553;598;830",
-                "ref:De_Lijn": "302218",
+                "ref:De_Lijn": "302226",
                 "bus": "yes",
-                "name": "Hoeilaart Dumbergplein",
+                "name": "Groenendaal Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROENENDAALSESTEENWEG HOEILAART",
+                "created_by": "VARKENSGATWEG HOEILAART",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.460238,
-                    50.766606
+                    4.44894,
+                    50.766579
                 ]
             }
         },
@@ -145,6 +124,27 @@
                 "coordinates": [
                     4.459899,
                     50.774652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345;544",
+                "ref:De_Lijn": "302212",
+                "bus": "yes",
+                "name": "Hoeilaart Au Gaz",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG HOEILAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.459715,
+                    50.774877
                 ]
             }
         },

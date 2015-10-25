@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202602",
-                "bus": "yes",
-                "name": "Wachtebeke Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RAMONSHOEK WACHTEBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.885987,
-                    51.195519
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "203603",
                 "bus": "yes",
@@ -47,27 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "203602",
+                "ref:De_Lijn": "202602",
                 "bus": "yes",
                 "name": "Wachtebeke Kruisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OVERSLAG OVERSLAG (WACHTEBEKE)",
+                "created_by": "RAMONSHOEK WACHTEBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.886168,
-                    51.195988
+                    3.885987,
+                    51.195519
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "202603",
                 "bus": "yes",
                 "name": "Wachtebeke Overslag",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.887321,
                     51.199264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "203602",
+                "bus": "yes",
+                "name": "Wachtebeke Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERSLAG OVERSLAG (WACHTEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.886168,
+                    51.195988
                 ]
             }
         }

@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "201570",
-                "bus": "yes",
-                "name": "Eke Nederbosstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN DE PINTE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.646022,
-                    50.971552
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;71;145",
-                "ref:De_Lijn": "208292",
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "209292",
                 "bus": "yes",
                 "name": "Eke 's Gravendreef",
                 "public_transport": "platform",
@@ -38,29 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.644542,
-                    50.961357
+                    3.644643,
+                    50.961268
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "201355",
+                "route_ref:De_Lijn": "44;71;81;84",
+                "ref:De_Lijn": "208726",
                 "bus": "yes",
-                "name": "Eke Den Anker",
+                "name": "Eke Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOSSTRAAT EKE",
+                "created_by": "ROOMBAARDSTRAAT NAZARETH",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.637667,
-                    50.965918
+                    3.627259,
+                    50.960585
                 ]
             }
         },
@@ -88,21 +67,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;71",
-                "ref:De_Lijn": "209292",
+                "ref:De_Lijn": "201356",
                 "bus": "yes",
-                "name": "Eke 's Gravendreef",
+                "name": "Eke Vossenhol",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG EKE",
+                "created_by": "OUDENAARDSEHEERWEG NAZARETH",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.644643,
-                    50.961268
+                    3.625777,
+                    50.967911
                 ]
             }
         },
@@ -130,49 +108,68 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;71;81;84;145",
-                "ref:De_Lijn": "208726",
+                "ref:De_Lijn": "201355",
                 "bus": "yes",
-                "name": "Eke Station",
+                "name": "Eke Den Anker",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ROOMBAARDSTRAAT NAZARETH",
+                "created_by": "BOSSTRAAT EKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.627259,
-                    50.960585
+                    3.637667,
+                    50.965918
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "201356",
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "208292",
                 "bus": "yes",
-                "name": "Eke Vossenhol",
+                "name": "Eke 's Gravendreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDENAARDSEHEERWEG NAZARETH",
+                "created_by": "STEENWEG EKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.625777,
-                    50.967911
+                    3.644542,
+                    50.961357
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "44;71;81;84;145",
+                "ref:De_Lijn": "201570",
+                "bus": "yes",
+                "name": "Eke Nederbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.646022,
+                    50.971552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84",
                 "ref:De_Lijn": "208294",
                 "bus": "yes",
                 "name": "Eke De Biesten",

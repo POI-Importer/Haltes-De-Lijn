@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385",
                 "ref:De_Lijn": "206266",
                 "bus": "yes",
                 "name": "Erpe Honegem",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385",
                 "ref:De_Lijn": "205986",
                 "bus": "yes",
                 "name": "Lede Sasbeek",

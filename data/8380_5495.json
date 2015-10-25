@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "103",
-                "ref:De_Lijn": "308771",
-                "bus": "yes",
-                "name": "Wambeek Dronkenborre",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FOSSEBAAN WAMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.146639,
-                    50.86015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "304219",
-                "bus": "yes",
-                "name": "Borchtlombeek Café Handelshuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IJZERENKRUISSTRAAT BORCHTLOMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.132402,
-                    50.852805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "127;355",
                 "ref:De_Lijn": "304232",
                 "bus": "yes",
@@ -82,6 +40,69 @@
                 "coordinates": [
                     4.152022,
                     50.85109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "304230",
+                "bus": "yes",
+                "name": "Borchtlombeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAANSTRAAT BORCHTLOMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.137021,
+                    50.849218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "304231",
+                "bus": "yes",
+                "name": "Borchtlombeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKPLEIN BORCHTLOMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.137465,
+                    50.848419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "103",
+                "ref:De_Lijn": "308770",
+                "bus": "yes",
+                "name": "Wambeek Dronkenborre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FOSSEBAAN WAMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.146767,
+                    50.860222
                 ]
             }
         },
@@ -131,7 +152,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "103",
-                "ref:De_Lijn": "308770",
+                "ref:De_Lijn": "308771",
                 "bus": "yes",
                 "name": "Wambeek Dronkenborre",
                 "public_transport": "platform",
@@ -143,29 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.146767,
-                    50.860222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "127",
-                "ref:De_Lijn": "304231",
-                "bus": "yes",
-                "name": "Borchtlombeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKPLEIN BORCHTLOMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.137465,
-                    50.848419
+                    4.146639,
+                    50.86015
                 ]
             }
         },
@@ -173,20 +173,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "355",
-                "ref:De_Lijn": "304230",
+                "ref:De_Lijn": "304219",
                 "bus": "yes",
-                "name": "Borchtlombeek Kerk",
+                "name": "Borchtlombeek Café Handelshuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KRAANSTRAAT BORCHTLOMBEEK",
+                "created_by": "IJZERENKRUISSTRAAT BORCHTLOMBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.137021,
-                    50.849218
+                    4.132402,
+                    50.852805
                 ]
             }
         }

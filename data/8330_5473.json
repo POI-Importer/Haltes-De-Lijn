@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505155",
+                "bus": "yes",
+                "name": "Bekegem Watervalle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERVALLESTRAAT BEKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.044384,
+                    51.154198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "507739",
+                "bus": "yes",
+                "name": "Bekegem Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSWEG BEKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.033426,
+                    51.159982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "507074",
+                "bus": "yes",
+                "name": "Bekegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT BEKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.046064,
+                    51.159476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "52;59",
                 "ref:De_Lijn": "507073",
                 "bus": "yes",
@@ -67,21 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "502074",
+                "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "507075",
                 "bus": "yes",
-                "name": "Bekegem Dorp",
+                "name": "Bekegem Zilverstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSTRAAT BEKEGEM",
+                "created_by": "BEVRIJDINGSWEG BEKEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.046536,
-                    51.159491
+                    3.041255,
+                    51.159692
                 ]
             }
         },
@@ -109,29 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "505155",
-                "bus": "yes",
-                "name": "Bekegem Watervalle",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERVALLESTRAAT BEKEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.044384,
-                    51.154198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;59",
-                "ref:De_Lijn": "507074",
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "502074",
                 "bus": "yes",
                 "name": "Bekegem Dorp",
                 "public_transport": "platform",
@@ -143,50 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.046064,
-                    51.159476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;59",
-                "ref:De_Lijn": "507739",
-                "bus": "yes",
-                "name": "Bekegem Molen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSWEG BEKEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.033426,
-                    51.159982
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;59",
-                "ref:De_Lijn": "507075",
-                "bus": "yes",
-                "name": "Bekegem Zilverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSWEG BEKEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.041255,
-                    51.159692
+                    3.046536,
+                    51.159491
                 ]
             }
         }

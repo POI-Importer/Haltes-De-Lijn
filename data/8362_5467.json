@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;96;195",
-                "ref:De_Lijn": "202707",
+                "route_ref:De_Lijn": "52;96",
+                "ref:De_Lijn": "202706",
                 "bus": "yes",
-                "name": "Assenede Basseveldestraat",
+                "name": "Assenede Knotwilgenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KAPELLESTRAAT ASSENEDE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.739787,
-                    51.235381
+                    3.735463,
+                    51.241695
                 ]
             }
         },
@@ -46,10 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;96;195",
-                "ref:De_Lijn": "202706",
+                "route_ref:De_Lijn": "52;96",
+                "ref:De_Lijn": "202707",
                 "bus": "yes",
-                "name": "Assenede Knotwilgenstraat",
+                "name": "Assenede Basseveldestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KAPELLESTRAAT ASSENEDE",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.735463,
-                    51.241695
+                    3.739787,
+                    51.235381
                 ]
             }
         },

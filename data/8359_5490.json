@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "45;46;48;81",
-                "ref:De_Lijn": "202837",
-                "bus": "yes",
-                "name": "Dikkelvenne Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT DIKKELVENNE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.690722,
-                    50.917817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;46;48;81",
                 "ref:De_Lijn": "203836",
                 "bus": "yes",
                 "name": "Dikkelvenne Diepestraat",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     3.684389,
                     50.91912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;46;48;81",
+                "ref:De_Lijn": "202835",
+                "bus": "yes",
+                "name": "Dikkelvenne Sint-Christianastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJVERHEIDSSTRAAT DIKKELVENNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679047,
+                    50.921633
                 ]
             }
         },
@@ -89,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "45;46;48;81",
-                "ref:De_Lijn": "202835",
+                "ref:De_Lijn": "202837",
                 "bus": "yes",
-                "name": "Dikkelvenne Sint-Christianastraat",
+                "name": "Dikkelvenne Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NIJVERHEIDSSTRAAT DIKKELVENNE",
+                "created_by": "KERKSTRAAT DIKKELVENNE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.679047,
-                    50.921633
+                    3.690722,
+                    50.917817
                 ]
             }
         },

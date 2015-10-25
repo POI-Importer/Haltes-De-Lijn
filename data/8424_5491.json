@@ -47,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "567;715",
-                "ref:De_Lijn": "308705",
+                "ref:De_Lijn": "301477",
                 "bus": "yes",
-                "name": "Geetbets Hulsbeekstraat 103",
+                "name": "Geetbets Hulsbeekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HULSBEEKSTRAAT GEETBETS",
@@ -59,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.108284,
-                    50.90647
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "567;715",
-                "ref:De_Lijn": "301482",
-                "bus": "yes",
-                "name": "Geetbets Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRBAAN GEETBETS",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.100344,
-                    50.906987
+                    5.105592,
+                    50.908869
                 ]
             }
         },
@@ -110,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "567;715",
-                "ref:De_Lijn": "301477",
+                "ref:De_Lijn": "301482",
                 "bus": "yes",
-                "name": "Geetbets Hulsbeekstraat",
+                "name": "Geetbets Kruispunt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HULSBEEKSTRAAT GEETBETS",
+                "created_by": "HEIRBAAN GEETBETS",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.105592,
-                    50.908869
+                    5.100344,
+                    50.906987
                 ]
             }
         },
@@ -166,6 +145,27 @@
                 "coordinates": [
                     5.115081,
                     50.90738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "567;715",
+                "ref:De_Lijn": "308705",
+                "bus": "yes",
+                "name": "Geetbets Hulsbeekstraat 103",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSBEEKSTRAAT GEETBETS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.108284,
+                    50.90647
                 ]
             }
         }

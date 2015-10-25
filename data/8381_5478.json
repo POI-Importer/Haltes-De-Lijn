@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290",
                 "ref:De_Lijn": "205098",
                 "bus": "yes",
                 "name": "Hamme Driegoten Veer",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290",
                 "ref:De_Lijn": "205141",
                 "bus": "yes",
                 "name": "Hamme Vanderjeugdlaan",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290",
                 "ref:De_Lijn": "205138",
                 "bus": "yes",
                 "name": "Hamme Vertentenstraat",

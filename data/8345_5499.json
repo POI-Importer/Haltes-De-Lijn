@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "91;99",
-                "ref:De_Lijn": "503926",
+                "ref:De_Lijn": "508926",
                 "bus": "yes",
                 "name": "Zwevegem Knokke Brug",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.364503,
-                    50.799436
+                    3.364455,
+                    50.799705
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "91;99",
-                "ref:De_Lijn": "508926",
+                "ref:De_Lijn": "503926",
                 "bus": "yes",
                 "name": "Zwevegem Knokke Brug",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.364455,
-                    50.799705
+                    3.364503,
+                    50.799436
                 ]
             }
         }

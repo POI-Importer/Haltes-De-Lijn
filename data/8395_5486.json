@@ -4,28 +4,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "283",
-                "ref:De_Lijn": "107642",
+                "ref:De_Lijn": "308372",
                 "bus": "yes",
-                "name": "Zemst Dorp",
+                "name": "Weerde Galgenberg",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "STATIONSLAAN ZEMST",
+                "created_by": "VREDELAAN WEERDE",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.465209,
-                    50.984605
+                    4.476628,
+                    50.977134
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "283",
+                "ref:De_Lijn": "308408",
+                "bus": "yes",
+                "name": "Weerde Station Weerde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT WEERDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.469922,
+                    50.977617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "308377",
                 "bus": "yes",
                 "name": "Zemst Jordaenslaan",
@@ -46,29 +65,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "682",
-                "ref:De_Lijn": "301410",
+                "route_ref:De_Lijn": "282;682;683",
+                "ref:De_Lijn": "305624",
                 "bus": "yes",
-                "name": "Weerde Weverstraat",
+                "name": "Zemst Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DAMSTRAAT WEERDE",
+                "created_by": "BRUSSELSESTEENWEG ZEMST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.467851,
-                    50.974589
+                    4.4638,
+                    50.98466
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "283",
-                "ref:De_Lijn": "308406",
+                "ref:De_Lijn": "308374",
+                "bus": "yes",
+                "name": "Weerde Paul Van Ostaijenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KERSELARENWEG WEERDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.472667,
+                    50.975915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308407",
                 "bus": "yes",
                 "name": "Weerde Vredelaan",
                 "public_transport": "platform",
@@ -80,36 +119,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.469617,
-                    50.981141
+                    4.469631,
+                    50.981275
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308371",
-                "bus": "yes",
-                "name": "Weerde Galgenberg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "VREDELAAN WEERDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.476543,
-                    50.977323
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "283;510;682",
+                "route_ref:De_Lijn": "510;682",
                 "ref:De_Lijn": "307271",
                 "bus": "yes",
                 "name": "Weerde Pastoor Primsstraat",
@@ -151,21 +169,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "283",
-                "ref:De_Lijn": "308411",
+                "ref:De_Lijn": "308371",
                 "bus": "yes",
-                "name": "Zemst Damstraat",
+                "name": "Weerde Galgenberg",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT WEERDE",
+                "created_by": "VREDELAAN WEERDE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.467767,
-                    50.975155
+                    4.476543,
+                    50.977323
                 ]
             }
         },
@@ -193,114 +211,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "283",
-                "ref:De_Lijn": "308408",
-                "bus": "yes",
-                "name": "Weerde Station Weerde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT WEERDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.469922,
-                    50.977617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308372",
-                "bus": "yes",
-                "name": "Weerde Galgenberg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "VREDELAAN WEERDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.476628,
-                    50.977134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308374",
-                "bus": "yes",
-                "name": "Weerde Paul Van Ostaijenstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "KERSELARENWEG WEERDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.472667,
-                    50.975915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308378",
-                "bus": "yes",
-                "name": "Zemst Jordaenslaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "SCHOOLSTRAAT ZEMST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.463553,
-                    50.982341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "283",
-                "ref:De_Lijn": "308409",
-                "bus": "yes",
-                "name": "Weerde Station Weerde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT WEERDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.470179,
-                    50.977679
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "282;283;682;683",
+                "route_ref:De_Lijn": "282;682;683",
                 "ref:De_Lijn": "305625",
                 "bus": "yes",
                 "name": "Zemst Dorp",
@@ -321,42 +232,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "282;682;683",
-                "ref:De_Lijn": "305624",
+                "ref:De_Lijn": "308411",
                 "bus": "yes",
-                "name": "Zemst Dorp",
+                "name": "Zemst Damstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG ZEMST",
+                "created_by": "HEIDESTRAAT WEERDE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.4638,
-                    50.98466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "283;510;682",
-                "ref:De_Lijn": "307270",
-                "bus": "yes",
-                "name": "Weerde Pastoor Primsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DAMSTRAAT WEERDE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.473771,
-                    50.97302
+                    4.467767,
+                    50.975155
                 ]
             }
         },
@@ -384,8 +273,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "283",
-                "ref:De_Lijn": "308407",
+                "ref:De_Lijn": "308406",
                 "bus": "yes",
                 "name": "Weerde Vredelaan",
                 "public_transport": "platform",
@@ -397,15 +285,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.469631,
-                    50.981275
+                    4.469617,
+                    50.981141
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "283",
                 "ref:De_Lijn": "308410",
                 "bus": "yes",
                 "name": "Zemst Damstraat",
@@ -420,6 +307,109 @@
                 "coordinates": [
                     4.467596,
                     50.97512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308378",
+                "bus": "yes",
+                "name": "Zemst Jordaenslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463553,
+                    50.982341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;682",
+                "ref:De_Lijn": "307270",
+                "bus": "yes",
+                "name": "Weerde Pastoor Primsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMSTRAAT WEERDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.473771,
+                    50.97302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "682",
+                "ref:De_Lijn": "301410",
+                "bus": "yes",
+                "name": "Weerde Weverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMSTRAAT WEERDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.467851,
+                    50.974589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308409",
+                "bus": "yes",
+                "name": "Weerde Station Weerde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT WEERDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.470179,
+                    50.977679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107642",
+                "bus": "yes",
+                "name": "Zemst Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSLAAN ZEMST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.465209,
+                    50.984605
                 ]
             }
         },

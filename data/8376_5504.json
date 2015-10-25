@@ -26,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "102;160;732",
+                "ref:De_Lijn": "302128",
+                "bus": "yes",
+                "name": "Herne Druimerenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKKELENBERGSTRAAT HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.045119,
+                    50.733159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "102;160;732",
                 "ref:De_Lijn": "302136",
                 "bus": "yes",
                 "name": "Herne Kapelleke",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     4.053931,
                     50.730927
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "102;160;732",
-                "ref:De_Lijn": "302128",
-                "bus": "yes",
-                "name": "Herne Druimerenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EKKELENBERGSTRAAT HERNE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.045119,
-                    50.733159
                 ]
             }
         }

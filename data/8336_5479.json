@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;64;79",
-                "ref:De_Lijn": "507355",
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505171",
                 "bus": "yes",
-                "name": "Ruddervoorde Huis nummer 236",
+                "name": "Ruddervoorde Baliebrugstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "created_by": "BALIEBRUGSTRAAT RUDDERVOORDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.180069,
-                    51.078994
+                    3.168111,
+                    51.07391
                 ]
             }
         },
@@ -46,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505171",
+                "route_ref:De_Lijn": "21;64;79",
+                "ref:De_Lijn": "507355",
                 "bus": "yes",
-                "name": "Ruddervoorde Baliebrugstraat",
+                "name": "Ruddervoorde Huis nummer 236",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BALIEBRUGSTRAAT RUDDERVOORDE",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.168111,
-                    51.07391
+                    3.180069,
+                    51.078994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79;96",
+                "ref:De_Lijn": "502355",
+                "bus": "yes",
+                "name": "Ruddervoorde Huis nummer 236",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.180278,
+                    51.079194
                 ]
             }
         },
@@ -88,27 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;79",
-                "ref:De_Lijn": "502354",
-                "bus": "yes",
-                "name": "Ruddervoorde Godelieve Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.171849,
-                    51.076726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "21;64",
                 "ref:De_Lijn": "507353",
                 "bus": "yes",
@@ -130,10 +130,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;64;79;96",
-                "ref:De_Lijn": "502355",
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "502354",
                 "bus": "yes",
-                "name": "Ruddervoorde Huis nummer 236",
+                "name": "Ruddervoorde Godelieve Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
@@ -143,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.180278,
-                    51.079194
+                    3.171849,
+                    51.076726
                 ]
             }
         }

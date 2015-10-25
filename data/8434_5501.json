@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;708",
-                "ref:De_Lijn": "403742",
-                "bus": "yes",
-                "name": "Gutschoven Wijngaard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIJNGAARDSTRAAT GUTSCHOVEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.321906,
-                    50.768861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "3;27;38;708",
                 "ref:De_Lijn": "403739",
                 "bus": "yes",
@@ -67,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;38;708",
-                "ref:De_Lijn": "403737",
+                "route_ref:De_Lijn": "3;708",
+                "ref:De_Lijn": "403742",
                 "bus": "yes",
-                "name": "Gutschoven Gutschovenstraat",
+                "name": "Gutschoven Wijngaard",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NIEUWE STEENWEG GUTSCHOVEN",
+                "created_by": "WIJNGAARDSTRAAT GUTSCHOVEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.319547,
-                    50.775605
+                    5.321906,
+                    50.768861
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     5.321825,
                     50.769096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;38;708",
+                "ref:De_Lijn": "403737",
+                "bus": "yes",
+                "name": "Gutschoven Gutschovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG GUTSCHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.319547,
+                    50.775605
                 ]
             }
         }

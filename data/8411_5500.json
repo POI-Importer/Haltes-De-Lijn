@@ -25,26 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308108",
-                "bus": "yes",
-                "name": "Meldert Voetbalplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEERSTRAAT MELDERT (HOEGAARDEN)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.831438,
-                    50.784496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "713",
                 "ref:De_Lijn": "308111",
                 "bus": "yes",
@@ -80,6 +60,26 @@
                 "coordinates": [
                     4.827833,
                     50.7871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308108",
+                "bus": "yes",
+                "name": "Meldert Voetbalplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.831438,
+                    50.784496
                 ]
             }
         }

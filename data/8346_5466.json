@@ -4,21 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;98",
-                "ref:De_Lijn": "507639",
+                "ref:De_Lijn": "210014",
                 "bus": "yes",
-                "name": "Moerkerke De Stropijp",
+                "name": "Moerkerke Weg Op Middelburg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NATIËNLAAN DE HOORN",
+                "created_by": "WATERPOLDER MIDDELBURG",
                 "operator": "De Lijn",
-                "network": "DLWV"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.390532,
-                    51.255698
+                    3.39647,
+                    51.249859
                 ]
             }
         },
@@ -26,7 +25,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "45;49;62",
-                "ref:De_Lijn": "507298",
+                "ref:De_Lijn": "502298",
                 "bus": "yes",
                 "name": "Moerkerke Weg Op Middelburg",
                 "public_transport": "platform",
@@ -38,15 +37,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.396484,
-                    51.249868
+                    3.396543,
+                    51.249761
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;185",
+                "route_ref:De_Lijn": "45",
                 "ref:De_Lijn": "502639",
                 "bus": "yes",
                 "name": "Moerkerke De Stropijp",
@@ -88,8 +87,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "45;98",
+                "ref:De_Lijn": "507639",
+                "bus": "yes",
+                "name": "Moerkerke De Stropijp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NATIËNLAAN DE HOORN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.390532,
+                    51.255698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211014",
+                "bus": "yes",
+                "name": "Moerkerke Weg Op Middelburg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WATERPOLDER MIDDELBURG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.396499,
+                    51.249806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "45;49;62",
-                "ref:De_Lijn": "502298",
+                "ref:De_Lijn": "507298",
                 "bus": "yes",
                 "name": "Moerkerke Weg Op Middelburg",
                 "public_transport": "platform",
@@ -101,8 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.396543,
-                    51.249761
+                    3.396484,
+                    51.249868
                 ]
             }
         },
@@ -130,48 +171,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;98",
-                "ref:De_Lijn": "502285",
-                "bus": "yes",
-                "name": "Moerkerke Damse Weg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "A11 MOERKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.386824,
-                    51.258283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "210014",
-                "bus": "yes",
-                "name": "Moerkerke Weg Op Middelburg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERPOLDER MIDDELBURG",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.39647,
-                    51.249859
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "45",
                 "ref:De_Lijn": "507285",
                 "bus": "yes",
@@ -193,21 +192,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "211014",
+                "route_ref:De_Lijn": "45;98",
+                "ref:De_Lijn": "502285",
                 "bus": "yes",
-                "name": "Moerkerke Weg Op Middelburg",
+                "name": "Moerkerke Damse Weg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "WATERPOLDER MIDDELBURG",
+                "created_by": "A11 MOERKERKE",
                 "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.396499,
-                    51.249806
+                    3.386824,
+                    51.258283
                 ]
             }
         }

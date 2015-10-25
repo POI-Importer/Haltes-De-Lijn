@@ -5,41 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "409426",
+                "ref:De_Lijn": "409427",
                 "bus": "yes",
-                "name": "Grote-Barrier Sint-Antoniusstraat",
+                "name": "Lutlommel Grote-Barrier Sint-Jan Berchmansstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG LOMMEL",
+                "created_by": "WEIDESTRAAT LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.372268,
-                    51.230413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "405776",
-                "bus": "yes",
-                "name": "Grote-Barrier Beekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEUKEN GROTE BARRIER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.367364,
-                    51.234059
+                    5.365739,
+                    51.225057
                 ]
             }
         },
@@ -68,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "405777",
+                "ref:De_Lijn": "405776",
                 "bus": "yes",
                 "name": "Grote-Barrier Beekstraat",
                 "public_transport": "platform",
@@ -80,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.368008,
-                    51.234063
+                    5.367364,
+                    51.234059
                 ]
             }
         },
@@ -110,20 +89,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "711",
-                "ref:De_Lijn": "409427",
+                "ref:De_Lijn": "409426",
                 "bus": "yes",
-                "name": "Lutlommel Grote-Barrier Sint-Jan Berchmansstraat",
+                "name": "Grote-Barrier Sint-Antoniusstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WEIDESTRAAT LOMMEL",
+                "created_by": "LUIKERSTEENWEG LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.365739,
-                    51.225057
+                    5.372268,
+                    51.230413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "405777",
+                "bus": "yes",
+                "name": "Grote-Barrier Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUKEN GROTE BARRIER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.368008,
+                    51.234063
                 ]
             }
         }

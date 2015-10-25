@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;42;420",
-                "ref:De_Lijn": "208121",
-                "bus": "yes",
-                "name": "Sint-Maria-Horebeke Broekestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.707593,
-                    50.85084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;420;445",
+                "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "208207",
                 "bus": "yes",
                 "name": "Sint-Maria-Horebeke Korsele",
@@ -46,70 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;445",
-                "ref:De_Lijn": "208206",
-                "bus": "yes",
-                "name": "Sint-Maria-Horebeke Broekestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SMARRE SINT-MARIA-HOREBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.707363,
-                    50.851046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;445",
-                "ref:De_Lijn": "208768",
-                "bus": "yes",
-                "name": "Sint-Maria-Horebeke Pierkestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.702227,
-                    50.847673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "420;445",
-                "ref:De_Lijn": "208800",
-                "bus": "yes",
-                "name": "Sint-Denijs-Boekel Konkelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLDERGEM SINT-DENIJS-BOEKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.702573,
-                    50.861339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;420;445",
+                "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "208208",
                 "bus": "yes",
                 "name": "Sint-Maria-Horebeke Kromstraat",
@@ -130,28 +46,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "209207",
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "209768",
                 "bus": "yes",
-                "name": "Sint-Maria-Horebeke Korsele",
+                "name": "Sint-Maria-Horebeke Pierkestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SMARRE SINT-DENIJS-BOEKEL",
+                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.699707,
-                    50.858131
+                    3.70207,
+                    50.847753
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "208800",
+                "bus": "yes",
+                "name": "Sint-Denijs-Boekel Konkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLDERGEM SINT-DENIJS-BOEKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.702573,
+                    50.861339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "209784",
                 "bus": "yes",
                 "name": "Sint-Maria-Horebeke Tempel",
@@ -166,6 +101,27 @@
                 "coordinates": [
                     3.69434,
                     50.852033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "208121",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Broekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.707593,
+                    50.85084
                 ]
             }
         },
@@ -187,6 +143,69 @@
                 "coordinates": [
                     3.707518,
                     50.851101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "209121",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Broekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706713,
+                    50.850773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "208206",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Broekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMARRE SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.707363,
+                    50.851046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209207",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Korsele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMARRE SINT-DENIJS-BOEKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699707,
+                    50.858131
                 ]
             }
         },
@@ -215,28 +234,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "209121",
-                "bus": "yes",
-                "name": "Sint-Maria-Horebeke Broekestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.706713,
-                    50.850773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "209768",
+                "ref:De_Lijn": "208768",
                 "bus": "yes",
                 "name": "Sint-Maria-Horebeke Pierkestraat",
                 "public_transport": "platform",
@@ -248,8 +246,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.70207,
-                    50.847753
+                    3.702227,
+                    50.847673
                 ]
             }
         }

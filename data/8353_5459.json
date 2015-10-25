@@ -27,27 +27,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505618",
-                "bus": "yes",
-                "name": "Schoondijke De Molen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGE HEERENSTRAAT SCHOONDIJKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.55493,
-                    51.35312
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "505523",
                 "bus": "yes",
                 "zone:De_Lijn": "7952",
@@ -70,7 +49,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505518",
+                "ref:De_Lijn": "505618",
                 "bus": "yes",
                 "name": "Schoondijke De Molen",
                 "public_transport": "platform",
@@ -82,8 +61,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.554904,
-                    51.352976
+                    3.55493,
+                    51.35312
                 ]
             }
         },
@@ -112,21 +91,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505516",
+                "ref:De_Lijn": "505518",
                 "bus": "yes",
-                "zone:De_Lijn": "7952",
-                "name": "Schoondijke Centrum",
+                "name": "Schoondijke De Molen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT SCHOONDIJKE",
+                "created_by": "LANGE HEERENSTRAAT SCHOONDIJKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.554963,
-                    51.354505
+                    3.554904,
+                    51.352976
                 ]
             }
         },
@@ -171,6 +149,28 @@
                 "coordinates": [
                     3.552597,
                     51.356825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505516",
+                "bus": "yes",
+                "zone:De_Lijn": "7952",
+                "name": "Schoondijke Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SCHOONDIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.554963,
+                    51.354505
                 ]
             }
         }

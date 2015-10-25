@@ -4,7 +4,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;38;40",
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "508806",
+                "bus": "yes",
+                "name": "Staden Mispelaareik",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.006269,
+                    50.982803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "503806",
+                "bus": "yes",
+                "name": "Staden Mispelaareik",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.006114,
+                    50.982721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;38",
                 "ref:De_Lijn": "503807",
                 "bus": "yes",
                 "name": "Staden Mortelbak",
@@ -25,28 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "38",
-                "ref:De_Lijn": "505908",
-                "bus": "yes",
-                "name": "Staden Hogestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGESTRAAT STADEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.993226,
-                    50.985592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;38;40",
+                "route_ref:De_Lijn": "30;38",
                 "ref:De_Lijn": "508807",
                 "bus": "yes",
                 "name": "Staden Mortelbak",
@@ -88,42 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;38",
-                "ref:De_Lijn": "503806",
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505908",
                 "bus": "yes",
-                "name": "Staden Mispelaareik",
+                "name": "Staden Hogestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIKSMUIDESTRAAT STADEN",
+                "created_by": "HOGESTRAAT STADEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.006114,
-                    50.982721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;38",
-                "ref:De_Lijn": "508806",
-                "bus": "yes",
-                "name": "Staden Mispelaareik",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKSMUIDESTRAAT STADEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.006269,
-                    50.982803
+                    2.993226,
+                    50.985592
                 ]
             }
         }

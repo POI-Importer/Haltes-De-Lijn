@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "56;59;64",
-                "ref:De_Lijn": "507225",
+                "route_ref:De_Lijn": "64",
+                "ref:De_Lijn": "502228",
                 "bus": "yes",
-                "name": "Koekelare Belhutte",
+                "name": "Koekelare Drie Zottemolens",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BELHUTTEBAAN KOEKELARE",
+                "created_by": "PROVINCIEBAAN KOEKELARE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.988175,
-                    51.075348
+                    2.977179,
+                    51.072711
                 ]
             }
         },
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64",
-                "ref:De_Lijn": "502228",
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "507225",
                 "bus": "yes",
-                "name": "Koekelare Drie Zottemolens",
+                "name": "Koekelare Belhutte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PROVINCIEBAAN KOEKELARE",
+                "created_by": "BELHUTTEBAAN KOEKELARE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.977179,
-                    51.072711
+                    2.988175,
+                    51.075348
                 ]
             }
         }

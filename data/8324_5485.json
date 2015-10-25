@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "504226",
+                "ref:De_Lijn": "509228",
                 "bus": "yes",
-                "name": "Klerken Drieweg",
+                "name": "Klerken Welkom",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STOKSTRAAT KLERKEN",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.910532,
-                    50.991303
+                    2.913385,
+                    50.986151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509225",
+                "bus": "yes",
+                "name": "Klerken Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOIEVAARSTRAAT KLERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.903052,
+                    50.998196
                 ]
             }
         },
@@ -47,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "504227",
+                "ref:De_Lijn": "504226",
                 "bus": "yes",
-                "name": "Klerken Klooster",
+                "name": "Klerken Drieweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STOKSTRAAT KLERKEN",
@@ -59,50 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.908393,
-                    50.995035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "509225",
-                "bus": "yes",
-                "name": "Klerken Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOIEVAARSTRAAT KLERKEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.903052,
-                    50.998196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "505707",
-                "bus": "yes",
-                "name": "Klerken Centiemhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CENTIEMHOEKSTRAAT KLERKEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.91119,
-                    50.992615
+                    2.910532,
+                    50.991303
                 ]
             }
         },
@@ -130,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "509226",
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505707",
                 "bus": "yes",
-                "name": "Klerken Drieweg",
+                "name": "Klerken Centiemhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STOKSTRAAT KLERKEN",
+                "created_by": "CENTIEMHOEKSTRAAT KLERKEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.910718,
-                    50.991287
+                    2.91119,
+                    50.992615
                 ]
             }
         },
@@ -173,9 +152,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "509228",
+                "ref:De_Lijn": "509226",
                 "bus": "yes",
-                "name": "Klerken Welkom",
+                "name": "Klerken Drieweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STOKSTRAAT KLERKEN",
@@ -185,8 +164,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.913385,
-                    50.986151
+                    2.910718,
+                    50.991287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "504227",
+                "bus": "yes",
+                "name": "Klerken Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKSTRAAT KLERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908393,
+                    50.995035
                 ]
             }
         }

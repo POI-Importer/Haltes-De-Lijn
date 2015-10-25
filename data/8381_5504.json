@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "164;732",
+                "ref:De_Lijn": "307550",
+                "bus": "yes",
+                "name": "Bellingen Daalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE BAAN BELLINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.159716,
+                    50.73626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "164;732",
                 "ref:De_Lijn": "307551",
                 "bus": "yes",
                 "name": "Bellingen Daalstraat",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     4.161285,
                     50.727471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "164;732",
-                "ref:De_Lijn": "307553",
-                "bus": "yes",
-                "name": "Bellingen Dorekensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE BAAN BELLINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.165452,
-                    50.729888
                 ]
             }
         },
@@ -110,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "164;732",
-                "ref:De_Lijn": "307550",
+                "ref:De_Lijn": "307553",
                 "bus": "yes",
-                "name": "Bellingen Daalstraat",
+                "name": "Bellingen Dorekensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NIEUWE BAAN BELLINGEN",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.159716,
-                    50.73626
+                    4.165452,
+                    50.729888
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "204535",
                 "bus": "yes",
                 "name": "Bazel Gauwstraat",

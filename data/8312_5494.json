@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "504546",
-                "bus": "yes",
-                "name": "Watou Nieuwe Wereld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOUVIEWEG WATOU",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.637638,
-                    50.861784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;69",
                 "ref:De_Lijn": "509546",
                 "bus": "yes",
                 "name": "Watou Nieuwe Wereld",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.65207,
                     50.868488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504546",
+                "bus": "yes",
+                "name": "Watou Nieuwe Wereld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOUVIEWEG WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.637638,
+                    50.861784
                 ]
             }
         },

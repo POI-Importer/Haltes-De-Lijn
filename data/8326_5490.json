@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "509712",
+                "bus": "yes",
+                "name": "Poelkapelle Langemarkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMARKSTRAAT POELKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.950963,
+                    50.917775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "28;40;95",
                 "ref:De_Lijn": "504388",
                 "bus": "yes",
@@ -25,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "509712",
+                "route_ref:De_Lijn": "28;40;95",
+                "ref:De_Lijn": "509390",
                 "bus": "yes",
-                "name": "Poelkapelle Langemarkstraat",
+                "name": "Poelkapelle Treurniet",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANGEMARKSTRAAT POELKAPELLE",
+                "created_by": "HOUTHULSTSEWEG POELKAPELLE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.950963,
-                    50.917775
+                    2.947278,
+                    50.928646
                 ]
             }
         },
@@ -68,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;40;95",
-                "ref:De_Lijn": "509388",
+                "ref:De_Lijn": "509392",
                 "bus": "yes",
-                "name": "Poelkapelle Guynemer",
+                "name": "Poelkapelle Wulverstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOUTHULSTSEWEG POELKAPELLE",
@@ -80,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.955244,
-                    50.919221
+                    2.949968,
+                    50.925316
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     2.947065,
                     50.928625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40;95",
-                "ref:De_Lijn": "509392",
-                "bus": "yes",
-                "name": "Poelkapelle Wulverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTHULSTSEWEG POELKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.949968,
-                    50.925316
                 ]
             }
         },
@@ -152,9 +152,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;40;95",
-                "ref:De_Lijn": "504392",
+                "ref:De_Lijn": "509388",
                 "bus": "yes",
-                "name": "Poelkapelle Wulverstraat",
+                "name": "Poelkapelle Guynemer",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOUTHULSTSEWEG POELKAPELLE",
@@ -164,29 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.949755,
-                    50.925295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40;95",
-                "ref:De_Lijn": "509390",
-                "bus": "yes",
-                "name": "Poelkapelle Treurniet",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTHULSTSEWEG POELKAPELLE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.947278,
-                    50.928646
+                    2.955244,
+                    50.919221
                 ]
             }
         },
@@ -208,6 +187,27 @@
                 "coordinates": [
                     2.951074,
                     50.917876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40;95",
+                "ref:De_Lijn": "504392",
+                "bus": "yes",
+                "name": "Poelkapelle Wulverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTHULSTSEWEG POELKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.949755,
+                    50.925295
                 ]
             }
         }

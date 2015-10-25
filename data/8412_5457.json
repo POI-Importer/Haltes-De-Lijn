@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;458;459",
                 "ref:De_Lijn": "109633",
                 "bus": "yes",
                 "name": "Merksplas Veldenbergstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;434;458;459",
                 "ref:De_Lijn": "109634",
                 "bus": "yes",
                 "name": "Merksplas Veldenbergstraat",

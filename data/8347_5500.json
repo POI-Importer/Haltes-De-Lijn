@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "91;99",
-                "ref:De_Lijn": "508220",
-                "bus": "yes",
-                "name": "Heestert Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GAUWELSTRAAT HEESTERT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.408294,
-                    50.781444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "91;99",
                 "ref:De_Lijn": "508223",
                 "bus": "yes",
                 "name": "Heestert Lentelaan",
@@ -61,27 +40,6 @@
                 "coordinates": [
                     3.426093,
                     50.778514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "99",
-                "ref:De_Lijn": "505943",
-                "bus": "yes",
-                "name": "Heestert Gemeenteschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VIERKEERSTRAAT HEESTERT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.409019,
-                    50.783455
                 ]
             }
         },
@@ -130,6 +88,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505943",
+                "bus": "yes",
+                "name": "Heestert Gemeenteschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERKEERSTRAAT HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409019,
+                    50.783455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "91",
                 "ref:De_Lijn": "503025",
                 "bus": "yes",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     3.426169,
                     50.778245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;99",
+                "ref:De_Lijn": "508220",
+                "bus": "yes",
+                "name": "Heestert Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAUWELSTRAAT HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.408294,
+                    50.781444
                 ]
             }
         }

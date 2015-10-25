@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "62;195",
+                "route_ref:De_Lijn": "62",
                 "ref:De_Lijn": "202228",
                 "bus": "yes",
                 "name": "Sint-Laureins Celiekerkweg",
@@ -46,7 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "208857",
                 "bus": "yes",
                 "name": "Sint-Laureins Kleine Boterhoek",

@@ -4,195 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "401571",
-                "bus": "yes",
-                "name": "Diepenbeek Bewel parking",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.413282,
-                    50.935779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;741",
-                "ref:De_Lijn": "401488",
-                "bus": "yes",
-                "name": "Diepenbeek Passionistenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.410001,
-                    50.934082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "401426",
-                "bus": "yes",
-                "name": "Diepenbeek Bewel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N702 ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.411542,
-                    50.936864
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;741",
-                "ref:De_Lijn": "401445",
-                "bus": "yes",
-                "name": "Diepenbeek Ginderover",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.41303,
-                    50.935287
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "741",
-                "ref:De_Lijn": "401586",
-                "bus": "yes",
-                "name": "Bijenberg Bijenbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROERDOMPSTRAAT DIEPENBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.422068,
-                    50.943072
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "741",
-                "ref:De_Lijn": "406809",
-                "bus": "yes",
-                "name": "Diepenbeek Stiemerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENBLOOKSTRAAT ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.411907,
-                    50.933418
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;741",
-                "ref:De_Lijn": "401492",
-                "bus": "yes",
-                "name": "Diepenbeek Patersplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PATERSSTRAAT ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.418243,
-                    50.936193
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;741",
-                "ref:De_Lijn": "401513",
-                "bus": "yes",
-                "name": "Diepenbeek Rooierheide School",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.418462,
-                    50.934528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;741",
-                "ref:De_Lijn": "401493",
-                "bus": "yes",
-                "name": "Diepenbeek Patersplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PATERSSTRAAT ROOIERHEIDE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.417881,
-                    50.936538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "36;741",
                 "ref:De_Lijn": "401512",
                 "bus": "yes",
@@ -214,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "401427",
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "408635",
                 "bus": "yes",
-                "name": "Diepenbeek Bewel",
+                "name": "Diepenbeek Noordenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOUDEWIJNLAAN ROOIERHEIDE",
+                "created_by": "NOORDENSTRAAT DORPHEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.413269,
-                    50.937092
+                    5.426011,
+                    50.934289
                 ]
             }
         },
@@ -257,6 +68,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "406809",
+                "bus": "yes",
+                "name": "Diepenbeek Stiemerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBLOOKSTRAAT ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.411907,
+                    50.933418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "401426",
+                "bus": "yes",
+                "name": "Diepenbeek Bewel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N702 ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.411542,
+                    50.936864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "741",
                 "ref:De_Lijn": "408634",
                 "bus": "yes",
                 "name": "Diepenbeek Noordenstraat",
@@ -277,21 +130,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "741",
-                "ref:De_Lijn": "408635",
+                "route_ref:De_Lijn": "36;741",
+                "ref:De_Lijn": "401549",
                 "bus": "yes",
-                "name": "Diepenbeek Noordenstraat",
+                "name": "Diepenbeek Stiemerbrug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NOORDENSTRAAT DORPHEIDE",
+                "created_by": "HEIDESTRAAT ROOIERHEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.426011,
-                    50.934289
+                    5.420526,
+                    50.932694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "401427",
+                "bus": "yes",
+                "name": "Diepenbeek Bewel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.413269,
+                    50.937092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "401587",
+                "bus": "yes",
+                "name": "Bijenberg Roerdompstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUISSTRAAT DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.42593,
+                    50.942058
                 ]
             }
         },
@@ -340,21 +235,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;741",
-                "ref:De_Lijn": "401444",
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "401586",
                 "bus": "yes",
-                "name": "Diepenbeek Ginderover",
+                "name": "Bijenberg Bijenbergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
+                "created_by": "ROERDOMPSTRAAT DIEPENBEEK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.414146,
-                    50.935582
+                    5.422068,
+                    50.943072
                 ]
             }
         },
@@ -383,9 +278,30 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "36;741",
-                "ref:De_Lijn": "401549",
+                "ref:De_Lijn": "401444",
                 "bus": "yes",
-                "name": "Diepenbeek Stiemerbrug",
+                "name": "Diepenbeek Ginderover",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.414146,
+                    50.935582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;741",
+                "ref:De_Lijn": "401513",
+                "bus": "yes",
+                "name": "Diepenbeek Rooierheide School",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HEIDESTRAAT ROOIERHEIDE",
@@ -395,8 +311,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.420526,
-                    50.932694
+                    5.418462,
+                    50.934528
                 ]
             }
         },
@@ -424,21 +340,105 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "741",
-                "ref:De_Lijn": "401587",
+                "route_ref:De_Lijn": "36;741",
+                "ref:De_Lijn": "401492",
                 "bus": "yes",
-                "name": "Bijenberg Roerdompstraat",
+                "name": "Diepenbeek Patersplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SLUISSTRAAT DIEPENBEEK",
+                "created_by": "PATERSSTRAAT ROOIERHEIDE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.42593,
-                    50.942058
+                    5.418243,
+                    50.936193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;741",
+                "ref:De_Lijn": "401488",
+                "bus": "yes",
+                "name": "Diepenbeek Passionistenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.410001,
+                    50.934082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;741",
+                "ref:De_Lijn": "401493",
+                "bus": "yes",
+                "name": "Diepenbeek Patersplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PATERSSTRAAT ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.417881,
+                    50.936538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;741",
+                "ref:De_Lijn": "401445",
+                "bus": "yes",
+                "name": "Diepenbeek Ginderover",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.41303,
+                    50.935287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401571",
+                "bus": "yes",
+                "name": "Diepenbeek Bewel parking",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GINDEROVERSTRAAT ROOIERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.413282,
+                    50.935779
                 ]
             }
         }

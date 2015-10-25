@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;T1;726",
-                "ref:De_Lijn": "407659",
+                "route_ref:De_Lijn": "28;T1;726;738",
+                "ref:De_Lijn": "407658",
                 "bus": "yes",
                 "name": "Membruggen Kabien",
                 "public_transport": "platform",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.535679,
-                    50.811492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;T1;726;738",
-                "ref:De_Lijn": "407660",
-                "bus": "yes",
-                "name": "Membruggen Monument",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT MEMBRUGGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.532908,
-                    50.815925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;T1;726",
-                "ref:De_Lijn": "407663",
-                "bus": "yes",
-                "name": "Membruggen Rijkerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIJCKERSTRAAT MEMBRUGGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.527349,
-                    50.818389
+                    5.535549,
+                    50.811403
                 ]
             }
         },
@@ -88,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;T1;726;738",
-                "ref:De_Lijn": "407662",
+                "route_ref:De_Lijn": "28;T1;726",
+                "ref:De_Lijn": "407661",
                 "bus": "yes",
-                "name": "Membruggen Rijkerstraat",
+                "name": "Membruggen Monument",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJCKERSTRAAT MEMBRUGGEN",
+                "created_by": "DORPSSTRAAT MEMBRUGGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.527276,
-                    50.818291
+                    5.53319,
+                    50.815832
                 ]
             }
         },
@@ -110,41 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;T1;726;738",
-                "ref:De_Lijn": "407658",
+                "ref:De_Lijn": "407660",
                 "bus": "yes",
-                "name": "Membruggen Kabien",
+                "name": "Membruggen Monument",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WILWOUTERSSTRAAT MEMBRUGGEN",
+                "created_by": "DORPSSTRAAT MEMBRUGGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.535549,
-                    50.811403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "T1;726;738",
-                "ref:De_Lijn": "407589",
-                "bus": "yes",
-                "name": "Membruggen Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT GENOELSELDEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.536377,
-                    50.809327
+                    5.532908,
+                    50.815925
                 ]
             }
         },
@@ -173,20 +110,83 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;T1;726",
-                "ref:De_Lijn": "407661",
+                "ref:De_Lijn": "407663",
                 "bus": "yes",
-                "name": "Membruggen Monument",
+                "name": "Membruggen Rijkerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT MEMBRUGGEN",
+                "created_by": "RIJCKERSTRAAT MEMBRUGGEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.53319,
-                    50.815832
+                    5.527349,
+                    50.818389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;T1;726",
+                "ref:De_Lijn": "407659",
+                "bus": "yes",
+                "name": "Membruggen Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILWOUTERSSTRAAT MEMBRUGGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.535679,
+                    50.811492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;T1;726;738",
+                "ref:De_Lijn": "407662",
+                "bus": "yes",
+                "name": "Membruggen Rijkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJCKERSTRAAT MEMBRUGGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.527276,
+                    50.818291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T1;726;738",
+                "ref:De_Lijn": "407589",
+                "bus": "yes",
+                "name": "Membruggen Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT GENOELSELDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.536377,
+                    50.809327
                 ]
             }
         }

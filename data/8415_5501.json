@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "360;361",
-                "ref:De_Lijn": "302155",
-                "bus": "yes",
-                "name": "Hoegaarden Altenaken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ALTENAKEN HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.908088,
-                    50.769838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "361",
                 "ref:De_Lijn": "307109",
                 "bus": "yes",
@@ -46,8 +25,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;360;361;713",
-                "ref:De_Lijn": "302182",
+                "route_ref:De_Lijn": "360;361",
+                "ref:De_Lijn": "302155",
+                "bus": "yes",
+                "name": "Hoegaarden Altenaken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALTENAKEN HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.908088,
+                    50.769838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;360;361",
+                "ref:De_Lijn": "302183",
                 "bus": "yes",
                 "name": "Hoegaarden Station",
                 "public_transport": "platform",
@@ -59,8 +59,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.901722,
-                    50.773544
+                    4.901681,
+                    50.773697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "361",
+                "ref:De_Lijn": "302201",
+                "bus": "yes",
+                "name": "Outgaarden Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-NIKLAASSTRAAT OUTGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.913922,
+                    50.766808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "361;713",
+                "ref:De_Lijn": "308095",
+                "bus": "yes",
+                "name": "Outgaarden Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT OUTGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919382,
+                    50.765839
                 ]
             }
         },
@@ -109,8 +151,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;360;361",
-                "ref:De_Lijn": "302183",
+                "route_ref:De_Lijn": "6;360;361;713",
+                "ref:De_Lijn": "302182",
                 "bus": "yes",
                 "name": "Hoegaarden Station",
                 "public_transport": "platform",
@@ -122,50 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.901681,
-                    50.773697
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "361;713",
-                "ref:De_Lijn": "308095",
-                "bus": "yes",
-                "name": "Outgaarden Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT OUTGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.919382,
-                    50.765839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "361",
-                "ref:De_Lijn": "302201",
-                "bus": "yes",
-                "name": "Outgaarden Begraafplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-NIKLAASSTRAAT OUTGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.913922,
-                    50.766808
+                    4.901722,
+                    50.773544
                 ]
             }
         }

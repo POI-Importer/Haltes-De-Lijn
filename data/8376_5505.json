@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "307081",
+                "ref:De_Lijn": "307530",
                 "bus": "yes",
-                "name": "Herne Hof Tembroek",
+                "name": "Herne Ranckhove",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VAN CAUWENBERGHELAAN HERNE",
+                "created_by": "LINDESTRAAT HERNE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.055355,
-                    50.712591
+                    4.047119,
+                    50.718161
                 ]
             }
         },
@@ -60,6 +60,47 @@
                 "coordinates": [
                     4.059528,
                     50.711029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307532",
+                "bus": "yes",
+                "name": "Herne Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN CAUWENBERGHELAAN HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.05974,
+                    50.711084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "307081",
+                "bus": "yes",
+                "name": "Herne Hof Tembroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN CAUWENBERGHELAAN HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.055355,
+                    50.712591
                 ]
             }
         },
@@ -102,47 +143,6 @@
                 "coordinates": [
                     4.06485,
                     50.709164
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "307532",
-                "bus": "yes",
-                "name": "Herne Broekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VAN CAUWENBERGHELAAN HERNE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.05974,
-                    50.711084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "307530",
-                "bus": "yes",
-                "name": "Herne Ranckhove",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDESTRAAT HERNE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.047119,
-                    50.718161
                 ]
             }
         },

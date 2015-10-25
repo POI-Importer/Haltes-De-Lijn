@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "140",
                 "ref:De_Lijn": "200955",
                 "bus": "yes",
                 "name": "Destelbergen Damvallei",

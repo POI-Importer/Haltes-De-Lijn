@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
-                "ref:De_Lijn": "200736",
+                "ref:De_Lijn": "200704",
                 "bus": "yes",
-                "name": "Mendonk Spanjeveerstraat",
+                "name": "Gent Mendonk Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SPANJEVEERSTRAAT GENT",
+                "created_by": "MENDONKDORP MENDONK",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.81393,
-                    51.144767
+                    3.821552,
+                    51.146789
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "200705",
                 "bus": "yes",
                 "name": "Sint-Kruis-Winkel Barkstraat",
@@ -46,21 +44,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
-                "ref:De_Lijn": "200704",
+                "ref:De_Lijn": "200736",
                 "bus": "yes",
-                "name": "Gent Mendonk Dorp",
+                "name": "Mendonk Spanjeveerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MENDONKDORP MENDONK",
+                "created_by": "SPANJEVEERSTRAAT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.821552,
-                    51.146789
+                    3.81393,
+                    51.144767
                 ]
             }
         }

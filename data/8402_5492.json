@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "352;511;522;523;652",
-                "ref:De_Lijn": "302075",
-                "bus": "yes",
-                "name": "Veltem-Beisem Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT VELTEM-BEISEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.631772,
-                    50.900686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "352;516;522;528;652",
-                "ref:De_Lijn": "303516",
-                "bus": "yes",
-                "name": "Veltem-Beisem Papenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LODEWIJK VAN VELTEMSTRAAT VELTEM-BEISEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.621225,
-                    50.900952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "351;358;521;651",
-                "ref:De_Lijn": "302099",
-                "bus": "yes",
-                "name": "Winksele Toverberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG VELTEM-BEISEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.631468,
-                    50.894709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "351;358;521;651",
-                "ref:De_Lijn": "302098",
-                "bus": "yes",
-                "name": "Winksele Toverberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N2 VELTEM-BEISEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.633086,
-                    50.894202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306376",
                 "bus": "yes",
                 "name": "Veltem-Beisem Stationsplein",
@@ -109,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "351;358;521;523;651",
-                "ref:De_Lijn": "302072",
-                "bus": "yes",
-                "name": "Veltem-Beisem Radioweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG VELTEM-BEISEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.615243,
-                    50.89603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "352;511;522;528;652",
                 "ref:De_Lijn": "302060",
                 "bus": "yes",
@@ -145,6 +40,27 @@
                 "coordinates": [
                     4.62528,
                     50.901581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352;516;522;528;652",
+                "ref:De_Lijn": "305637",
+                "bus": "yes",
+                "name": "Veltem-Beisem Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODEWIJK VAN VELTEMSTRAAT VELTEM-BEISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.614394,
+                    50.899555
                 ]
             }
         },
@@ -193,42 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306377",
+                "route_ref:De_Lijn": "351;358;521;651",
+                "ref:De_Lijn": "302098",
                 "bus": "yes",
-                "name": "Veltem-Beisem Stationsplein",
+                "name": "Winksele Toverberg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KROONSTRAAT VELTEM-BEISEM",
+                "created_by": "N2 VELTEM-BEISEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.629817,
-                    50.89936
+                    4.633086,
+                    50.894202
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "351;358;521;523;651",
-                "ref:De_Lijn": "302076",
+                "route_ref:De_Lijn": "352;516;522;528;652",
+                "ref:De_Lijn": "303515",
                 "bus": "yes",
-                "name": "Veltem-Beisem Veltem Steenweg",
+                "name": "Veltem-Beisem Papenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSESTEENWEG VELTEM-BEISEM",
+                "created_by": "LODEWIJK VAN VELTEMSTRAAT VELTEM-BEISEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.625178,
-                    50.895945
+                    4.621055,
+                    50.901042
                 ]
             }
         },
@@ -257,28 +173,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "352;516;522;528;652",
-                "ref:De_Lijn": "305637",
-                "bus": "yes",
-                "name": "Veltem-Beisem Kerkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LODEWIJK VAN VELTEMSTRAAT VELTEM-BEISEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.614394,
-                    50.899555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "352;516;522;528;652",
-                "ref:De_Lijn": "303515",
+                "ref:De_Lijn": "303516",
                 "bus": "yes",
                 "name": "Veltem-Beisem Papenstraat",
                 "public_transport": "platform",
@@ -290,8 +185,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.621055,
-                    50.901042
+                    4.621225,
+                    50.900952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "351;358;521;651",
+                "ref:De_Lijn": "302099",
+                "bus": "yes",
+                "name": "Winksele Toverberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG VELTEM-BEISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.631468,
+                    50.894709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352;511;522;528;652",
+                "ref:De_Lijn": "302061",
+                "bus": "yes",
+                "name": "Veltem-Beisem Dorpsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR DE CLERCKSTRAAT VELTEM-BEISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.625281,
+                    50.901689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "351;358;521;523;651",
+                "ref:De_Lijn": "302076",
+                "bus": "yes",
+                "name": "Veltem-Beisem Veltem Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG VELTEM-BEISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.625178,
+                    50.895945
                 ]
             }
         },
@@ -319,21 +277,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "352;511;522;528;652",
-                "ref:De_Lijn": "302061",
+                "route_ref:De_Lijn": "351;358;521;523;651",
+                "ref:De_Lijn": "302072",
                 "bus": "yes",
-                "name": "Veltem-Beisem Dorpsplein",
+                "name": "Veltem-Beisem Radioweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PASTOOR DE CLERCKSTRAAT VELTEM-BEISEM",
+                "created_by": "BRUSSELSESTEENWEG VELTEM-BEISEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.625281,
-                    50.901689
+                    4.615243,
+                    50.89603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306377",
+                "bus": "yes",
+                "name": "Veltem-Beisem Stationsplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KROONSTRAAT VELTEM-BEISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.629817,
+                    50.89936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352;511;522;523;652",
+                "ref:De_Lijn": "302075",
+                "bus": "yes",
+                "name": "Veltem-Beisem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT VELTEM-BEISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.631772,
+                    50.900686
                 ]
             }
         }

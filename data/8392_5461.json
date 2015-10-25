@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "659;670",
                 "ref:De_Lijn": "105841",
                 "bus": "yes",
                 "name": "Kapellen Kalmthoutsesteenweg",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "658;720",
                 "ref:De_Lijn": "105252",
                 "bus": "yes",
                 "name": "Kapellen Kalmthoutsesteenweg",

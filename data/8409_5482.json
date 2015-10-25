@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "161;931;944",
-                "ref:De_Lijn": "108050",
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "108053",
                 "bus": "yes",
-                "name": "Booischot Blindejennestraat",
+                "name": "Booischot Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KLEINE STEENWEG BOOISCHOT",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.776215,
-                    51.040938
+                    4.774216,
+                    51.037313
                 ]
             }
         },
@@ -66,48 +66,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "931;944",
-                "ref:De_Lijn": "108054",
-                "bus": "yes",
-                "name": "Booischot Kleine Steenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEINE STEENWEG BOOISCHOT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.770325,
-                    51.032418
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "161;931;944",
-                "ref:De_Lijn": "108053",
-                "bus": "yes",
-                "name": "Booischot Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEINE STEENWEG BOOISCHOT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.774216,
-                    51.037313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "709",
                 "ref:De_Lijn": "308493",
                 "bus": "yes",
@@ -129,10 +87,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "161;931;944",
-                "ref:De_Lijn": "108052",
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "108054",
                 "bus": "yes",
-                "name": "Booischot Station",
+                "name": "Booischot Kleine Steenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KLEINE STEENWEG BOOISCHOT",
@@ -142,15 +100,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.773987,
-                    51.037224
+                    4.770325,
+                    51.032418
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160;931;944",
+                "route_ref:De_Lijn": "931;944",
                 "ref:De_Lijn": "107986",
                 "bus": "yes",
                 "name": "Booischot Kleine Steenweg",
@@ -171,7 +129,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
                 "ref:De_Lijn": "107984",
                 "bus": "yes",
                 "name": "Booischot Kleine Steenweg",
@@ -186,6 +143,47 @@
                 "coordinates": [
                     4.770149,
                     51.031942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108052",
+                "bus": "yes",
+                "name": "Booischot Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE STEENWEG BOOISCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.773987,
+                    51.037224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "108050",
+                "bus": "yes",
+                "name": "Booischot Blindejennestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE STEENWEG BOOISCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.776215,
+                    51.040938
                 ]
             }
         },

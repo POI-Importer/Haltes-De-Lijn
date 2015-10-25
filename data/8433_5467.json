@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "405784",
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "409750",
                 "bus": "yes",
-                "name": "Lommel College",
+                "name": "Lommel Sporthal",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PIETER BREUGHELDREEF LOMMEL",
+                "created_by": "GESTELSEDIJK LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.310442,
-                    51.240864
+                    5.30957,
+                    51.244457
                 ]
             }
         },
@@ -46,48 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84;713",
-                "ref:De_Lijn": "409749",
-                "bus": "yes",
-                "name": "Lommel Heide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDE LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.310425,
-                    51.24001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "711;713",
-                "ref:De_Lijn": "404288",
-                "bus": "yes",
-                "name": "Lommel Kwadeveldenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWADEVELDENSTRAAT LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.313782,
-                    51.238212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "711;713",
                 "ref:De_Lijn": "407501",
                 "bus": "yes",
@@ -109,106 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84",
-                "ref:De_Lijn": "405782",
+                "ref:De_Lijn": "405784",
                 "bus": "yes",
-                "name": "Lommel Buso",
+                "name": "Lommel College",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "SPEELPLEINSTRAAT LOMMEL",
+                "created_by": "PIETER BREUGHELDREEF LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.302966,
-                    51.247242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;84;711;713",
-                "ref:De_Lijn": "405876",
-                "bus": "yes",
-                "name": "Lommel Speeltuin",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPORTVELDENSTRAAT LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.306785,
-                    51.244147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "711;713",
-                "ref:De_Lijn": "409748",
-                "bus": "yes",
-                "name": "Lommel Heide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDE LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.310295,
-                    51.239966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;711;713",
-                "ref:De_Lijn": "405878",
-                "bus": "yes",
-                "zone:De_Lijn": "6462",
-                "name": "Lommel Sportcentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEPELSTRAAT LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.308618,
-                    51.239907
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "711;713",
-                "ref:De_Lijn": "409750",
-                "bus": "yes",
-                "name": "Lommel Sporthal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GESTELSEDIJK LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.30957,
-                    51.244457
+                    5.310442,
+                    51.240864
                 ]
             }
         },
@@ -257,64 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;84",
-                "ref:De_Lijn": "405879",
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "405782",
                 "bus": "yes",
-                "zone:De_Lijn": "6462",
-                "name": "Lommel Sportcentrum",
+                "name": "Lommel Buso",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GESTELSEDIJK LOMMEL",
+                "created_by": "SPEELPLEINSTRAAT LOMMEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.308929,
-                    51.24039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "713",
-                "ref:De_Lijn": "407511",
-                "bus": "yes",
-                "name": "Lommel Koning Albertlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.315089,
-                    51.236296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "713",
-                "ref:De_Lijn": "404289",
-                "bus": "yes",
-                "name": "Lommel Kwadeveldenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWADEVELDENSTRAAT LOMMEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.313982,
-                    51.238157
+                    5.302966,
+                    51.247242
                 ]
             }
         },
@@ -342,6 +172,49 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "58;84",
+                "ref:De_Lijn": "405879",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSEDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.308929,
+                    51.24039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;711;713",
+                "ref:De_Lijn": "405876",
+                "bus": "yes",
+                "name": "Lommel Speeltuin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTVELDENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.306785,
+                    51.244147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "711;713",
                 "ref:De_Lijn": "409413",
                 "bus": "yes",
@@ -357,6 +230,133 @@
                 "coordinates": [
                     5.303643,
                     51.237475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "407511",
+                "bus": "yes",
+                "name": "Lommel Koning Albertlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.315089,
+                    51.236296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "409748",
+                "bus": "yes",
+                "name": "Lommel Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDE LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310295,
+                    51.239966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "404289",
+                "bus": "yes",
+                "name": "Lommel Kwadeveldenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWADEVELDENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313982,
+                    51.238157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;713",
+                "ref:De_Lijn": "409749",
+                "bus": "yes",
+                "name": "Lommel Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDE LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310425,
+                    51.24001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;711;713",
+                "ref:De_Lijn": "405878",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEPELSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.308618,
+                    51.239907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "404288",
+                "bus": "yes",
+                "name": "Lommel Kwadeveldenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWADEVELDENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313782,
+                    51.238212
                 ]
             }
         }

@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450;451;456;458",
-                "ref:De_Lijn": "106659",
-                "bus": "yes",
-                "name": "Poppel Vondstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG WEELDE POPPEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.037693,
-                    51.44477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450;451;456;458",
-                "ref:De_Lijn": "106660",
-                "bus": "yes",
-                "name": "Poppel Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORP POPPEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.041579,
-                    51.446968
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450;451;456;458",
                 "ref:De_Lijn": "106661",
                 "bus": "yes",
                 "name": "Poppel Dorp",
@@ -67,7 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "106660",
+                "bus": "yes",
+                "name": "Poppel Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.041579,
+                    51.446968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106663",
                 "bus": "yes",
                 "name": "Poppel Trierstraat",
@@ -88,28 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450;451;456;458",
-                "ref:De_Lijn": "106658",
-                "bus": "yes",
-                "name": "Poppel Vondstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORP POPPEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.03877,
-                    51.445663
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "450;451;456;458",
                 "ref:De_Lijn": "106657",
                 "bus": "yes",
                 "name": "Poppel Grote Vond",
@@ -130,7 +84,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450;451;456;458",
+                "ref:De_Lijn": "106659",
+                "bus": "yes",
+                "name": "Poppel Vondstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG WEELDE POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.037693,
+                    51.44477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106662",
                 "bus": "yes",
                 "name": "Poppel Trierstraat",
@@ -145,6 +118,26 @@
                 "coordinates": [
                     5.043592,
                     51.451873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106658",
+                "bus": "yes",
+                "name": "Poppel Vondstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03877,
+                    51.445663
                 ]
             }
         }

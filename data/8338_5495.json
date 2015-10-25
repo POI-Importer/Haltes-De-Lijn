@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "508231",
+                "bus": "yes",
+                "name": "Heule Beiaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.226191,
+                    50.8582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
                 "ref:De_Lijn": "503239",
                 "bus": "yes",
                 "name": "Heule Grijsperre",
@@ -19,48 +40,6 @@
                 "coordinates": [
                     3.226089,
                     50.855951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "60",
-                "ref:De_Lijn": "503262",
-                "bus": "yes",
-                "name": "Heule Vlasbloem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MELLESTRAAT HEULE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.227942,
-                    50.852184
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "60",
-                "ref:De_Lijn": "508262",
-                "bus": "yes",
-                "name": "Heule Vlasbloem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MELLESTRAAT HEULE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.227831,
-                    50.852075
                 ]
             }
         },
@@ -89,20 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "60",
-                "ref:De_Lijn": "508231",
+                "ref:De_Lijn": "508262",
                 "bus": "yes",
-                "name": "Heule Beiaard",
+                "name": "Heule Vlasbloem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-KATHARINASTRAAT HEULE",
+                "created_by": "MELLESTRAAT HEULE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.226191,
-                    50.8582
+                    3.227831,
+                    50.852075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503262",
+                "bus": "yes",
+                "name": "Heule Vlasbloem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELLESTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.227942,
+                    50.852184
                 ]
             }
         }

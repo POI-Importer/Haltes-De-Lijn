@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;527;590",
-                "ref:De_Lijn": "303481",
-                "bus": "yes",
-                "name": "Lubbeek Kwadeschuur",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOLLENBERG LUBBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.827889,
-                    50.8799
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;527;590",
                 "ref:De_Lijn": "303482",
                 "bus": "yes",
                 "name": "Lubbeek Kwadeschuur",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     4.828075,
                     50.880061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;527;590",
-                "ref:De_Lijn": "303460",
-                "bus": "yes",
-                "name": "Lubbeek Bollenberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOLLENBERG LUBBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.820595,
-                    50.87796
                 ]
             }
         },
@@ -89,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3;527;590",
-                "ref:De_Lijn": "303459",
+                "ref:De_Lijn": "303460",
                 "bus": "yes",
                 "name": "Lubbeek Bollenberg",
                 "public_transport": "platform",
@@ -101,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.821277,
-                    50.877948
+                    4.820595,
+                    50.87796
                 ]
             }
         },
@@ -124,6 +82,48 @@
                 "coordinates": [
                     4.813065,
                     50.878097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "303459",
+                "bus": "yes",
+                "name": "Lubbeek Bollenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOLLENBERG LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.821277,
+                    50.877948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "303481",
+                "bus": "yes",
+                "name": "Lubbeek Kwadeschuur",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOLLENBERG LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.827889,
+                    50.8799
                 ]
             }
         }

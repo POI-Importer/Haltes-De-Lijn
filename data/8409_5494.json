@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "303514",
+                "ref:De_Lijn": "303522",
                 "bus": "yes",
-                "name": "Pellenberg Fonteinstraat",
+                "name": "Pellenberg Meistraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LOSTRAAT PELLENBERG",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.790004,
-                    50.873318
+                    4.783814,
+                    50.873808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "303523",
+                "bus": "yes",
+                "name": "Pellenberg Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.782452,
+                    50.874127
                 ]
             }
         },
@@ -68,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "303523",
+                "ref:De_Lijn": "303514",
                 "bus": "yes",
-                "name": "Pellenberg Meistraat",
+                "name": "Pellenberg Fonteinstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LOSTRAAT PELLENBERG",
@@ -80,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.782452,
-                    50.874127
+                    4.790004,
+                    50.873318
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     4.787681,
                     50.862962
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3",
-                "ref:De_Lijn": "303522",
-                "bus": "yes",
-                "name": "Pellenberg Meistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOSTRAAT PELLENBERG",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.783814,
-                    50.873808
                 ]
             }
         }

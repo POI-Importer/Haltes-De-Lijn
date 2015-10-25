@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;17;370;410",
-                "ref:De_Lijn": "208049",
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "209049",
                 "bus": "yes",
                 "name": "Goeferdinge Hazelaarstraat",
                 "public_transport": "platform",
@@ -17,36 +17,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.85882,
-                    50.776098
+                    3.858708,
+                    50.775972
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370;410",
-                "ref:De_Lijn": "206796",
+                "ref:De_Lijn": "206794",
                 "bus": "yes",
-                "name": "Goeferdinge Overpoort",
+                "name": "Goeferdinge Waaienberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OVERPOORT NEDERBOELARE",
+                "created_by": "WAAIENBERG NEDERBOELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.863924,
-                    50.772093
+                    3.853801,
+                    50.773442
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;370;410",
+                "route_ref:De_Lijn": "76",
                 "ref:De_Lijn": "201964",
                 "bus": "yes",
                 "name": "Overboelare Leliestraat",
@@ -67,21 +66,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;370;410",
-                "ref:De_Lijn": "208038",
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "208049",
                 "bus": "yes",
-                "name": "Overboelare Kasteelstraat",
+                "name": "Goeferdinge Hazelaarstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTEWEG OVERBOELARE",
+                "created_by": "HAZELAARSTRAAT NEDERBOELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.865477,
-                    50.764809
+                    3.85882,
+                    50.776098
                 ]
             }
         },
@@ -89,20 +88,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "209034",
+                "ref:De_Lijn": "206769",
                 "bus": "yes",
-                "name": "Goeferdinge Eersbekeweg",
+                "name": "Goeferdinge Dutskouter",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARKTWEG OVERBOELARE",
+                "created_by": "MARKTWEG NEDERBOELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.850427,
-                    50.768321
+                    3.862008,
+                    50.769648
                 ]
             }
         },
@@ -130,21 +129,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16;17",
-                "ref:De_Lijn": "209049",
+                "ref:De_Lijn": "206796",
                 "bus": "yes",
-                "name": "Goeferdinge Hazelaarstraat",
+                "name": "Goeferdinge Overpoort",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HAZELAARSTRAAT NEDERBOELARE",
+                "created_by": "OVERPOORT NEDERBOELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.858708,
-                    50.775972
+                    3.863924,
+                    50.772093
                 ]
             }
         },
@@ -152,9 +150,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "209035",
+                "ref:De_Lijn": "209034",
                 "bus": "yes",
-                "name": "Goeferdinge Marktweg",
+                "name": "Goeferdinge Eersbekeweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MARKTWEG OVERBOELARE",
@@ -164,50 +162,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.853735,
-                    50.7691
+                    3.850427,
+                    50.768321
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370;410",
-                "ref:De_Lijn": "206795",
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "208038",
                 "bus": "yes",
-                "name": "Goeferdinge Solleveld",
+                "name": "Overboelare Kasteelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VICTOR FRISSTRAAT NEDERBOELARE",
+                "created_by": "GROTEWEG OVERBOELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.858797,
-                    50.770362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370;410",
-                "ref:De_Lijn": "206794",
-                "bus": "yes",
-                "name": "Goeferdinge Waaienberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAAIENBERG NEDERBOELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.853801,
-                    50.773442
+                    3.865477,
+                    50.764809
                 ]
             }
         },
@@ -235,10 +212,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "78;370;410",
-                "ref:De_Lijn": "208034",
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "209035",
                 "bus": "yes",
-                "name": "Goeferdinge Eersbekeweg",
+                "name": "Goeferdinge Marktweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MARKTWEG OVERBOELARE",
@@ -248,8 +225,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.850355,
-                    50.76842
+                    3.853735,
+                    50.7691
                 ]
             }
         },
@@ -271,6 +248,89 @@
                 "coordinates": [
                     3.86169,
                     50.774169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206795",
+                "bus": "yes",
+                "name": "Goeferdinge Solleveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICTOR FRISSTRAAT NEDERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.858797,
+                    50.770362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "208048",
+                "bus": "yes",
+                "name": "Goeferdinge Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTRAAT NEDERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.861746,
+                    50.774286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "201967",
+                "bus": "yes",
+                "name": "Goeferdinge Dutskouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTWEG OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.862504,
+                    50.769686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "208034",
+                "bus": "yes",
+                "name": "Goeferdinge Eersbekeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTWEG OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.850355,
+                    50.76842
                 ]
             }
         },
@@ -299,27 +359,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "201967",
-                "bus": "yes",
-                "name": "Goeferdinge Dutskouter",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKTWEG OVERBOELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.862504,
-                    50.769686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "78;370;410",
                 "ref:De_Lijn": "208035",
                 "bus": "yes",
                 "name": "Goeferdinge Marktweg",
@@ -334,48 +373,6 @@
                 "coordinates": [
                     3.853564,
                     50.769189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;17;370;410",
-                "ref:De_Lijn": "208048",
-                "bus": "yes",
-                "name": "Goeferdinge Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENAARDSESTRAAT NEDERBOELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.861746,
-                    50.774286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "78;370;410",
-                "ref:De_Lijn": "206769",
-                "bus": "yes",
-                "name": "Goeferdinge Dutskouter",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARKTWEG NEDERBOELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.862008,
-                    50.769648
                 ]
             }
         }

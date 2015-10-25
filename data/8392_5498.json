@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "341;343;348;349",
-                "ref:De_Lijn": "307853",
+                "route_ref:De_Lijn": "504",
+                "ref:De_Lijn": "300972",
                 "bus": "yes",
-                "name": "Delta",
+                "name": "Van Drommen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N210 OUDERGEM",
+                "created_by": "WAVERSESTEENWEG OUDERGEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.403774,
-                    50.818139
+                    4.414759,
+                    50.819061
                 ]
             }
         },
@@ -68,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "504",
-                "ref:De_Lijn": "300972",
-                "bus": "yes",
-                "name": "Van Drommen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAVERSESTEENWEG OUDERGEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.414759,
-                    50.819061
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "504",
                 "ref:De_Lijn": "300973",
                 "bus": "yes",
                 "name": "Van Drommen",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     4.415511,
                     50.81898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;343;348;349",
+                "ref:De_Lijn": "307853",
+                "bus": "yes",
+                "name": "Delta",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N210 OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.403774,
+                    50.818139
                 ]
             }
         }

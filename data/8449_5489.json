@@ -5,26 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724;725",
-                "ref:De_Lijn": "405501",
-                "bus": "yes",
-                "name": "Rekem Openbaar Psychiatrisch Ziekenhuis Dagcentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.665579,
-                    50.931313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724;725",
                 "ref:De_Lijn": "405500",
                 "bus": "yes",
                 "name": "Rekem Openbaar Psychiatrisch Ziekenhuis Klimop",
@@ -38,6 +18,26 @@
                 "coordinates": [
                     5.668526,
                     50.931379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724;725",
+                "ref:De_Lijn": "405501",
+                "bus": "yes",
+                "name": "Rekem Openbaar Psychiatrisch Ziekenhuis Dagcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.665579,
+                    50.931313
                 ]
             }
         }

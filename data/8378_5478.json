@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290",
                 "ref:De_Lijn": "204782",
                 "bus": "yes",
                 "name": "Hamme Moerheide",
@@ -25,91 +24,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270",
-                "ref:De_Lijn": "205779",
+                "ref:De_Lijn": "205785",
                 "bus": "yes",
-                "name": "Waasmunster Sint-Annastraat",
+                "name": "Hamme Ekelbeke",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "SINT-ANNASTRAAT HAMME (OOST-VLAANDEREN)",
+                "created_by": "EKELBEKE HAMME (OOST-VLAANDEREN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.088397,
-                    51.09548
+                    4.101882,
+                    51.086145
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270;290",
-                "ref:De_Lijn": "204779",
-                "bus": "yes",
-                "name": "Waasmunster Sint-Annastraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DURMEBRUG HAMME (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.091153,
-                    51.095163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "290",
-                "ref:De_Lijn": "204781",
-                "bus": "yes",
-                "name": "Hamme Kruisbeeldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRUISBEELDSTRAAT HAMME (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.101746,
-                    51.092518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "290",
-                "ref:De_Lijn": "204780",
-                "bus": "yes",
-                "name": "Hamme Ardoystraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DURMEBRUG HAMME (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.092752,
-                    51.09283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "290",
                 "ref:De_Lijn": "205591",
                 "bus": "yes",
                 "name": "Hamme Vossestraat",
@@ -124,48 +59,6 @@
                 "coordinates": [
                     4.089156,
                     51.083059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "290",
-                "ref:De_Lijn": "204785",
-                "bus": "yes",
-                "name": "Hamme Ekelbeke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EKELBEKE HAMME (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.101782,
-                    51.086235
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "205780",
-                "bus": "yes",
-                "name": "Hamme Ardoystraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DURMEBRUG HAMME (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.092005,
-                    51.09352
                 ]
             }
         },
@@ -193,11 +86,50 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "205785",
+                "ref:De_Lijn": "205779",
+                "bus": "yes",
+                "name": "Waasmunster Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNASTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.088397,
+                    51.09548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204781",
+                "bus": "yes",
+                "name": "Hamme Kruisbeeldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBEELDSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.101746,
+                    51.092518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204785",
                 "bus": "yes",
                 "name": "Hamme Ekelbeke",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "EKELBEKE HAMME (OOST-VLAANDEREN)",
                 "operator": "De Lijn",
@@ -206,8 +138,69 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.101882,
-                    51.086145
+                    4.101782,
+                    51.086235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204779",
+                "bus": "yes",
+                "name": "Waasmunster Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURMEBRUG HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.091153,
+                    51.095163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204780",
+                "bus": "yes",
+                "name": "Hamme Ardoystraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURMEBRUG HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.092752,
+                    51.09283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205780",
+                "bus": "yes",
+                "name": "Hamme Ardoystraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DURMEBRUG HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.092005,
+                    51.09352
                 ]
             }
         }

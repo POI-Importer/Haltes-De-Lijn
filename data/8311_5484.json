@@ -4,50 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "504122",
-                "bus": "yes",
-                "name": "Houtem Dode Mannen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTEMSTRAAT LEISELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.634504,
-                    51.003717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "504132",
-                "bus": "yes",
-                "name": "Houtem Weg Op Doorntje",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTEMSTRAAT HOUTEM (VEURNE)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.618278,
-                    51.006246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "504127",
+                "route_ref:De_Lijn": "51;58;59",
+                "ref:De_Lijn": "509127",
                 "bus": "yes",
                 "name": "Houtem Goemoete",
                 "public_transport": "platform",
@@ -59,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.627742,
-                    51.004282
+                    2.628477,
+                    51.004077
                 ]
             }
         },
@@ -88,10 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;58;59",
-                "ref:De_Lijn": "509127",
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504132",
                 "bus": "yes",
-                "name": "Houtem Goemoete",
+                "name": "Houtem Weg Op Doorntje",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOUTEMSTRAAT HOUTEM (VEURNE)",
@@ -101,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.628477,
-                    51.004077
+                    2.618278,
+                    51.006246
                 ]
             }
         },
@@ -124,6 +82,48 @@
                 "coordinates": [
                     2.635365,
                     51.003954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504122",
+                "bus": "yes",
+                "name": "Houtem Dode Mannen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.634504,
+                    51.003717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504127",
+                "bus": "yes",
+                "name": "Houtem Goemoete",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.627742,
+                    51.004282
                 ]
             }
         }

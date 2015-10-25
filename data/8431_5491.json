@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30;105",
+                "ref:De_Lijn": "403328",
+                "bus": "yes",
+                "name": "Stevoort Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALKENSTRAAT STEVOORT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.258456,
+                    50.908619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;105",
                 "ref:De_Lijn": "400099",
                 "bus": "yes",
                 "name": "Terkoest Onze-Lieve-Vrouwstraat",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     5.26493,
                     50.904416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;105",
-                "ref:De_Lijn": "403329",
-                "bus": "yes",
-                "name": "Stevoort Broekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ALKENSTRAAT STEVOORT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.257911,
-                    50.909171
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30;105",
-                "ref:De_Lijn": "403328",
+                "ref:De_Lijn": "403329",
                 "bus": "yes",
                 "name": "Stevoort Broekstraat",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.258456,
-                    50.908619
+                    5.257911,
+                    50.909171
                 ]
             }
         }

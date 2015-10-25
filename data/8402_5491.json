@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "302059",
+                "bus": "yes",
+                "name": "Veltem-Beisem De Piston",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERSTRAAT VELTEM-BEISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.620057,
+                    50.903238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "302058",
                 "bus": "yes",
                 "name": "Veltem-Beisem De Piston",
@@ -19,26 +39,6 @@
                 "coordinates": [
                     4.620869,
                     50.903371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302059",
-                "bus": "yes",
-                "name": "Veltem-Beisem De Piston",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVERSTRAAT VELTEM-BEISEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.620057,
-                    50.903238
                 ]
             }
         }

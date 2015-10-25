@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306748",
+                "ref:De_Lijn": "306675",
                 "bus": "yes",
-                "name": "Liedekerke Bakkerijstraat",
+                "name": "Liedekerke Warande",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "WARANDESTRAAT LIEDEKERKE",
+                "created_by": "GASTON MERTENSSTRAAT LIEDEKERKE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.084403,
-                    50.869042
+                    4.081127,
+                    50.8704
                 ]
             }
         },
@@ -67,49 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127",
-                "ref:De_Lijn": "306678",
-                "bus": "yes",
-                "name": "Liedekerke Houtmarkt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTMARKTSTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.076213,
-                    50.865659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "127;625",
-                "ref:De_Lijn": "306669",
-                "bus": "yes",
-                "name": "Liedekerke Sportlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAMELSESTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.081644,
-                    50.862472
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "303237",
+                "ref:De_Lijn": "306748",
                 "bus": "yes",
                 "name": "Liedekerke Bakkerijstraat",
                 "public_transport": "platform",
@@ -122,8 +80,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.084545,
-                    50.869087
+                    4.084403,
+                    50.869042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "625",
+                "ref:De_Lijn": "301096",
+                "bus": "yes",
+                "name": "Liedekerke Sport",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.078309,
+                    50.864307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306676",
+                "bus": "yes",
+                "name": "Liedekerke Warande",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GASTON MERTENSSTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081213,
+                    50.870256
                 ]
             }
         },
@@ -131,9 +131,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "127;625",
-                "ref:De_Lijn": "306670",
+                "ref:De_Lijn": "306668",
                 "bus": "yes",
-                "name": "Liedekerke Sint-Gabriël",
+                "name": "Liedekerke Sportlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PAMELSESTRAAT LIEDEKERKE",
@@ -143,29 +143,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.084325,
-                    50.865446
+                    4.081488,
+                    50.862508
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "127",
-                "ref:De_Lijn": "303240",
+                "route_ref:De_Lijn": "127;625",
+                "ref:De_Lijn": "306677",
                 "bus": "yes",
-                "name": "Liedekerke Dorpsplein",
+                "name": "Liedekerke Houtmarkt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WARANDESTRAAT LIEDEKERKE",
+                "created_by": "HOUTMARKTSTRAAT LIEDEKERKE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.081923,
-                    50.870384
+                    4.075788,
+                    50.86547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "625",
+                "ref:De_Lijn": "301097",
+                "bus": "yes",
+                "name": "Liedekerke Sport",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.078365,
+                    50.864388
                 ]
             }
         },
@@ -194,9 +215,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "127;625",
-                "ref:De_Lijn": "306668",
+                "ref:De_Lijn": "306670",
                 "bus": "yes",
-                "name": "Liedekerke Sportlaan",
+                "name": "Liedekerke Sint-Gabriël",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PAMELSESTRAAT LIEDEKERKE",
@@ -206,71 +227,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.081488,
-                    50.862508
+                    4.084325,
+                    50.865446
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306675",
+                "ref:De_Lijn": "303237",
                 "bus": "yes",
-                "name": "Liedekerke Warande",
+                "name": "Liedekerke Bakkerijstraat",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GASTON MERTENSSTRAAT LIEDEKERKE",
+                "created_by": "WARANDESTRAAT LIEDEKERKE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.081127,
-                    50.8704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306674",
-                "bus": "yes",
-                "name": "Liedekerke Gemeentehuis",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OPPERSTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.085133,
-                    50.870383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "625",
-                "ref:De_Lijn": "301096",
-                "bus": "yes",
-                "name": "Liedekerke Sport",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPORTLAAN LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.078309,
-                    50.864307
+                    4.084545,
+                    50.869087
                 ]
             }
         },
@@ -298,69 +277,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "306676",
-                "bus": "yes",
-                "name": "Liedekerke Warande",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GASTON MERTENSSTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.081213,
-                    50.870256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "625",
-                "ref:De_Lijn": "301097",
-                "bus": "yes",
-                "name": "Liedekerke Sport",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPORTLAAN LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.078365,
-                    50.864388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "127;625",
-                "ref:De_Lijn": "306677",
-                "bus": "yes",
-                "name": "Liedekerke Houtmarkt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTMARKTSTRAAT LIEDEKERKE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.075788,
-                    50.86547
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "303241",
                 "bus": "yes",
                 "name": "Liedekerke Gemeentehuis",
@@ -376,6 +292,90 @@
                 "coordinates": [
                     4.085049,
                     50.870284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306674",
+                "bus": "yes",
+                "name": "Liedekerke Gemeentehuis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OPPERSTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.085133,
+                    50.870383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127;625",
+                "ref:De_Lijn": "306669",
+                "bus": "yes",
+                "name": "Liedekerke Sportlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAMELSESTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081644,
+                    50.862472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "303240",
+                "bus": "yes",
+                "name": "Liedekerke Dorpsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081923,
+                    50.870384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "127",
+                "ref:De_Lijn": "306678",
+                "bus": "yes",
+                "name": "Liedekerke Houtmarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTMARKTSTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.076213,
+                    50.865659
                 ]
             }
         }

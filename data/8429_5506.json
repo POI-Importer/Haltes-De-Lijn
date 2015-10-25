@@ -4,84 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "730;41/2",
-                "ref:De_Lijn": "400652",
-                "bus": "yes",
-                "name": "Berloz Cimetiere",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE ÉMILE MUSELLE BERLOZ",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.211475,
-                    50.700447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "41/2",
-                "ref:De_Lijn": "400650",
+                "ref:De_Lijn": "400648",
                 "bus": "yes",
-                "name": "Berloz Centre",
+                "name": "Corswarem Gare",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RUE DU CENTRE BERLOZ",
+                "created_by": "RUE DE LA STATION CORSWAREM",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.215066,
-                    50.697014
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41/2",
-                "ref:De_Lijn": "400665",
-                "bus": "yes",
-                "name": "Berloz Espinette",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE WAREMME BERLOZ",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.221624,
-                    50.695681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41/2",
-                "ref:De_Lijn": "400651",
-                "bus": "yes",
-                "name": "Berloz Centre",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DU CENTRE BERLOZ",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.214938,
-                    50.696952
+                    5.210808,
+                    50.705882
                 ]
             }
         },
@@ -110,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "400665",
+                "bus": "yes",
+                "name": "Berloz Espinette",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE WAREMME BERLOZ",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.221624,
+                    50.695681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
                 "ref:De_Lijn": "400653",
                 "bus": "yes",
                 "name": "Berloz Cimetiere",
@@ -124,6 +82,69 @@
                 "coordinates": [
                     5.211825,
                     50.700202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "400651",
+                "bus": "yes",
+                "name": "Berloz Centre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DU CENTRE BERLOZ",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.214938,
+                    50.696952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "400649",
+                "bus": "yes",
+                "name": "Corswarem Gare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LA STATION CORSWAREM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.210944,
+                    50.705576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;41/2",
+                "ref:De_Lijn": "400652",
+                "bus": "yes",
+                "name": "Berloz Cimetiere",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE ÉMILE MUSELLE BERLOZ",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211475,
+                    50.700447
                 ]
             }
         },
@@ -152,27 +173,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41/2",
-                "ref:De_Lijn": "400648",
-                "bus": "yes",
-                "name": "Corswarem Gare",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DE LA STATION CORSWAREM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.210808,
-                    50.705882
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41/2",
                 "ref:De_Lijn": "400664",
                 "bus": "yes",
                 "name": "Berloz Espinette",
@@ -194,20 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41/2",
-                "ref:De_Lijn": "400649",
+                "ref:De_Lijn": "400650",
                 "bus": "yes",
-                "name": "Corswarem Gare",
+                "name": "Berloz Centre",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RUE DE LA STATION CORSWAREM",
+                "created_by": "RUE DU CENTRE BERLOZ",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.210944,
-                    50.705576
+                    5.215066,
+                    50.697014
                 ]
             }
         }

@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;528;529;539;561",
-                "ref:De_Lijn": "108840",
-                "bus": "yes",
-                "name": "Onze-Lieve-Vrouw-Waver Liekens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERLAARBAAN SINT-KATELIJNE-WAVER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.566334,
-                    51.068454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;528;529;539;561",
                 "ref:De_Lijn": "108842",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Wolvenstraat",
@@ -46,49 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510;511;558;561;569",
-                "ref:De_Lijn": "108072",
+                "ref:De_Lijn": "108137",
                 "bus": "yes",
-                "name": "Onze-Lieve-Vrouw-Waver Bergstraat",
+                "name": "Onze-Lieve-Vrouw-Waver Wolvenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MECHELBAAN ONZE-LIEVE-VROUW-WAVER",
+                "created_by": "BERLAARBAAN ONZE-LIEVE-VROUW-WAVER",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.563455,
-                    51.055344
+                    4.558155,
+                    51.063775
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510;511;538;558;561;569",
-                "ref:De_Lijn": "108073",
-                "bus": "yes",
-                "name": "Onze-Lieve-Vrouw-Waver Bergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MECHELBAAN ONZE-LIEVE-VROUW-WAVER",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.563027,
-                    51.05538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "510;511;528;529;538;539;558;561",
                 "ref:De_Lijn": "108841",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Liekens",
@@ -109,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "558;561",
                 "ref:De_Lijn": "108843",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Wolvenstraat",
@@ -130,7 +84,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;528;529;539;558;561",
+                "ref:De_Lijn": "108073",
+                "bus": "yes",
+                "name": "Onze-Lieve-Vrouw-Waver Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN ONZE-LIEVE-VROUW-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.563027,
+                    51.05538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108072",
+                "bus": "yes",
+                "name": "Onze-Lieve-Vrouw-Waver Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN ONZE-LIEVE-VROUW-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.563455,
+                    51.055344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108138",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Wolvenstraat",
@@ -151,7 +144,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510;511;538;539;558;561;569",
                 "ref:De_Lijn": "104607",
                 "bus": "yes",
                 "name": "Onze-Lieve-Vrouw-Waver Berkenhoekstraat",
@@ -172,21 +164,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510;511;528;529;538;539;558;561",
-                "ref:De_Lijn": "108137",
+                "ref:De_Lijn": "108840",
                 "bus": "yes",
-                "name": "Onze-Lieve-Vrouw-Waver Wolvenstraat",
+                "name": "Onze-Lieve-Vrouw-Waver Liekens",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERLAARBAAN ONZE-LIEVE-VROUW-WAVER",
+                "created_by": "BERLAARBAAN SINT-KATELIJNE-WAVER",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.558155,
-                    51.063775
+                    4.566334,
+                    51.068454
                 ]
             }
         }

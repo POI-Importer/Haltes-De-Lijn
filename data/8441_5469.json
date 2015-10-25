@@ -26,69 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743;744",
-                "ref:De_Lijn": "404991",
-                "bus": "yes",
-                "name": "Sint-Huibrechts-Lille Hennemeeuwis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PEERDERBAAN SINT-HUIBRECHTS-LILLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.475339,
-                    51.215856
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "744",
-                "ref:De_Lijn": "404992",
-                "bus": "yes",
-                "name": "Sint-Huibrechts-Lille Hennemeeuwis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PEERDERBAAN SINT-HUIBRECHTS-LILLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.475539,
-                    51.215836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;744",
-                "ref:De_Lijn": "404990",
-                "bus": "yes",
-                "name": "Sint-Huibrechts-Lille Hoge Dries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PEERDERBAAN SINT-HUIBRECHTS-LILLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.478142,
-                    51.220576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743;744",
                 "ref:De_Lijn": "404630",
                 "bus": "yes",
                 "name": "Sint-Huibrechts-Lille Veurterstraat",
@@ -131,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404990",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Hoge Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERDERBAAN SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.478142,
+                    51.220576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
                 "ref:De_Lijn": "404634",
                 "bus": "yes",
                 "name": "Sint-Huibrechts-Lille Kaulillerweg",
@@ -145,6 +103,27 @@
                 "coordinates": [
                     5.490542,
                     51.219515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404992",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Hennemeeuwis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERDERBAAN SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.475539,
+                    51.215836
                 ]
             }
         },
@@ -166,6 +145,27 @@
                 "coordinates": [
                     5.488895,
                     51.218892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404991",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Hennemeeuwis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERDERBAAN SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.475339,
+                    51.215856
                 ]
             }
         },

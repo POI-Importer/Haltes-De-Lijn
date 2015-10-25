@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;68;69",
-                "ref:De_Lijn": "504409",
-                "bus": "yes",
-                "name": "Poperinge Kerselaar",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROMBEEKSEWEG POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.710767,
-                    50.870995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24;68;69",
                 "ref:De_Lijn": "504436",
                 "bus": "yes",
                 "name": "Poperinge Zweerdhof",
@@ -40,48 +19,6 @@
                 "coordinates": [
                     2.716415,
                     50.865949
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24;68;69",
-                "ref:De_Lijn": "504410",
-                "bus": "yes",
-                "name": "Poperinge Klimop",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROMBEEKSEWEG POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.719021,
-                    50.861733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24;68;69",
-                "ref:De_Lijn": "509436",
-                "bus": "yes",
-                "name": "Poperinge Zweerdhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROMBEEKSEWEG POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.716657,
-                    50.865926
                 ]
             }
         },
@@ -110,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;68;69",
+                "ref:De_Lijn": "504410",
+                "bus": "yes",
+                "name": "Poperinge Klimop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMBEEKSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.719021,
+                    50.861733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;68;69",
                 "ref:De_Lijn": "509410",
                 "bus": "yes",
                 "name": "Poperinge Klimop",
@@ -124,6 +82,48 @@
                 "coordinates": [
                     2.719296,
                     50.861602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;68;69",
+                "ref:De_Lijn": "504409",
+                "bus": "yes",
+                "name": "Poperinge Kerselaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMBEEKSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.710767,
+                    50.870995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;68;69",
+                "ref:De_Lijn": "509436",
+                "bus": "yes",
+                "name": "Poperinge Zweerdhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMBEEKSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.716657,
+                    50.865926
                 ]
             }
         }

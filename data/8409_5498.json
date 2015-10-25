@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "306112",
-                "bus": "yes",
-                "name": "Opvelp Hoegaardsesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEGAARDSESTEENWEG OPVELP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.782649,
-                    50.814274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "300629",
-                "bus": "yes",
-                "name": "Opvelp Vinave Kapelleke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEGAARDSESTEENWEG OPVELP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.78701,
-                    50.813269
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
                 "ref:De_Lijn": "300565",
                 "bus": "yes",
                 "name": "Bierbeek Vuilenbos",
@@ -88,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "300629",
+                "bus": "yes",
+                "name": "Opvelp Vinave Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEGAARDSESTEENWEG OPVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78701,
+                    50.813269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "300587",
                 "bus": "yes",
                 "name": "Opvelp Culo",
@@ -123,6 +102,27 @@
                 "coordinates": [
                     4.776264,
                     50.817604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "306112",
+                "bus": "yes",
+                "name": "Opvelp Hoegaardsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEGAARDSESTEENWEG OPVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.782649,
+                    50.814274
                 ]
             }
         },

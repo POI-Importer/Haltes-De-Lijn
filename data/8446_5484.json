@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "9;11",
+                "ref:De_Lijn": "400207",
+                "bus": "yes",
+                "name": "As Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSLAAN AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.586033,
+                    51.005184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11",
                 "ref:De_Lijn": "408551",
                 "bus": "yes",
                 "name": "As Gemeentehuis",
@@ -25,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400232",
+                "ref:De_Lijn": "400233",
                 "bus": "yes",
                 "name": "As Overeinde",
                 "public_transport": "platform",
@@ -37,8 +58,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.592933,
-                    51.010201
+                    5.591778,
+                    51.009638
                 ]
             }
         },
@@ -46,62 +67,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "9;11",
-                "ref:De_Lijn": "410000",
+                "ref:De_Lijn": "400234",
                 "bus": "yes",
-                "name": "As Drieschaar",
+                "name": "As Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N723 AS",
+                "created_by": "STATIONSSTRAAT AS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.595482,
-                    51.005769
+                    5.602508,
+                    51.00584
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "8;11;40;183",
-                "ref:De_Lijn": "400205",
+                "ref:De_Lijn": "400202",
                 "bus": "yes",
-                "name": "As Kerk",
+                "name": "As Huis Onze Rust",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT AS",
+                "created_by": "STATIONSSTRAAT AS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.582641,
-                    51.006793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;11",
-                "ref:De_Lijn": "400206",
-                "bus": "yes",
-                "name": "As Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSLAAN AS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.586217,
-                    51.005137
+                    5.593784,
+                    51.006228
                 ]
             }
         },
@@ -129,21 +129,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "9;11",
-                "ref:De_Lijn": "400234",
+                "route_ref:De_Lijn": "8;11;40;183",
+                "ref:De_Lijn": "400205",
                 "bus": "yes",
-                "name": "As Station",
+                "name": "As Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT AS",
+                "created_by": "DORPSSTRAAT AS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.602508,
-                    51.00584
+                    5.582641,
+                    51.006793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400232",
+                "bus": "yes",
+                "name": "As Overeinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.592933,
+                    51.010201
                 ]
             }
         },
@@ -192,47 +212,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "9;11",
-                "ref:De_Lijn": "400207",
-                "bus": "yes",
-                "name": "As Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSLAAN AS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.586033,
-                    51.005184
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "400233",
-                "bus": "yes",
-                "name": "As Overeinde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT AS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.591778,
-                    51.009638
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "400203",
                 "bus": "yes",
                 "name": "As Huis Onze Rust",
@@ -254,21 +233,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400202",
+                "route_ref:De_Lijn": "9;11",
+                "ref:De_Lijn": "400206",
                 "bus": "yes",
-                "name": "As Huis Onze Rust",
+                "name": "As Kerkhof",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT AS",
+                "created_by": "BEVRIJDINGSLAAN AS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.593784,
-                    51.006228
+                    5.586217,
+                    51.005137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11",
+                "ref:De_Lijn": "410000",
+                "bus": "yes",
+                "name": "As Drieschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N723 AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.595482,
+                    51.005769
                 ]
             }
         }

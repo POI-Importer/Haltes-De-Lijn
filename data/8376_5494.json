@@ -4,42 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;32;33",
-                "ref:De_Lijn": "207097",
+                "ref:De_Lijn": "206734",
                 "bus": "yes",
-                "name": "Iddergem Klarestraat",
+                "name": "Okegem Hazeleerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT IDDERGEM",
+                "created_by": "HAZELEERSTRAAT OKEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.051218,
-                    50.875195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206724",
-                "bus": "yes",
-                "name": "Ninove Leopoldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALSTERSESTEENWEG IDDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.047141,
-                    50.864693
+                    4.057006,
+                    50.861619
                 ]
             }
         },
@@ -67,7 +45,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206724",
+                "bus": "yes",
+                "name": "Ninove Leopoldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTERSESTEENWEG IDDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.047141,
+                    50.864693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "207998",
                 "bus": "yes",
                 "name": "Iddergem Ter Bake",
@@ -88,21 +85,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206734",
+                "route_ref:De_Lijn": "31;32;33",
+                "ref:De_Lijn": "207097",
                 "bus": "yes",
-                "name": "Okegem Hazeleerstraat",
+                "name": "Iddergem Klarestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HAZELEERSTRAAT OKEGEM",
+                "created_by": "HOOGSTRAAT IDDERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.057006,
-                    50.861619
+                    4.051218,
+                    50.875195
                 ]
             }
         }

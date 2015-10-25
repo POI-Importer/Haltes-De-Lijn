@@ -4,54 +4,33 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
-                "ref:De_Lijn": "208837",
+                "ref:De_Lijn": "208813",
                 "bus": "yes",
-                "name": "Sint-Denijs-Boekel Makkegem",
+                "name": "Munkzwalm Veldstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAKKEGEM SINT-DENIJS-BOEKEL",
+                "created_by": "ZUIDLAAN MUNKZWALM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.718195,
-                    50.869724
+                    3.734678,
+                    50.871666
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
-                "ref:De_Lijn": "208812",
-                "bus": "yes",
-                "name": "Munkzwalm Rozenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROZENLAAN MUNKZWALM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.729613,
-                    50.873221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "420",
                 "ref:De_Lijn": "208814",
                 "bus": "yes",
                 "name": "Munkzwalm Zuidlaan",
                 "public_transport": "platform",
+                "railway": "tram_stop",
                 "highway": "bus_stop",
+                "tram": "yes",
                 "created_by": "ZUIDLAAN MUNKZWALM",
                 "operator": "De Lijn",
                 "network": "DLOV"
@@ -67,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
-                "ref:De_Lijn": "208813",
+                "ref:De_Lijn": "208812",
                 "bus": "yes",
-                "name": "Munkzwalm Veldstraat",
+                "name": "Munkzwalm Rozenlaan",
                 "public_transport": "platform",
+                "railway": "tram_stop",
                 "highway": "bus_stop",
-                "created_by": "ZUIDLAAN MUNKZWALM",
+                "tram": "yes",
+                "created_by": "ROZENLAAN MUNKZWALM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.734678,
-                    50.871666
+                    3.729613,
+                    50.873221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208837",
+                "bus": "yes",
+                "name": "Sint-Denijs-Boekel Makkegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAKKEGEM SINT-DENIJS-BOEKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.718195,
+                    50.869724
                 ]
             }
         }

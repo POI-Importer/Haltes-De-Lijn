@@ -26,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "71;102",
-                "ref:De_Lijn": "300306",
+                "ref:De_Lijn": "302135",
                 "bus": "yes",
-                "name": "Herne Groeneboom",
+                "name": "Herne Imbeekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SCHERPSTRAAT HERNE",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.019561,
-                    50.729787
+                    4.017079,
+                    50.732144
                 ]
             }
         },
@@ -68,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "71;102",
-                "ref:De_Lijn": "302135",
+                "ref:De_Lijn": "300306",
                 "bus": "yes",
-                "name": "Herne Imbeekstraat",
+                "name": "Herne Groeneboom",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SCHERPSTRAAT HERNE",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.017079,
-                    50.732144
+                    4.019561,
+                    50.729787
                 ]
             }
         }

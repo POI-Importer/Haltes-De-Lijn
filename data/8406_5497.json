@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "303956",
+                "ref:De_Lijn": "304178",
                 "bus": "yes",
-                "name": "Blanden Korenbloemlaan",
+                "name": "Blanden Lijstersstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BIERBEEKSTRAAT BLANDEN",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.710099,
-                    50.824306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "303953",
-                "bus": "yes",
-                "name": "Blanden Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KARTUIZERSSTRAAT BLANDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.718285,
-                    50.82777
+                    4.703979,
+                    50.825861
                 ]
             }
         },
@@ -67,6 +46,153 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "5;6",
+                "ref:De_Lijn": "303974",
+                "bus": "yes",
+                "name": "Haasrode Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT HAASRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7207,
+                    50.829885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "304177",
+                "bus": "yes",
+                "name": "Blanden Lijstersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIERBEEKSTRAAT BLANDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.704504,
+                    50.82595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "303960",
+                "bus": "yes",
+                "name": "Haasrode Hogewinkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANDENSTRAAT HAASRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.72115,
+                    50.833084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300609",
+                "bus": "yes",
+                "name": "Blanden Konijnenhoek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WIJNBERGSTRAAT BLANDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710064,
+                    50.829224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308969",
+                "bus": "yes",
+                "name": "Haasrode Zottekot",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BLANDENSTRAAT HAASRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.719744,
+                    50.829258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303947",
+                "bus": "yes",
+                "name": "Blanden Bierbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIERBEEKSTRAAT BLANDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715277,
+                    50.82208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "303959",
+                "bus": "yes",
+                "name": "Haasrode Hogewinkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANDENSTRAAT HAASRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.721406,
+                    50.8332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "308968",
                 "bus": "yes",
                 "name": "Haasrode Zottekot",
@@ -88,27 +214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "303954",
-                "bus": "yes",
-                "name": "Blanden Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KARTUIZERSSTRAAT BLANDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.718427,
-                    50.827725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "303952",
                 "bus": "yes",
                 "name": "Blanden Gemeentehuis",
@@ -124,6 +229,27 @@
                 "coordinates": [
                     4.703964,
                     50.825861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303958",
+                "bus": "yes",
+                "name": "Blanden Kartuizersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARTUIZERSSTRAAT BLANDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.718755,
+                    50.824182
                 ]
             }
         },
@@ -172,63 +298,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "303959",
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303956",
                 "bus": "yes",
-                "name": "Haasrode Hogewinkelstraat",
+                "name": "Blanden Korenbloemlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BLANDENSTRAAT HAASRODE",
+                "created_by": "BIERBEEKSTRAAT BLANDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.721406,
-                    50.8332
+                    4.710099,
+                    50.824306
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5;6",
-                "ref:De_Lijn": "303974",
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303953",
                 "bus": "yes",
-                "name": "Haasrode Kerkstraat",
+                "name": "Blanden Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KERKSTRAAT HAASRODE",
+                "created_by": "KARTUIZERSSTRAAT BLANDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.7207,
-                    50.829885
+                    4.718285,
+                    50.82777
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "300609",
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303954",
                 "bus": "yes",
-                "name": "Blanden Konijnenhoek",
+                "name": "Blanden Kerk",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "WIJNBERGSTRAAT BLANDEN",
+                "created_by": "KARTUIZERSSTRAAT BLANDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.710064,
-                    50.829224
+                    4.718427,
+                    50.827725
                 ]
             }
         },
@@ -256,27 +382,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "303960",
-                "bus": "yes",
-                "name": "Haasrode Hogewinkelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLANDENSTRAAT HAASRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.72115,
-                    50.833084
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "5;6",
                 "ref:De_Lijn": "303973",
                 "bus": "yes",
@@ -292,111 +397,6 @@
                 "coordinates": [
                     4.720417,
                     50.829948
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "304178",
-                "bus": "yes",
-                "name": "Blanden Lijstersstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BIERBEEKSTRAAT BLANDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.703979,
-                    50.825861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308969",
-                "bus": "yes",
-                "name": "Haasrode Zottekot",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BLANDENSTRAAT HAASRODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.719744,
-                    50.829258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "304177",
-                "bus": "yes",
-                "name": "Blanden Lijstersstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BIERBEEKSTRAAT BLANDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.704504,
-                    50.82595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "303947",
-                "bus": "yes",
-                "name": "Blanden Bierbeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BIERBEEKSTRAAT BLANDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.715277,
-                    50.82208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "303958",
-                "bus": "yes",
-                "name": "Blanden Kartuizersstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KARTUIZERSSTRAAT BLANDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.718755,
-                    50.824182
                 ]
             }
         }

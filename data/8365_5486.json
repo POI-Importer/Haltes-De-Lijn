@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;140;440",
-                "ref:De_Lijn": "200606",
-                "bus": "yes",
-                "name": "Gontrode Potaardestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GERAARDSBERGSESTEENWEG GONTRODE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.804782,
-                    50.97784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;440",
+                "route_ref:De_Lijn": "20",
                 "ref:De_Lijn": "201643",
                 "bus": "yes",
                 "name": "Gijzenzele Centrum De Beweging",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     3.810173,
                     50.973587
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;140",
-                "ref:De_Lijn": "200643",
-                "bus": "yes",
-                "name": "Gijzenzele Centrum De Beweging",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRIELSTRAAT GONTRODE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.809992,
-                    50.973199
                 ]
             }
         },
@@ -82,6 +40,48 @@
                 "coordinates": [
                     3.805243,
                     50.977465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "200606",
+                "bus": "yes",
+                "name": "Gontrode Potaardestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTEENWEG GONTRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.804782,
+                    50.97784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "200643",
+                "bus": "yes",
+                "name": "Gijzenzele Centrum De Beweging",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELSTRAAT GONTRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.809992,
+                    50.973199
                 ]
             }
         }

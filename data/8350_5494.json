@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "200777",
                 "bus": "yes",
                 "name": "Wortegem Wijkschool Rijborgstraat",
@@ -25,21 +24,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "200772",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "208309",
                 "bus": "yes",
-                "name": "Wortegem Rijborgstraat",
+                "name": "Wortegem Pontstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT WORTEGEM",
+                "created_by": "WAREGEMSEWEG WORTEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.486154,
-                    50.865063
+                    3.475478,
+                    50.86545
                 ]
             }
         },
@@ -67,21 +66,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;450",
-                "ref:De_Lijn": "208309",
+                "ref:De_Lijn": "200772",
                 "bus": "yes",
-                "name": "Wortegem Pontstraat",
+                "name": "Wortegem Rijborgstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAREGEMSEWEG WORTEGEM",
+                "created_by": "KASTEELSTRAAT WORTEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.475478,
-                    50.86545
+                    3.486154,
+                    50.865063
                 ]
             }
         }

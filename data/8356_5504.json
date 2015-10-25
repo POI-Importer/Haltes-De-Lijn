@@ -4,10 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
-                "ref:De_Lijn": "207796",
+                "ref:De_Lijn": "207795",
                 "bus": "yes",
-                "name": "Albert Demanezstraat",
+                "name": "Hullebroekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DEURNESTRAAT RONSE",
@@ -17,15 +16,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.624561,
-                    50.729454
+                    3.614305,
+                    50.735726
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;460",
+                "route_ref:De_Lijn": "71",
                 "ref:De_Lijn": "207753",
                 "bus": "yes",
                 "name": "Wautersplein",
@@ -46,10 +45,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460",
-                "ref:De_Lijn": "207795",
+                "ref:De_Lijn": "207796",
                 "bus": "yes",
-                "name": "Hullebroekstraat",
+                "name": "Albert Demanezstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DEURNESTRAAT RONSE",
@@ -59,8 +57,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.614305,
-                    50.735726
+                    3.624561,
+                    50.729454
                 ]
             }
         }

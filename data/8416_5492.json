@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "390;392;552",
-                "ref:De_Lijn": "304970",
+                "ref:De_Lijn": "304974",
                 "bus": "yes",
-                "name": "Meensel-Kiezegem Tramstraat",
+                "name": "Meensel-Kiezegem Wersbeekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WERSBEEKSTRAAT MEENSEL",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.926021,
-                    50.896645
+                    4.932739,
+                    50.899687
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "390;392;552",
-                "ref:De_Lijn": "304974",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Wersbeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WERSBEEKSTRAAT MEENSEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.932739,
-                    50.899687
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390;392;552",
                 "ref:De_Lijn": "304972",
                 "bus": "yes",
                 "name": "Meensel-Kiezegem Tramstraat",
@@ -82,27 +61,6 @@
                 "coordinates": [
                     4.926277,
                     50.896635
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "373",
-                "ref:De_Lijn": "304973",
-                "bus": "yes",
-                "name": "Meensel-Kiezegem Tramstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIESTRAAT MEENSEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.924889,
-                    50.8971
                 ]
             }
         },
@@ -124,6 +82,48 @@
                 "coordinates": [
                     4.932697,
                     50.899795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;392;552",
+                "ref:De_Lijn": "304970",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERSBEEKSTRAAT MEENSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.926021,
+                    50.896645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373",
+                "ref:De_Lijn": "304973",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIESTRAAT MEENSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.924889,
+                    50.8971
                 ]
             }
         }

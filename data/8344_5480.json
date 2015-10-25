@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "502746",
+                "ref:De_Lijn": "502745",
                 "bus": "yes",
-                "name": "Doomkerke Haantje",
+                "name": "Doomkerke Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRANDSTRAAT RUISELEDE",
+                "created_by": "BRANDSTRAAT DOOMKERKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.358376,
-                    51.065122
+                    3.357691,
+                    51.068424
                 ]
             }
         },
@@ -47,49 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "502745",
-                "bus": "yes",
-                "name": "Doomkerke Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRANDSTRAAT DOOMKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.357691,
-                    51.068424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;77",
-                "ref:De_Lijn": "502747",
-                "bus": "yes",
-                "name": "Doomkerke Westakker",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WINGENESTEENWEG RUISELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.345893,
-                    51.057912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;77",
-                "ref:De_Lijn": "505069",
+                "ref:De_Lijn": "502746",
                 "bus": "yes",
                 "name": "Doomkerke Haantje",
                 "public_transport": "platform",
@@ -101,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.358223,
-                    51.064941
+                    3.358376,
+                    51.065122
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     3.357743,
                     51.068677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;77",
+                "ref:De_Lijn": "505069",
+                "bus": "yes",
+                "name": "Doomkerke Haantje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRANDSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.358223,
+                    51.064941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;77",
+                "ref:De_Lijn": "502747",
+                "bus": "yes",
+                "name": "Doomkerke Westakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENESTEENWEG RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345893,
+                    51.057912
                 ]
             }
         }

@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "732",
-                "ref:De_Lijn": "408363",
+                "route_ref:De_Lijn": "15c",
+                "ref:De_Lijn": "400266",
                 "bus": "yes",
-                "name": "Balen Vinkenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VINKENSTRAAT MALLOE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.216261,
-                    51.145924
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400291",
-                "bus": "yes",
-                "name": "Balen Maloukerk",
+                "name": "Balen De Baecklaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.212191,
-                    51.148443
+                    5.216242,
+                    51.146436
                 ]
             }
         },
@@ -47,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c",
-                "ref:De_Lijn": "400258",
+                "ref:De_Lijn": "400259",
                 "bus": "yes",
                 "name": "Balen Belgenlaan",
                 "public_transport": "platform",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.22244,
-                    51.143084
+                    5.222735,
+                    51.142767
                 ]
             }
         },
@@ -89,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c",
-                "ref:De_Lijn": "400266",
-                "bus": "yes",
-                "name": "Balen De Baecklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.216242,
-                    51.146436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15c",
                 "ref:De_Lijn": "400267",
                 "bus": "yes",
                 "name": "Balen De Baecklaan",
@@ -131,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "15c",
-                "ref:De_Lijn": "400259",
+                "ref:De_Lijn": "400258",
                 "bus": "yes",
                 "name": "Balen Belgenlaan",
                 "public_transport": "platform",
@@ -143,29 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.222735,
-                    51.142767
+                    5.22244,
+                    51.143084
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15c;732",
-                "ref:De_Lijn": "400290",
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "408363",
                 "bus": "yes",
-                "name": "Balen Maloukerk",
+                "name": "Balen Vinkenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
+                "created_by": "VINKENSTRAAT MALLOE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.212152,
-                    51.148632
+                    5.216261,
+                    51.145924
                 ]
             }
         },
@@ -187,6 +145,48 @@
                 "coordinates": [
                     5.208185,
                     51.150593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400291",
+                "bus": "yes",
+                "name": "Balen Maloukerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.212191,
+                    51.148443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;732",
+                "ref:De_Lijn": "400290",
+                "bus": "yes",
+                "name": "Balen Maloukerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP LEOPOLDSBURG MALLOE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.212152,
+                    51.148632
                 ]
             }
         }

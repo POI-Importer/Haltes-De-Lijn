@@ -4,31 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;330",
-                "ref:De_Lijn": "207652",
+                "route_ref:De_Lijn": "32;33;36",
+                "ref:De_Lijn": "206129",
                 "bus": "yes",
-                "name": "Outer Spoorwegstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARDEWEG OUTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.998561,
-                    50.833914
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;33;36;330",
-                "ref:De_Lijn": "207130",
-                "bus": "yes",
-                "name": "Outer Kasteelstraat",
+                "name": "Outer Kloosterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SMID LAMBRECHTSTRAAT OUTER",
@@ -38,57 +17,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.994757,
-                    50.844618
+                    3.998096,
+                    50.842489
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;330",
-                "ref:De_Lijn": "206652",
+                "ref:De_Lijn": "206714",
                 "bus": "yes",
-                "name": "Outer Spoorwegstraat",
+                "name": "Outer Ziekenhuisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AARDEWEG OUTER",
+                "created_by": "BRAKELSESTEENWEG OUTER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.998517,
-                    50.834031
+                    3.988523,
+                    50.834125
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206728",
-                "bus": "yes",
-                "name": "Outer Wijk Molenveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEEUWERIKLAAN OUTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.98871,
-                    50.83737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "330",
                 "ref:De_Lijn": "206715",
                 "bus": "yes",
                 "name": "Outer Muylemstraat",
@@ -109,10 +65,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;33;36;330",
-                "ref:De_Lijn": "206130",
+                "route_ref:De_Lijn": "32;33;36",
+                "ref:De_Lijn": "206128",
                 "bus": "yes",
-                "name": "Outer Kasteelstraat",
+                "name": "Outer Kerkhofstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SMID LAMBRECHTSTRAAT OUTER",
@@ -122,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.994557,
-                    50.844698
+                    3.998621,
+                    50.838921
                 ]
             }
         },
@@ -151,52 +107,30 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "206714",
+                "ref:De_Lijn": "206728",
                 "bus": "yes",
-                "name": "Outer Ziekenhuisstraat",
+                "name": "Outer Wijk Molenveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRAKELSESTEENWEG OUTER",
+                "created_by": "LEEUWERIKLAAN OUTER",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.988523,
-                    50.834125
+                    3.98871,
+                    50.83737
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;33;36;330",
-                "ref:De_Lijn": "206128",
+                "route_ref:De_Lijn": "32;33;36",
+                "ref:De_Lijn": "206130",
                 "bus": "yes",
-                "name": "Outer Kerkhofstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SMID LAMBRECHTSTRAAT OUTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.998621,
-                    50.838921
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "32;33;36;330",
-                "ref:De_Lijn": "206129",
-                "bus": "yes",
-                "name": "Outer Kloosterstraat",
+                "name": "Outer Kasteelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SMID LAMBRECHTSTRAAT OUTER",
@@ -206,15 +140,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.998096,
-                    50.842489
+                    3.994557,
+                    50.844698
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;33;36;330",
+                "route_ref:De_Lijn": "32;33;36",
+                "ref:De_Lijn": "207130",
+                "bus": "yes",
+                "name": "Outer Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMID LAMBRECHTSTRAAT OUTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.994757,
+                    50.844618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "207652",
+                "bus": "yes",
+                "name": "Outer Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARDEWEG OUTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.998561,
+                    50.833914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33;36",
                 "ref:De_Lijn": "207129",
                 "bus": "yes",
                 "name": "Outer Kloosterstraat",
@@ -229,6 +205,27 @@
                 "coordinates": [
                     3.997825,
                     50.842623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "206652",
+                "bus": "yes",
+                "name": "Outer Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARDEWEG OUTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.998517,
+                    50.834031
                 ]
             }
         }

@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19b;306;510",
+                "route_ref:De_Lijn": "19b;306",
                 "ref:De_Lijn": "109004",
                 "bus": "yes",
                 "name": "Zammel Kruispunt",

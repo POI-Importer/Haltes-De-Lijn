@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;440",
+                "route_ref:De_Lijn": "46",
                 "ref:De_Lijn": "202848",
                 "bus": "yes",
                 "name": "Scheldewindeke Keerken",

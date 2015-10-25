@@ -4,42 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5;52;53;54",
-                "ref:De_Lijn": "200392",
+                "ref:De_Lijn": "210029",
                 "bus": "yes",
-                "name": "Van Ryhovelaan",
+                "name": "Parking Sint-Theresiastraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "UNKNOWN GENT",
+                "created_by": "PORT ARTHURLAAN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.713406,
-                    51.074758
+                    3.734052,
+                    51.076983
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53;54",
-                "ref:De_Lijn": "202652",
+                "route_ref:De_Lijn": "55;57;58",
+                "ref:De_Lijn": "203008",
                 "bus": "yes",
-                "name": "Wondelgem Spoorwegstraat",
+                "name": "Spoorwegbrug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOREKSTRAAT WONDELGEM",
+                "created_by": "WIEDAUWKAAI WONDELGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.716437,
-                    51.080492
+                    3.726509,
+                    51.073445
                 ]
             }
         },
@@ -47,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200246",
+                "ref:De_Lijn": "200426",
                 "bus": "yes",
-                "name": "Leithstraat",
+                "name": "New-Yorkstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MEULESTEEDSESTEENWEG GENT",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.728839,
-                    51.080461
+                    3.729818,
+                    51.077733
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "55;57;58",
-                "ref:De_Lijn": "203009",
+                "ref:De_Lijn": "202009",
                 "bus": "yes",
                 "name": "Limbastraat",
                 "public_transport": "platform",
@@ -80,29 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.725037,
-                    51.077743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "209929",
-                "bus": "yes",
-                "name": "Muidebrug",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HOUTDOKLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.731227,
-                    51.070648
+                    3.725487,
+                    51.077215
                 ]
             }
         },
@@ -110,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201425",
+                "ref:De_Lijn": "201246",
                 "bus": "yes",
-                "name": "Glasgowstraat",
+                "name": "Leithstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MEULESTEEDSESTEENWEG GENT",
@@ -122,29 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.728302,
-                    51.082139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201428",
-                "bus": "yes",
-                "name": "Muidestation",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MUIDEPOORT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.731338,
-                    51.073004
+                    3.729115,
+                    51.080139
                 ]
             }
         },
@@ -152,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "52;53;54",
-                "ref:De_Lijn": "202653",
+                "ref:De_Lijn": "203653",
                 "bus": "yes",
                 "name": "Wondelgem Korenveldstraat",
                 "public_transport": "platform",
@@ -164,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.716311,
-                    51.08237
+                    3.716492,
+                    51.082703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "201429",
+                "bus": "yes",
+                "name": "Muidebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTDOKLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731228,
+                    51.070577
                 ]
             }
         },
@@ -193,10 +172,52 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201426",
+                "route_ref:De_Lijn": "52;53;54",
+                "ref:De_Lijn": "203652",
                 "bus": "yes",
-                "name": "New-Yorkstraat",
+                "name": "Wondelgem Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOREKSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.716608,
+                    51.080529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209825",
+                "bus": "yes",
+                "name": "Garage Ferry Cars",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WIEDAUWKAAI WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.725989,
+                    51.075969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "200425",
+                "bus": "yes",
+                "name": "Glasgowstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MEULESTEEDSESTEENWEG GENT",
@@ -206,8 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.72996,
-                    51.077815
+                    3.72816,
+                    51.082102
                 ]
             }
         },
@@ -236,7 +257,112 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201246",
+                "ref:De_Lijn": "201425",
+                "bus": "yes",
+                "name": "Glasgowstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULESTEEDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.728302,
+                    51.082139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209929",
+                "bus": "yes",
+                "name": "Muidebrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOUTDOKLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731227,
+                    51.070648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "201430",
+                "bus": "yes",
+                "name": "Roerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTDOKLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.732762,
+                    51.072194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54",
+                "ref:De_Lijn": "202653",
+                "bus": "yes",
+                "name": "Wondelgem Korenveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOREKSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.716311,
+                    51.08237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;57;58",
+                "ref:De_Lijn": "203009",
+                "bus": "yes",
+                "name": "Limbastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIEDAUWKAAI WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.725037,
+                    51.077743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "200246",
                 "bus": "yes",
                 "name": "Leithstraat",
                 "public_transport": "platform",
@@ -248,29 +374,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.729115,
-                    51.080139
+                    3.728839,
+                    51.080461
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "55;57;58",
-                "ref:De_Lijn": "202008",
+                "route_ref:De_Lijn": "52;53;54",
+                "ref:De_Lijn": "202652",
                 "bus": "yes",
-                "name": "Spoorwegbrug",
+                "name": "Wondelgem Spoorwegstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WIEDAUWKAAI WONDELGEM",
+                "created_by": "MOREKSTRAAT WONDELGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.72631,
-                    51.073426
+                    3.716437,
+                    51.080492
                 ]
             }
         },
@@ -278,9 +404,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200428",
+                "ref:De_Lijn": "201426",
                 "bus": "yes",
-                "name": "Muidestation",
+                "name": "New-Yorkstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MEULESTEEDSESTEENWEG GENT",
@@ -290,8 +416,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.731001,
-                    51.07365
+                    3.72996,
+                    51.077815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200196",
+                "bus": "yes",
+                "name": "Muidebrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MUIDEBRUG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.730305,
+                    51.070248
                 ]
             }
         },
@@ -319,106 +466,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200425",
-                "bus": "yes",
-                "name": "Glasgowstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEULESTEEDSESTEENWEG GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.72816,
-                    51.082102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "210029",
-                "bus": "yes",
-                "name": "Parking Sint-Theresiastraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PORT ARTHURLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.734052,
-                    51.076983
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;57;58",
-                "ref:De_Lijn": "202009",
-                "bus": "yes",
-                "name": "Limbastraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIEDAUWKAAI WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.725487,
-                    51.077215
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "52;53;54",
-                "ref:De_Lijn": "203652",
+                "ref:De_Lijn": "203651",
                 "bus": "yes",
-                "name": "Wondelgem Spoorwegstraat",
+                "name": "Grensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOREKSTRAAT WONDELGEM",
+                "created_by": "DRACENASTRAAT WONDELGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.716608,
-                    51.080529
+                    3.715452,
+                    51.076423
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4",
-                "ref:De_Lijn": "200106",
-                "zone:De_Lijn": "01",
-                "name": "Muidebrug",
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "201428",
+                "bus": "yes",
+                "name": "Muidestation",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "SASSEKAAI GENT",
+                "highway": "bus_stop",
+                "created_by": "MUIDEPOORT GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.729751,
-                    51.070092
+                    3.731338,
+                    51.073004
                 ]
             }
         },
@@ -448,21 +531,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "200196",
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "200429",
                 "bus": "yes",
                 "name": "Muidebrug",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "MUIDEBRUG GENT",
+                "created_by": "HOUTDOKLAAN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.730305,
-                    51.070248
+                    3.731101,
+                    51.070477
                 ]
             }
         },
@@ -470,7 +553,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201430",
+                "ref:De_Lijn": "200430",
                 "bus": "yes",
                 "name": "Roerstraat",
                 "public_transport": "platform",
@@ -482,29 +565,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.732762,
-                    51.072194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200426",
-                "bus": "yes",
-                "name": "New-Yorkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEULESTEEDSESTEENWEG GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.729818,
-                    51.077733
+                    3.732849,
+                    51.072086
                 ]
             }
         },
@@ -532,21 +594,43 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53;54",
-                "ref:De_Lijn": "203653",
+                "route_ref:De_Lijn": "55;57;58",
+                "ref:De_Lijn": "202008",
                 "bus": "yes",
-                "name": "Wondelgem Korenveldstraat",
+                "name": "Spoorwegbrug",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOREKSTRAAT WONDELGEM",
+                "created_by": "WIEDAUWKAAI WONDELGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.716492,
-                    51.082703
+                    3.72631,
+                    51.073426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200106",
+                "zone:De_Lijn": "01",
+                "name": "Muidebrug",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SASSEKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729751,
+                    51.070092
                 ]
             }
         },
@@ -574,21 +658,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200430",
+                "route_ref:De_Lijn": "5;52;53;54",
+                "ref:De_Lijn": "200392",
                 "bus": "yes",
-                "name": "Roerstraat",
+                "name": "Van Ryhovelaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOUTDOKLAAN GENT",
+                "created_by": "UNKNOWN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.732849,
-                    51.072086
+                    3.713406,
+                    51.074758
                 ]
             }
         },
@@ -617,105 +701,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "55;57;58",
-                "ref:De_Lijn": "203008",
-                "bus": "yes",
-                "name": "Spoorwegbrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WIEDAUWKAAI WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.726509,
-                    51.073445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "201429",
+                "ref:De_Lijn": "200428",
                 "bus": "yes",
-                "name": "Muidebrug",
+                "name": "Muidestation",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOUTDOKLAAN GENT",
+                "created_by": "MEULESTEEDSESTEENWEG GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.731228,
-                    51.070577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;53;54",
-                "ref:De_Lijn": "203651",
-                "bus": "yes",
-                "name": "Grensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DRACENASTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.715452,
-                    51.076423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "209825",
-                "bus": "yes",
-                "name": "Garage Ferry Cars",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WIEDAUWKAAI WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.725989,
-                    51.075969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6",
-                "ref:De_Lijn": "200429",
-                "bus": "yes",
-                "name": "Muidebrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTDOKLAAN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.731101,
-                    51.070477
+                    3.731001,
+                    51.07365
                 ]
             }
         }

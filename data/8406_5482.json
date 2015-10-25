@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "527;931",
-                "ref:De_Lijn": "108438",
-                "bus": "yes",
-                "name": "Schriek Schriekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHRIEKSTRAAT SCHRIEK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.710913,
-                    51.031348
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "527",
                 "ref:De_Lijn": "108434",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Lammeneelstraat",
@@ -46,7 +24,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "527",
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "108438",
+                "bus": "yes",
+                "name": "Schriek Schriekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSTRAAT SCHRIEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710913,
+                    51.031348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108436",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Lammeneelstraat",
@@ -67,7 +65,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "527;931",
+                "route_ref:De_Lijn": "931",
                 "ref:De_Lijn": "108437",
                 "bus": "yes",
                 "name": "Schriek Schriekstraat",

@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33;402;752",
-                "ref:De_Lijn": "407442",
-                "bus": "yes",
-                "name": "Peer Stevensweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEUSTERSTRAAT GROTE-BROGEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.486594,
-                    51.120568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33;402",
-                "ref:De_Lijn": "408477",
-                "bus": "yes",
-                "name": "Peer Deusterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEUSTERSTRAAT GROTE-BROGEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.492769,
-                    51.11721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "752",
                 "ref:De_Lijn": "407222",
                 "bus": "yes",
@@ -67,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33;402",
-                "ref:De_Lijn": "408476",
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407364",
                 "bus": "yes",
-                "name": "Peer Deusterstraat",
+                "name": "Peer Erpekommerweg huis 4",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DEUSTERSTRAAT GROTE-BROGEL",
+                "created_by": "ERPEKOMMERWEG GROTE-BROGEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.492858,
-                    51.117344
+                    5.491964,
+                    51.118764
                 ]
             }
         },
@@ -109,21 +67,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407364",
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "408477",
                 "bus": "yes",
-                "name": "Peer Erpekommerweg huis 4",
+                "name": "Peer Deusterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ERPEKOMMERWEG GROTE-BROGEL",
+                "created_by": "DEUSTERSTRAAT GROTE-BROGEL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.491964,
-                    51.118764
+                    5.492769,
+                    51.11721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402;752",
+                "ref:De_Lijn": "407442",
+                "bus": "yes",
+                "name": "Peer Stevensweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEUSTERSTRAAT GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.486594,
+                    51.120568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "408476",
+                "bus": "yes",
+                "name": "Peer Deusterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEUSTERSTRAAT GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.492858,
+                    51.117344
                 ]
             }
         }

@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "241;543",
-                "ref:De_Lijn": "305408",
-                "bus": "yes",
-                "name": "Wemmel Parklaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FRANS ROBBRECHTSSTRAAT WEMMEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.309543,
-                    50.913364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "240;241;242;243",
-                "ref:De_Lijn": "305421",
+                "ref:De_Lijn": "305422",
                 "bus": "yes",
                 "name": "Wemmel Vijvers",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.308956,
-                    50.905543
+                    4.308543,
+                    50.905588
                 ]
             }
         },
@@ -61,6 +40,27 @@
                 "coordinates": [
                     4.312,
                     50.904268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "241;543",
+                "ref:De_Lijn": "305408",
+                "bus": "yes",
+                "name": "Wemmel Parklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS ROBBRECHTSSTRAAT WEMMEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.309543,
+                    50.913364
                 ]
             }
         },
@@ -89,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "241;543",
-                "ref:De_Lijn": "305409",
+                "ref:De_Lijn": "305389",
                 "bus": "yes",
-                "name": "Wemmel Parklaan",
+                "name": "Wemmel Ezelsbaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "FRANS ROBBRECHTSSTRAAT WEMMEL",
@@ -101,29 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.309756,
-                    50.913607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "240;241;242;243",
-                "ref:De_Lijn": "305422",
-                "bus": "yes",
-                "name": "Wemmel Vijvers",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE LIMBURG STIRUMLAAN WEMMEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.308543,
-                    50.905588
+                    4.31419,
+                    50.915622
                 ]
             }
         },
@@ -151,10 +130,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "241;543",
-                "ref:De_Lijn": "305389",
+                "route_ref:De_Lijn": "240;241;242;243",
+                "ref:De_Lijn": "305421",
                 "bus": "yes",
-                "name": "Wemmel Ezelsbaan",
+                "name": "Wemmel Vijvers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE LIMBURG STIRUMLAAN WEMMEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.308956,
+                    50.905543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "241;543",
+                "ref:De_Lijn": "305409",
+                "bus": "yes",
+                "name": "Wemmel Parklaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "FRANS ROBBRECHTSSTRAAT WEMMEL",
@@ -164,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.31419,
-                    50.915622
+                    4.309756,
+                    50.913607
                 ]
             }
         }

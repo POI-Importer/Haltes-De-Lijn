@@ -4,21 +4,84 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "103;116",
-                "ref:De_Lijn": "303618",
+                "route_ref:De_Lijn": "116",
+                "ref:De_Lijn": "307934",
                 "bus": "yes",
-                "name": "Essene Bellemolen",
+                "name": "Sint-Katharina-Lombeek Dahlia",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT ESSENE",
+                "created_by": "BOSSTRAAT SINT-KATHERINA-LOMBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.116091,
-                    50.888711
+                    4.129703,
+                    50.878015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "103;116;213",
+                "ref:De_Lijn": "306702",
+                "bus": "yes",
+                "name": "Sint-Katharina-Lombeek School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.12732,
+                    50.879979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213",
+                "ref:De_Lijn": "306705",
+                "bus": "yes",
+                "name": "Sint-Katharina-Lombeek Nieuwbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.112247,
+                    50.879497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213",
+                "ref:De_Lijn": "306706",
+                "bus": "yes",
+                "name": "Sint-Katharina-Lombeek Nieuwbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.112361,
+                    50.879399
                 ]
             }
         },
@@ -46,42 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "103;116",
-                "ref:De_Lijn": "303620",
+                "route_ref:De_Lijn": "116",
+                "ref:De_Lijn": "307933",
                 "bus": "yes",
-                "name": "Sint-Katharina-Lombeek Station",
+                "name": "Sint-Katharina-Lombeek Dahlia",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SLUISVIJVERSTRAAT SINT-KATHERINA-LOMBEEK",
+                "created_by": "BOSSTRAAT SINT-KATHERINA-LOMBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.116848,
-                    50.882744
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "103;116;213",
-                "ref:De_Lijn": "306702",
-                "bus": "yes",
-                "name": "Sint-Katharina-Lombeek School",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.12732,
-                    50.879979
+                    4.129547,
+                    50.878006
                 ]
             }
         },
@@ -130,42 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "116",
-                "ref:De_Lijn": "307933",
+                "route_ref:De_Lijn": "103;116",
+                "ref:De_Lijn": "303620",
                 "bus": "yes",
-                "name": "Sint-Katharina-Lombeek Dahlia",
+                "name": "Sint-Katharina-Lombeek Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOSSTRAAT SINT-KATHERINA-LOMBEEK",
+                "created_by": "SLUISVIJVERSTRAAT SINT-KATHERINA-LOMBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.129547,
-                    50.878006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "213",
-                "ref:De_Lijn": "306706",
-                "bus": "yes",
-                "name": "Sint-Katharina-Lombeek Nieuwbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.112361,
-                    50.879399
+                    4.116848,
+                    50.882744
                 ]
             }
         },
@@ -173,9 +194,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "103;116;213",
-                "ref:De_Lijn": "306703",
+                "ref:De_Lijn": "306701",
                 "bus": "yes",
-                "name": "Sint-Katharina-Lombeek Sluisvijverstraat",
+                "name": "Sint-Katharina-Lombeek School",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
@@ -185,8 +206,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.119235,
-                    50.880079
+                    4.12705,
+                    50.880131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "103;116",
+                "ref:De_Lijn": "303618",
+                "bus": "yes",
+                "name": "Essene Bellemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT ESSENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.116091,
+                    50.888711
                 ]
             }
         },
@@ -215,27 +257,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "116",
-                "ref:De_Lijn": "307934",
-                "bus": "yes",
-                "name": "Sint-Katharina-Lombeek Dahlia",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSSTRAAT SINT-KATHERINA-LOMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.129703,
-                    50.878015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "116",
                 "ref:De_Lijn": "305445",
                 "bus": "yes",
                 "name": "Sint-Katharina-Lombeek School",
@@ -256,10 +277,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "213",
-                "ref:De_Lijn": "306705",
+                "route_ref:De_Lijn": "103;116;213",
+                "ref:De_Lijn": "306703",
                 "bus": "yes",
-                "name": "Sint-Katharina-Lombeek Nieuwbaan",
+                "name": "Sint-Katharina-Lombeek Sluisvijverstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
@@ -269,8 +290,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.112247,
-                    50.879497
+                    4.119235,
+                    50.880079
                 ]
             }
         },
@@ -292,27 +313,6 @@
                 "coordinates": [
                     4.129631,
                     50.881125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "103;116;213",
-                "ref:De_Lijn": "306701",
-                "bus": "yes",
-                "name": "Sint-Katharina-Lombeek School",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWBAAN SINT-KATHERINA-LOMBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.12705,
-                    50.880131
                 ]
             }
         }

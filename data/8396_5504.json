@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "304192",
-                "bus": "yes",
-                "name": "Genval Avenue Faisanderie",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "AVENUE ALBERT 1ER GENVAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.498803,
-                    50.728929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "302818",
                 "bus": "yes",
                 "name": "La Hulpe Maison Communale",
@@ -67,70 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "302820",
-                "bus": "yes",
-                "name": "La Hulpe Place C. Lemonnier",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N253 TERHULPEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.492511,
-                    50.733161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302819",
-                "bus": "yes",
-                "name": "La Hulpe Place C. Lemonnier",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N253 TERHULPEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.492724,
-                    50.733188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302813",
-                "bus": "yes",
-                "name": "La Hulpe 3 Colonnes",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "RUE DES COMBATTANTS TERHULPEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.482759,
-                    50.730403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302815",
+                "ref:De_Lijn": "302816",
                 "bus": "yes",
                 "name": "La Hulpe Marie Poulie",
                 "public_transport": "platform",
@@ -143,29 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.487553,
-                    50.727458
+                    4.486874,
+                    50.727648
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "302814",
+                "ref:De_Lijn": "304192",
                 "bus": "yes",
-                "name": "La Hulpe 3 Colonnes",
+                "name": "Genval Avenue Faisanderie",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "RUE DES COMBATTANTS TERHULPEN",
+                "created_by": "AVENUE ALBERT 1ER GENVAL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.483468,
-                    50.730627
+                    4.498803,
+                    50.728929
                 ]
             }
         },
@@ -193,7 +109,91 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "302816",
+                "ref:De_Lijn": "302814",
+                "bus": "yes",
+                "name": "La Hulpe 3 Colonnes",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUE DES COMBATTANTS TERHULPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.483468,
+                    50.730627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302820",
+                "bus": "yes",
+                "name": "La Hulpe Place C. Lemonnier",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N253 TERHULPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.492511,
+                    50.733161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302813",
+                "bus": "yes",
+                "name": "La Hulpe 3 Colonnes",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUE DES COMBATTANTS TERHULPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.482759,
+                    50.730403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302819",
+                "bus": "yes",
+                "name": "La Hulpe Place C. Lemonnier",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N253 TERHULPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.492724,
+                    50.733188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302815",
                 "bus": "yes",
                 "name": "La Hulpe Marie Poulie",
                 "public_transport": "platform",
@@ -206,8 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.486874,
-                    50.727648
+                    4.487553,
+                    50.727458
                 ]
             }
         }

@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "40;51;56;64",
-                "ref:De_Lijn": "502502",
+                "route_ref:De_Lijn": "40",
+                "ref:De_Lijn": "507734",
                 "bus": "yes",
-                "name": "Torhout Kruispunt",
+                "name": "Torhout Garage",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KORTEMARKSTRAAT TORHOUT",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.096766,
-                    51.060558
+                    3.090131,
+                    51.058526
                 ]
             }
         },
@@ -40,6 +40,27 @@
                 "coordinates": [
                     3.08226,
                     51.055276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505332",
+                "bus": "yes",
+                "name": "Torhout Remberthove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.092216,
+                    51.068366
                 ]
             }
         },
@@ -88,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "502925",
+                "route_ref:De_Lijn": "40;51;56;64",
+                "ref:De_Lijn": "502502",
                 "bus": "yes",
-                "name": "Torhout Revalidatiecentrum",
+                "name": "Torhout Kruispunt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VREDELAAN TORHOUT",
+                "created_by": "KORTEMARKSTRAAT TORHOUT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.091758,
-                    51.067885
+                    3.096766,
+                    51.060558
                 ]
             }
         },
@@ -130,42 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "40",
-                "ref:De_Lijn": "507734",
-                "bus": "yes",
-                "name": "Torhout Garage",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTEMARKSTRAAT TORHOUT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.090131,
-                    51.058526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505332",
+                "ref:De_Lijn": "502925",
                 "bus": "yes",
-                "name": "Torhout Remberthove",
+                "name": "Torhout Revalidatiecentrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OOSTENDESTRAAT TORHOUT",
+                "created_by": "VREDELAAN TORHOUT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.092216,
-                    51.068366
+                    3.091758,
+                    51.067885
                 ]
             }
         }

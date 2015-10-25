@@ -4,42 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;23;34;51;92;283",
-                "ref:De_Lijn": "404168",
+                "ref:De_Lijn": "410111",
                 "bus": "yes",
-                "name": "Heusden Klooster",
+                "name": "Heusden Campus Berkenbos",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "created_by": "PATER AMIDEUSLAAN HEUSDEN (HEUSDEN-ZOLDER)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.314528,
-                    51.041527
+                    5.314425,
+                    51.044171
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;23;34;51;92;283",
-                "ref:De_Lijn": "404144",
+                "route_ref:De_Lijn": "22;23;51;92",
+                "ref:De_Lijn": "404185",
                 "bus": "yes",
-                "name": "Heusden Berkenbos",
+                "name": "Heusden Ziekenhuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "created_by": "PASTOOR PAQUAYLAAN HEUSDEN (HEUSDEN-ZOLDER)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.310914,
-                    51.041889
+                    5.316452,
+                    51.045665
                 ]
             }
         },
@@ -67,6 +67,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "22;23;34;51;92;283",
+                "ref:De_Lijn": "404144",
+                "bus": "yes",
+                "name": "Heusden Berkenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310914,
+                    51.041889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "407367",
                 "bus": "yes",
                 "name": "Heusden Oude Baan",
@@ -88,21 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "410111",
+                "route_ref:De_Lijn": "22;23;34;51;92;283",
+                "ref:De_Lijn": "404168",
                 "bus": "yes",
-                "name": "Heusden Campus Berkenbos",
+                "name": "Heusden Klooster",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PATER AMIDEUSLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.314425,
-                    51.044171
+                    5.314528,
+                    51.041527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;51",
+                "ref:De_Lijn": "404184",
+                "bus": "yes",
+                "name": "Heusden Ziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PAQUAYLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.316852,
+                    51.045716
                 ]
             }
         },
@@ -151,48 +193,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;51",
-                "ref:De_Lijn": "404184",
-                "bus": "yes",
-                "name": "Heusden Ziekenhuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR PAQUAYLAAN HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.316852,
-                    51.045716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;22;23;34;51;92;283",
-                "ref:De_Lijn": "404145",
-                "bus": "yes",
-                "name": "Heusden Berkenbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N719 HEUSDEN (HEUSDEN-ZOLDER)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.310141,
-                    51.041751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "410110",
                 "bus": "yes",
                 "name": "Heusden Campus Berkenbos",
@@ -214,21 +214,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;23;51;92",
-                "ref:De_Lijn": "404185",
+                "route_ref:De_Lijn": "13;22;23;34;51;92;283",
+                "ref:De_Lijn": "404145",
                 "bus": "yes",
-                "name": "Heusden Ziekenhuis",
+                "name": "Heusden Berkenbos",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PASTOOR PAQUAYLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "created_by": "N719 HEUSDEN (HEUSDEN-ZOLDER)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.316452,
-                    51.045665
+                    5.310141,
+                    51.041751
                 ]
             }
         }

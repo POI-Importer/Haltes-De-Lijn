@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;88",
-                "ref:De_Lijn": "503538",
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505378",
                 "bus": "yes",
-                "name": "Markegem Station",
+                "name": "Dentergem Oostrozebekestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENTERGEMSTRAAT MARKEGEM",
+                "created_by": "OOSTROZEBEKESTRAAT DENTERGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.402123,
-                    50.94881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "53;88",
-                "ref:De_Lijn": "508538",
-                "bus": "yes",
-                "name": "Markegem Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENTERGEMSTRAAT MARKEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.401267,
-                    50.948218
+                    3.394131,
+                    50.957401
                 ]
             }
         },
@@ -88,21 +67,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "88",
-                "ref:De_Lijn": "505378",
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "508538",
                 "bus": "yes",
-                "name": "Dentergem Oostrozebekestraat",
+                "name": "Markegem Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OOSTROZEBEKESTRAAT DENTERGEM",
+                "created_by": "DENTERGEMSTRAAT MARKEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.394131,
-                    50.957401
+                    3.401267,
+                    50.948218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "503538",
+                "bus": "yes",
+                "name": "Markegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENTERGEMSTRAAT MARKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.402123,
+                    50.94881
                 ]
             }
         }

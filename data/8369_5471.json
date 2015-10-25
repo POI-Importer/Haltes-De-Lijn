@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "201704",
                 "bus": "yes",
                 "name": "Wachtebeke Hoogstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "200734",
                 "bus": "yes",
                 "name": "Wachtebeke Weide",

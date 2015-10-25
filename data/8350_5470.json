@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58S",
-                "ref:De_Lijn": "203356",
-                "bus": "yes",
-                "name": "Adegem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STAATSBAAN ADEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.490095,
-                    51.204567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;185",
-                "ref:De_Lijn": "202054",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203054",
                 "bus": "yes",
                 "name": "Maldegem Harlingenhof",
                 "public_transport": "platform",
@@ -38,15 +17,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.47489,
-                    51.205002
+                    3.474917,
+                    51.20511
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200805",
                 "bus": "yes",
                 "name": "Adegem Trenson Stadion",
@@ -67,7 +45,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200883",
+                "bus": "yes",
+                "name": "Adegem Cultureel Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ADEGEM DORP ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.484618,
+                    51.202127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "200810",
                 "bus": "yes",
                 "name": "Adegem Hoeke",
@@ -88,21 +85,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
-                "ref:De_Lijn": "200883",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "202054",
                 "bus": "yes",
-                "name": "Adegem Cultureel Centrum",
+                "name": "Maldegem Harlingenhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ADEGEM DORP ADEGEM",
+                "created_by": "GENTSE STEENWEG ADEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.484618,
-                    51.202127
+                    3.47489,
+                    51.205002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58S",
+                "ref:De_Lijn": "203356",
+                "bus": "yes",
+                "name": "Adegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.490095,
+                    51.204567
                 ]
             }
         },
@@ -130,7 +148,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;185;58S",
+                "route_ref:De_Lijn": "58;58S",
                 "ref:De_Lijn": "202053",
                 "bus": "yes",
                 "name": "Adegem Dorp",
@@ -145,27 +163,6 @@
                 "coordinates": [
                     3.488809,
                     51.204486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "203054",
-                "bus": "yes",
-                "name": "Maldegem Harlingenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENTSE STEENWEG ADEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.474917,
-                    51.20511
                 ]
             }
         }

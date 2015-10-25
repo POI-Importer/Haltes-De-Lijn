@@ -4,72 +4,30 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "16",
-                "ref:De_Lijn": "508054",
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "509847",
                 "bus": "yes",
                 "name": "Bellegem Manpadstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BELLEGEMSESTRAAT BELLEGEM",
+                "created_by": "LEUZESTRAAT BELLEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.292259,
-                    50.777397
+                    3.291952,
+                    50.777179
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "509844",
+                "ref:De_Lijn": "500264",
                 "bus": "yes",
-                "name": "Bellegem Groenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TONNENMAKERSSTRAAT BELLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.286229,
-                    50.773817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "508155",
-                "bus": "yes",
-                "name": "Bellegem Sint-Amandsdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWABRUGSTRAAT BELLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.279687,
-                    50.772849
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "500277",
-                "bus": "yes",
-                "name": "Zwevegem Garage Vandeweege",
+                "name": "Kortrijk Garage Demuynck",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
@@ -80,8 +38,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.278375,
-                    50.776253
+                    3.278682,
+                    50.775213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;16",
+                "ref:De_Lijn": "503055",
+                "bus": "yes",
+                "name": "Bellegem Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELLEGEMPLAATS BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.28011,
+                    50.777869
                 ]
             }
         },
@@ -130,27 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "509845",
-                "bus": "yes",
-                "name": "Bellegem Volksberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOLKSBERG BELLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.290988,
-                    50.775282
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "12;16",
                 "ref:De_Lijn": "503054",
                 "bus": "yes",
@@ -172,53 +130,74 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "503055",
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "509843",
                 "bus": "yes",
-                "name": "Bellegem Plaats",
+                "name": "Bellegem Groenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BELLEGEMPLAATS BELLEGEM",
+                "created_by": "TONNENMAKERSSTRAAT BELLEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.28011,
-                    50.777869
+                    3.286189,
+                    50.773709
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "509847",
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "508054",
                 "bus": "yes",
                 "name": "Bellegem Manpadstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEUZESTRAAT BELLEGEM",
+                "created_by": "BELLEGEMSESTRAAT BELLEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.291952,
-                    50.777179
+                    3.292259,
+                    50.777397
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "508154",
+                "route_ref:De_Lijn": "12;16",
+                "ref:De_Lijn": "508057",
                 "bus": "yes",
-                "name": "Bellegem Sint-Amandsdreef",
+                "name": "Bellegem Voetbalplein",
                 "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELLEGEMSESTRAAT BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.285791,
+                    50.777454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "500277",
+                "bus": "yes",
+                "name": "Zwevegem Garage Vandeweege",
+                "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "KWABRUGSTRAAT BELLEGEM",
                 "operator": "De Lijn",
@@ -227,8 +206,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.279814,
-                    50.772877
+                    3.278375,
+                    50.776253
                 ]
             }
         },
@@ -257,7 +236,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "509843",
+                "ref:De_Lijn": "508155",
+                "bus": "yes",
+                "name": "Bellegem Sint-Amandsdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWABRUGSTRAAT BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.279687,
+                    50.772849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "509844",
                 "bus": "yes",
                 "name": "Bellegem Groenweg",
                 "public_transport": "platform",
@@ -269,40 +269,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.286189,
-                    50.773709
+                    3.286229,
+                    50.773817
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "508057",
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "509845",
                 "bus": "yes",
-                "name": "Bellegem Voetbalplein",
+                "name": "Bellegem Volksberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BELLEGEMSESTRAAT BELLEGEM",
+                "created_by": "VOLKSBERG BELLEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.285791,
-                    50.777454
+                    3.290988,
+                    50.775282
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "500264",
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "508154",
                 "bus": "yes",
-                "name": "Kortrijk Garage Demuynck",
+                "name": "Bellegem Sint-Amandsdreef",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "KWABRUGSTRAAT BELLEGEM",
                 "operator": "De Lijn",
@@ -311,8 +311,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.278682,
-                    50.775213
+                    3.279814,
+                    50.772877
                 ]
             }
         }

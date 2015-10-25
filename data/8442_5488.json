@@ -25,9 +25,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "G1",
-                "ref:De_Lijn": "402100",
+                "ref:De_Lijn": "402229",
                 "bus": "yes",
-                "name": "Genk d'Ierd",
+                "name": "Genk Kolderbos",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NIEUWSTRAAT KOLDERBOS",
@@ -37,8 +37,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.500585,
-                    50.957023
+                    5.498714,
+                    50.95322
                 ]
             }
         },
@@ -46,104 +46,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;45;G2",
-                "ref:De_Lijn": "402368",
+                "ref:De_Lijn": "402501",
                 "bus": "yes",
-                "name": "Genk Weg naar Sledderlo",
+                "name": "Genk Kerkhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N77 GENK",
+                "created_by": "HOOGSTRAAT GENK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.511773,
-                    50.954083
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "G1",
-                "ref:De_Lijn": "402170",
-                "bus": "yes",
-                "name": "Genk Daalstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SLEDDERLOWEG GENK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.513876,
-                    50.949882
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;G1",
-                "ref:De_Lijn": "402101",
-                "bus": "yes",
-                "name": "Genk d'Ierd",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWSTRAAT KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.500347,
-                    50.957196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "G1",
-                "ref:De_Lijn": "402204",
-                "bus": "yes",
-                "name": "Genk Hommelheidestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOMMELHEIDESTRAAT KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.503444,
-                    50.951637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;G1",
-                "ref:De_Lijn": "402206",
-                "bus": "yes",
-                "name": "Genk Hondsbos",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HONDSBOS KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.510033,
-                    50.951609
+                    5.507461,
+                    50.957056
                 ]
             }
         },
@@ -172,48 +88,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;G1",
-                "ref:De_Lijn": "402333",
-                "bus": "yes",
-                "name": "Genk Vlierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSBLOOK KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.499838,
-                    50.952607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "402212",
-                "bus": "yes",
-                "name": "Genk Weg naar Sledderlo",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SLEDDERLOWEG KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.51172,
-                    50.953679
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "G1",
-                "ref:De_Lijn": "402229",
+                "ref:De_Lijn": "402228",
                 "bus": "yes",
                 "name": "Genk Kolderbos",
                 "public_transport": "platform",
@@ -225,8 +100,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.498714,
-                    50.95322
+                    5.498618,
+                    50.953365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;G1",
+                "ref:De_Lijn": "402101",
+                "bus": "yes",
+                "name": "Genk d'Ierd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500347,
+                    50.957196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402332",
+                "bus": "yes",
+                "name": "Genk Vlierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRIESTERHAAGSTRAAT KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.499717,
+                    50.952905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;G1",
+                "ref:De_Lijn": "402205",
+                "bus": "yes",
+                "name": "Genk Hommelheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOMMELHEIDESTRAAT KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.503456,
+                    50.951547
                 ]
             }
         },
@@ -254,10 +192,51 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "10;G1",
-                "ref:De_Lijn": "402228",
+                "route_ref:De_Lijn": "10;45;G2",
+                "ref:De_Lijn": "402368",
                 "bus": "yes",
-                "name": "Genk Kolderbos",
+                "name": "Genk Weg naar Sledderlo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N77 GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.511773,
+                    50.954083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402212",
+                "bus": "yes",
+                "name": "Genk Weg naar Sledderlo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLEDDERLOWEG KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51172,
+                    50.953679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402100",
+                "bus": "yes",
+                "name": "Genk d'Ierd",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "NIEUWSTRAAT KOLDERBOS",
@@ -267,29 +246,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.498618,
-                    50.953365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;45;G2",
-                "ref:De_Lijn": "402370",
-                "bus": "yes",
-                "name": "Genk Weg naar Sledderlo",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOLDERBOSSTRAAT KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.511281,
-                    50.954357
+                    5.500585,
+                    50.957023
                 ]
             }
         },
@@ -317,8 +275,71 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402170",
+                "bus": "yes",
+                "name": "Genk Daalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLEDDERLOWEG GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513876,
+                    50.949882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "10;G1",
-                "ref:De_Lijn": "402205",
+                "ref:De_Lijn": "402333",
+                "bus": "yes",
+                "name": "Genk Vlierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSBLOOK KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.499838,
+                    50.952607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;G1",
+                "ref:De_Lijn": "402206",
+                "bus": "yes",
+                "name": "Genk Hondsbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HONDSBOS KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.510033,
+                    50.951609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402204",
                 "bus": "yes",
                 "name": "Genk Hommelheidestraat",
                 "public_transport": "platform",
@@ -330,8 +351,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.503456,
-                    50.951547
+                    5.503444,
+                    50.951637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G2",
+                "ref:De_Lijn": "402499",
+                "bus": "yes",
+                "name": "Genk Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.507289,
+                    50.957012
                 ]
             }
         },
@@ -360,62 +402,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;45;G2",
-                "ref:De_Lijn": "402501",
+                "ref:De_Lijn": "402370",
                 "bus": "yes",
-                "name": "Genk Kerkhof",
+                "name": "Genk Weg naar Sledderlo",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT GENK",
+                "created_by": "KOLDERBOSSTRAAT KOLDERBOS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.507461,
-                    50.957056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "G1",
-                "ref:De_Lijn": "402332",
-                "bus": "yes",
-                "name": "Genk Vlierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PRIESTERHAAGSTRAAT KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.499717,
-                    50.952905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;45;G2",
-                "ref:De_Lijn": "402499",
-                "bus": "yes",
-                "name": "Genk Kerkhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT KOLDERBOS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.507289,
-                    50.957012
+                    5.511281,
+                    50.954357
                 ]
             }
         }

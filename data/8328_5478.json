@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "55;56;59;64",
-                "ref:De_Lijn": "502700",
-                "bus": "yes",
-                "name": "Koekelare Lidl",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ICHTEGEMSTRAAT KOEKELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.989735,
-                    51.090695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;59;64",
-                "ref:De_Lijn": "502210",
-                "bus": "yes",
-                "name": "Ichtegem Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOEKELARESTRAAT ICHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.010042,
-                    51.092945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;56;59;64",
                 "ref:De_Lijn": "507700",
                 "bus": "yes",
                 "name": "Koekelare Lidl",
@@ -61,27 +19,6 @@
                 "coordinates": [
                     2.989299,
                     51.090483
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;59;64",
-                "ref:De_Lijn": "507235",
-                "bus": "yes",
-                "name": "Koekelare Warande",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ICHTEGEMSTRAAT ICHTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.997501,
-                    51.09119
                 ]
             }
         },
@@ -109,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "55;59;64",
+                "ref:De_Lijn": "507235",
+                "bus": "yes",
+                "name": "Koekelare Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ICHTEGEMSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.997501,
+                    51.09119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "55;56;64",
                 "ref:De_Lijn": "507210",
                 "bus": "yes",
@@ -130,6 +88,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "55;56;59;64",
+                "ref:De_Lijn": "502700",
+                "bus": "yes",
+                "name": "Koekelare Lidl",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ICHTEGEMSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.989735,
+                    51.090695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "55;64",
                 "ref:De_Lijn": "502235",
                 "bus": "yes",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     2.99727,
                     51.091277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;59;64",
+                "ref:De_Lijn": "502210",
+                "bus": "yes",
+                "name": "Ichtegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOEKELARESTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.010042,
+                    51.092945
                 ]
             }
         }

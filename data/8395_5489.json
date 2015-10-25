@@ -26,6 +26,26 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "218",
+                "ref:De_Lijn": "305285",
+                "bus": "yes",
+                "name": "Peutie Mil.Compl, Instructiebl",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.471779,
+                    50.935078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "218",
                 "ref:De_Lijn": "305288",
                 "bus": "yes",
                 "name": "Peutie Mil.Compl, Sportcom.",
@@ -39,6 +59,46 @@
                 "coordinates": [
                     4.468523,
                     50.935782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "218",
+                "ref:De_Lijn": "305290",
+                "bus": "yes",
+                "name": "Peutie Mil.Compl, Wachtlok.",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.466892,
+                    50.931567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "218",
+                "ref:De_Lijn": "305289",
+                "bus": "yes",
+                "name": "Peutie Mil.Compl, Stafblok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.470409,
+                    50.933254
                 ]
             }
         },
@@ -60,26 +120,6 @@
                 "coordinates": [
                     4.476853,
                     50.93306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "218",
-                "ref:De_Lijn": "305291",
-                "bus": "yes",
-                "name": "Peutie Mil.Compl, Wachtlok.",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.466409,
-                    50.931765
                 ]
             }
         },
@@ -127,47 +167,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "218",
-                "ref:De_Lijn": "305285",
-                "bus": "yes",
-                "name": "Peutie Mil.Compl, Instructiebl",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.471779,
-                    50.935078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "218",
-                "ref:De_Lijn": "305289",
-                "bus": "yes",
-                "name": "Peutie Mil.Compl, Stafblok",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.470409,
-                    50.933254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "218",
-                "ref:De_Lijn": "305290",
+                "ref:De_Lijn": "305291",
                 "bus": "yes",
                 "name": "Peutie Mil.Compl, Wachtlok.",
                 "public_transport": "platform",
@@ -178,8 +178,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.466892,
-                    50.931567
+                    4.466409,
+                    50.931765
                 ]
             }
         }

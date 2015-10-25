@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "504550",
-                "bus": "yes",
-                "name": "Watou Sint-Jan Ter Biezen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATOUSEWEG POPERINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.667439,
-                    50.859621
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;69",
                 "ref:De_Lijn": "504435",
                 "bus": "yes",
                 "name": "Poperinge Zandputten",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     2.679558,
                     50.85842
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "509550",
-                "bus": "yes",
-                "name": "Watou Sint-Jan Ter Biezen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATOUSEWEG WATOU",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.666879,
-                    50.859775
                 ]
             }
         },
@@ -103,6 +61,48 @@
                 "coordinates": [
                     2.679709,
                     50.858557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504550",
+                "bus": "yes",
+                "name": "Watou Sint-Jan Ter Biezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.667439,
+                    50.859621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "509550",
+                "bus": "yes",
+                "name": "Watou Sint-Jan Ter Biezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666879,
+                    50.859775
                 ]
             }
         }

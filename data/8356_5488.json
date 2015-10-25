@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
                 "ref:De_Lijn": "200368",
                 "bus": "yes",
                 "name": "Nazareth Beirhof",

@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209200",
+                "bus": "yes",
+                "name": "Sint-Blasius-Boekel Boekelbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKELBAAN SINT-BLASIUS-BOEKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729137,
+                    50.851832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "209199",
                 "bus": "yes",
                 "name": "Sint-Blasius-Boekel Kouteren",
@@ -46,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;420",
+                "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "208200",
                 "bus": "yes",
                 "name": "Sint-Blasius-Boekel Boekelbaan",
@@ -89,48 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "209201",
-                "bus": "yes",
-                "name": "Sint-Blasius-Boekel Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEKELBAAN SINT-BLASIUS-BOEKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.71948,
-                    50.851815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "209200",
-                "bus": "yes",
-                "name": "Sint-Blasius-Boekel Boekelbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOEKELBAAN SINT-BLASIUS-BOEKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.729137,
-                    50.851832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;420",
                 "ref:De_Lijn": "208201",
                 "bus": "yes",
                 "name": "Sint-Blasius-Boekel Kerk",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     3.719595,
                     50.851716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209201",
+                "bus": "yes",
+                "name": "Sint-Blasius-Boekel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKELBAAN SINT-BLASIUS-BOEKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.71948,
+                    50.851815
                 ]
             }
         }

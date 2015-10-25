@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "485",
-                "ref:De_Lijn": "303418",
-                "bus": "yes",
-                "name": "Vissenaken Eksterveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARSCHOTSESTEENWEG VISSENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.901989,
-                    50.853391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "585;685",
-                "ref:De_Lijn": "305049",
-                "bus": "yes",
-                "name": "Vissenaken Daelhemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VISSENAKENSTRAAT VISSENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.918584,
-                    50.847956
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "485;713",
                 "ref:De_Lijn": "305085",
                 "bus": "yes",
@@ -67,6 +25,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "303418",
+                "bus": "yes",
+                "name": "Vissenaken Eksterveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG VISSENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.901989,
+                    50.853391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "485;713",
                 "ref:De_Lijn": "303419",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.901965,
                     50.853696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "305049",
+                "bus": "yes",
+                "name": "Vissenaken Daelhemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISSENAKENSTRAAT VISSENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.918584,
+                    50.847956
                 ]
             }
         },

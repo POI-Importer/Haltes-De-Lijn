@@ -4,28 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207765",
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207754",
                 "bus": "yes",
-                "name": "Constantin Meunierstraat",
+                "name": "Eeckhoutstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SAINT-SAUVEURSTRAAT RONSE",
+                "created_by": "GEORGES EECKHOUTSTRAAT RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.598473,
-                    50.736198
+                    3.602798,
+                    50.735049
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460;470",
                 "ref:De_Lijn": "209838",
                 "bus": "yes",
                 "name": "Sporthal",
@@ -46,21 +45,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;460",
-                "ref:De_Lijn": "207754",
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "207765",
                 "bus": "yes",
-                "name": "Eeckhoutstraat",
+                "name": "Constantin Meunierstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GEORGES EECKHOUTSTRAAT RONSE",
+                "created_by": "SAINT-SAUVEURSTRAAT RONSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.602798,
-                    50.735049
+                    3.598473,
+                    50.736198
                 ]
             }
         },
@@ -88,7 +87,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "460;470",
                 "ref:De_Lijn": "208762",
                 "bus": "yes",
                 "name": "Leuzesteenweg",

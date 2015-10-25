@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84;921",
-                "ref:De_Lijn": "109711",
-                "bus": "yes",
-                "name": "Geel Bel Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEL BEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.0632,
-                    51.162961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;921",
                 "ref:De_Lijn": "109721",
                 "bus": "yes",
                 "name": "Geel Wijdbosstraat",
@@ -46,8 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84;921",
-                "ref:De_Lijn": "109697",
+                "ref:De_Lijn": "109711",
                 "bus": "yes",
                 "name": "Geel Bel Kerk",
                 "public_transport": "platform",
@@ -59,15 +37,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.063287,
-                    51.16305
+                    5.0632,
+                    51.162961
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84;921",
                 "ref:De_Lijn": "109720",
                 "bus": "yes",
                 "name": "Geel Wijdbosstraat",
@@ -102,6 +79,26 @@
                 "coordinates": [
                     5.075214,
                     51.163267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109697",
+                "bus": "yes",
+                "name": "Geel Bel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEL BEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.063287,
+                    51.16305
                 ]
             }
         }

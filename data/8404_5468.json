@@ -4,70 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;411;414;419;420;421;424;427;428",
-                "ref:De_Lijn": "106153",
-                "bus": "yes",
-                "name": "Zandhoven Hallebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGESTRAAT ZANDHOVEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.670317,
-                    51.221904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "411;419",
-                "ref:De_Lijn": "106152",
-                "bus": "yes",
-                "name": "Zandhoven Hallebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HALLEBAAN ZANDHOVEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.669515,
-                    51.221807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "409;420;421;427;428",
-                "ref:De_Lijn": "103971",
-                "bus": "yes",
-                "name": "Zandhoven Goormansstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GOORMANSSTRAAT ZANDHOVEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.676423,
-                    51.225268
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "411;419",
                 "ref:De_Lijn": "106149",
                 "bus": "yes",
                 "name": "Zandhoven Heuvelheide",
@@ -88,8 +24,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;411;414;419;420;421;424;427;428",
-                "ref:De_Lijn": "106156",
+                "ref:De_Lijn": "106155",
                 "bus": "yes",
                 "name": "Zandhoven Heikant",
                 "public_transport": "platform",
@@ -101,57 +36,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.6746,
-                    51.224581
+                    4.674531,
+                    51.224931
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;411;414;419;420;421;424;427;428",
-                "ref:De_Lijn": "106154",
+                "ref:De_Lijn": "106152",
                 "bus": "yes",
                 "name": "Zandhoven Hallebaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANGESTRAAT ZANDHOVEN",
+                "created_by": "HALLEBAAN ZANDHOVEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.670818,
-                    51.221876
+                    4.669515,
+                    51.221807
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;421;427;428",
-                "ref:De_Lijn": "103972",
-                "bus": "yes",
-                "name": "Zandhoven Goormansstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GOORMANSSTRAAT ZANDHOVEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.676465,
-                    51.22516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "411;419",
                 "ref:De_Lijn": "106150",
                 "bus": "yes",
                 "name": "Zandhoven Heuvelheide",
@@ -172,7 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "411",
                 "ref:De_Lijn": "106151",
                 "bus": "yes",
                 "name": "Zandhoven Hallebaan",
@@ -193,8 +104,87 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;411;414;419;420;421;424;427;428",
-                "ref:De_Lijn": "106155",
+                "ref:De_Lijn": "106154",
+                "bus": "yes",
+                "name": "Zandhoven Hallebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.670818,
+                    51.221876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103971",
+                "bus": "yes",
+                "name": "Zandhoven Goormansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOORMANSSTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.676423,
+                    51.225268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103972",
+                "bus": "yes",
+                "name": "Zandhoven Goormansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOORMANSSTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.676465,
+                    51.22516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106153",
+                "bus": "yes",
+                "name": "Zandhoven Hallebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.670317,
+                    51.221904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106156",
                 "bus": "yes",
                 "name": "Zandhoven Heikant",
                 "public_transport": "platform",
@@ -206,8 +196,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.674531,
-                    51.224931
+                    4.6746,
+                    51.224581
                 ]
             }
         }

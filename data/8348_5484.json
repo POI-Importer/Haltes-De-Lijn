@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505753",
+                "ref:De_Lijn": "505668",
                 "bus": "yes",
-                "name": "Kanegem Kazernestraat",
+                "name": "Aarsele Poekestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "POEKESTRAAT AARSELE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.44052,
-                    51.013513
+                    3.436416,
+                    51.004923
                 ]
             }
         },
@@ -47,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505668",
+                "ref:De_Lijn": "505753",
                 "bus": "yes",
-                "name": "Aarsele Poekestraat",
+                "name": "Kanegem Kazernestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "POEKESTRAAT AARSELE",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.436416,
-                    51.004923
+                    3.44052,
+                    51.013513
                 ]
             }
         }

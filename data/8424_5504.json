@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21;42",
-                "ref:De_Lijn": "405484",
+                "ref:De_Lijn": "405485",
                 "bus": "yes",
                 "name": "Wezeren Kerk",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.104572,
-                    50.73055
+                    5.104617,
+                    50.730765
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21;42",
-                "ref:De_Lijn": "405485",
+                "ref:De_Lijn": "405484",
                 "bus": "yes",
                 "name": "Wezeren Kerk",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.104617,
-                    50.730765
+                    5.104572,
+                    50.73055
                 ]
             }
         }

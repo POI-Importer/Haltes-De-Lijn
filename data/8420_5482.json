@@ -5,20 +5,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "408143",
+                "ref:De_Lijn": "407785",
                 "bus": "yes",
-                "name": "Okselaar Turnhoutsebaan",
+                "name": "Okselaar Tessenderlosebaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TURNHOUTSEBAAN OKSELAAR",
+                "created_by": "TESSENDERLOBAAN OKSELAAR",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.013589,
-                    51.031345
+                    5.01321,
+                    51.030754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "407784",
+                "bus": "yes",
+                "name": "Okselaar Tessenderlosebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESSENDERLOBAAN OKSELAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013337,
+                    51.03069
                 ]
             }
         },
@@ -46,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
+                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "307450",
                 "bus": "yes",
                 "name": "Zichem Okselaar Tessenderlosebaan",
@@ -88,36 +109,15 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "408142",
+                "route_ref:De_Lijn": "701;707;708",
+                "ref:De_Lijn": "307449",
                 "bus": "yes",
-                "name": "Okselaar Turnhoutsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TURNHOUTSEBAAN OKSELAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.013319,
-                    51.031454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "407784",
-                "bus": "yes",
-                "name": "Okselaar Tessenderlosebaan",
+                "name": "Zichem Okselaar Tessenderlosebaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TESSENDERLOBAAN OKSELAAR",
                 "operator": "De Lijn",
-                "network": "DLLi"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
@@ -130,7 +130,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "19;707;708",
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "408143",
+                "bus": "yes",
+                "name": "Okselaar Turnhoutsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN OKSELAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013589,
+                    51.031345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;708",
                 "ref:De_Lijn": "408200",
                 "bus": "yes",
                 "name": "Okselaar Achterheide",
@@ -145,27 +166,6 @@
                 "coordinates": [
                     5.011836,
                     51.034528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "407785",
-                "bus": "yes",
-                "name": "Okselaar Tessenderlosebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESSENDERLOBAAN OKSELAAR",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.01321,
-                    51.030754
                 ]
             }
         },
@@ -193,21 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "701;707;708",
-                "ref:De_Lijn": "307449",
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "408142",
                 "bus": "yes",
-                "name": "Zichem Okselaar Tessenderlosebaan",
+                "name": "Okselaar Turnhoutsebaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TESSENDERLOBAAN OKSELAAR",
+                "created_by": "TURNHOUTSEBAAN OKSELAAR",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.013337,
-                    51.03069
+                    5.013319,
+                    51.031454
                 ]
             }
         }

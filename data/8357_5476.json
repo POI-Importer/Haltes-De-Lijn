@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "201719",
+                "bus": "yes",
+                "name": "Lovendegem Boterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERHOEK LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.63688,
+                    51.116818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "211025",
                 "bus": "yes",
                 "name": "Lovendegem Haantjenstraat",
@@ -25,28 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
-                "ref:De_Lijn": "201719",
-                "bus": "yes",
-                "name": "Lovendegem Boterhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOTERHOEK LOVENDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.63688,
-                    51.116818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160",
                 "ref:De_Lijn": "201692",
                 "bus": "yes",
                 "name": "Lovendegem Beekstraat",

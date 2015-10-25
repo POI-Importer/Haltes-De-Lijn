@@ -4,21 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;30;31;95",
-                "ref:De_Lijn": "503718",
+                "ref:De_Lijn": "503646",
                 "bus": "yes",
-                "name": "Roeselare Koortskapel",
+                "name": "Roeselare Ter Walle",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIKSMUIDSESTEENWEG ROESELARE",
+                "created_by": "SCHIERVELDESTRAAT ROESELARE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.110328,
-                    50.947722
+                    3.107529,
+                    50.951261
                 ]
             }
         },
@@ -46,10 +45,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "508735",
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "509979",
                 "bus": "yes",
-                "name": "Roeselare Stadenstraat",
+                "name": "Roeselare Handboogstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
@@ -59,8 +58,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.108865,
-                    50.956633
+                    3.118183,
+                    50.952552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "509976",
+                "bus": "yes",
+                "name": "Roeselare Noordlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.113787,
+                    50.954627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;54;95",
+                "ref:De_Lijn": "508693",
+                "bus": "yes",
+                "name": "Roeselare Boldershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.117892,
+                    50.945869
                 ]
             }
         },
@@ -88,21 +129,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;95",
-                "ref:De_Lijn": "508718",
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "508735",
                 "bus": "yes",
-                "name": "Roeselare Koortskapel",
+                "name": "Roeselare Stadenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIKSMUIDSESTEENWEG ROESELARE",
+                "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.110998,
-                    50.947666
+                    3.108865,
+                    50.956633
                 ]
             }
         },
@@ -130,21 +171,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "503645",
+                "route_ref:De_Lijn": "30;95",
+                "ref:De_Lijn": "508718",
                 "bus": "yes",
-                "name": "Roeselare Smedenstraat",
+                "name": "Roeselare Koortskapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHIERVELDESTRAAT ROESELARE",
+                "created_by": "DIKSMUIDSESTEENWEG ROESELARE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.110181,
-                    50.951613
+                    3.110998,
+                    50.947666
                 ]
             }
         },
@@ -193,21 +234,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "509955",
+                "route_ref:De_Lijn": "1;30;31;95",
+                "ref:De_Lijn": "503718",
                 "bus": "yes",
-                "name": "Roeselare Reigerstraat",
+                "name": "Roeselare Koortskapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEEKSTRAAT ROESELARE",
+                "created_by": "DIKSMUIDSESTEENWEG ROESELARE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.110324,
-                    50.956892
+                    3.110328,
+                    50.947722
                 ]
             }
         },
@@ -236,62 +277,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "504535",
+                "ref:De_Lijn": "509955",
                 "bus": "yes",
-                "name": "Roeselare Delhaize",
+                "name": "Roeselare Reigerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
+                "created_by": "BEEKSTRAAT ROESELARE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.116033,
-                    50.953671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "508741",
-                "bus": "yes",
-                "name": "Roeselare Vormingsinstituut",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTNIEUWKERKSESTEENWEG ROESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.100342,
-                    50.947012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "503735",
-                "bus": "yes",
-                "name": "Roeselare Stadenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.108334,
-                    50.956781
+                    3.110324,
+                    50.956892
                 ]
             }
         },
@@ -319,31 +318,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "509976",
+                "ref:De_Lijn": "503645",
                 "bus": "yes",
-                "name": "Roeselare Noordlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.113787,
-                    50.954627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "503646",
-                "bus": "yes",
-                "name": "Roeselare Ter Walle",
+                "name": "Roeselare Smedenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SCHIERVELDESTRAAT ROESELARE",
@@ -353,39 +330,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.107529,
-                    50.951261
+                    3.110181,
+                    50.951613
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;54;95",
-                "ref:De_Lijn": "508693",
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "503735",
                 "bus": "yes",
-                "name": "Roeselare Boldershof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DIKSMUIDSESTEENWEG ROESELARE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.117892,
-                    50.945869
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "509979",
-                "bus": "yes",
-                "name": "Roeselare Handboogstraat",
+                "name": "Roeselare Stadenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
@@ -395,8 +351,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.118183,
-                    50.952552
+                    3.108334,
+                    50.956781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "508741",
+                "bus": "yes",
+                "name": "Roeselare Vormingsinstituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTNIEUWKERKSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.100342,
+                    50.947012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "504535",
+                "bus": "yes",
+                "name": "Roeselare Delhaize",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.116033,
+                    50.953671
                 ]
             }
         }

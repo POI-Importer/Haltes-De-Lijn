@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59;69",
+                "ref:De_Lijn": "509034",
+                "bus": "yes",
+                "name": "Beveren Sterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALLESTRAAT BEVEREN-AAN-DE-IJZER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.650398,
+                    50.953867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59;69",
                 "ref:De_Lijn": "504024",
                 "bus": "yes",
                 "name": "Beveren Eikhoek",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     2.65487,
                     50.958077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59;69",
-                "ref:De_Lijn": "504034",
-                "bus": "yes",
-                "name": "Beveren Sterhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KALLESTRAAT LEISELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.649932,
-                    50.953761
                 ]
             }
         },
@@ -68,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59;69",
-                "ref:De_Lijn": "509024",
-                "bus": "yes",
-                "name": "Beveren Eikhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KALLESTRAAT LEISELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.655071,
-                    50.958053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;59;69",
                 "ref:De_Lijn": "509026",
                 "bus": "yes",
                 "name": "Beveren Klein Leisele",
@@ -110,20 +89,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;59;69",
-                "ref:De_Lijn": "509034",
+                "ref:De_Lijn": "504034",
                 "bus": "yes",
                 "name": "Beveren Sterhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KALLESTRAAT BEVEREN-AAN-DE-IJZER",
+                "created_by": "KALLESTRAAT LEISELE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.650398,
-                    50.953867
+                    2.649932,
+                    50.953761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59;69",
+                "ref:De_Lijn": "509024",
+                "bus": "yes",
+                "name": "Beveren Eikhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALLESTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.655071,
+                    50.958053
                 ]
             }
         }

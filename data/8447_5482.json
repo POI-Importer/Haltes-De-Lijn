@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406078",
+                "bus": "yes",
+                "name": "Opoeteren Dorne Zonneheim",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS DORNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.619306,
+                    51.036688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
                 "ref:De_Lijn": "400223",
                 "bus": "yes",
                 "name": "Niel-bij-As Kapelstraat",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.614641,
                     51.028017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11",
-                "ref:De_Lijn": "406078",
-                "bus": "yes",
-                "name": "Opoeteren Dorne Zonneheim",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEG NAAR AS DORNE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.619306,
-                    51.036688
                 ]
             }
         },

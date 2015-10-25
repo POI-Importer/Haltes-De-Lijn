@@ -4,21 +4,22 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "505624",
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505604",
                 "bus": "yes",
-                "name": "Breskens Roofack",
+                "zone:De_Lijn": "7960",
+                "name": "Breskens Langeweg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "OUDE RIJKSWEG BRESKENS",
+                "created_by": "LANGEWEG BRESKENS",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.549347,
-                    51.388128
+                    3.550818,
+                    51.396793
                 ]
             }
         },
@@ -26,28 +27,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505505",
-                "bus": "yes",
-                "name": "Breskens Vogelenzang",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT BRESKENS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.552879,
-                    51.393131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505502",
+                "ref:De_Lijn": "505602",
                 "bus": "yes",
                 "zone:De_Lijn": "7960",
                 "name": "Breskens Boulevard",
@@ -60,8 +40,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.55637,
-                    51.397254
+                    3.556671,
+                    51.397292
                 ]
             }
         },
@@ -84,49 +64,6 @@
                 "coordinates": [
                     3.548666,
                     51.39659
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "505524",
-                "bus": "yes",
-                "name": "Breskens Roofack",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OUDE RIJKSWEG BRESKENS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.549534,
-                    51.388102
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505604",
-                "bus": "yes",
-                "zone:De_Lijn": "7960",
-                "name": "Breskens Langeweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGEWEG BRESKENS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.550818,
-                    51.396793
                 ]
             }
         },
@@ -156,6 +93,71 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505504",
+                "bus": "yes",
+                "zone:De_Lijn": "7960",
+                "name": "Breskens Langeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEWEG BRESKENS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.551768,
+                    51.396656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "505624",
+                "bus": "yes",
+                "name": "Breskens Roofack",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OUDE RIJKSWEG BRESKENS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.549347,
+                    51.388128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505502",
+                "bus": "yes",
+                "zone:De_Lijn": "7960",
+                "name": "Breskens Boulevard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTLANDSTRAAT BRESKENS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.55637,
+                    51.397254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "505601",
                 "bus": "yes",
                 "zone:De_Lijn": "7960",
@@ -178,43 +180,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505504",
+                "ref:De_Lijn": "505505",
                 "bus": "yes",
-                "zone:De_Lijn": "7960",
-                "name": "Breskens Langeweg",
+                "name": "Breskens Vogelenzang",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LANGEWEG BRESKENS",
+                "created_by": "DORPSSTRAAT BRESKENS",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.551768,
-                    51.396656
+                    3.552879,
+                    51.393131
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "505602",
+                "ref:De_Lijn": "505524",
                 "bus": "yes",
-                "zone:De_Lijn": "7960",
-                "name": "Breskens Boulevard",
+                "name": "Breskens Roofack",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "WESTLANDSTRAAT BRESKENS",
+                "created_by": "OUDE RIJKSWEG BRESKENS",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.556671,
-                    51.397292
+                    3.549534,
+                    51.388102
                 ]
             }
         }

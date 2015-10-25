@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "504553",
-                "bus": "yes",
-                "name": "Watou Witte Huizen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENVOORDESTRAAT WATOU",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.621613,
-                    50.848373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "504545",
-                "bus": "yes",
-                "name": "Watou Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENVOORDESTRAAT WATOU",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.620538,
-                    50.858185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "509545",
-                "bus": "yes",
-                "name": "Watou Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOUVIEWEG WATOU",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.621458,
-                    50.858657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "51;69",
                 "ref:De_Lijn": "504551",
                 "bus": "yes",
@@ -89,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;69",
-                "ref:De_Lijn": "504548",
+                "ref:De_Lijn": "509545",
                 "bus": "yes",
-                "name": "Watou Schutterswijk",
+                "name": "Watou Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OUDE-POPERINGESTRAAT WATOU",
+                "created_by": "DOUVIEWEG WATOU",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.62326,
-                    50.856814
+                    2.621458,
+                    50.858657
                 ]
             }
         },
@@ -131,6 +68,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504545",
+                "bus": "yes",
+                "name": "Watou Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENVOORDESTRAAT WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.620538,
+                    50.858185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504553",
+                "bus": "yes",
+                "name": "Watou Witte Huizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENVOORDESTRAAT WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.621613,
+                    50.848373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
                 "ref:De_Lijn": "509551",
                 "bus": "yes",
                 "name": "Watou Tram",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     2.624997,
                     50.858233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504548",
+                "bus": "yes",
+                "name": "Watou Schutterswijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE-POPERINGESTRAAT WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.62326,
+                    50.856814
                 ]
             }
         }

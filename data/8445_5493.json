@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400738",
+                "ref:De_Lijn": "400739",
                 "bus": "yes",
                 "name": "Eigenbilzen Lochtstraat",
                 "public_transport": "platform",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.566535,
-                    50.883555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400737",
-                "bus": "yes",
-                "name": "Eigenbilzen Litsebeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANGERHEISTRAAT EIGENBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.566422,
-                    50.886928
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400732",
-                "bus": "yes",
-                "name": "Eigenbilzen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT EIGENBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.575149,
-                    50.87533
+                    5.566468,
+                    50.883727
                 ]
             }
         },
@@ -89,20 +47,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400743",
+                "ref:De_Lijn": "400732",
                 "bus": "yes",
-                "name": "Eigenbilzen Molendriesstraat",
+                "name": "Eigenbilzen Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LOCHTSTRAAT EIGENBILZEN",
+                "created_by": "DORPSSTRAAT EIGENBILZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.571127,
-                    50.881971
+                    5.575149,
+                    50.87533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "400740",
+                "bus": "yes",
+                "name": "Eigenbilzen Lochtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANGERHEISTRAAT EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.566843,
+                    50.884487
                 ]
             }
         },
@@ -131,28 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400739",
-                "bus": "yes",
-                "name": "Eigenbilzen Lochtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FIETENSTRAAT EIGENBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.566468,
-                    50.883727
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400736",
+                "ref:De_Lijn": "400737",
                 "bus": "yes",
                 "name": "Eigenbilzen Litsebeekstraat",
                 "public_transport": "platform",
@@ -164,92 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.566292,
-                    50.887397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400728",
-                "bus": "yes",
-                "name": "Eigenbilzen Brug Albertkanaal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEFAERTWEG EIGENBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.579005,
-                    50.88875
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400740",
-                "bus": "yes",
-                "name": "Eigenbilzen Lochtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANGERHEISTRAAT EIGENBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.566843,
-                    50.884487
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "400902",
-                "bus": "yes",
-                "name": "Eigenbilzen Haenenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAENENSTRAAT EIGENBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.573246,
-                    50.883109
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "400903",
-                "bus": "yes",
-                "name": "Eigenbilzen Vlasstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LITSEBEEK EIGENBILZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.573849,
-                    50.885575
+                    5.566422,
+                    50.886928
                 ]
             }
         },
@@ -257,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400742",
+                "ref:De_Lijn": "400743",
                 "bus": "yes",
                 "name": "Eigenbilzen Molendriesstraat",
                 "public_transport": "platform",
@@ -269,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.571245,
-                    50.881574
+                    5.571127,
+                    50.881971
                 ]
             }
         },
@@ -299,20 +173,83 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400741",
+                "ref:De_Lijn": "400728",
                 "bus": "yes",
-                "name": "Eigenbilzen Lochtstraat",
+                "name": "Eigenbilzen Brug Albertkanaal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LOCHTSTRAAT EIGENBILZEN",
+                "created_by": "HOEFAERTWEG EIGENBILZEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.56741,
-                    50.883897
+                    5.579005,
+                    50.88875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;702;706",
+                "ref:De_Lijn": "400738",
+                "bus": "yes",
+                "name": "Eigenbilzen Lochtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FIETENSTRAAT EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.566535,
+                    50.883555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;702;706",
+                "ref:De_Lijn": "400736",
+                "bus": "yes",
+                "name": "Eigenbilzen Litsebeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANGERHEISTRAAT EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.566292,
+                    50.887397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "400903",
+                "bus": "yes",
+                "name": "Eigenbilzen Vlasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LITSEBEEK EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.573849,
+                    50.885575
                 ]
             }
         },
@@ -334,6 +271,69 @@
                 "coordinates": [
                     5.561065,
                     50.877497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "400741",
+                "bus": "yes",
+                "name": "Eigenbilzen Lochtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOCHTSTRAAT EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.56741,
+                    50.883897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "400902",
+                "bus": "yes",
+                "name": "Eigenbilzen Haenenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAENENSTRAAT EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.573246,
+                    50.883109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;702;706",
+                "ref:De_Lijn": "400742",
+                "bus": "yes",
+                "name": "Eigenbilzen Molendriesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOCHTSTRAAT EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.571245,
+                    50.881574
                 ]
             }
         }

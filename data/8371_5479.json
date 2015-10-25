@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;53;54;270",
+                "route_ref:De_Lijn": "37;53;54",
                 "ref:De_Lijn": "202968",
                 "bus": "yes",
                 "name": "Lokeren Vogelzangstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "37;53;54;270",
+                "route_ref:De_Lijn": "37;53;54",
                 "ref:De_Lijn": "203968",
                 "bus": "yes",
                 "name": "Lokeren Vogelzangstraat",

@@ -25,49 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;440",
-                "ref:De_Lijn": "200605",
-                "bus": "yes",
-                "name": "Landskouter Rooberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROOBERG LANDSKOUTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.797295,
-                    50.965938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;440",
-                "ref:De_Lijn": "200603",
-                "bus": "yes",
-                "name": "Landskouter Aalmoezenijestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AALMOEZENIJESTRAAT LANDSKOUTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.797592,
-                    50.971962
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;440",
+                "route_ref:De_Lijn": "20",
                 "ref:De_Lijn": "200604",
                 "bus": "yes",
                 "name": "Landskouter Kerk",
@@ -88,28 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20",
-                "ref:De_Lijn": "201605",
-                "bus": "yes",
-                "name": "Landskouter Rooberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROOBERG LANDSKOUTER",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.798136,
-                    50.965816
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "49;440",
+                "route_ref:De_Lijn": "49",
                 "ref:De_Lijn": "202859",
                 "bus": "yes",
                 "name": "Moortsele Dorp",
@@ -131,6 +68,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "200605",
+                "bus": "yes",
+                "name": "Landskouter Rooberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOBERG LANDSKOUTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.797295,
+                    50.965938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
                 "ref:De_Lijn": "201604",
                 "bus": "yes",
                 "name": "Landskouter Kerk",
@@ -145,6 +103,48 @@
                 "coordinates": [
                     3.792822,
                     50.968478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "200603",
+                "bus": "yes",
+                "name": "Landskouter Aalmoezenijestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALMOEZENIJESTRAAT LANDSKOUTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.797592,
+                    50.971962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201605",
+                "bus": "yes",
+                "name": "Landskouter Rooberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOBERG LANDSKOUTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.798136,
+                    50.965816
                 ]
             }
         }

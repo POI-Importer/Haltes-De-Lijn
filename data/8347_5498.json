@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "508674",
+                "ref:De_Lijn": "503672",
                 "bus": "yes",
-                "name": "Otegem Sint-Annastraat",
+                "name": "Otegem Plaats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZWEVEGEMSTRAAT OTEGEM",
@@ -17,71 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.419212,
-                    50.808253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "508670",
-                "bus": "yes",
-                "name": "Otegem Bouw",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWEVEGEMSTRAAT OTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.412567,
-                    50.811265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "509842",
-                "bus": "yes",
-                "name": "Ingooigem Duiventil",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWEVEGEMSTRAAT INGOOIGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.420598,
-                    50.81622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "503670",
-                "bus": "yes",
-                "name": "Otegem Bouw",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZWEVEGEMSTRAAT OTEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.41267,
-                    50.811086
+                    3.423758,
+                    50.807948
                 ]
             }
         },
@@ -110,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "508672",
+                "ref:De_Lijn": "503674",
                 "bus": "yes",
-                "name": "Otegem Plaats",
+                "name": "Otegem Sint-Annastraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZWEVEGEMSTRAAT OTEGEM",
@@ -122,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.423643,
-                    50.808028
+                    3.419157,
+                    50.808144
                 ]
             }
         },
@@ -131,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "503672",
+                "ref:De_Lijn": "508670",
                 "bus": "yes",
-                "name": "Otegem Plaats",
+                "name": "Otegem Bouw",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZWEVEGEMSTRAAT OTEGEM",
@@ -143,15 +80,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.423758,
-                    50.807948
+                    3.412567,
+                    50.811265
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "72;89",
+                "route_ref:De_Lijn": "72",
                 "ref:De_Lijn": "503295",
                 "bus": "yes",
                 "name": "Ingooigem Zwevegemstraat",
@@ -173,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "92;99",
-                "ref:De_Lijn": "503674",
+                "ref:De_Lijn": "508674",
                 "bus": "yes",
                 "name": "Otegem Sint-Annastraat",
                 "public_transport": "platform",
@@ -185,8 +122,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.419157,
-                    50.808144
+                    3.419212,
+                    50.808253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;99",
+                "ref:De_Lijn": "508672",
+                "bus": "yes",
+                "name": "Otegem Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEGEMSTRAAT OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.423643,
+                    50.808028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;99",
+                "ref:De_Lijn": "503670",
+                "bus": "yes",
+                "name": "Otegem Bouw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEGEMSTRAAT OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.41267,
+                    50.811086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "509842",
+                "bus": "yes",
+                "name": "Ingooigem Duiventil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEGEMSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.420598,
+                    50.81622
                 ]
             }
         }

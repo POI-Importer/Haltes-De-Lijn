@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "441;446;447;670;673;679",
                 "ref:De_Lijn": "105892",
                 "bus": "yes",
                 "name": "Nieuwmoer Zilverhoekstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "441;446;447;670;673;679",
                 "ref:De_Lijn": "105891",
                 "bus": "yes",
                 "name": "Nieuwmoer Zilverhoekstraat",

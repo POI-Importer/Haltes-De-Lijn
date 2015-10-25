@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;64;79",
-                "ref:De_Lijn": "507491",
-                "bus": "yes",
-                "name": "Torhout Cambrinus",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTENDESTRAAT TORHOUT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.07079,
-                    51.075361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "51",
                 "ref:De_Lijn": "507577",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.071313,
                     51.075034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;64;79",
+                "ref:De_Lijn": "507491",
+                "bus": "yes",
+                "name": "Torhout Cambrinus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07079,
+                    51.075361
                 ]
             }
         },

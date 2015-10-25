@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H1;35c",
-                "ref:De_Lijn": "403408",
+                "ref:De_Lijn": "403407",
                 "bus": "yes",
                 "name": "Tuilt Pelgrimstraat",
                 "public_transport": "platform",
@@ -17,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.278224,
-                    50.945497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "405126",
-                "bus": "yes",
-                "name": "Kuringen Herckenrode Abdij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERKENRODEDREEF KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.28072,
-                    50.948732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H1;35c",
-                "ref:De_Lijn": "403409",
-                "bus": "yes",
-                "name": "Kuringen Heerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERSTRAAT KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.280672,
-                    50.946952
+                    5.278898,
+                    50.945762
                 ]
             }
         },
@@ -110,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "H1;35c",
-                "ref:De_Lijn": "403407",
+                "ref:De_Lijn": "403408",
                 "bus": "yes",
                 "name": "Tuilt Pelgrimstraat",
                 "public_transport": "platform",
@@ -122,29 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.278898,
-                    50.945762
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "H1;35c",
-                "ref:De_Lijn": "403417",
-                "bus": "yes",
-                "name": "Kuringen Heerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERSTRAAT KERMT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.280669,
-                    50.946818
+                    5.278224,
+                    50.945497
                 ]
             }
         },
@@ -166,6 +103,69 @@
                 "coordinates": [
                     5.294898,
                     50.945277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1;35c",
+                "ref:De_Lijn": "403409",
+                "bus": "yes",
+                "name": "Kuringen Heerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERSTRAAT KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280672,
+                    50.946952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "405126",
+                "bus": "yes",
+                "name": "Kuringen Herckenrode Abdij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERKENRODEDREEF KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28072,
+                    50.948732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1;35c",
+                "ref:De_Lijn": "403417",
+                "bus": "yes",
+                "name": "Kuringen Heerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERSTRAAT KERMT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280669,
+                    50.946818
                 ]
             }
         }

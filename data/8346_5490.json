@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54;75;88",
-                "ref:De_Lijn": "508778",
+                "route_ref:De_Lijn": "53;54;88",
+                "ref:De_Lijn": "508837",
                 "bus": "yes",
-                "name": "Sint-Baafs-Vijve Gaignaardstraat",
+                "name": "Wakken Plaats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAKKENSTEENWEG SINT-BAAFS-VIJVE",
+                "created_by": "WAPENPLAATS WAKKEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.395172,
-                    50.919607
+                    3.398074,
+                    50.930563
                 ]
             }
         },
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;54;88",
-                "ref:De_Lijn": "508837",
+                "route_ref:De_Lijn": "53;54;75;88",
+                "ref:De_Lijn": "508778",
                 "bus": "yes",
-                "name": "Wakken Plaats",
+                "name": "Sint-Baafs-Vijve Gaignaardstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAPENPLAATS WAKKEN",
+                "created_by": "WAKKENSTEENWEG SINT-BAAFS-VIJVE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.398074,
-                    50.930563
+                    3.395172,
+                    50.919607
                 ]
             }
         }

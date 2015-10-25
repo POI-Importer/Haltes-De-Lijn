@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "401945",
+                "bus": "yes",
+                "name": "Geel Kruispunt W/N Tongerlo",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942936,
+                    51.12296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "946",
                 "ref:De_Lijn": "101531",
                 "bus": "yes",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     4.942719,
                     51.122799
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "401945",
-                "bus": "yes",
-                "name": "Geel Kruispunt W/N Tongerlo",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "GROTESTEENWEG GEEL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.942936,
-                    51.12296
                 ]
             }
         },

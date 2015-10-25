@@ -4,70 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "414",
-                "ref:De_Lijn": "106181",
-                "bus": "yes",
-                "name": "Oostmalle Zwaluwenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIERSELEI OOSTMALLE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.72348,
-                    51.284073
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "414",
-                "ref:De_Lijn": "106179",
-                "bus": "yes",
-                "name": "Zoersel Schalmeidreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTMALLEBAAN ZOERSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.718753,
-                    51.278676
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "411;417;429",
-                "ref:De_Lijn": "106177",
-                "bus": "yes",
-                "name": "Zoersel Meerheide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTMALLEBAAN ZOERSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.70897,
-                    51.277482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "417;429",
                 "ref:De_Lijn": "109373",
                 "bus": "yes",
                 "name": "Westmalle Delften",
@@ -88,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "417;429",
                 "ref:De_Lijn": "106176",
                 "bus": "yes",
                 "name": "Zoersel Meerheide",
@@ -109,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;414",
                 "ref:De_Lijn": "106178",
                 "bus": "yes",
                 "name": "Zoersel Schalmeidreef",
@@ -130,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "411;417;429",
                 "ref:De_Lijn": "109372",
                 "bus": "yes",
                 "name": "Westmalle Delften",
@@ -151,7 +84,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "408;414",
+                "ref:De_Lijn": "106181",
+                "bus": "yes",
+                "name": "Oostmalle Zwaluwenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSELEI OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.72348,
+                    51.284073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106180",
                 "bus": "yes",
                 "name": "Oostmalle Zwaluwenlaan",
@@ -166,6 +118,46 @@
                 "coordinates": [
                     4.723395,
                     51.284226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106177",
+                "bus": "yes",
+                "name": "Zoersel Meerheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTMALLEBAAN ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.70897,
+                    51.277482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106179",
+                "bus": "yes",
+                "name": "Zoersel Schalmeidreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTMALLEBAAN ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.718753,
+                    51.278676
                 ]
             }
         }

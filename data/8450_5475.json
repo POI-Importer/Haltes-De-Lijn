@@ -26,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "401372",
+                "bus": "yes",
+                "name": "Tongerlo Veestraat 30",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEESTRAAT TONGERLO (BREE)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.675744,
+                    51.133673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
                 "ref:De_Lijn": "401358",
                 "bus": "yes",
                 "name": "Tongerlo Groenstraat Kapel",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.676495,
                     51.13192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "401373",
-                "bus": "yes",
-                "name": "Tongerlo Veestraat 30",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEESTRAAT TONGERLO (BREE)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.675874,
-                    51.133725
                 ]
             }
         },
@@ -89,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "401371",
-                "bus": "yes",
-                "name": "Tongerlo Veestraat 1",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLAVERSTRAAT TONGERLO (BREE)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.672153,
-                    51.136095
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746;748",
                 "ref:De_Lijn": "401359",
                 "bus": "yes",
                 "name": "Tongerlo Groenstraat Kapel",
@@ -131,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "401372",
+                "ref:De_Lijn": "401373",
                 "bus": "yes",
                 "name": "Tongerlo Veestraat 30",
                 "public_transport": "platform",
@@ -143,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.675744,
-                    51.133673
+                    5.675874,
+                    51.133725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "401371",
+                "bus": "yes",
+                "name": "Tongerlo Veestraat 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAVERSTRAAT TONGERLO (BREE)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672153,
+                    51.136095
                 ]
             }
         },

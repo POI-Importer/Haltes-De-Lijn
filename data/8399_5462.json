@@ -4,70 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "412;600;601;602;607;620;621;629",
-                "ref:De_Lijn": "105488",
-                "bus": "yes",
-                "name": "Sint-Job-in-'t-Goor Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.567309,
-                    51.304024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "621;Buur",
-                "ref:De_Lijn": "105492",
-                "bus": "yes",
-                "name": "Brasschaat De Mick",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAPESTRAAT BRASSCHAAT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.549108,
-                    51.310003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "443;621",
-                "ref:De_Lijn": "105491",
-                "bus": "yes",
-                "name": "Sint-Job-in-'t-Goor Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEUKENLEI SINT-JOB-IN-'T-GOOR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.56734,
-                    51.304581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "641",
                 "ref:De_Lijn": "101296",
                 "bus": "yes",
                 "name": "Brasschaat P+R Sint-Job-in-'t Goor",
@@ -88,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "412;443;600;601;602;607;620;621;629",
-                "ref:De_Lijn": "105489",
-                "bus": "yes",
-                "name": "Sint-Job-in-'t-Goor Kruispunt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.567222,
-                    51.303826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "443;621",
                 "ref:De_Lijn": "105493",
                 "bus": "yes",
                 "name": "Sint-Job-in-'t-Goor Kruispunt",
@@ -130,7 +44,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "443;621;641",
+                "route_ref:De_Lijn": "Buur",
+                "ref:De_Lijn": "105492",
+                "bus": "yes",
+                "name": "Brasschaat De Mick",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPESTRAAT BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.549108,
+                    51.310003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101298",
                 "bus": "yes",
                 "name": "Brasschaat P+R Sint-Job-in-'t Goor",
@@ -151,7 +85,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "443;621",
+                "ref:De_Lijn": "105491",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLEI SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.56734,
+                    51.304581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105489",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.567222,
+                    51.303826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101297",
                 "bus": "yes",
                 "name": "Brasschaat P+R Sint-Job-in-'t Goor",
@@ -166,6 +139,26 @@
                 "coordinates": [
                     4.555819,
                     51.309984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105488",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.567309,
+                    51.304024
                 ]
             }
         }

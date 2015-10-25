@@ -5,30 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58;62",
-                "ref:De_Lijn": "203137",
+                "ref:De_Lijn": "202045",
                 "bus": "yes",
-                "name": "Eeklo Droomschip",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLAKSTRAAT EEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.543312,
-                    51.191575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;62",
-                "ref:De_Lijn": "203046",
-                "bus": "yes",
-                "name": "Eeklo Blakstraat",
+                "name": "Eeklo Brugsesteenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUGSESTEENWEG EEKLO",
@@ -38,99 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.547479,
-                    51.192116
+                    3.552365,
+                    51.190856
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;66;195",
-                "ref:De_Lijn": "202393",
-                "bus": "yes",
-                "name": "Eeklo Nijverheidskaai",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSESTEENWEG EEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.553231,
-                    51.181396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;62;195",
-                "ref:De_Lijn": "202044",
-                "bus": "yes",
-                "name": "Eeklo Eikelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT EEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.558458,
-                    51.188453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "66;195",
-                "ref:De_Lijn": "200951",
-                "bus": "yes",
-                "name": "Eeklo Administratief Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INDUSTRIELAAN EEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.547915,
-                    51.181989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "64;66;67;96;97;160;195",
-                "ref:De_Lijn": "202394",
-                "bus": "yes",
-                "name": "Eeklo Kliniek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONING ALBERTSTRAAT EEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.559508,
-                    51.185601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;62;195",
+                "route_ref:De_Lijn": "58;62",
                 "ref:De_Lijn": "202137",
                 "bus": "yes",
                 "name": "Eeklo Droomschip",
@@ -151,21 +46,62 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66",
-                "ref:De_Lijn": "203076",
+                "ref:De_Lijn": "200918",
                 "bus": "yes",
-                "name": "Eeklo Slachthuisstraat",
+                "name": "Eeklo Broeken",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KORTE MOEIE EEKLO",
+                "created_by": "RAVERSCHOOTSTRAAT EEKLO",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.549052,
-                    51.183992
+                    3.540057,
+                    51.187984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;62",
+                "ref:De_Lijn": "202044",
+                "bus": "yes",
+                "name": "Eeklo Eikelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.558458,
+                    51.188453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;62",
+                "ref:De_Lijn": "202046",
+                "bus": "yes",
+                "name": "Eeklo Blakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.547323,
+                    51.19207
                 ]
             }
         },
@@ -193,10 +129,31 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;62;195",
-                "ref:De_Lijn": "202045",
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "200951",
                 "bus": "yes",
-                "name": "Eeklo Brugsesteenweg",
+                "name": "Eeklo Administratief Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIELAAN EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.547915,
+                    51.181989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;62",
+                "ref:De_Lijn": "203046",
+                "bus": "yes",
+                "name": "Eeklo Blakstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BRUGSESTEENWEG EEKLO",
@@ -206,29 +163,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.552365,
-                    51.190856
+                    3.547479,
+                    51.192116
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
-                "ref:De_Lijn": "200918",
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "203076",
                 "bus": "yes",
-                "name": "Eeklo Broeken",
+                "name": "Eeklo Slachthuisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RAVERSCHOOTSTRAAT EEKLO",
+                "created_by": "KORTE MOEIE EEKLO",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.540057,
-                    51.187984
+                    3.549052,
+                    51.183992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66;67;96;97",
+                "ref:De_Lijn": "202394",
+                "bus": "yes",
+                "name": "Eeklo Kliniek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.559508,
+                    51.185601
                 ]
             }
         },
@@ -256,7 +234,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;195",
+                "route_ref:De_Lijn": "58;62",
+                "ref:De_Lijn": "203137",
+                "bus": "yes",
+                "name": "Eeklo Droomschip",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAKSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.543312,
+                    51.191575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66",
+                "ref:De_Lijn": "202393",
+                "bus": "yes",
+                "name": "Eeklo Nijverheidskaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.553231,
+                    51.181396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
                 "ref:De_Lijn": "202076",
                 "bus": "yes",
                 "name": "Eeklo Slachthuisstraat",
@@ -271,27 +291,6 @@
                 "coordinates": [
                     3.549025,
                     51.183902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;62;195",
-                "ref:De_Lijn": "202046",
-                "bus": "yes",
-                "name": "Eeklo Blakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTEENWEG EEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.547323,
-                    51.19207
                 ]
             }
         }

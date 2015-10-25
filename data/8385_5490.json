@@ -25,21 +25,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "307495",
+                "route_ref:De_Lijn": "242",
+                "ref:De_Lijn": "303817",
                 "bus": "yes",
-                "name": "Mollem Bollebeek Stallaertplein",
+                "name": "Brussegem Huis nummer 20",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG NAAR KOBBEGEM MOLLEM",
+                "created_by": "STEENWEG OP ASSE BRUSSEGEM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.242665,
-                    50.92
+                    4.251456,
+                    50.924899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "242",
+                "ref:De_Lijn": "300264",
+                "bus": "yes",
+                "name": "Brussegem Bollebeek Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP ASSE BRUSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.245771,
+                    50.923338
                 ]
             }
         },
@@ -68,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "242",
-                "ref:De_Lijn": "300263",
-                "bus": "yes",
-                "name": "Brussegem Bollebeek Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP ASSE BRUSSEGEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.24489,
-                    50.923202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "242",
                 "ref:De_Lijn": "303815",
                 "bus": "yes",
                 "name": "Brussegem Huis nummer 13",
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "242",
-                "ref:De_Lijn": "300264",
+                "ref:De_Lijn": "300263",
                 "bus": "yes",
                 "name": "Brussegem Bollebeek Kapel",
                 "public_transport": "platform",
@@ -122,50 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.245771,
-                    50.923338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "242",
-                "ref:De_Lijn": "300265",
-                "bus": "yes",
-                "name": "Brussegem Bollebeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP ASSE BRUSSEGEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.242165,
-                    50.921123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "242",
-                "ref:De_Lijn": "303816",
-                "bus": "yes",
-                "name": "Brussegem Huis nummer 20",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP ASSE BRUSSEGEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.251257,
-                    50.92498
+                    4.24489,
+                    50.923202
                 ]
             }
         },
@@ -194,7 +152,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "242",
-                "ref:De_Lijn": "303817",
+                "ref:De_Lijn": "303816",
                 "bus": "yes",
                 "name": "Brussegem Huis nummer 20",
                 "public_transport": "platform",
@@ -206,8 +164,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.251456,
-                    50.924899
+                    4.251257,
+                    50.92498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "242",
+                "ref:De_Lijn": "300265",
+                "bus": "yes",
+                "name": "Brussegem Bollebeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP ASSE BRUSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.242165,
+                    50.921123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "307495",
+                "bus": "yes",
+                "name": "Mollem Bollebeek Stallaertplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG NAAR KOBBEGEM MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.242665,
+                    50.92
                 ]
             }
         }

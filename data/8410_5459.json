@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "432",
+                "ref:De_Lijn": "106288",
+                "bus": "yes",
+                "name": "Rijkevorsel Vorselmoerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKSPLASSESTEENWEG RIJKEVORSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.79068,
+                    51.346419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106287",
                 "bus": "yes",
                 "name": "Rijkevorsel Vorselmoerweg",
@@ -25,28 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "432",
-                "ref:De_Lijn": "106285",
-                "bus": "yes",
-                "name": "Rijkevorsel Reeweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MERKSPLASSESTEENWEG RIJKEVORSEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.805293,
-                    51.348208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "432",
                 "ref:De_Lijn": "106286",
                 "bus": "yes",
                 "name": "Rijkevorsel Reeweg",
@@ -67,10 +64,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "432",
-                "ref:De_Lijn": "106288",
+                "ref:De_Lijn": "106285",
                 "bus": "yes",
-                "name": "Rijkevorsel Vorselmoerweg",
+                "name": "Rijkevorsel Reeweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MERKSPLASSESTEENWEG RIJKEVORSEL",
@@ -80,8 +76,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.79068,
-                    51.346419
+                    4.805293,
+                    51.348208
                 ]
             }
         }

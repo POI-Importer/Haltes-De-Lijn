@@ -5,104 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38;74",
-                "ref:De_Lijn": "502181",
+                "ref:De_Lijn": "507180",
                 "bus": "yes",
-                "name": "Gits Rusthuis",
+                "name": "Gits Land Van Belofte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GITSBERGSTRAAT GITS",
+                "created_by": "BRUGGESTEENWEG GITS",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.098243,
-                    50.994567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38;74",
-                "ref:De_Lijn": "507686",
-                "bus": "yes",
-                "name": "Gits De Boomgaard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT GITS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.099659,
-                    50.997001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38;74",
-                "ref:De_Lijn": "502174",
-                "bus": "yes",
-                "name": "Gits Berg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GITSBERGSTRAAT GITS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.106971,
-                    50.988925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38;74",
-                "ref:De_Lijn": "507177",
-                "bus": "yes",
-                "name": "Gits Finance",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT GITS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.103149,
-                    50.997551
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38;74",
-                "ref:De_Lijn": "507181",
-                "bus": "yes",
-                "name": "Gits Rusthuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GITSBERGSTRAAT GITS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.098247,
-                    50.994432
+                    3.117188,
+                    50.990392
                 ]
             }
         },
@@ -152,6 +68,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "502177",
+                "bus": "yes",
+                "name": "Gits Finance",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.104046,
+                    50.997551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "507686",
+                "bus": "yes",
+                "name": "Gits De Boomgaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.099659,
+                    50.997001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
                 "ref:De_Lijn": "507174",
                 "bus": "yes",
                 "name": "Gits Berg",
@@ -173,7 +131,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38;74",
-                "ref:De_Lijn": "502177",
+                "ref:De_Lijn": "507181",
+                "bus": "yes",
+                "name": "Gits Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GITSBERGSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.098247,
+                    50.994432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "507177",
                 "bus": "yes",
                 "name": "Gits Finance",
                 "public_transport": "platform",
@@ -185,7 +164,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.104046,
+                    3.103149,
                     50.997551
                 ]
             }
@@ -215,6 +194,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "502181",
+                "bus": "yes",
+                "name": "Gits Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GITSBERGSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.098243,
+                    50.994567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "502174",
+                "bus": "yes",
+                "name": "Gits Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GITSBERGSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.106971,
+                    50.988925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
                 "ref:De_Lijn": "502180",
                 "bus": "yes",
                 "name": "Gits Land Van Belofte",
@@ -229,27 +250,6 @@
                 "coordinates": [
                     3.115641,
                     50.990717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "38;74",
-                "ref:De_Lijn": "507180",
-                "bus": "yes",
-                "name": "Gits Land Van Belofte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGGESTEENWEG GITS",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.117188,
-                    50.990392
                 ]
             }
         }

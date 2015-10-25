@@ -5,6 +5,111 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "302871",
+                "bus": "yes",
+                "name": "Racing",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSE STEENWEG UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373971,
+                    50.792847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "301134",
+                "bus": "yes",
+                "name": "Groene Jager",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSE STEENWEG UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373787,
+                    50.801351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "301138",
+                "bus": "yes",
+                "name": "Hamoirlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSE STEENWEG UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.375659,
+                    50.798187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "301137",
+                "bus": "yes",
+                "name": "Hamoirlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSE STEENWEG UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.375475,
+                    50.798385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "300016",
+                "bus": "yes",
+                "name": "Diesdelle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSE STEENWEG UKKEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.373687,
+                    50.795194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
                 "ref:De_Lijn": "301133",
                 "bus": "yes",
                 "name": "Groene Jager",
@@ -19,27 +124,6 @@
                 "coordinates": [
                     4.372823,
                     50.80252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "302872",
-                "bus": "yes",
-                "name": "Racing",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.374226,
-                    50.792685
                 ]
             }
         },
@@ -89,70 +173,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "300016",
-                "bus": "yes",
-                "name": "Diesdelle",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.373687,
-                    50.795194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "301138",
-                "bus": "yes",
-                "name": "Hamoirlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.375659,
-                    50.798187
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "301134",
-                "bus": "yes",
-                "name": "Groene Jager",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.373787,
-                    50.801351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "302871",
+                "ref:De_Lijn": "302872",
                 "bus": "yes",
                 "name": "Racing",
                 "public_transport": "platform",
@@ -164,29 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.373971,
-                    50.792847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "136;137",
-                "ref:De_Lijn": "301137",
-                "bus": "yes",
-                "name": "Hamoirlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WATERLOOSE STEENWEG UKKEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.375475,
-                    50.798385
+                    4.374226,
+                    50.792685
                 ]
             }
         }

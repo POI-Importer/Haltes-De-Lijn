@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "290",
                 "ref:De_Lijn": "204783",
                 "bus": "yes",
                 "name": "Hamme Waterstraat",

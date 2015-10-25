@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "102;160;164;732",
-                "ref:De_Lijn": "302113",
+                "ref:De_Lijn": "302111",
                 "bus": "yes",
-                "name": "Herfelingen Kapellestraat",
+                "name": "Herfelingen Centrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "STEENWEG ASSE HERFELINGEN",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.093543,
-                    50.739198
+                    4.097324,
+                    50.744376
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "102;160;164;732",
-                "ref:De_Lijn": "302112",
+                "ref:De_Lijn": "302113",
                 "bus": "yes",
                 "name": "Herfelingen Kapellestraat",
                 "public_transport": "platform",
@@ -59,50 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.093021,
-                    50.738829
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "102;160;164;732",
-                "ref:De_Lijn": "302111",
-                "bus": "yes",
-                "name": "Herfelingen Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG ASSE HERFELINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.097324,
-                    50.744376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "102;160;164;732",
-                "ref:De_Lijn": "302110",
-                "bus": "yes",
-                "name": "Herfelingen Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG ASSE HERFELINGEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.096915,
-                    50.744088
+                    4.093543,
+                    50.739198
                 ]
             }
         },
@@ -124,6 +82,48 @@
                 "coordinates": [
                     4.100615,
                     50.748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "102;160;164;732",
+                "ref:De_Lijn": "302112",
+                "bus": "yes",
+                "name": "Herfelingen Kapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ASSE HERFELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.093021,
+                    50.738829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "102;160;164;732",
+                "ref:De_Lijn": "302110",
+                "bus": "yes",
+                "name": "Herfelingen Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ASSE HERFELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.096915,
+                    50.744088
                 ]
             }
         }

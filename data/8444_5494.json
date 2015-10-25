@@ -5,175 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "401117",
-                "bus": "yes",
-                "name": "Waltwilder Verbindingsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VERBINDINGSSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.545068,
-                    50.866313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "400976",
-                "bus": "yes",
-                "name": "Waltwilder Wilderpark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-REMIGIUSSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.545874,
-                    50.86163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409614",
-                "bus": "yes",
-                "name": "Waltwilder Basisschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.547753,
-                    50.86402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409616",
-                "bus": "yes",
-                "name": "Hoelbeek Basisschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOELBEEKSTRAAT HOELBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.557518,
-                    50.872076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "706",
-                "ref:De_Lijn": "409639",
-                "bus": "yes",
-                "name": "Hoelbeek Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOELBEEKSTRAAT HOELBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.55882,
-                    50.873546
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409610",
-                "bus": "yes",
-                "name": "Waltwilder Langstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.547152,
-                    50.873475
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400889",
-                "bus": "yes",
-                "name": "Waltwilder Sportveldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.541646,
-                    50.863533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "400939",
-                "bus": "yes",
-                "name": "Waltwilder Sportveldstraat 6",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPORTVELDSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.54259,
-                    50.862642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409343",
+                "ref:De_Lijn": "409344",
                 "bus": "yes",
                 "name": "Hoelbeek Jonckholtstraat",
                 "public_transport": "platform",
@@ -185,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.554933,
-                    50.874952
+                    5.555002,
+                    50.874844
                 ]
             }
         },
@@ -215,69 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409617",
-                "bus": "yes",
-                "name": "Hoelbeek Basisschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOELBEEKSTRAAT HOELBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.557245,
-                    50.87198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400887",
-                "bus": "yes",
-                "name": "Waltwilder Sint-Remigiusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.547182,
-                    50.86337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "401119",
-                "bus": "yes",
-                "name": "Waltwilder Verbindingsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VERBINDINGSSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.544953,
-                    50.86626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
                 "ref:De_Lijn": "409611",
                 "bus": "yes",
                 "name": "Waltwilder Langstraat",
@@ -298,8 +67,50 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "409664",
+                "bus": "yes",
+                "name": "Hoelbeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOELBEEKSTRAAT HOELBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.558872,
+                    50.873357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "400976",
+                "bus": "yes",
+                "name": "Waltwilder Wilderpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-REMIGIUSSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.545874,
+                    50.86163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "20a",
-                "ref:De_Lijn": "400888",
+                "ref:De_Lijn": "400889",
                 "bus": "yes",
                 "name": "Waltwilder Sportveldstraat",
                 "public_transport": "platform",
@@ -311,92 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.542918,
-                    50.863278
+                    5.541646,
+                    50.863533
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "400790",
+                "route_ref:De_Lijn": "20a;702;706",
+                "ref:De_Lijn": "400885",
                 "bus": "yes",
-                "name": "Waltwilder Pastorie",
+                "name": "Waltwilder Maastrichterstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WALTWILDERSTRAAT WALTWILDER",
+                "created_by": "MAASTRICHTERSTRAAT WALTWILDER",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.544424,
-                    50.86498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702",
-                "ref:De_Lijn": "409613",
-                "bus": "yes",
-                "name": "Waltwilder Achterveldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.545909,
-                    50.868678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409344",
-                "bus": "yes",
-                "name": "Hoelbeek Jonckholtstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JONCKHOLTSTRAAT HOELBEEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.555002,
-                    50.874844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "702",
-                "ref:De_Lijn": "409615",
-                "bus": "yes",
-                "name": "Waltwilder Basisschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.547757,
-                    50.864182
+                    5.551319,
+                    50.862896
                 ]
             }
         },
@@ -425,9 +173,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409612",
+                "ref:De_Lijn": "409610",
                 "bus": "yes",
-                "name": "Waltwilder Achterveldstraat",
+                "name": "Waltwilder Langstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LANGSTRAAT WALTWILDER",
@@ -437,8 +185,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.545766,
-                    50.868652
+                    5.547152,
+                    50.873475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "409615",
+                "bus": "yes",
+                "name": "Waltwilder Basisschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.547757,
+                    50.864182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "400978",
+                "bus": "yes",
+                "name": "Waltwilder Sportveldstraat 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTVELDSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.542635,
+                    50.86275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "401117",
+                "bus": "yes",
+                "name": "Waltwilder Verbindingsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.545068,
+                    50.866313
                 ]
             }
         },
@@ -466,8 +277,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "702;706",
-                "ref:De_Lijn": "409664",
+                "route_ref:De_Lijn": "706",
+                "ref:De_Lijn": "409639",
                 "bus": "yes",
                 "name": "Hoelbeek Kerk",
                 "public_transport": "platform",
@@ -479,8 +290,197 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.558872,
-                    50.873357
+                    5.55882,
+                    50.873546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "400887",
+                "bus": "yes",
+                "name": "Waltwilder Sint-Remigiusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.547182,
+                    50.86337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "400888",
+                "bus": "yes",
+                "name": "Waltwilder Sportveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.542918,
+                    50.863278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "409612",
+                "bus": "yes",
+                "name": "Waltwilder Achterveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.545766,
+                    50.868652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "409617",
+                "bus": "yes",
+                "name": "Hoelbeek Basisschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOELBEEKSTRAAT HOELBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.557245,
+                    50.87198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "409616",
+                "bus": "yes",
+                "name": "Hoelbeek Basisschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOELBEEKSTRAAT HOELBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.557518,
+                    50.872076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "409613",
+                "bus": "yes",
+                "name": "Waltwilder Achterveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.545909,
+                    50.868678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "409343",
+                "bus": "yes",
+                "name": "Hoelbeek Jonckholtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONCKHOLTSTRAAT HOELBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554933,
+                    50.874952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "409614",
+                "bus": "yes",
+                "name": "Waltwilder Basisschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.547753,
+                    50.86402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "400790",
+                "bus": "yes",
+                "name": "Waltwilder Pastorie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WALTWILDERSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.544424,
+                    50.86498
                 ]
             }
         },
@@ -508,29 +508,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20a;702;706",
-                "ref:De_Lijn": "400885",
-                "bus": "yes",
-                "name": "Waltwilder Maastrichterstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTRAAT WALTWILDER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.551319,
-                    50.862896
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "704;706",
-                "ref:De_Lijn": "400978",
+                "ref:De_Lijn": "400939",
                 "bus": "yes",
                 "name": "Waltwilder Sportveldstraat 6",
                 "public_transport": "platform",
@@ -542,8 +521,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.542635,
-                    50.86275
+                    5.54259,
+                    50.862642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "401119",
+                "bus": "yes",
+                "name": "Waltwilder Verbindingsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.544953,
+                    50.86626
                 ]
             }
         }

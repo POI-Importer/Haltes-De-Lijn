@@ -4,133 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84;390",
-                "ref:De_Lijn": "206460",
-                "bus": "yes",
-                "name": "Aaigem Kwakkel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OPAAIGEM AAIGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.929592,
-                    50.897053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;93;385;390",
-                "ref:De_Lijn": "206488",
-                "bus": "yes",
-                "name": "Burst Stationsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT BURST",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.923513,
-                    50.902451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93",
-                "ref:De_Lijn": "207646",
-                "bus": "yes",
-                "name": "Aaigem Kwakkel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWAKKEL AAIGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.929035,
-                    50.897303
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93;385;390",
-                "ref:De_Lijn": "206645",
-                "bus": "yes",
-                "name": "Ressegem Veldhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RESSEGEMSTRAAT RESSEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.91533,
-                    50.894572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93",
-                "ref:De_Lijn": "207644",
-                "bus": "yes",
-                "name": "Ressegem Kamerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RESSEGEMSTRAAT RESSEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.913322,
-                    50.893422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "93;385",
-                "ref:De_Lijn": "206646",
-                "bus": "yes",
-                "name": "Aaigem Kwakkel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KWAKKEL AAIGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.929064,
-                    50.897195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;84;385;390",
+                "route_ref:De_Lijn": "81;84",
                 "ref:De_Lijn": "206461",
                 "bus": "yes",
                 "name": "Aaigem Populierenstraat",
@@ -145,6 +19,27 @@
                 "coordinates": [
                     3.931598,
                     50.89529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;93",
+                "ref:De_Lijn": "207488",
+                "bus": "yes",
+                "name": "Burst Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT BURST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.923731,
+                    50.902011
                 ]
             }
         },
@@ -166,6 +61,27 @@
                 "coordinates": [
                     3.929335,
                     50.897088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "206646",
+                "bus": "yes",
+                "name": "Aaigem Kwakkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKEL AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929064,
+                    50.897195
                 ]
             }
         },
@@ -194,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84;93",
-                "ref:De_Lijn": "207488",
+                "ref:De_Lijn": "206488",
                 "bus": "yes",
                 "name": "Burst Stationsstraat",
                 "public_transport": "platform",
@@ -206,8 +122,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.923731,
-                    50.902011
+                    3.923513,
+                    50.902451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "206645",
+                "bus": "yes",
+                "name": "Ressegem Veldhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RESSEGEMSTRAAT RESSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.91533,
+                    50.894572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "206644",
+                "bus": "yes",
+                "name": "Ressegem Kamerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RESSEGEMSTRAAT RESSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.913437,
+                    50.893351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "207646",
+                "bus": "yes",
+                "name": "Aaigem Kwakkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKEL AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929035,
+                    50.897303
                 ]
             }
         },
@@ -235,8 +214,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "93;385;390",
-                "ref:De_Lijn": "206644",
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "206460",
+                "bus": "yes",
+                "name": "Aaigem Kwakkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPAAIGEM AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929592,
+                    50.897053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "207644",
                 "bus": "yes",
                 "name": "Ressegem Kamerstraat",
                 "public_transport": "platform",
@@ -248,8 +248,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.913437,
-                    50.893351
+                    3.913322,
+                    50.893422
                 ]
             }
         }

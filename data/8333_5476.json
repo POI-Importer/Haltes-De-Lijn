@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505024",
-                "bus": "yes",
-                "name": "Aartrijke Wildebeke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WILDEBEEKSTRAAT AARTRIJKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.106609,
-                    51.112986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "79",
                 "ref:De_Lijn": "505743",
                 "bus": "yes",
                 "name": "Aartrijke Berkenhaag",
@@ -40,6 +19,69 @@
                 "coordinates": [
                     3.117571,
                     51.113768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;79;94",
+                "ref:De_Lijn": "502010",
+                "bus": "yes",
+                "name": "Aartrijke Wagenmakerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.099138,
+                    51.120377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;79;94",
+                "ref:De_Lijn": "502006",
+                "bus": "yes",
+                "name": "Aartrijke Litterveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.110528,
+                    51.122333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505024",
+                "bus": "yes",
+                "name": "Aartrijke Wildebeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILDEBEEKSTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.106609,
+                    51.112986
                 ]
             }
         },
@@ -68,27 +110,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "55;79;94",
-                "ref:De_Lijn": "502006",
-                "bus": "yes",
-                "name": "Aartrijke Litterveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTRAAT AARTRIJKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.110528,
-                    51.122333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;79;94",
                 "ref:De_Lijn": "507010",
                 "bus": "yes",
                 "name": "Aartrijke Wagenmakerij",
@@ -103,27 +124,6 @@
                 "coordinates": [
                     3.099241,
                     51.12027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55;79;94",
-                "ref:De_Lijn": "502010",
-                "bus": "yes",
-                "name": "Aartrijke Wagenmakerij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSESTRAAT AARTRIJKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.099138,
-                    51.120377
                 ]
             }
         }

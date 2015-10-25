@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "104514",
+                "bus": "yes",
+                "name": "Sint-Amands J. Cardijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUISSTRAAT SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.212212,
+                    51.054171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "107789",
                 "bus": "yes",
                 "name": "Sint-Amands De Valk",
@@ -25,49 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
-                "ref:De_Lijn": "102654",
-                "bus": "yes",
-                "name": "Sint-Amands Boonhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LARENDRIES SINT-AMANDS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.210347,
-                    51.044712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
-                "ref:De_Lijn": "107788",
-                "bus": "yes",
-                "name": "Sint-Amands Dorekensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LARENDRIES SINT-AMANDS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.214049,
-                    51.042254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253;254;257;938",
                 "ref:De_Lijn": "107792",
                 "bus": "yes",
                 "name": "Sint-Amands Station",
@@ -89,20 +65,60 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "101222",
+                "ref:De_Lijn": "107793",
                 "bus": "yes",
-                "name": "Sint-Amands Gemeentehuis",
+                "name": "Sint-Amands Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LIVIEN VAN DER LOOYSTRAAT SINT-AMANDS",
+                "created_by": "MARTHE MASSINSTRAAT SINT-AMANDS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.204979,
-                    51.054809
+                    4.206672,
+                    51.051926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102649",
+                "bus": "yes",
+                "name": "Sint-Amands Kouterpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKKESTRAAT SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.203218,
+                    51.052685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107788",
+                "bus": "yes",
+                "name": "Sint-Amands Dorekensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LARENDRIES SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.214049,
+                    51.042254
                 ]
             }
         },
@@ -130,7 +146,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
                 "ref:De_Lijn": "104515",
                 "bus": "yes",
                 "name": "Sint-Amands J. Cardijnlaan",
@@ -151,70 +166,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "102649",
+                "ref:De_Lijn": "101222",
                 "bus": "yes",
-                "name": "Sint-Amands Kouterpark",
+                "name": "Sint-Amands Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEKKESTRAAT SINT-AMANDS",
+                "created_by": "LIVIEN VAN DER LOOYSTRAAT SINT-AMANDS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.203218,
-                    51.052685
+                    4.204979,
+                    51.054809
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
-                "ref:De_Lijn": "107791",
+                "ref:De_Lijn": "102654",
                 "bus": "yes",
-                "name": "Sint-Amands De Valk",
+                "name": "Sint-Amands Boonhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WINKELSTRAAT SINT-AMANDS",
+                "created_by": "LARENDRIES SINT-AMANDS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.208956,
-                    51.047173
+                    4.210347,
+                    51.044712
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
-                "ref:De_Lijn": "104514",
-                "bus": "yes",
-                "name": "Sint-Amands J. Cardijnlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BUISSTRAAT SINT-AMANDS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.212212,
-                    51.054171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
                 "ref:De_Lijn": "102653",
                 "bus": "yes",
                 "name": "Sint-Amands Boonhof",
@@ -229,6 +220,26 @@
                 "coordinates": [
                     4.210276,
                     51.044604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107787",
+                "bus": "yes",
+                "name": "Sint-Amands Dorekensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LARENDRIES SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.214177,
+                    51.042326
                 ]
             }
         },
@@ -256,42 +267,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;257;938",
-                "ref:De_Lijn": "107793",
+                "ref:De_Lijn": "107791",
                 "bus": "yes",
-                "name": "Sint-Amands Station",
+                "name": "Sint-Amands De Valk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MARTHE MASSINSTRAAT SINT-AMANDS",
+                "created_by": "WINKELSTRAAT SINT-AMANDS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.206672,
-                    51.051926
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253;254;257",
-                "ref:De_Lijn": "107787",
-                "bus": "yes",
-                "name": "Sint-Amands Dorekensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LARENDRIES SINT-AMANDS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.214177,
-                    51.042326
+                    4.208956,
+                    51.047173
                 ]
             }
         }

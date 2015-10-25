@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "700",
-                "ref:De_Lijn": "409141",
-                "bus": "yes",
-                "name": "Berlingen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERLINGENSTRAAT BERLINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.310362,
-                    50.817584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23a;700",
-                "ref:De_Lijn": "409058",
-                "bus": "yes",
-                "name": "Berlingen Bronstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGSTRAAT BERLINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.303788,
-                    50.81671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23a;700",
-                "ref:De_Lijn": "409059",
-                "bus": "yes",
-                "name": "Berlingen Bronstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGSTRAAT BERLINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.304688,
-                    50.816982
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "700",
-                "ref:De_Lijn": "409142",
-                "bus": "yes",
-                "name": "Berlingen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRONSTRAAT BERLINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.310163,
-                    50.817576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "23a;700",
                 "ref:De_Lijn": "400990",
                 "bus": "yes",
@@ -166,6 +82,90 @@
                 "coordinates": [
                     5.315348,
                     50.814972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "409142",
+                "bus": "yes",
+                "name": "Berlingen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRONSTRAAT BERLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310163,
+                    50.817576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "409141",
+                "bus": "yes",
+                "name": "Berlingen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERLINGENSTRAAT BERLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310362,
+                    50.817584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a;700",
+                "ref:De_Lijn": "409058",
+                "bus": "yes",
+                "name": "Berlingen Bronstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT BERLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.303788,
+                    50.81671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a;700",
+                "ref:De_Lijn": "409059",
+                "bus": "yes",
+                "name": "Berlingen Bronstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT BERLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.304688,
+                    50.816982
                 ]
             }
         },

@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;50;57;59",
-                "ref:De_Lijn": "509266",
+                "ref:De_Lijn": "509268",
                 "bus": "yes",
-                "name": "Lo Monument",
+                "name": "Lo Violier",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "2DE GENIELAAN LO",
+                "created_by": "RABBELARESTEENWEG LO",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.74679,
-                    50.98667
+                    2.747744,
+                    50.992869
                 ]
             }
         },
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "49;57",
+                "route_ref:De_Lijn": "49",
                 "ref:De_Lijn": "505819",
                 "bus": "yes",
                 "name": "Lo Blauwvoet 10",
@@ -89,20 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "24;50;57;59",
-                "ref:De_Lijn": "509268",
+                "ref:De_Lijn": "509266",
                 "bus": "yes",
-                "name": "Lo Violier",
+                "name": "Lo Monument",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RABBELARESTEENWEG LO",
+                "created_by": "2DE GENIELAAN LO",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.747744,
-                    50.992869
+                    2.74679,
+                    50.98667
                 ]
             }
         }

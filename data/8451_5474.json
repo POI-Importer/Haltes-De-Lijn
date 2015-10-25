@@ -26,6 +26,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "16;40;14b",
+                "ref:De_Lijn": "401345",
+                "bus": "yes",
+                "name": "Tongerlo 't Hasselt Kiezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T HASSELTKIEZEL BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.703027,
+                    51.144865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;40;14b",
                 "ref:De_Lijn": "401365",
                 "bus": "yes",
                 "name": "Tongerlo Klaverblad",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.705546,
                     51.145008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;40;14b",
-                "ref:De_Lijn": "401345",
-                "bus": "yes",
-                "name": "Tongerlo 't Hasselt Kiezel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "'T HASSELTKIEZEL BREE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.703027,
-                    51.144865
                 ]
             }
         }

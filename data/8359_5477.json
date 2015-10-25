@@ -4,7 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201853",
+                "bus": "yes",
+                "name": "Evergem Draailingstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.687233,
+                    51.107357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "208888",
                 "bus": "yes",
                 "name": "Evergem Weverstraat",
@@ -40,27 +59,6 @@
                 "coordinates": [
                     3.672588,
                     51.104116
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "150",
-                "ref:De_Lijn": "201853",
-                "bus": "yes",
-                "name": "Evergem Draailingstraatje",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOONSTRAAT EVERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.687233,
-                    51.107357
                 ]
             }
         },
@@ -109,7 +107,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150;160",
                 "ref:De_Lijn": "201852",
                 "bus": "yes",
                 "name": "Evergem Molenhoek",

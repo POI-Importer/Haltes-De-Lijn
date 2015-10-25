@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "191",
                 "ref:De_Lijn": "101848",
                 "bus": "yes",
                 "name": "Waarloos Hondstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;191;556",
                 "ref:De_Lijn": "106852",
                 "bus": "yes",
                 "name": "Waarloos Oude Baan",
@@ -46,28 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "191",
-                "ref:De_Lijn": "101849",
-                "bus": "yes",
-                "name": "Waarloos Hondstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VALVEKEN KONTICH",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.43872,
-                    51.106901
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "556",
                 "ref:De_Lijn": "106848",
                 "bus": "yes",
                 "name": "Waarloos Jan Baptist Francisstraat",
@@ -88,7 +64,67 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "556",
+                "ref:De_Lijn": "106851",
+                "name": "Waarloos Kerk",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "FERDINAND MAESSTRAAT WAARLOOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.454281,
+                    51.105686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101849",
+                "bus": "yes",
+                "name": "Waarloos Hondstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VALVEKEN KONTICH",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43872,
+                    51.106901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100255",
+                "name": "Waarloos Kerk NB2000",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "FERDINAND MAESSTRAAT WAARLOOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.454324,
+                    51.105434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106847",
                 "bus": "yes",
                 "name": "Waarloos Jan Baptist Francisstraat",
@@ -109,49 +145,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;556",
-                "ref:De_Lijn": "106851",
-                "bus": "yes",
-                "name": "Waarloos Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FERDINAND MAESSTRAAT WAARLOOS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.454281,
-                    51.105686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "100255",
-                "bus": "yes",
-                "name": "Waarloos Kerk NB2000",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "FERDINAND MAESSTRAAT WAARLOOS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.454324,
-                    51.105434
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "191",
                 "ref:De_Lijn": "101851",
                 "bus": "yes",
                 "name": "Waarloos Oude Baan",
@@ -172,28 +165,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "91;556",
-                "ref:De_Lijn": "106849",
-                "bus": "yes",
-                "name": "Waarloos Kerkelei",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKELEI WAARLOOS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.452051,
-                    51.104222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "556",
                 "ref:De_Lijn": "106850",
                 "bus": "yes",
                 "name": "Waarloos Kerkelei",
@@ -208,6 +179,26 @@
                 "coordinates": [
                     4.450951,
                     51.103513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106849",
+                "bus": "yes",
+                "name": "Waarloos Kerkelei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKELEI WAARLOOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452051,
+                    51.104222
                 ]
             }
         }

@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;330;370",
-                "ref:De_Lijn": "206625",
-                "bus": "yes",
-                "name": "Waarbeke Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WALLESTRAAT WAARBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.968232,
-                    50.778006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "77",
                 "ref:De_Lijn": "207627",
                 "bus": "yes",
@@ -40,6 +19,69 @@
                 "coordinates": [
                     3.962635,
                     50.767685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "207626",
+                "bus": "yes",
+                "name": "Waarbeke Dorekensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WALLESTRAAT WAARBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.963179,
+                    50.776946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "207625",
+                "bus": "yes",
+                "name": "Waarbeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WALLESTRAAT WAARBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.96799,
+                    50.778068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "207628",
+                "bus": "yes",
+                "name": "Galmaarden Bruynbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUINSBROEKSTRAAT GALMAARDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.95912,
+                    50.767591
                 ]
             }
         },
@@ -67,8 +109,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "77;330",
-                "ref:De_Lijn": "207626",
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "206626",
                 "bus": "yes",
                 "name": "Waarbeke Dorekensstraat",
                 "public_transport": "platform",
@@ -80,29 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.963179,
-                    50.776946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77;330",
-                "ref:De_Lijn": "207625",
-                "bus": "yes",
-                "name": "Waarbeke Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WALLESTRAAT WAARBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.96799,
-                    50.778068
+                    3.963406,
+                    50.776893
                 ]
             }
         },
@@ -131,30 +152,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "207628",
+                "ref:De_Lijn": "206625",
                 "bus": "yes",
-                "name": "Galmaarden Bruynbroekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUINSBROEKSTRAAT GALMAARDEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.95912,
-                    50.767591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77;330;370",
-                "ref:De_Lijn": "206626",
-                "bus": "yes",
-                "name": "Waarbeke Dorekensstraat",
+                "name": "Waarbeke Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WALLESTRAAT WAARBEKE",
@@ -164,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.963406,
-                    50.776893
+                    3.968232,
+                    50.778006
                 ]
             }
         }

@@ -5,48 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404685",
-                "bus": "yes",
-                "name": "Wihogne Navicelle",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.516723,
-                    50.72152
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404666",
-                "bus": "yes",
-                "name": "Juprelle Maison Communale",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DU TIGE JUPRELLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.531652,
-                    50.709495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
                 "ref:De_Lijn": "404671",
                 "bus": "yes",
                 "name": "Juprelle Route de Xhendremael",
@@ -89,30 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404672",
+                "ref:De_Lijn": "404669",
                 "bus": "yes",
-                "name": "Juprelle Route de Xhendremael",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE DE TONGRES JUPRELLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.524771,
-                    50.708952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404660",
-                "bus": "yes",
-                "name": "Paifve Chapelle",
+                "name": "Juprelle Potale",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "CHAUSSÉE BRUNEHAUT JUPRELLE",
@@ -122,50 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.527653,
-                    50.719038
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404662",
-                "bus": "yes",
-                "name": "Paifve Chaussée Brunehault",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHAUSSÉE BRUNEHAUT NUDORP",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.52371,
-                    50.721685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404670",
-                "bus": "yes",
-                "name": "Juprelle Route de Xhendremael",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RUE DU TIGE JUPRELLE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.52542,
-                    50.708838
+                    5.533582,
+                    50.714825
                 ]
             }
         },
@@ -194,20 +89,62 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404661",
+                "ref:De_Lijn": "404660",
                 "bus": "yes",
                 "name": "Paifve Chapelle",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE BRUNEHAUT PAIFVE",
+                "created_by": "CHAUSSÉE BRUNEHAUT JUPRELLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.527768,
-                    50.719118
+                    5.527653,
+                    50.719038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404670",
+                "bus": "yes",
+                "name": "Juprelle Route de Xhendremael",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DU TIGE JUPRELLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.52542,
+                    50.708838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404685",
+                "bus": "yes",
+                "name": "Wihogne Navicelle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TONGRES NUDORP",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516723,
+                    50.72152
                 ]
             }
         },
@@ -236,20 +173,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "404669",
+                "ref:De_Lijn": "404672",
                 "bus": "yes",
-                "name": "Juprelle Potale",
+                "name": "Juprelle Route de Xhendremael",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CHAUSSÉE BRUNEHAUT JUPRELLE",
+                "created_by": "CHAUSSÉE DE TONGRES JUPRELLE",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.533582,
-                    50.714825
+                    5.524771,
+                    50.708952
                 ]
             }
         },
@@ -292,6 +229,69 @@
                 "coordinates": [
                     5.524076,
                     50.721591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404666",
+                "bus": "yes",
+                "name": "Juprelle Maison Communale",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DU TIGE JUPRELLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.531652,
+                    50.709495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404661",
+                "bus": "yes",
+                "name": "Paifve Chapelle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE BRUNEHAUT PAIFVE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.527768,
+                    50.719118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404662",
+                "bus": "yes",
+                "name": "Paifve Chaussée Brunehault",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE BRUNEHAUT NUDORP",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.52371,
+                    50.721685
                 ]
             }
         }

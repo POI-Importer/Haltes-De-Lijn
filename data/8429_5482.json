@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30;52;90",
-                "ref:De_Lijn": "400580",
-                "bus": "yes",
-                "name": "Beringen Oude Lummenseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUMMENSEWEG HEK",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.215681,
-                    51.040725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;52;90",
                 "ref:De_Lijn": "400581",
                 "bus": "yes",
                 "name": "Beringen Oude Lummenseweg",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     5.215747,
                     51.040428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52;90",
+                "ref:De_Lijn": "405919",
+                "bus": "yes",
+                "name": "Gestel Hegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.210674,
+                    51.031097
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "30;52;90",
-                "ref:De_Lijn": "405919",
+                "ref:De_Lijn": "400580",
                 "bus": "yes",
-                "name": "Gestel Hegstraat",
+                "name": "Beringen Oude Lummenseweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GESTELSTRAAT LUMMEN",
+                "created_by": "LUMMENSEWEG HEK",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.210674,
-                    51.031097
+                    5.215681,
+                    51.040725
                 ]
             }
         }

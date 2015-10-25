@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;125",
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "201661",
                 "bus": "yes",
                 "name": "Gottem Heirbaan",

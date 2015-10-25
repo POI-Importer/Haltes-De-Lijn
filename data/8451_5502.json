@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408828",
+                "bus": "yes",
+                "name": "Moelingen Spoorwegbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N653 MOELINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.707951,
+                    50.751593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
                 "ref:De_Lijn": "408824",
                 "bus": "yes",
                 "name": "Moelingen Centrum",
@@ -19,48 +40,6 @@
                 "coordinates": [
                     5.710025,
                     50.757225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408822",
-                "bus": "yes",
-                "name": "Moelingen Berwinebrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N653 MOELINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.712234,
-                    50.755653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408829",
-                "bus": "yes",
-                "name": "Moelingen Spoorwegbrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N653 MOELINGEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.707373,
-                    50.751177
                 ]
             }
         },
@@ -89,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408828",
+                "ref:De_Lijn": "408829",
                 "bus": "yes",
                 "name": "Moelingen Spoorwegbrug",
                 "public_transport": "platform",
@@ -101,8 +80,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.707951,
-                    50.751593
+                    5.707373,
+                    50.751177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408822",
+                "bus": "yes",
+                "name": "Moelingen Berwinebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N653 MOELINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.712234,
+                    50.755653
                 ]
             }
         }

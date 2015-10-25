@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;30",
-                "ref:De_Lijn": "509224",
-                "bus": "yes",
-                "name": "Klerken Cafe De Haan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STOKSTRAAT KLERKEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.916639,
-                    50.980437
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "20;28",
-                "ref:De_Lijn": "504627",
+                "ref:De_Lijn": "509627",
                 "bus": "yes",
                 "name": "Houthulst Steenbeekstraat nummer 2",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.905788,
-                    50.973973
+                    2.905612,
+                    50.97415
                 ]
             }
         },
@@ -88,27 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;28",
-                "ref:De_Lijn": "509627",
-                "bus": "yes",
-                "name": "Houthulst Steenbeekstraat nummer 2",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENBEEKSTRAAT JONKERSHOVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.905612,
-                    50.97415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "28;30",
                 "ref:De_Lijn": "504685",
                 "bus": "yes",
@@ -131,6 +89,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509224",
+                "bus": "yes",
+                "name": "Klerken Cafe De Haan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKSTRAAT KLERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916639,
+                    50.980437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
                 "ref:De_Lijn": "509685",
                 "bus": "yes",
                 "name": "Klerken Schoolstraat",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     2.920997,
                     50.974449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "504627",
+                "bus": "yes",
+                "name": "Houthulst Steenbeekstraat nummer 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBEEKSTRAAT JONKERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.905788,
+                    50.973973
                 ]
             }
         }

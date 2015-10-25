@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "504389",
+                "ref:De_Lijn": "509389",
                 "bus": "yes",
                 "name": "Poelkapelle Schaapbaliedreef",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.964275,
-                    50.942561
+                    2.96449,
+                    50.94251
                 ]
             }
         },
@@ -68,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;40",
-                "ref:De_Lijn": "509389",
-                "bus": "yes",
-                "name": "Poelkapelle Schaapbaliedreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STADENSTEENWEG SCHAAPBALIE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.96449,
-                    50.94251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;40",
                 "ref:De_Lijn": "509386",
                 "bus": "yes",
                 "name": "Poelkapelle Bareelstraat",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     2.952104,
                     50.9389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "504389",
+                "bus": "yes",
+                "name": "Poelkapelle Schaapbaliedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STADENSTEENWEG SCHAAPBALIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.964275,
+                    50.942561
                 ]
             }
         }

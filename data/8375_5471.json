@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;85;240",
+                "route_ref:De_Lijn": "41;85",
                 "ref:De_Lijn": "205403",
                 "bus": "yes",
                 "name": "Stekene Colputstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;85;240",
+                "route_ref:De_Lijn": "41;85",
                 "ref:De_Lijn": "204403",
                 "bus": "yes",
                 "name": "Stekene Colputstraat",

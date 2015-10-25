@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "405099",
+                "ref:De_Lijn": "405098",
                 "bus": "yes",
                 "name": "Rode Kruisstraat",
                 "public_transport": "platform",
@@ -17,15 +17,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.018336,
-                    51.083699
+                    5.018573,
+                    51.084354
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "405017",
+                "ref:De_Lijn": "405016",
                 "bus": "yes",
                 "name": "Eindhout Paviljoen",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.014316,
-                    51.093313
+                    5.014361,
+                    51.093456
                 ]
             }
         },
@@ -61,48 +61,6 @@
                 "coordinates": [
                     5.029491,
                     51.083296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19",
-                "ref:De_Lijn": "102544",
-                "bus": "yes",
-                "name": "Rode Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGEDIJK VORST (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.018616,
-                    51.084363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b",
-                "ref:De_Lijn": "102541",
-                "bus": "yes",
-                "name": "Rode Kruisstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGEDIJK VORST (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.018307,
-                    51.08369
                 ]
             }
         },
@@ -151,7 +109,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "405098",
+                "ref:De_Lijn": "405099",
                 "bus": "yes",
                 "name": "Rode Kruisstraat",
                 "public_transport": "platform",
@@ -164,29 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.018573,
-                    51.084354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "405016",
-                "bus": "yes",
-                "name": "Eindhout Paviljoen",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "OUDE VORSTSEWEG EINDHOUT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.014361,
-                    51.093456
+                    5.018336,
+                    51.083699
                 ]
             }
         },
@@ -208,6 +145,69 @@
                 "coordinates": [
                     5.014174,
                     51.093376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405017",
+                "bus": "yes",
+                "name": "Eindhout Paviljoen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OUDE VORSTSEWEG EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.014316,
+                    51.093313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "102544",
+                "bus": "yes",
+                "name": "Rode Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEDIJK VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.018616,
+                    51.084363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b",
+                "ref:De_Lijn": "102541",
+                "bus": "yes",
+                "name": "Rode Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEDIJK VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.018307,
+                    51.08369
                 ]
             }
         }

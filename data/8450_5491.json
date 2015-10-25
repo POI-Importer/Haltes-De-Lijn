@@ -5,41 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405291",
+                "ref:De_Lijn": "406726",
                 "bus": "yes",
-                "name": "Neerharen Azalea",
+                "name": "Neerharen Acasialaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AZALEASTRAAT NEERHAREN",
+                "created_by": "ACASIALAAN NEERHAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.675988,
-                    50.907642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405289",
-                "bus": "yes",
-                "name": "Neerharen Schuttershof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHUTTERSHOFSTRAAT NEERHAREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.677707,
-                    50.909124
+                    5.674626,
+                    50.90825
                 ]
             }
         },
@@ -47,41 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "25;45;61;63;20a",
-                "ref:De_Lijn": "405200",
+                "ref:De_Lijn": "405209",
                 "bus": "yes",
-                "name": "Neerharen Steenweg",
+                "name": "Neerharen Verbindingslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STAATSBAAN NEERHAREN",
+                "created_by": "TOURNEBRIDE NEERHAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.681095,
-                    50.909239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405290",
-                "bus": "yes",
-                "name": "Neerharen Basisschool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRBAAN NEERHAREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.684986,
-                    50.909051
+                    5.679084,
+                    50.904946
                 ]
             }
         },
@@ -110,6 +68,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "25;45;61;63;20a",
+                "ref:De_Lijn": "405200",
+                "bus": "yes",
+                "name": "Neerharen Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN NEERHAREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.681095,
+                    50.909239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405291",
+                "bus": "yes",
+                "name": "Neerharen Azalea",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AZALEASTRAAT NEERHAREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.675988,
+                    50.907642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;61;63;20a",
                 "ref:De_Lijn": "405221",
                 "bus": "yes",
                 "name": "Rekem Bovenwezet",
@@ -131,20 +131,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "406727",
+                "ref:De_Lijn": "405289",
                 "bus": "yes",
-                "name": "Neerharen Acasialaan",
+                "name": "Neerharen Schuttershof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ACASIALAAN NEERHAREN",
+                "created_by": "SCHUTTERSHOFSTRAAT NEERHAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.674471,
-                    50.908315
+                    5.677707,
+                    50.909124
                 ]
             }
         },
@@ -152,20 +152,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "406726",
+                "ref:De_Lijn": "405290",
                 "bus": "yes",
-                "name": "Neerharen Acasialaan",
+                "name": "Neerharen Basisschool",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ACASIALAAN NEERHAREN",
+                "created_by": "HEIRBAAN NEERHAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.674626,
-                    50.90825
+                    5.684986,
+                    50.909051
                 ]
             }
         },
@@ -193,27 +193,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;61;63;20a",
-                "ref:De_Lijn": "405208",
-                "bus": "yes",
-                "name": "Neerharen Verbindingslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N78 NEERHAREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.679587,
-                    50.905147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "724",
                 "ref:De_Lijn": "405142",
                 "bus": "yes",
@@ -235,21 +214,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;61;63;20a",
-                "ref:De_Lijn": "405209",
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "406727",
                 "bus": "yes",
-                "name": "Neerharen Verbindingslaan",
+                "name": "Neerharen Acasialaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TOURNEBRIDE NEERHAREN",
+                "created_by": "ACASIALAAN NEERHAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.679084,
-                    50.904946
+                    5.674471,
+                    50.908315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;61;63;20a",
+                "ref:De_Lijn": "405208",
+                "bus": "yes",
+                "name": "Neerharen Verbindingslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N78 NEERHAREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.679587,
+                    50.905147
                 ]
             }
         }

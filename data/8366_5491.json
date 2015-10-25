@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "203875",
+                "bus": "yes",
+                "name": "Oombergen Astridstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOMBERGENSTRAAT OOMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.839943,
+                    50.904235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
                 "ref:De_Lijn": "203874",
                 "bus": "yes",
                 "name": "Oombergen Cothem",
@@ -26,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "46;47",
-                "ref:De_Lijn": "203875",
-                "bus": "yes",
-                "name": "Oombergen Astridstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOMBERGENSTRAAT OOMBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.839943,
-                    50.904235
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "46;47;390",
                 "ref:De_Lijn": "202874",
                 "bus": "yes",
                 "name": "Oombergen Cothem",
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "46;47;390",
+                "route_ref:De_Lijn": "46;47",
                 "ref:De_Lijn": "202875",
                 "bus": "yes",
                 "name": "Oombergen Astridstraat",

@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "101341",
+                "ref:De_Lijn": "104139",
                 "bus": "yes",
-                "name": "Beerzel Beerzelstraat",
+                "name": "Heist-op-den-Berg Pelgrimhofstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KONINGSBAAN BEERZEL",
+                "created_by": "MINKSBOSSENSTRAAT HEIST-OP-DEN-BERG",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.680992,
-                    51.050838
+                    4.689496,
+                    51.051427
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "104139",
+                "ref:De_Lijn": "101341",
                 "bus": "yes",
-                "name": "Heist-op-den-Berg Pelgrimhofstraat",
+                "name": "Beerzel Beerzelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MINKSBOSSENSTRAAT HEIST-OP-DEN-BERG",
+                "created_by": "KONINGSBAAN BEERZEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.689496,
-                    51.051427
+                    4.680992,
+                    51.050838
                 ]
             }
         }

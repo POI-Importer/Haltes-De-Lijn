@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;708",
-                "ref:De_Lijn": "403781",
-                "bus": "yes",
-                "name": "Horpmaal Cartuyvelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CARTUYVELSTRAAT HORPMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.335716,
-                    50.75653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "403755",
                 "bus": "yes",
@@ -46,31 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;27",
-                "ref:De_Lijn": "403762",
-                "bus": "yes",
-                "name": "Horpmaal Tomberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVERHEMSESTRAAT HORPMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.334346,
-                    50.761603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "3;708",
-                "ref:De_Lijn": "403756",
+                "ref:De_Lijn": "403781",
                 "bus": "yes",
-                "name": "Horpmaal Kerk",
+                "name": "Horpmaal Cartuyvelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "CARTUYVELSTRAAT HORPMAAL",
@@ -80,16 +38,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.332447,
-                    50.758157
+                    5.335716,
+                    50.75653
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;708",
-                "ref:De_Lijn": "403759",
+                "route_ref:De_Lijn": "3;27;708",
+                "ref:De_Lijn": "403758",
                 "bus": "yes",
                 "name": "Horpmaal Overhemsestraat",
                 "public_transport": "platform",
@@ -101,50 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.336735,
-                    50.759219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;708",
-                "ref:De_Lijn": "403754",
-                "bus": "yes",
-                "name": "Horpmaal Jacobslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DONKERSTRAAT HORPMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.33193,
-                    50.761326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "403761",
-                "bus": "yes",
-                "name": "Horpmaal Rauwstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HASPENGOUWLAAN HORPMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.333273,
-                    50.754222
+                    5.336767,
+                    50.759398
                 ]
             }
         },
@@ -193,27 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "403752",
-                "bus": "yes",
-                "name": "Horpmaal Cartuyvelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CARTUYVELSTRAAT HORPMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.335378,
-                    50.756632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "403753",
                 "bus": "yes",
                 "name": "Horpmaal Cartuyvelstraat",
@@ -235,8 +130,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;27;708",
-                "ref:De_Lijn": "403758",
+                "route_ref:De_Lijn": "27;708",
+                "ref:De_Lijn": "403759",
                 "bus": "yes",
                 "name": "Horpmaal Overhemsestraat",
                 "public_transport": "platform",
@@ -248,8 +143,113 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.336767,
-                    50.759398
+                    5.336735,
+                    50.759219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;27",
+                "ref:De_Lijn": "403762",
+                "bus": "yes",
+                "name": "Horpmaal Tomberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERHEMSESTRAAT HORPMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.334346,
+                    50.761603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "403752",
+                "bus": "yes",
+                "name": "Horpmaal Cartuyvelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CARTUYVELSTRAAT HORPMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.335378,
+                    50.756632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;708",
+                "ref:De_Lijn": "403756",
+                "bus": "yes",
+                "name": "Horpmaal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CARTUYVELSTRAAT HORPMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.332447,
+                    50.758157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "403761",
+                "bus": "yes",
+                "name": "Horpmaal Rauwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASPENGOUWLAAN HORPMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.333273,
+                    50.754222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;708",
+                "ref:De_Lijn": "403754",
+                "bus": "yes",
+                "name": "Horpmaal Jacobslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT HORPMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33193,
+                    50.761326
                 ]
             }
         },

@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "54",
-                "ref:De_Lijn": "502692",
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505077",
                 "bus": "yes",
                 "name": "Tielt Marialoopsteenweg",
                 "public_transport": "platform",
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "54;450",
+                "route_ref:De_Lijn": "54",
                 "ref:De_Lijn": "507692",
                 "bus": "yes",
                 "name": "Tielt Marialoopsteenweg",
@@ -82,6 +82,27 @@
                 "coordinates": [
                     3.328054,
                     50.967767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54",
+                "ref:De_Lijn": "502692",
+                "bus": "yes",
+                "name": "Tielt Marialoopsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.328225,
+                    50.967769
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     3.336123,
                     50.961473
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59;77",
-                "ref:De_Lijn": "505077",
-                "bus": "yes",
-                "name": "Tielt Marialoopsteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.328225,
-                    50.967769
                 ]
             }
         }

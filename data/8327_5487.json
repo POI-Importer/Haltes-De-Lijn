@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;40",
-                "ref:De_Lijn": "503808",
-                "bus": "yes",
-                "name": "Staden Reke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTHULSTSTRAAT STADEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.97524,
-                    50.969628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30;40",
+                "route_ref:De_Lijn": "30",
                 "ref:De_Lijn": "503810",
                 "bus": "yes",
                 "name": "Staden Soetestraat",
@@ -46,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;40",
+                "route_ref:De_Lijn": "30",
                 "ref:De_Lijn": "508810",
                 "bus": "yes",
                 "name": "Staden Soetestraat",
@@ -67,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;40",
+                "route_ref:De_Lijn": "30",
                 "ref:De_Lijn": "508808",
                 "bus": "yes",
                 "name": "Staden Reke",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.975847,
                     50.969806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "503808",
+                "bus": "yes",
+                "name": "Staden Reke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTHULSTSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.97524,
+                    50.969628
                 ]
             }
         },

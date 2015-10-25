@@ -24,48 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "170;719",
-                "ref:De_Lijn": "400559",
-                "bus": "yes",
-                "name": "Stal Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERBAAN STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.247782,
-                    51.071243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;719",
-                "ref:De_Lijn": "400558",
-                "bus": "yes",
-                "name": "Stal Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERBAAN STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.248283,
-                    51.071365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "455655",
                 "bus": "yes",
                 "name": "Beringen V-Cab",
@@ -101,6 +59,48 @@
                 "coordinates": [
                     5.250699,
                     51.076147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;719",
+                "ref:De_Lijn": "400558",
+                "bus": "yes",
+                "name": "Stal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.248283,
+                    51.071365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;719",
+                "ref:De_Lijn": "400559",
+                "bus": "yes",
+                "name": "Stal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.247782,
+                    51.071243
                 ]
             }
         }

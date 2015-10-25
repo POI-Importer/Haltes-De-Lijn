@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39",
-                "ref:De_Lijn": "504977",
+                "ref:De_Lijn": "505107",
                 "bus": "yes",
-                "name": "Zandvoorde Plaats",
+                "name": "Zandvoorde Zillebekestraat 34",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZANDVOORDEPLAATS ZANDVOORDE (ZONNEBEKE)",
+                "created_by": "ZILLEBEKESTRAAT ZANDVOORDE (ZONNEBEKE)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.980907,
-                    50.813234
+                    2.970354,
+                    50.814476
                 ]
             }
         },
@@ -67,6 +67,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504977",
+                "bus": "yes",
+                "name": "Zandvoorde Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDVOORDEPLAATS ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.980907,
+                    50.813234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "39;89",
                 "ref:De_Lijn": "504639",
                 "bus": "yes",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     2.981583,
                     50.811507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39",
-                "ref:De_Lijn": "505107",
-                "bus": "yes",
-                "name": "Zandvoorde Zillebekestraat 34",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZILLEBEKESTRAAT ZANDVOORDE (ZONNEBEKE)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.970354,
-                    50.814476
                 ]
             }
         }

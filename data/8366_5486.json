@@ -4,70 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28;46;130;28S",
-                "ref:De_Lijn": "202946",
-                "bus": "yes",
-                "name": "Kwatrecht Mariagaard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.83699,
-                    50.978053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;46;130",
-                "ref:De_Lijn": "202947",
-                "bus": "yes",
-                "name": "Kwatrecht Oosterzelesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTERZELESTEENWEG KWATRECHT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.844359,
-                    50.983776
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;46;130;28S",
-                "ref:De_Lijn": "203946",
-                "bus": "yes",
-                "name": "Kwatrecht Mariagaard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN WETTEREN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.836905,
-                    50.97798
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "201089",
                 "bus": "yes",
                 "name": "Kwatrecht Gijzenzelestraat",
@@ -82,6 +18,48 @@
                 "coordinates": [
                     3.839026,
                     50.978062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208940",
+                "bus": "yes",
+                "name": "Wetteren Mariagaard Oosterzelesteenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OOSTERZELESTEENWEG WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83623,
+                    50.977222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;46;28S",
+                "ref:De_Lijn": "202946",
+                "bus": "yes",
+                "name": "Kwatrecht Mariagaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN WETTEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83699,
+                    50.978053
                 ]
             }
         },
@@ -109,21 +87,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "208940",
+                "route_ref:De_Lijn": "28;46;28S",
+                "ref:De_Lijn": "203946",
                 "bus": "yes",
-                "name": "Wetteren Mariagaard Oosterzelesteenweg",
+                "name": "Kwatrecht Mariagaard",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "OOSTERZELESTEENWEG WETTEREN",
+                "created_by": "UNKNOWN WETTEREN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.83623,
-                    50.977222
+                    3.836905,
+                    50.97798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;46",
+                "ref:De_Lijn": "202947",
+                "bus": "yes",
+                "name": "Kwatrecht Oosterzelesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTERZELESTEENWEG KWATRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.844359,
+                    50.983776
                 ]
             }
         }

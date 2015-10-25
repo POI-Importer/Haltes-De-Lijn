@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505761",
+                "ref:De_Lijn": "505115",
                 "bus": "yes",
-                "name": "Tielt Polderstraat",
+                "name": "Schuiferskapelle Rijkegem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POLDERSTRAAT TIELT (WEST-VLAANDEREN)",
+                "created_by": "GALGESTRAAT SCHUIFERSKAPELLE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.360606,
-                    51.030485
+                    3.348995,
+                    51.037317
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "505115",
+                "ref:De_Lijn": "505761",
                 "bus": "yes",
-                "name": "Schuiferskapelle Rijkegem",
+                "name": "Tielt Polderstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GALGESTRAAT SCHUIFERSKAPELLE",
+                "created_by": "POLDERSTRAAT TIELT (WEST-VLAANDEREN)",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.348995,
-                    51.037317
+                    3.360606,
+                    51.030485
                 ]
             }
         }

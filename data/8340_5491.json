@@ -4,8 +4,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52",
-                "ref:De_Lijn": "508279",
+                "route_ref:De_Lijn": "52;68",
+                "ref:De_Lijn": "508289",
+                "bus": "yes",
+                "name": "Ingelmunster Vlaschaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.263517,
+                    50.903042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;68",
+                "ref:De_Lijn": "503279",
                 "bus": "yes",
                 "name": "Ingelmunster Garage",
                 "public_transport": "platform",
@@ -17,50 +38,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.258845,
-                    50.910019
+                    3.258576,
+                    50.910583
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "505952",
+                "route_ref:De_Lijn": "52;60;81",
+                "ref:De_Lijn": "508288",
                 "bus": "yes",
-                "name": "Ingelmunster Kennedystraat",
+                "name": "Ingelmunster Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KENNEDYSTRAAT INGELMUNSTER",
+                "created_by": "STATIONSPLEIN INGELMUNSTER",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.264203,
-                    50.910771
+                    3.255903,
+                    50.914154
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;81",
-                "ref:De_Lijn": "503283",
+                "ref:De_Lijn": "500279",
                 "bus": "yes",
-                "name": "Ingelmunster Pelikaan",
+                "name": "Ingelmunster Garage Verleyen",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "IZEGEMSTRAAT INGELMUNSTER",
+                "created_by": "KORTRIJKSTRAAT INGELMUNSTER",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.252984,
-                    50.914315
+                    3.258928,
+                    50.910146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;68;81",
+                "ref:De_Lijn": "503288",
+                "bus": "yes",
+                "name": "Ingelmunster Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.256234,
+                    50.913977
                 ]
             }
         },
@@ -130,71 +172,29 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "500279",
+                "route_ref:De_Lijn": "68;81",
+                "ref:De_Lijn": "503283",
                 "bus": "yes",
-                "name": "Ingelmunster Garage Verleyen",
+                "name": "Ingelmunster Pelikaan",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KORTRIJKSTRAAT INGELMUNSTER",
+                "created_by": "IZEGEMSTRAAT INGELMUNSTER",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.258928,
-                    50.910146
+                    3.252984,
+                    50.914315
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;68",
-                "ref:De_Lijn": "508289",
-                "bus": "yes",
-                "name": "Ingelmunster Vlaschaard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSTRAAT INGELMUNSTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.263517,
-                    50.903042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;60;81",
-                "ref:De_Lijn": "508288",
-                "bus": "yes",
-                "name": "Ingelmunster Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSPLEIN INGELMUNSTER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.255903,
-                    50.914154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "52;68",
-                "ref:De_Lijn": "503279",
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "508279",
                 "bus": "yes",
                 "name": "Ingelmunster Garage",
                 "public_transport": "platform",
@@ -206,29 +206,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.258576,
-                    50.910583
+                    3.258845,
+                    50.910019
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;68;81",
-                "ref:De_Lijn": "503288",
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505952",
                 "bus": "yes",
-                "name": "Ingelmunster Station",
+                "name": "Ingelmunster Kennedystraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSPLEIN INGELMUNSTER",
+                "created_by": "KENNEDYSTRAAT INGELMUNSTER",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.256234,
-                    50.913977
+                    3.264203,
+                    50.910771
                 ]
             }
         },

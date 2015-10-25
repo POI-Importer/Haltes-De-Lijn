@@ -4,6 +4,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "406619",
+                "bus": "yes",
+                "name": "Meeuwen Krokusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEMDSTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.518378,
+                    51.091621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "406638",
+                "bus": "yes",
+                "name": "Meeuwen Tulpenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERBAAN MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.526121,
+                    51.0867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "33",
                 "ref:De_Lijn": "406609",
                 "bus": "yes",
@@ -25,48 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "406637",
-                "bus": "yes",
-                "name": "Meeuwen Salviastraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KROKUSSTRAAT MEEUWEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.522784,
-                    51.091425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;402;746;748",
-                "ref:De_Lijn": "406599",
-                "bus": "yes",
-                "name": "Meeuwen Boerenbond",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENITSSTRAAT MEEUWEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.525217,
-                    51.091113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "16;402;746",
                 "ref:De_Lijn": "406614",
                 "bus": "yes",
@@ -82,6 +82,27 @@
                 "coordinates": [
                     5.532381,
                     51.092751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "406608",
+                "bus": "yes",
+                "name": "Meeuwen Genits",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.524141,
+                    51.09089
                 ]
             }
         },
@@ -130,6 +151,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "406637",
+                "bus": "yes",
+                "name": "Meeuwen Salviastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROKUSSTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.522784,
+                    51.091425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "406616",
+                "bus": "yes",
+                "name": "Meeuwen Klein Gestel 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN-GESTEL MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.515447,
+                    51.087388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "16;402;746",
                 "ref:De_Lijn": "406612",
                 "bus": "yes",
@@ -145,27 +208,6 @@
                 "coordinates": [
                     5.527807,
                     51.091367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;33;402",
-                "ref:De_Lijn": "406611",
-                "bus": "yes",
-                "name": "Meeuwen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT MEEUWEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.520679,
-                    51.096381
                 ]
             }
         },
@@ -193,42 +235,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "406638",
+                "route_ref:De_Lijn": "16;402;746",
+                "ref:De_Lijn": "406598",
                 "bus": "yes",
-                "name": "Meeuwen Tulpenstraat",
+                "name": "Meeuwen Boerenbond",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GENKERBAAN MEEUWEN",
+                "created_by": "GENITSSTRAAT MEEUWEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.526121,
-                    51.0867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "406616",
-                "bus": "yes",
-                "name": "Meeuwen Klein Gestel 2",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEIN-GESTEL MEEUWEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.515447,
-                    51.087388
+                    5.525304,
+                    51.091176
                 ]
             }
         },
@@ -278,9 +299,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "406619",
+                "ref:De_Lijn": "406595",
                 "bus": "yes",
-                "name": "Meeuwen Krokusstraat",
+                "name": "Meeuwen Beemdstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BEEMDSTRAAT MEEUWEN",
@@ -290,29 +311,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.518378,
-                    51.091621
+                    5.51785,
+                    51.089343
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "746",
-                "ref:De_Lijn": "406618",
+                "route_ref:De_Lijn": "16;402;746;748",
+                "ref:De_Lijn": "406599",
                 "bus": "yes",
-                "name": "Meeuwen Krokusstraat",
+                "name": "Meeuwen Boerenbond",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEEMDSTRAAT MEEUWEN",
+                "created_by": "GENITSSTRAAT MEEUWEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.518105,
-                    51.091552
+                    5.525217,
+                    51.091113
                 ]
             }
         },
@@ -340,10 +361,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "746;748",
-                "ref:De_Lijn": "406595",
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "406618",
                 "bus": "yes",
-                "name": "Meeuwen Beemdstraat",
+                "name": "Meeuwen Krokusstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BEEMDSTRAAT MEEUWEN",
@@ -353,50 +374,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.51785,
-                    51.089343
+                    5.518105,
+                    51.091552
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "406608",
+                "route_ref:De_Lijn": "16;33;402",
+                "ref:De_Lijn": "406611",
                 "bus": "yes",
-                "name": "Meeuwen Genits",
+                "name": "Meeuwen Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT MEEUWEN",
+                "created_by": "DORPSSTRAAT MEEUWEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.524141,
-                    51.09089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;402;746",
-                "ref:De_Lijn": "406598",
-                "bus": "yes",
-                "name": "Meeuwen Boerenbond",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GENITSSTRAAT MEEUWEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.525304,
-                    51.091176
+                    5.520679,
+                    51.096381
                 ]
             }
         },

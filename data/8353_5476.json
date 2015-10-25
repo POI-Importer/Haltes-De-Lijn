@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;160",
-                "ref:De_Lijn": "202444",
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "202442",
                 "bus": "yes",
-                "name": "Zomergem Nekke",
+                "name": "Zomergem Rijvers",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NEKKE ZOMERGEM",
+                "created_by": "KERKSTRAAT ZOMERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.541245,
-                    51.115243
+                    3.554713,
+                    51.118518
                 ]
             }
         },
@@ -47,27 +47,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "65",
-                "ref:De_Lijn": "203442",
+                "ref:De_Lijn": "202443",
                 "bus": "yes",
-                "name": "Zomergem Rijvers",
+                "name": "Zomergem Guido Gezellestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KERKSTRAAT ZOMERGEM",
+                "created_by": "KONING LEOPOLD III-LAAN ZOMERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.554367,
-                    51.118714
+                    3.548629,
+                    51.116858
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "66;67;160",
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "202444",
+                "bus": "yes",
+                "name": "Zomergem Nekke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEKKE ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.541245,
+                    51.115243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;67",
                 "ref:De_Lijn": "202380",
                 "bus": "yes",
                 "name": "Zomergem Tuinwijk",
@@ -88,8 +109,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;160",
-                "ref:De_Lijn": "202442",
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "203442",
                 "bus": "yes",
                 "name": "Zomergem Rijvers",
                 "public_transport": "platform",
@@ -101,15 +122,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.554713,
-                    51.118518
+                    3.554367,
+                    51.118714
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
                 "ref:De_Lijn": "201708",
                 "bus": "yes",
                 "name": "Zomergem Molenpark",
@@ -124,27 +144,6 @@
                 "coordinates": [
                     3.556392,
                     51.112309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "66;67",
-                "ref:De_Lijn": "203380",
-                "bus": "yes",
-                "name": "Zomergem Tuinwijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEITSTRAAT ZOMERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.555649,
-                    51.123046
                 ]
             }
         },
@@ -172,21 +171,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "65;160",
-                "ref:De_Lijn": "202443",
+                "route_ref:De_Lijn": "66;67",
+                "ref:De_Lijn": "203380",
                 "bus": "yes",
-                "name": "Zomergem Guido Gezellestraat",
+                "name": "Zomergem Tuinwijk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KONING LEOPOLD III-LAAN ZOMERGEM",
+                "created_by": "KLEITSTRAAT ZOMERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.548629,
-                    51.116858
+                    3.555649,
+                    51.123046
                 ]
             }
         }

@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68;290;355",
+                "route_ref:De_Lijn": "68",
                 "ref:De_Lijn": "204151",
                 "bus": "yes",
                 "name": "Zele Hansevelde Kapel",

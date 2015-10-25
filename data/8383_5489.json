@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "301937",
+                "ref:De_Lijn": "306825",
                 "bus": "yes",
-                "name": "Mollem Beneden Vrijlegem",
+                "name": "Mollem Rozenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KEZEWEIDE MOLLEM",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.214997,
-                    50.930862
+                    4.218366,
+                    50.931684
                 ]
             }
         },
@@ -46,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "301937",
+                "bus": "yes",
+                "name": "Mollem Beneden Vrijlegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEZEWEIDE MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.214997,
+                    50.930862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "308575",
                 "bus": "yes",
                 "name": "Merchtem Sleeuwagen",
@@ -60,27 +81,6 @@
                 "coordinates": [
                     4.218699,
                     50.943416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "216",
-                "ref:De_Lijn": "306825",
-                "bus": "yes",
-                "name": "Mollem Rozenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KEZEWEIDE MOLLEM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.218366,
-                    50.931684
                 ]
             }
         },

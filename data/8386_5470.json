@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "205761",
                 "bus": "yes",
                 "name": "Beveren Piet Stautstraat",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "205596",
                 "bus": "yes",
                 "name": "Beveren Puiput",

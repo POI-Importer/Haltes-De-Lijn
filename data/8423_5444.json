@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "109604",
                 "bus": "yes",
                 "name": "Tilburg Centraal Station Perron B",

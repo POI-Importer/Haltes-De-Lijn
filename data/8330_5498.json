@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "48;84",
-                "ref:De_Lijn": "503150",
-                "bus": "yes",
-                "name": "Geluwe Koelberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IEPERSTRAAT GELUWE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.043366,
-                    50.819208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "48",
                 "ref:De_Lijn": "505201",
                 "bus": "yes",
@@ -68,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "48;84",
-                "ref:De_Lijn": "503148",
+                "ref:De_Lijn": "503150",
                 "bus": "yes",
-                "name": "Geluwe De Kat",
+                "name": "Geluwe Koelberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "IEPERSTRAAT GELUWE",
@@ -80,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.05352,
-                    50.816463
+                    3.043366,
+                    50.819208
                 ]
             }
         },
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.053131,
                     50.816692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;84",
+                "ref:De_Lijn": "503148",
+                "bus": "yes",
+                "name": "Geluwe De Kat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05352,
+                    50.816463
                 ]
             }
         }

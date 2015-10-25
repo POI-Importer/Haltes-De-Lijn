@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "300085",
-                "bus": "yes",
-                "name": "Langdorp Kleine Meur",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESTELTSESTEENWEG LANGDORP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.876208,
-                    50.9974
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "300107",
-                "bus": "yes",
-                "name": "Langdorp School",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGDORPSESTEENWEG LANGDORP",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.871432,
-                    50.995713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36",
                 "ref:De_Lijn": "300116",
                 "bus": "yes",
                 "name": "Langdorp Vuurmolenstraat",
@@ -88,21 +45,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307734",
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "300108",
                 "bus": "yes",
-                "name": "Langdorp Doornberg",
+                "name": "Langdorp School",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOORNBERGSTRAAT AARSCHOT",
+                "created_by": "LANGDORPSESTEENWEG LANGDORP",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.856715,
-                    50.990022
+                    4.871387,
+                    50.995533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "300085",
+                "bus": "yes",
+                "name": "Langdorp Kleine Meur",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.876208,
+                    50.9974
                 ]
             }
         },
@@ -131,7 +109,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "300108",
+                "ref:De_Lijn": "300107",
                 "bus": "yes",
                 "name": "Langdorp School",
                 "public_transport": "platform",
@@ -143,8 +121,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.871387,
-                    50.995533
+                    4.871432,
+                    50.995713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "307734",
+                "bus": "yes",
+                "name": "Langdorp Doornberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNBERGSTRAAT AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.856715,
+                    50.990022
                 ]
             }
         }

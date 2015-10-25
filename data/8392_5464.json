@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;772;775;779",
                 "ref:De_Lijn": "108410",
                 "bus": "yes",
                 "name": "Oorderseweg",
@@ -25,49 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;772;775",
-                "ref:De_Lijn": "107045",
-                "bus": "yes",
-                "name": "Akkerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOONBROEK ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.410018,
-                    51.279116
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "770;778;779",
-                "ref:De_Lijn": "107335",
-                "bus": "yes",
-                "name": "Boerendijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT EKEREN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.416214,
-                    51.283563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720;772;775",
                 "ref:De_Lijn": "108405",
                 "bus": "yes",
                 "name": "Oorderseweg",
@@ -88,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;772;775;779",
                 "ref:De_Lijn": "107985",
                 "bus": "yes",
                 "name": "Klein Hagelkruis",
@@ -109,7 +64,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;772;775;779",
                 "ref:De_Lijn": "107330",
                 "bus": "yes",
                 "name": "Bilderdijk",
@@ -130,28 +84,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "770;778;779",
-                "ref:De_Lijn": "107340",
-                "bus": "yes",
-                "name": "Boerendijk",
+                "ref:De_Lijn": "107045",
+                "name": "Akkerstraat",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT EKEREN",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SCHOONBROEK ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.416457,
-                    51.283545
+                    4.410018,
+                    51.279116
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;772;775",
                 "ref:De_Lijn": "107345",
                 "bus": "yes",
                 "name": "Bilderdijk",
@@ -172,7 +124,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;772;775;779",
                 "ref:De_Lijn": "107050",
                 "bus": "yes",
                 "name": "Akkerstraat",
@@ -187,6 +138,46 @@
                 "coordinates": [
                     4.409402,
                     51.278793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107335",
+                "name": "Boerendijk",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KLOOSTERSTRAAT EKEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416214,
+                    51.283563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107340",
+                "bus": "yes",
+                "name": "Boerendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT EKEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416457,
+                    51.283545
                 ]
             }
         }

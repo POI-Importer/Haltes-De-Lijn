@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84;125;145",
+                "route_ref:De_Lijn": "81;84",
                 "ref:De_Lijn": "208662",
                 "bus": "yes",
                 "name": "Astene Oude Heirweg",

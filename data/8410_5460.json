@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "431;433;435",
-                "ref:De_Lijn": "106302",
+                "ref:De_Lijn": "106304",
                 "bus": "yes",
-                "name": "Beerse Lange Kwikstraat",
+                "name": "Rijkevorsel Zwartvenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJKEVORSELSEWEG BEERSE",
+                "created_by": "EIKENDREEF SINT-JOZEF (RIJKEVORSEL)",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.80506,
-                    51.334107
+                    4.792616,
+                    51.333747
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "431;433",
                 "ref:De_Lijn": "106305",
                 "bus": "yes",
                 "name": "Rijkevorsel Zwartvenstraat",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "431;433",
                 "ref:De_Lijn": "106303",
                 "bus": "yes",
                 "name": "Beerse Lange Kwikstraat",
@@ -67,21 +64,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "431;433;435",
-                "ref:De_Lijn": "106304",
+                "ref:De_Lijn": "106302",
                 "bus": "yes",
-                "name": "Rijkevorsel Zwartvenstraat",
+                "name": "Beerse Lange Kwikstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EIKENDREEF SINT-JOZEF (RIJKEVORSEL)",
+                "created_by": "RIJKEVORSELSEWEG BEERSE",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.792616,
-                    51.333747
+                    4.80506,
+                    51.334107
                 ]
             }
         }

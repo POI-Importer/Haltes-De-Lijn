@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;15;16",
-                "ref:De_Lijn": "203760",
+                "ref:De_Lijn": "209858",
                 "bus": "yes",
-                "name": "Drongen Baarledorp",
+                "name": "Drongen Don Bosco",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BAARLEDORPSTRAAT BAARLE",
+                "created_by": "UNKNOWN BAARLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.618207,
-                    51.0371
+                    3.619546,
+                    51.037136
                 ]
             }
         },
@@ -47,28 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "14;15;16",
-                "ref:De_Lijn": "203762",
-                "bus": "yes",
-                "name": "Drongen Baarleboslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GAVERLANDSTRAAT BAARLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.607949,
-                    51.033987
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;15;16",
-                "ref:De_Lijn": "203763",
+                "ref:De_Lijn": "202763",
                 "bus": "yes",
                 "name": "Drongen Warande",
                 "public_transport": "platform",
@@ -80,50 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.604839,
-                    51.03145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;15",
-                "ref:De_Lijn": "203752",
-                "bus": "yes",
-                "name": "Drongen Baarledorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLOOSTERSTRAAT DRONGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.618111,
-                    51.037756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "209858",
-                "bus": "yes",
-                "name": "Drongen Don Bosco",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN BAARLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.619546,
-                    51.037136
+                    3.6054,
+                    51.03202
                 ]
             }
         },
@@ -152,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "14;15;16",
-                "ref:De_Lijn": "202764",
+                "ref:De_Lijn": "202762",
                 "bus": "yes",
-                "name": "Drongen Zombeekstraat",
+                "name": "Drongen Baarleboslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GAVERLANDSTRAAT BAARLE",
@@ -164,8 +101,92 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.603852,
-                    51.029079
+                    3.608192,
+                    51.033926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16",
+                "ref:De_Lijn": "203762",
+                "bus": "yes",
+                "name": "Drongen Baarleboslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERLANDSTRAAT BAARLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607949,
+                    51.033987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208858",
+                "bus": "yes",
+                "name": "Drongen Don Bosco",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BAARLEDORPSTRAAT BAARLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619544,
+                    51.037262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16",
+                "ref:De_Lijn": "203763",
+                "bus": "yes",
+                "name": "Drongen Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERLANDSTRAAT BAARLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604839,
+                    51.03145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16",
+                "ref:De_Lijn": "203760",
+                "bus": "yes",
+                "name": "Drongen Baarledorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAARLEDORPSTRAAT BAARLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.618207,
+                    51.0371
                 ]
             }
         },
@@ -193,7 +214,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "14;15;16;125",
+                "route_ref:De_Lijn": "14;15;16",
+                "ref:De_Lijn": "202764",
+                "bus": "yes",
+                "name": "Drongen Zombeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERLANDSTRAAT BAARLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603852,
+                    51.029079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16",
                 "ref:De_Lijn": "202760",
                 "bus": "yes",
                 "name": "Drongen Baarledorp",
@@ -214,7 +256,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "203752",
+                "bus": "yes",
+                "name": "Drongen Baarledorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.618111,
+                    51.037756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "201304",
                 "bus": "yes",
                 "name": "Sint-Martens-Latem Baarle-Frankrijkstraat",
@@ -229,69 +291,6 @@
                 "coordinates": [
                     3.623258,
                     51.02968
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;15;16",
-                "ref:De_Lijn": "202762",
-                "bus": "yes",
-                "name": "Drongen Baarleboslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GAVERLANDSTRAAT BAARLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.608192,
-                    51.033926
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "14;15;16",
-                "ref:De_Lijn": "202763",
-                "bus": "yes",
-                "name": "Drongen Warande",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GAVERLANDSTRAAT BAARLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.6054,
-                    51.03202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "208858",
-                "bus": "yes",
-                "name": "Drongen Don Bosco",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "BAARLEDORPSTRAAT BAARLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.619544,
-                    51.037262
                 ]
             }
         }

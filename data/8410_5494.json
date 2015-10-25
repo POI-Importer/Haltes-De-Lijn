@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;527;590",
-                "ref:De_Lijn": "303511",
-                "bus": "yes",
-                "name": "Pellenberg Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOSTRAAT PELLENBERG",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.79364,
-                    50.871687
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;590",
-                "ref:De_Lijn": "302320",
-                "bus": "yes",
-                "name": "Pellenberg Kapelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT PELLENBERG",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.795095,
-                    50.872311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;527;590",
-                "ref:De_Lijn": "303512",
-                "bus": "yes",
-                "name": "Pellenberg Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOSTRAAT PELLENBERG",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.793797,
-                    50.871731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "3;527",
                 "ref:De_Lijn": "307891",
                 "bus": "yes",
@@ -109,6 +46,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "3;590",
+                "ref:De_Lijn": "302319",
+                "bus": "yes",
+                "name": "Pellenberg Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.79428,
+                    50.873258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;590",
+                "ref:De_Lijn": "302320",
+                "bus": "yes",
+                "name": "Pellenberg Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.795095,
+                    50.872311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "3;527",
                 "ref:De_Lijn": "307892",
                 "bus": "yes",
@@ -130,21 +109,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "3;590",
-                "ref:De_Lijn": "302319",
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "303511",
                 "bus": "yes",
-                "name": "Pellenberg Kapelstraat",
+                "name": "Pellenberg Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT PELLENBERG",
+                "created_by": "LOSTRAAT PELLENBERG",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.79428,
-                    50.873258
+                    4.79364,
+                    50.871687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "303512",
+                "bus": "yes",
+                "name": "Pellenberg Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.793797,
+                    50.871731
                 ]
             }
         }

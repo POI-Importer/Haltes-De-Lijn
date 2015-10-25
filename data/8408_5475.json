@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;513;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108197",
                 "bus": "yes",
                 "name": "Herenthout Vonckstraat",
@@ -46,10 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;513;943",
-                "ref:De_Lijn": "108194",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108196",
                 "bus": "yes",
-                "name": "Herenthout Langstraat",
+                "name": "Herenthout Vonckstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ITEGEMSE STEENWEG HERENTHOUT",
@@ -59,36 +59,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.76113,
-                    51.132613
+                    4.761373,
+                    51.137745
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "151;943",
-                "ref:De_Lijn": "107092",
-                "bus": "yes",
-                "name": "Herenthout Verbistlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JODENSTRAAT HERENTHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.74655,
-                    51.136976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "511;513;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108193",
                 "bus": "yes",
                 "name": "Herenthout Langstraat",
@@ -103,6 +82,26 @@
                 "coordinates": [
                     4.761333,
                     51.13299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108194",
+                "bus": "yes",
+                "name": "Herenthout Langstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITEGEMSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.76113,
+                    51.132613
                 ]
             }
         },
@@ -130,21 +129,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "511;513;943",
-                "ref:De_Lijn": "108196",
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "107092",
                 "bus": "yes",
-                "name": "Herenthout Vonckstraat",
+                "name": "Herenthout Verbistlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ITEGEMSE STEENWEG HERENTHOUT",
+                "created_by": "JODENSTRAAT HERENTHOUT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.761373,
-                    51.137745
+                    4.74655,
+                    51.136976
                 ]
             }
         }

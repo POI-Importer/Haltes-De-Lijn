@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;434;458;459",
                 "ref:De_Lijn": "106347",
                 "bus": "yes",
                 "name": "Wortel Neerven",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;434;458;459",
                 "ref:De_Lijn": "106348",
                 "bus": "yes",
                 "name": "Wortel Neerven",

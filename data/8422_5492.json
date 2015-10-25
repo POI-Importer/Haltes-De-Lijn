@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308820",
+                "bus": "yes",
+                "name": "Kortenaken Sanestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDRODESTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067492,
+                    50.895024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "308937",
                 "bus": "yes",
                 "name": "Kortenaken Sanestraat",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.053833,
                     50.895042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "308820",
-                "bus": "yes",
-                "name": "Kortenaken Sanestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDRODESTRAAT KORTENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.067492,
-                    50.895024
                 ]
             }
         }

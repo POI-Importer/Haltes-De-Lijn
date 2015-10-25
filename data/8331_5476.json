@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "55;59;79",
-                "ref:De_Lijn": "507005",
-                "bus": "yes",
-                "name": "Aartrijke Revalidatiecentrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ICHTEGEMSESTRAAT 'T VELD",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.067385,
-                    51.115689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "55;59;64",
                 "ref:De_Lijn": "502209",
                 "bus": "yes",
@@ -40,27 +19,6 @@
                 "coordinates": [
                     3.054457,
                     51.111176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "55",
-                "ref:De_Lijn": "507002",
-                "bus": "yes",
-                "name": "Aartrijke Drie Zwaluwen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ICHTEGEMSESTRAAT AARTRIJKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.072336,
-                    51.117964
                 ]
             }
         },
@@ -88,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505742",
+                "bus": "yes",
+                "name": "Aartrijke Zeeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EERNEGEMSESTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.070407,
+                    51.121584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "55;59;64;79",
                 "ref:De_Lijn": "502005",
                 "bus": "yes",
@@ -103,6 +82,27 @@
                 "coordinates": [
                     3.067255,
                     51.115759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "507002",
+                "bus": "yes",
+                "name": "Aartrijke Drie Zwaluwen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ICHTEGEMSESTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.072336,
+                    51.117964
                 ]
             }
         },
@@ -193,21 +193,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505742",
+                "route_ref:De_Lijn": "55;59;79",
+                "ref:De_Lijn": "507005",
                 "bus": "yes",
-                "name": "Aartrijke Zeeweg",
+                "name": "Aartrijke Revalidatiecentrum",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EERNEGEMSESTRAAT AARTRIJKE",
+                "created_by": "ICHTEGEMSESTRAAT 'T VELD",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.070407,
-                    51.121584
+                    3.067385,
+                    51.115689
                 ]
             }
         }

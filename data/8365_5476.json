@@ -4,28 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;175",
-                "ref:De_Lijn": "202617",
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "203595",
                 "bus": "yes",
-                "name": "Lochristi Hyfte Kerk",
+                "name": "Desteldonk Lindestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VERLEYDONCKSTRAAT LOCHRISTI",
+                "created_by": "LINDESTRAAT DESTELDONK",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.813973,
-                    51.112218
+                    3.814452,
+                    51.123619
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
+                "route_ref:De_Lijn": "73",
                 "ref:De_Lijn": "202596",
                 "bus": "yes",
                 "name": "Zaffelare Doornzelestraat",
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202595",
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "203617",
                 "bus": "yes",
-                "name": "Desteldonk Lindestraat",
+                "name": "Lochristi Hyfte Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LINDESTRAAT DESTELDONK",
+                "created_by": "VERLEYDONCKSTRAAT LOCHRISTI",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.814164,
-                    51.123851
+                    3.813861,
+                    51.112074
                 ]
             }
         },
@@ -109,29 +109,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74",
-                "ref:De_Lijn": "203617",
-                "bus": "yes",
-                "name": "Lochristi Hyfte Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VERLEYDONCKSTRAAT LOCHRISTI",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.813861,
-                    51.112074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "203595",
+                "ref:De_Lijn": "202595",
                 "bus": "yes",
                 "name": "Desteldonk Lindestraat",
                 "public_transport": "platform",
@@ -143,8 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.814452,
-                    51.123619
+                    3.814164,
+                    51.123851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "202617",
+                "bus": "yes",
+                "name": "Lochristi Hyfte Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERLEYDONCKSTRAAT LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.813973,
+                    51.112218
                 ]
             }
         }

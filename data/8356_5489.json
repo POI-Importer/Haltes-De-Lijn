@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "485",
                 "ref:De_Lijn": "201766",
                 "bus": "yes",
                 "name": "Ouwegem Oude Deinsebaan",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
                 "ref:De_Lijn": "201286",
                 "bus": "yes",
                 "name": "Nazareth Stoofstraat",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
                 "ref:De_Lijn": "200452",
                 "bus": "yes",
                 "name": "Nazareth Krekelstraat",

@@ -4,32 +4,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;78",
-                "ref:De_Lijn": "201165",
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "203190",
                 "bus": "yes",
-                "name": "Lochristi Dorp Oost",
+                "name": "Lochristi Denen",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORP-OOST LOCHRISTI",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.846275,
-                    51.099485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "200964",
-                "bus": "yes",
-                "name": "Lochristi Stelplaats (Nacht)",
-                "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "DENEN LOCHRISTI",
                 "operator": "De Lijn",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.84643,
-                    51.099674
+                    3.857667,
+                    51.102159
                 ]
             }
         },
@@ -67,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "200964",
+                "bus": "yes",
+                "name": "Lochristi Stelplaats (Nacht)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DENEN LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.84643,
+                    51.099674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "78",
                 "ref:De_Lijn": "202190",
                 "bus": "yes",
@@ -88,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "78",
-                "ref:De_Lijn": "203190",
+                "route_ref:De_Lijn": "76;78",
+                "ref:De_Lijn": "201165",
                 "bus": "yes",
-                "name": "Lochristi Denen",
+                "name": "Lochristi Dorp Oost",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENEN LOCHRISTI",
+                "created_by": "DORP-OOST LOCHRISTI",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.857667,
-                    51.102159
+                    3.846275,
+                    51.099485
                 ]
             }
         }

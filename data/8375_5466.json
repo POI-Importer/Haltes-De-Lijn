@@ -27,6 +27,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "204433",
+                "bus": "yes",
+                "zone:De_Lijn": "7854",
+                "name": "Heikant (Nl) Vylainlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VYLAINLAAN HEIKANT (HULST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.035885,
+                    51.253328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
                 "ref:De_Lijn": "205432",
                 "bus": "yes",
                 "name": "Heikant (Nl) Vlasstraat",
@@ -62,28 +84,6 @@
                 "coordinates": [
                     4.031413,
                     51.249756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43",
-                "ref:De_Lijn": "204433",
-                "bus": "yes",
-                "zone:De_Lijn": "7854",
-                "name": "Heikant (Nl) Vylainlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VYLAINLAAN HEIKANT (HULST)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.035885,
-                    51.253328
                 ]
             }
         }

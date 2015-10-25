@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "549;553;830",
-                "ref:De_Lijn": "304009",
+                "ref:De_Lijn": "304008",
                 "bus": "yes",
                 "name": "Overijse Eizerstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.551377,
-                    50.801163
+                    4.551335,
+                    50.801325
                 ]
             }
         },
@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "549;553;830",
-                "ref:De_Lijn": "304008",
-                "bus": "yes",
-                "name": "Overijse Eizerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DUISBURGSESTEENWEG OVERIJSE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.551335,
-                    50.801325
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "549;553;830",
                 "ref:De_Lijn": "304006",
                 "bus": "yes",
                 "name": "Overijse Eizer, Kerk",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.549183,
                     50.798614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "549;553;830",
+                "ref:De_Lijn": "304009",
+                "bus": "yes",
+                "name": "Overijse Eizerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUISBURGSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.551377,
+                    50.801163
                 ]
             }
         }

@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "54;55",
-                "ref:De_Lijn": "503755",
+                "ref:De_Lijn": "503758",
                 "bus": "yes",
-                "name": "Rumbeke Berlekot",
+                "name": "Rumbeke De Aap",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEENSESTEENWEG ROESELARE",
+                "created_by": "MEENSESTEENWEG ZILVERBERG",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.119005,
-                    50.928628
+                    3.11603,
+                    50.916972
                 ]
             }
         },
@@ -40,6 +40,27 @@
                 "coordinates": [
                     3.117114,
                     50.921137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "503755",
+                "bus": "yes",
+                "name": "Rumbeke Berlekot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.119005,
+                    50.928628
                 ]
             }
         },
@@ -82,27 +103,6 @@
                 "coordinates": [
                     3.1165,
                     50.918029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "54;55",
-                "ref:De_Lijn": "503758",
-                "bus": "yes",
-                "name": "Rumbeke De Aap",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEENSESTEENWEG ZILVERBERG",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.11603,
-                    50.916972
                 ]
             }
         },

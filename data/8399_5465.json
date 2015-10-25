@@ -4,49 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "610;618",
-                "ref:De_Lijn": "105687",
-                "bus": "yes",
-                "name": "'s Gravenwezel Oudaen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT 'S-GRAVENWEZEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.553855,
-                    51.263329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "610;618",
-                "ref:De_Lijn": "105688",
-                "bus": "yes",
-                "name": "'s Gravenwezel Oudaen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT 'S-GRAVENWEZEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.55331,
-                    51.263213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "610;618",
                 "ref:De_Lijn": "105689",
                 "bus": "yes",
                 "name": "'s Gravenwezel Eikenlei",
@@ -67,7 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "610;618",
+                "ref:De_Lijn": "105687",
+                "bus": "yes",
+                "name": "'s Gravenwezel Oudaen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT 'S-GRAVENWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.553855,
+                    51.263329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105690",
                 "bus": "yes",
                 "name": "'s Gravenwezel Eikenlei",
@@ -82,6 +58,26 @@
                 "coordinates": [
                     4.556662,
                     51.263109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105688",
+                "bus": "yes",
+                "name": "'s Gravenwezel Oudaen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT 'S-GRAVENWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.55331,
+                    51.263213
                 ]
             }
         }

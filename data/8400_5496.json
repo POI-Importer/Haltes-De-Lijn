@@ -5,69 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "315;316;526;556;616",
-                "ref:De_Lijn": "307828",
-                "bus": "yes",
-                "name": "Leefdaal Heggestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSTRAAT LEEFDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.573279,
-                    50.83669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "315;316;526;556;616",
-                "ref:De_Lijn": "300518",
-                "bus": "yes",
-                "name": "Leefdaal Centrum",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSTRAAT LEEFDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.587719,
-                    50.846372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "315;316;526;556;616",
-                "ref:De_Lijn": "307829",
-                "bus": "yes",
-                "name": "Leefdaal Heggestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSTRAAT LEEFDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.573392,
-                    50.8366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "315;316;526;556;616",
                 "ref:De_Lijn": "300527",
                 "bus": "yes",
                 "name": "Leefdaal Kerk",
@@ -131,6 +68,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "315;316;526;556;616",
+                "ref:De_Lijn": "300518",
+                "bus": "yes",
+                "name": "Leefdaal Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT LEEFDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.587719,
+                    50.846372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;316;526;556;616",
+                "ref:De_Lijn": "307828",
+                "bus": "yes",
+                "name": "Leefdaal Heggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT LEEFDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573279,
+                    50.83669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;316;526;556;616",
                 "ref:De_Lijn": "300515",
                 "bus": "yes",
                 "name": "Leefdaal Bronstraat",
@@ -145,6 +124,27 @@
                 "coordinates": [
                     4.582519,
                     50.842615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;316;526;556;616",
+                "ref:De_Lijn": "307829",
+                "bus": "yes",
+                "name": "Leefdaal Heggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT LEEFDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573392,
+                    50.8366
                 ]
             }
         }

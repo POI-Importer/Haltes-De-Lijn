@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209671",
                 "bus": "yes",
                 "name": "Sint-Antelinks Guchterstraat",
@@ -25,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "209670",
-                "bus": "yes",
-                "name": "Sint-Antelinks Beverstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUCHTERSTRAAT SINT-ANTELINKS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.918128,
-                    50.8414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209672",
                 "bus": "yes",
                 "name": "Sint-Antelinks Ransbeekstraat",
@@ -61,6 +38,26 @@
                 "coordinates": [
                     3.911898,
                     50.846869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209670",
+                "bus": "yes",
+                "name": "Sint-Antelinks Beverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUCHTERSTRAAT SINT-ANTELINKS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.918128,
+                    50.8414
                 ]
             }
         }

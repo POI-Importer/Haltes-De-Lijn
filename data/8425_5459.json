@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;390;480",
                 "ref:De_Lijn": "107194",
                 "bus": "yes",
                 "name": "Reusel Nederlandse Grens",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "380;381;390;391;480",
                 "ref:De_Lijn": "109383",
                 "bus": "yes",
                 "name": "Reusel Nederlandse Grens",

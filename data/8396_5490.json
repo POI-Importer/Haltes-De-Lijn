@@ -4,41 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "223;270;470;503;505;514;515;660;686",
-                "ref:De_Lijn": "304746",
+                "route_ref:De_Lijn": "225;681;682",
+                "ref:De_Lijn": "308701",
                 "bus": "yes",
-                "name": "Steenokkerzeel Oud Station",
+                "name": "Melsbroek Vinkenbaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HAACHTSESTEENWEG STEENOKKERZEEL",
+                "created_by": "PERKSESTEENWEG PERK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.504384,
-                    50.919969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308702",
-                "bus": "yes",
-                "name": "Steenokkerzeel Oud Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVUURSESTEENWEG STEENOKKERZEEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.500771,
-                    50.91983
+                    4.496109,
+                    50.925831
                 ]
             }
         },
@@ -66,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "225;681;682",
-                "ref:De_Lijn": "304753",
-                "bus": "yes",
-                "name": "Melsbroek Vinkenbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PERKSESTEENWEG PERK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.496251,
-                    50.925795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "221;223;225;271;505;514;651",
                 "ref:De_Lijn": "305880",
                 "bus": "yes",
@@ -102,48 +61,6 @@
                 "coordinates": [
                     4.50246,
                     50.918542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "225;514;515",
-                "ref:De_Lijn": "307276",
-                "bus": "yes",
-                "name": "Steenokkerzeel Oud Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERVUURSESTEENWEG STEENOKKERZEEL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.500928,
-                    50.919911
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "225;681;682",
-                "ref:De_Lijn": "308699",
-                "bus": "yes",
-                "name": "Melsbroek Hof ten As",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PERKSESTEENWEG MELSBROEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.491086,
-                    50.919714
                 ]
             }
         },
@@ -172,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "225;681;682",
-                "ref:De_Lijn": "308701",
+                "ref:De_Lijn": "304753",
                 "bus": "yes",
                 "name": "Melsbroek Vinkenbaan",
                 "public_transport": "platform",
@@ -184,8 +101,91 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.496109,
-                    50.925831
+                    4.496251,
+                    50.925795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "223;270;470;503;505;514;515;660;686",
+                "ref:De_Lijn": "304746",
+                "bus": "yes",
+                "name": "Steenokkerzeel Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG STEENOKKERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.504384,
+                    50.919969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "225;514;515",
+                "ref:De_Lijn": "307276",
+                "bus": "yes",
+                "name": "Steenokkerzeel Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVUURSESTEENWEG STEENOKKERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.500928,
+                    50.919911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308702",
+                "bus": "yes",
+                "name": "Steenokkerzeel Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERVUURSESTEENWEG STEENOKKERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.500771,
+                    50.91983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "225;681;682",
+                "ref:De_Lijn": "308699",
+                "bus": "yes",
+                "name": "Melsbroek Hof ten As",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERKSESTEENWEG MELSBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.491086,
+                    50.919714
                 ]
             }
         }

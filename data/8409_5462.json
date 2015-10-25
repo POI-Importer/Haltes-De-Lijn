@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401",
                 "ref:De_Lijn": "103616",
                 "bus": "yes",
                 "name": "Rijkevorsel Rouwleegd",
@@ -25,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401",
-                "ref:De_Lijn": "103617",
-                "bus": "yes",
-                "name": "Vlimmeren Den Abt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEI-ENDE HOGE BERGEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.778979,
-                    51.308611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "400;401",
                 "ref:De_Lijn": "103618",
                 "bus": "yes",
                 "name": "Vlimmeren Den Abt",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401",
+                "ref:De_Lijn": "103617",
+                "bus": "yes",
+                "name": "Vlimmeren Den Abt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEI-ENDE HOGE BERGEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.778979,
+                    51.308611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "103679",
                 "bus": "yes",
                 "name": "Vlimmeren Sint-Balbinahoeve",
@@ -88,7 +84,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401",
                 "ref:De_Lijn": "103613",
                 "bus": "yes",
                 "name": "Rijkevorsel Rouwleegd",
@@ -109,7 +104,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "400;401",
                 "ref:De_Lijn": "103622",
                 "bus": "yes",
                 "name": "Vlimmeren Sint-Balbinahoeve",

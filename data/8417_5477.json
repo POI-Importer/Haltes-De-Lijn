@@ -4,10 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510",
-                "ref:De_Lijn": "109003",
+                "ref:De_Lijn": "109000",
                 "bus": "yes",
-                "name": "Zammel Neerstraat",
+                "name": "Geel Veestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZAMMELSEWEG ZAMMEL",
@@ -17,15 +16,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.950915,
-                    51.099612
+                    4.96094,
+                    51.102142
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510",
                 "ref:De_Lijn": "109002",
                 "bus": "yes",
                 "name": "Zammel Neerstraat",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510",
                 "ref:De_Lijn": "109001",
                 "bus": "yes",
                 "name": "Geel Veestraat",
@@ -67,10 +64,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "510",
-                "ref:De_Lijn": "109000",
+                "ref:De_Lijn": "109003",
                 "bus": "yes",
-                "name": "Geel Veestraat",
+                "name": "Zammel Neerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "ZAMMELSEWEG ZAMMEL",
@@ -80,8 +76,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.96094,
-                    51.102142
+                    4.950915,
+                    51.099612
                 ]
             }
         }

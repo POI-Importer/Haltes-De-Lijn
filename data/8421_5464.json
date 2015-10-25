@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "382;430;436",
                 "ref:De_Lijn": "107558",
                 "bus": "yes",
                 "name": "Retie Hofstraat",
@@ -25,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;436;437",
-                "ref:De_Lijn": "107559",
-                "bus": "yes",
-                "name": "Retie Hesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROVINCIEBAAN SCHOONBROEK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.05,
-                    51.285932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "382;430;436",
                 "ref:De_Lijn": "107561",
                 "bus": "yes",
                 "name": "Retie Hesstraat",
@@ -61,6 +38,26 @@
                 "coordinates": [
                     5.050116,
                     51.28603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107559",
+                "bus": "yes",
+                "name": "Retie Hesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN SCHOONBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05,
+                    51.285932
                 ]
             }
         }

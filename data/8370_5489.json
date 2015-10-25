@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385",
                 "ref:De_Lijn": "216004",
                 "bus": "yes",
                 "name": "Vlekkem Dorp",
@@ -46,7 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "385",
                 "ref:De_Lijn": "206389",
                 "bus": "yes",
                 "name": "Vlekkem Windmolenstraat",

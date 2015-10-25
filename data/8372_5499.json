@@ -4,84 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330;370",
-                "ref:De_Lijn": "206616",
-                "bus": "yes",
-                "name": "Zandbergen Steengroeveweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOVENKASSEI ZANDBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.976349,
-                    50.795968
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "207848",
+                "ref:De_Lijn": "206848",
                 "bus": "yes",
                 "name": "Zandbergen Kerk",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ZANDBERGENPLEIN ZANDBERGEN",
+                "created_by": "PEPERSTRAAT ZANDBERGEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.96639,
-                    50.802731
+                    3.966277,
+                    50.802658
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "207617",
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "206620",
                 "bus": "yes",
-                "name": "Zandbergen Hof Van Lierstraat",
+                "name": "Zandbergen Lestpolder",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOVENKASSEI ZANDBERGEN",
+                "created_by": "LESTPOLDER GRIMMINGE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.972587,
-                    50.799614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;370",
-                "ref:De_Lijn": "206619",
-                "bus": "yes",
-                "name": "Zandbergen Peperstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LESTPOLDER ZANDBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.964188,
-                    50.798174
+                    3.957218,
+                    50.795516
                 ]
             }
         },
@@ -109,28 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330",
-                "ref:De_Lijn": "207616",
-                "bus": "yes",
-                "name": "Zandbergen Steengroeveweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOVENKASSEI ZANDBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.974935,
-                    50.79706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;330",
+                "route_ref:De_Lijn": "76",
                 "ref:De_Lijn": "207618",
                 "bus": "yes",
                 "name": "Zandbergen Kerk",
@@ -151,7 +88,68 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "330;370",
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "206619",
+                "bus": "yes",
+                "name": "Zandbergen Peperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LESTPOLDER ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.964188,
+                    50.798174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207616",
+                "bus": "yes",
+                "name": "Zandbergen Steengroeveweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVENKASSEI ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.974935,
+                    50.79706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207848",
+                "bus": "yes",
+                "name": "Zandbergen Kerk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZANDBERGENPLEIN ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.96639,
+                    50.802731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "206617",
                 "bus": "yes",
                 "name": "Zandbergen Hof Van Lierstraat",
@@ -173,27 +171,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "76",
-                "ref:De_Lijn": "207619",
-                "bus": "yes",
-                "name": "Zandbergen Peperstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LESTPOLDER ZANDBERGEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.964169,
-                    50.798678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;330;370",
                 "ref:De_Lijn": "206618",
                 "bus": "yes",
                 "name": "Zandbergen Kerk",
@@ -214,42 +191,61 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;370",
-                "ref:De_Lijn": "206620",
+                "ref:De_Lijn": "207617",
                 "bus": "yes",
-                "name": "Zandbergen Lestpolder",
+                "name": "Zandbergen Hof Van Lierstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LESTPOLDER GRIMMINGE",
+                "created_by": "BOVENKASSEI ZANDBERGEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.957218,
-                    50.795516
+                    3.972587,
+                    50.799614
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206848",
+                "ref:De_Lijn": "206616",
                 "bus": "yes",
-                "name": "Zandbergen Kerk",
+                "name": "Zandbergen Steengroeveweg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PEPERSTRAAT ZANDBERGEN",
+                "created_by": "BOVENKASSEI ZANDBERGEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.966277,
-                    50.802658
+                    3.976349,
+                    50.795968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "207619",
+                "bus": "yes",
+                "name": "Zandbergen Peperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LESTPOLDER ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.964169,
+                    50.798678
                 ]
             }
         }

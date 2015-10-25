@@ -25,28 +25,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;330",
-                "ref:De_Lijn": "207658",
+                "ref:De_Lijn": "206850",
                 "bus": "yes",
-                "name": "Voorde Hollestraat",
+                "name": "Zandbergen Beekstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ZEVENHOEK VOORDE",
+                "created_by": "BEEKSTRAAT BULLEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.954271,
-                    50.819356
+                    3.94907,
+                    50.807363
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;330",
+                "route_ref:De_Lijn": "39",
                 "ref:De_Lijn": "206658",
                 "bus": "yes",
                 "name": "Voorde Hollestraat",
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206850",
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "207658",
                 "bus": "yes",
-                "name": "Zandbergen Beekstraat",
+                "name": "Voorde Hollestraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BEEKSTRAAT BULLEGEM",
+                "created_by": "ZEVENHOEK VOORDE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.94907,
-                    50.807363
+                    3.954271,
+                    50.819356
                 ]
             }
         }

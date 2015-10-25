@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;29;39;40;60;84;89;94;95",
-                "ref:De_Lijn": "504160",
-                "bus": "yes",
-                "name": "Ieper Hospitaal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGE TORHOUTSTRAAT IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.89048,
-                    50.855144
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "94",
-                "ref:De_Lijn": "504169",
-                "bus": "yes",
-                "name": "Ieper Ligywijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONNEBEEKSEWEG IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.898699,
-                    50.855301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;29;39;40;60;95",
-                "ref:De_Lijn": "504195",
-                "bus": "yes",
-                "name": "Ieper Bibliotheek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STOFFELSTRAAT IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.886464,
-                    50.856352
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "29;39;84;89;94",
-                "ref:De_Lijn": "504151",
-                "bus": "yes",
-                "name": "Ieper Bascule",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BASCULESTRAAT IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.89441,
-                    50.853943
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "29;50;84;89",
                 "ref:De_Lijn": "509151",
                 "bus": "yes",
@@ -124,6 +40,69 @@
                 "coordinates": [
                     2.883801,
                     50.85791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;94",
+                "ref:De_Lijn": "509169",
+                "bus": "yes",
+                "name": "Ieper Ligywijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEEKSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.900315,
+                    50.85587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28;39",
+                "ref:De_Lijn": "509170",
+                "bus": "yes",
+                "name": "Ieper Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERMARKT IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.884934,
+                    50.85083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;39;84;89;94",
+                "ref:De_Lijn": "504151",
+                "bus": "yes",
+                "name": "Ieper Bascule",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BASCULESTRAAT IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.89441,
+                    50.853943
                 ]
             }
         },
@@ -172,6 +151,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505988",
+                "bus": "yes",
+                "name": "Ieper Yprado",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.896702,
+                    50.859655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;29;39;40;60;95",
+                "ref:De_Lijn": "504195",
+                "bus": "yes",
+                "name": "Ieper Bibliotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOFFELSTRAAT IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.886464,
+                    50.856352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "20;29;40;60;94",
                 "ref:De_Lijn": "509161",
                 "bus": "yes",
@@ -214,105 +235,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "29;39;84;89",
-                "ref:De_Lijn": "504177",
+                "route_ref:De_Lijn": "20;29;39;40;60;84;89;94;95",
+                "ref:De_Lijn": "504160",
                 "bus": "yes",
-                "name": "Ieper Sint-Jozef",
+                "name": "Ieper Hospitaal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEENSEWEG IEPER",
+                "created_by": "LANGE TORHOUTSTRAAT IEPER",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.89878,
-                    50.851364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;94",
-                "ref:De_Lijn": "509169",
-                "bus": "yes",
-                "name": "Ieper Ligywijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZONNEBEEKSEWEG IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.900315,
-                    50.85587
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;20;29;39;40;50;60;72;79;84;95",
-                "ref:De_Lijn": "504170",
-                "bus": "yes",
-                "name": "Ieper Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE MARKT IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.887241,
-                    50.851551
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;28;39",
-                "ref:De_Lijn": "509170",
-                "bus": "yes",
-                "name": "Ieper Markt",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEERMARKT IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.884934,
-                    50.85083
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "29;39;60;95",
-                "ref:De_Lijn": "504194",
-                "bus": "yes",
-                "name": "Ieper Westlandia A",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DEHEMLAAN IEPER",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.890669,
-                    50.859525
+                    2.89048,
+                    50.855144
                 ]
             }
         },
@@ -340,21 +277,84 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "29",
-                "ref:De_Lijn": "505988",
+                "route_ref:De_Lijn": "29;39;84;89",
+                "ref:De_Lijn": "504177",
                 "bus": "yes",
-                "name": "Ieper Yprado",
+                "name": "Ieper Sint-Jozef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGSEWEG IEPER",
+                "created_by": "MEENSEWEG IEPER",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.896702,
-                    50.859655
+                    2.89878,
+                    50.851364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;20;29;39;40;50;60;72;79;84;95",
+                "ref:De_Lijn": "504170",
+                "bus": "yes",
+                "name": "Ieper Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE MARKT IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.887241,
+                    50.851551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "504169",
+                "bus": "yes",
+                "name": "Ieper Ligywijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEEKSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.898699,
+                    50.855301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;39;60;95",
+                "ref:De_Lijn": "504194",
+                "bus": "yes",
+                "name": "Ieper Westlandia A",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEHEMLAAN IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.890669,
+                    50.859525
                 ]
             }
         }

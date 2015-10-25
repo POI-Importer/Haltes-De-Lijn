@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
-                "ref:De_Lijn": "206355",
-                "bus": "yes",
-                "name": "Lebbeke Heizijde Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIZIJDESTRAAT LEBBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.149196,
-                    51.000361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;23;24;320",
-                "ref:De_Lijn": "206349",
-                "bus": "yes",
-                "name": "Lebbeke Konkelgoedstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONING ALBERT I-STRAAT LEBBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.133883,
-                    51.000233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "21;23;24",
                 "ref:De_Lijn": "207349",
                 "bus": "yes",
@@ -67,7 +25,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
+                "route_ref:De_Lijn": "21;23;24",
+                "ref:De_Lijn": "206349",
+                "bus": "yes",
+                "name": "Lebbeke Konkelgoedstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-STRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.133883,
+                    51.000233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "206356",
                 "bus": "yes",
                 "name": "Lebbeke Kleine Snijderstraat",
@@ -88,28 +66,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
-                "ref:De_Lijn": "206357",
+                "ref:De_Lijn": "206355",
                 "bus": "yes",
-                "name": "Lebbeke Baasrodestraat",
+                "name": "Lebbeke Heizijde Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTE SNIJDERSSTRAAT LEBBEKE",
+                "created_by": "HEIZIJDESTRAAT LEBBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.140668,
-                    51.008085
+                    4.149196,
+                    51.000361
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207729",
                 "bus": "yes",
                 "name": "Lebbeke Station",
@@ -130,7 +106,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "206357",
+                "bus": "yes",
+                "name": "Lebbeke Baasrodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE SNIJDERSSTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.140668,
+                    51.008085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "207688",
                 "bus": "yes",
                 "name": "Lebbeke Poelstraat",

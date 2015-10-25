@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "407332",
-                "bus": "yes",
-                "name": "Lanaken Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.649923,
-                    50.898785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "45;20a",
                 "ref:De_Lijn": "405284",
                 "bus": "yes",
@@ -46,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;61;63;20a;724",
-                "ref:De_Lijn": "405180",
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405295",
                 "bus": "yes",
-                "name": "Lanaken Gemeentehuis",
+                "name": "Lanaken Kleine Wingerd",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N78A LANAKEN",
+                "created_by": "TROSSENHOF LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.652116,
-                    50.889582
+                    5.656499,
+                    50.896493
                 ]
             }
         },
@@ -82,111 +61,6 @@
                 "coordinates": [
                     5.655747,
                     50.889263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "406919",
-                "bus": "yes",
-                "name": "Lanaken Molenweideplein",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MOLENWEIDEPLEIN LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.648037,
-                    50.889591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "455740",
-                "bus": "yes",
-                "name": "Lanaken Citytax Laoneke",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WATERSTRAAT LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.656593,
-                    50.900421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405202",
-                "bus": "yes",
-                "name": "Lanaken Heuvelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BESSEMERSTRAAT LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.648545,
-                    50.891518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405145",
-                "bus": "yes",
-                "name": "Lanaken Politie",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERWEG LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.658128,
-                    50.891629
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "407333",
-                "bus": "yes",
-                "name": "Lanaken Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.649821,
-                    50.898697
                 ]
             }
         },
@@ -215,69 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405299",
-                "bus": "yes",
-                "name": "Lanaken De Stichel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROZIJNENSTRAAT LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.655045,
-                    50.897893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "402749",
-                "bus": "yes",
-                "name": "Lanaken Casimir Rockplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEUVELSTRAAT LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.651327,
-                    50.892944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "61;63;724",
-                "ref:De_Lijn": "405280",
-                "bus": "yes",
-                "name": "Lanaken Vertakking",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONING ALBERTLAAN LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.659582,
-                    50.892782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "724",
                 "ref:De_Lijn": "405293",
                 "bus": "yes",
                 "name": "Lanaken Residentie Pietersheim",
@@ -298,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;63;20a",
-                "ref:De_Lijn": "405215",
+                "route_ref:De_Lijn": "45;61;63;20a",
+                "ref:De_Lijn": "405181",
                 "bus": "yes",
-                "name": "Lanaken Pietersheim",
+                "name": "Lanaken Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KONING ALBERTLAAN LANAKEN",
+                "created_by": "N78A LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.665069,
-                    50.894861
+                    5.651831,
+                    50.889531
                 ]
             }
         },
@@ -320,20 +131,83 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405295",
+                "ref:De_Lijn": "405299",
                 "bus": "yes",
-                "name": "Lanaken Kleine Wingerd",
+                "name": "Lanaken De Stichel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TROSSENHOF LANAKEN",
+                "created_by": "ROZIJNENSTRAAT LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.656499,
-                    50.896493
+                    5.655045,
+                    50.897893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406919",
+                "bus": "yes",
+                "name": "Lanaken Molenweideplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOLENWEIDEPLEIN LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.648037,
+                    50.889591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "407333",
+                "bus": "yes",
+                "name": "Lanaken Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.649821,
+                    50.898697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "405195",
+                "bus": "yes",
+                "name": "Lanaken Cultureel Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AAN DE ENGELSE HOF LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.656128,
+                    50.889178
                 ]
             }
         },
@@ -361,42 +235,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "402757",
+                "route_ref:De_Lijn": "25;45;61;63;20a",
+                "ref:De_Lijn": "405239",
                 "bus": "yes",
-                "name": "Lanaken Casimir Rockplein",
+                "name": "Lanaken Atheneum Alicebourg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEUVELSTRAAT LANAKEN",
+                "created_by": "KONING ALBERTLAAN LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.651341,
-                    50.892926
+                    5.655059,
+                    50.891132
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "405195",
+                "route_ref:De_Lijn": "61;63;20a",
+                "ref:De_Lijn": "405215",
                 "bus": "yes",
-                "name": "Lanaken Cultureel Centrum",
+                "name": "Lanaken Pietersheim",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AAN DE ENGELSE HOF LANAKEN",
+                "created_by": "KONING ALBERTLAAN LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.656128,
-                    50.889178
+                    5.665069,
+                    50.894861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61;63;20a",
+                "ref:De_Lijn": "405238",
+                "bus": "yes",
+                "name": "Lanaken Atheneum Alicebourg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTLAAN LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.654847,
+                    50.891188
                 ]
             }
         },
@@ -425,6 +320,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "402749",
+                "bus": "yes",
+                "name": "Lanaken Casimir Rockplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVELSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.651327,
+                    50.892944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455740",
+                "bus": "yes",
+                "name": "Lanaken Citytax Laoneke",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WATERSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.656593,
+                    50.900421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
                 "ref:De_Lijn": "405294",
                 "bus": "yes",
                 "name": "Lanaken Op de Ekster",
@@ -439,6 +376,111 @@
                 "coordinates": [
                     5.655814,
                     50.900007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405202",
+                "bus": "yes",
+                "name": "Lanaken Heuvelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESSEMERSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.648545,
+                    50.891518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "407332",
+                "bus": "yes",
+                "name": "Lanaken Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.649923,
+                    50.898785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;61;63;20a;724",
+                "ref:De_Lijn": "405180",
+                "bus": "yes",
+                "name": "Lanaken Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N78A LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.652116,
+                    50.889582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405298",
+                "bus": "yes",
+                "name": "Lanaken Dunantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENRI DUNANTSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.654144,
+                    50.900807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405145",
+                "bus": "yes",
+                "name": "Lanaken Politie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERWEG LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.658128,
+                    50.891629
                 ]
             }
         },
@@ -466,10 +508,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;61;63;20a",
-                "ref:De_Lijn": "405238",
+                "route_ref:De_Lijn": "61;63;724",
+                "ref:De_Lijn": "405280",
                 "bus": "yes",
-                "name": "Lanaken Atheneum Alicebourg",
+                "name": "Lanaken Vertakking",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KONING ALBERTLAAN LANAKEN",
@@ -479,50 +521,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.654847,
-                    50.891188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;61;63;20a",
-                "ref:De_Lijn": "405181",
-                "bus": "yes",
-                "name": "Lanaken Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N78A LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.651831,
-                    50.889531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "25;45;61;63;20a",
-                "ref:De_Lijn": "405239",
-                "bus": "yes",
-                "name": "Lanaken Atheneum Alicebourg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONING ALBERTLAAN LANAKEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.655059,
-                    50.891132
+                    5.659582,
+                    50.892782
                 ]
             }
         },
@@ -530,20 +530,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "724",
-                "ref:De_Lijn": "405298",
+                "ref:De_Lijn": "402757",
                 "bus": "yes",
-                "name": "Lanaken Dunantstraat",
+                "name": "Lanaken Casimir Rockplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HENRI DUNANTSTRAAT LANAKEN",
+                "created_by": "HEUVELSTRAAT LANAKEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.654144,
-                    50.900807
+                    5.651341,
+                    50.892926
                 ]
             }
         }

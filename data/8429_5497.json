@@ -4,153 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "S1;S11",
-                "ref:De_Lijn": "407959",
-                "bus": "yes",
-                "name": "Melveren Kommanderijstraat I",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOMMANDERIJSTRAAT SINT-TRUIDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.207859,
-                    50.826436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "S1;S11",
-                "ref:De_Lijn": "408042",
-                "bus": "yes",
-                "name": "Terbiest Speelplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOMMANDERIJSTRAAT SINT-TRUIDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.214661,
-                    50.828194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "S1;S11",
-                "ref:De_Lijn": "407958",
-                "bus": "yes",
-                "name": "Melveren Kommanderijstraat I",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOMMANDERIJSTRAAT SINT-TRUIDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.207985,
-                    50.826363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "S1;S11",
-                "ref:De_Lijn": "407927",
-                "bus": "yes",
-                "name": "Terbiest Kasteeldomein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TERBIEST SINT-TRUIDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.210716,
-                    50.82825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "407817",
-                "bus": "yes",
-                "name": "Sint-Truiden Betonac",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HASSELTSESTEENWEG MELVEREN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.208024,
-                    50.833321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "S2;23a;S11",
-                "ref:De_Lijn": "407812",
-                "bus": "yes",
-                "name": "Sint-Truiden Bautershoven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.227908,
-                    50.820618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "S2;23a;S11",
-                "ref:De_Lijn": "407903",
-                "bus": "yes",
-                "name": "Sint-Truiden Groenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.222722,
-                    50.820332
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "S2;23a;S11",
                 "ref:De_Lijn": "407902",
                 "bus": "yes",
@@ -193,6 +46,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "S2;23a;S11",
+                "ref:De_Lijn": "407812",
+                "bus": "yes",
+                "name": "Sint-Truiden Bautershoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.227908,
+                    50.820618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "S1;S11",
                 "ref:De_Lijn": "407926",
                 "bus": "yes",
@@ -215,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "S1;S11",
-                "ref:De_Lijn": "408043",
+                "ref:De_Lijn": "408042",
                 "bus": "yes",
                 "name": "Terbiest Speelplein",
                 "public_transport": "platform",
@@ -227,8 +101,134 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.215092,
-                    50.82847
+                    5.214661,
+                    50.828194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407817",
+                "bus": "yes",
+                "name": "Sint-Truiden Betonac",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG MELVEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.208024,
+                    50.833321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S11",
+                "ref:De_Lijn": "407927",
+                "bus": "yes",
+                "name": "Terbiest Kasteeldomein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERBIEST SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.210716,
+                    50.82825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S11",
+                "ref:De_Lijn": "407959",
+                "bus": "yes",
+                "name": "Melveren Kommanderijstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOMMANDERIJSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.207859,
+                    50.826436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;23a;S11",
+                "ref:De_Lijn": "407813",
+                "bus": "yes",
+                "name": "Sint-Truiden Bautershoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.227597,
+                    50.820683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;23a;S11",
+                "ref:De_Lijn": "407903",
+                "bus": "yes",
+                "name": "Sint-Truiden Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.222722,
+                    50.820332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S11",
+                "ref:De_Lijn": "407958",
+                "bus": "yes",
+                "name": "Melveren Kommanderijstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOMMANDERIJSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.207985,
+                    50.826363
                 ]
             }
         },
@@ -256,21 +256,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "S2;23a;S11",
-                "ref:De_Lijn": "407813",
+                "route_ref:De_Lijn": "S1;S11",
+                "ref:De_Lijn": "408043",
                 "bus": "yes",
-                "name": "Sint-Truiden Bautershoven",
+                "name": "Terbiest Speelplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "created_by": "KOMMANDERIJSTRAAT SINT-TRUIDEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.227597,
-                    50.820683
+                    5.215092,
+                    50.82847
                 ]
             }
         }

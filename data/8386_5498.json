@@ -4,6 +4,69 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "571;572;620;810",
+                "ref:De_Lijn": "302409",
+                "bus": "yes",
+                "name": "Klaver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LENNIKSEBAAN ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.283209,
+                    50.819003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "571;572;620;810",
+                "ref:De_Lijn": "302408",
+                "bus": "yes",
+                "name": "Klaver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LENNIKSEBAAN ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.282868,
+                    50.819246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;142;620",
+                "ref:De_Lijn": "300751",
+                "bus": "yes",
+                "name": "Eddy Merckx",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LENNIKSEBAAN ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.278359,
+                    50.81686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "141;142;571;572;810",
                 "ref:De_Lijn": "300778",
                 "bus": "yes",
@@ -25,10 +88,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "571;572;620;810",
-                "ref:De_Lijn": "302409",
+                "route_ref:De_Lijn": "141;142;620",
+                "ref:De_Lijn": "300762",
                 "bus": "yes",
-                "name": "Klaver",
+                "name": "Erasmus",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LENNIKSEBAAN ANDERLECHT",
@@ -38,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.283209,
-                    50.819003
+                    4.264982,
+                    50.814908
                 ]
             }
         },
@@ -89,90 +152,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "141;142;620",
-                "ref:De_Lijn": "300762",
-                "bus": "yes",
-                "name": "Erasmus",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LENNIKSEBAAN ANDERLECHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.264982,
-                    50.814908
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "571;572;620;810",
-                "ref:De_Lijn": "302408",
-                "bus": "yes",
-                "name": "Klaver",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LENNIKSEBAAN ANDERLECHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.282868,
-                    50.819246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "141;142;571;572;810",
-                "ref:De_Lijn": "300777",
-                "bus": "yes",
-                "name": "Leemans",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JOSSE LEEMANSLAAN ANDERLECHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.283653,
-                    50.816451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "141;142;620",
-                "ref:De_Lijn": "300751",
-                "bus": "yes",
-                "name": "Eddy Merckx",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LENNIKSEBAAN ANDERLECHT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.278359,
-                    50.81686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "141;142;620",
                 "ref:De_Lijn": "300784",
                 "bus": "yes",
                 "name": "Meylemeersch",
@@ -208,6 +187,27 @@
                 "coordinates": [
                     4.271096,
                     50.815695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;142;571;572;810",
+                "ref:De_Lijn": "300777",
+                "bus": "yes",
+                "name": "Leemans",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSSE LEEMANSLAAN ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.283653,
+                    50.816451
                 ]
             }
         }

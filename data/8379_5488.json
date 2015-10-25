@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;340",
-                "ref:De_Lijn": "206198",
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "207198",
                 "bus": "yes",
                 "name": "Meldert Kammenkouterstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.122067,
-                    50.949833
+                    4.122167,
+                    50.949717
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41",
-                "ref:De_Lijn": "207198",
+                "ref:De_Lijn": "206198",
                 "bus": "yes",
                 "name": "Meldert Kammenkouterstraat",
                 "public_transport": "platform",
@@ -59,15 +59,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.122167,
-                    50.949717
+                    4.122067,
+                    50.949833
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;42;44;340",
+                "route_ref:De_Lijn": "41;42;44",
                 "ref:De_Lijn": "206199",
                 "bus": "yes",
                 "name": "Meldert Koeisteert",

@@ -4,28 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150",
-                "ref:De_Lijn": "201857",
+                "ref:De_Lijn": "210080",
                 "bus": "yes",
-                "name": "Kluizen Schildekensstraat",
+                "name": "Kluizen Pastoorshoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHILDEKENSTRAAT KLUIZEN",
+                "created_by": "KLUIZENDORPSTRAAT KLUIZEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.729405,
-                    51.156062
+                    3.731993,
+                    51.15497
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;53;55;150",
+                "route_ref:De_Lijn": "52;53;55",
                 "ref:De_Lijn": "202665",
                 "bus": "yes",
                 "name": "Kluizen Toekomststraat",
@@ -46,21 +45,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "150",
-                "ref:De_Lijn": "210080",
-                "bus": "yes",
-                "name": "Kluizen Pastoorshoek",
+                "ref:De_Lijn": "201857",
+                "name": "Kluizen Schildekensstraat",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLUIZENDORPSTRAAT KLUIZEN",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SCHILDEKENSTRAAT KLUIZEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.731993,
-                    51.15497
+                    3.729405,
+                    51.156062
                 ]
             }
         }

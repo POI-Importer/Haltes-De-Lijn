@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "307671",
-                "bus": "yes",
-                "name": "Berg Losweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KAMPENHOUTSEBAAN BERG (KAMPENHOUT)",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.53163,
-                    50.955937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "306996",
-                "bus": "yes",
-                "name": "Kampenhout Kampelaarstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LANGESTRAAT KAMPENHOUT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.544431,
-                    50.953815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "306995",
                 "bus": "yes",
                 "name": "Berg Losweg",
@@ -67,6 +25,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "307671",
+                "bus": "yes",
+                "name": "Berg Losweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KAMPENHOUTSEBAAN BERG (KAMPENHOUT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.53163,
+                    50.955937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "307670",
                 "bus": "yes",
                 "name": "Kampenhout Kampelaarstraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.544317,
                     50.953914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306996",
+                "bus": "yes",
+                "name": "Kampenhout Kampelaarstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT KAMPENHOUT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.544431,
+                    50.953815
                 ]
             }
         }

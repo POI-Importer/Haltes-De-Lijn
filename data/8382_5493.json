@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "165",
-                "ref:De_Lijn": "302168",
-                "bus": "yes",
-                "name": "Ternat Tuborg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INDUSTRIELAAN TERNAT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.177947,
-                    50.887479
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "116;355",
-                "ref:De_Lijn": "304782",
-                "bus": "yes",
-                "name": "Ternat Batavia",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUSSELSTRAAT TERNAT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.190497,
-                    50.87583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "302122",
                 "bus": "yes",
                 "name": "Ternat Pietercil",
@@ -67,9 +25,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "165",
-                "ref:De_Lijn": "304104",
+                "ref:De_Lijn": "304165",
                 "bus": "yes",
-                "name": "Ternat Steenberg",
+                "name": "Ternat Ferrero",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "INDUSTRIELAAN TERNAT",
@@ -79,29 +37,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.181477,
-                    50.882478
+                    4.179789,
+                    50.885307
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "116;355",
-                "ref:De_Lijn": "304781",
+                "route_ref:De_Lijn": "165",
+                "ref:De_Lijn": "302168",
                 "bus": "yes",
-                "name": "Ternat Batavia",
+                "name": "Ternat Tuborg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUSSELSTRAAT TERNAT",
+                "created_by": "INDUSTRIELAAN TERNAT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.190284,
-                    50.875902
+                    4.177947,
+                    50.887479
                 ]
             }
         },
@@ -130,6 +88,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "165",
+                "ref:De_Lijn": "304104",
+                "bus": "yes",
+                "name": "Ternat Steenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIELAAN TERNAT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.181477,
+                    50.882478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "165",
                 "ref:De_Lijn": "302127",
                 "bus": "yes",
                 "name": "Ternat Ferrero",
@@ -144,6 +123,27 @@
                 "coordinates": [
                     4.179917,
                     50.885352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;355",
+                "ref:De_Lijn": "304782",
+                "bus": "yes",
+                "name": "Ternat Batavia",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSTRAAT TERNAT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190497,
+                    50.87583
                 ]
             }
         },
@@ -171,21 +171,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "165",
-                "ref:De_Lijn": "304165",
+                "route_ref:De_Lijn": "116;355",
+                "ref:De_Lijn": "304781",
                 "bus": "yes",
-                "name": "Ternat Ferrero",
+                "name": "Ternat Batavia",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "INDUSTRIELAAN TERNAT",
+                "created_by": "BRUSSELSTRAAT TERNAT",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.179789,
-                    50.885307
+                    4.190284,
+                    50.875902
                 ]
             }
         }

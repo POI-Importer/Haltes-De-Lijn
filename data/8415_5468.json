@@ -4,42 +4,40 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;214;219",
-                "ref:De_Lijn": "109235",
+                "ref:De_Lijn": "103619",
                 "bus": "yes",
-                "name": "Lichtaart Kapelhof",
+                "name": "Lichtaart Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POEDERLEESTEENWEG LICHTAART",
+                "created_by": "LEISTRAAT LICHTAART",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.905835,
-                    51.224196
+                    4.919854,
+                    51.224661
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;214;219",
-                "ref:De_Lijn": "109236",
+                "ref:De_Lijn": "109166",
                 "bus": "yes",
-                "name": "Lichtaart Kapelhof",
+                "name": "Lichtaart Gemeentestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POEDERLEESTEENWEG LICHTAART",
+                "created_by": "LEISTRAAT LICHTAART",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.90555,
-                    51.224359
+                    4.914567,
+                    51.224191
                 ]
             }
         },
@@ -66,49 +64,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;212;219;305;493",
-                "ref:De_Lijn": "109166",
+                "ref:De_Lijn": "102573",
                 "bus": "yes",
-                "name": "Lichtaart Gemeentestraat",
+                "name": "Lichtaart Krokuslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEISTRAAT LICHTAART",
+                "created_by": "ANJERLAAN LICHTAART",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.914567,
-                    51.224191
+                    4.908552,
+                    51.227725
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;493",
-                "ref:De_Lijn": "109163",
-                "bus": "yes",
-                "name": "Lichtaart Korenbloemlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELENSTEENWEG LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.914325,
-                    51.227977
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "200;212;214;219;305",
                 "ref:De_Lijn": "109165",
                 "bus": "yes",
                 "name": "Lichtaart Gemeentestraat",
@@ -129,7 +104,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200;219;305;493",
+                "ref:De_Lijn": "109163",
+                "bus": "yes",
+                "name": "Lichtaart Korenbloemlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELENSTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.914325,
+                    51.227977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109236",
+                "bus": "yes",
+                "name": "Lichtaart Kapelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEDERLEESTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.90555,
+                    51.224359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305",
                 "ref:De_Lijn": "103472",
                 "bus": "yes",
                 "name": "Lichtaart Kerk",
@@ -150,49 +165,46 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200",
-                "ref:De_Lijn": "103474",
+                "ref:De_Lijn": "109167",
                 "bus": "yes",
-                "name": "Lichtaart Lamstraat",
+                "name": "Lichtaart Schoolstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PLAATS LICHTAART",
+                "created_by": "HERENTALSESTEENWEG LICHTAART",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.91731,
-                    51.227415
+                    4.911852,
+                    51.2222
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200",
-                "ref:De_Lijn": "102571",
+                "ref:De_Lijn": "109161",
                 "bus": "yes",
-                "name": "Lichtaart Krokuslaan",
+                "name": "Lichtaart Driesstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ANJERLAAN LICHTAART",
+                "created_by": "TIELENSTEENWEG LICHTAART",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.90785,
-                    51.227665
+                    4.907661,
+                    51.233544
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;493",
                 "ref:De_Lijn": "109162",
                 "bus": "yes",
                 "name": "Lichtaart Driesstraat",
@@ -213,8 +225,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "200",
-                "ref:De_Lijn": "102573",
+                "ref:De_Lijn": "102571",
                 "bus": "yes",
                 "name": "Lichtaart Krokuslaan",
                 "public_transport": "platform",
@@ -226,8 +237,88 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.908552,
-                    51.227725
+                    4.90785,
+                    51.227665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109168",
+                "bus": "yes",
+                "name": "Lichtaart Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.912111,
+                    51.222297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103477",
+                "bus": "yes",
+                "name": "Lichtaart Lamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAATS LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.917165,
+                    51.22728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109235",
+                "bus": "yes",
+                "name": "Lichtaart Kapelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEDERLEESTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.905835,
+                    51.224196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109164",
+                "bus": "yes",
+                "name": "Lichtaart Korenbloemlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELENSTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.914469,
+                    51.228039
                 ]
             }
         },
@@ -254,29 +345,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;214;219;305",
-                "ref:De_Lijn": "109167",
-                "bus": "yes",
-                "name": "Lichtaart Schoolstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERENTALSESTEENWEG LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.911852,
-                    51.2222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "200",
-                "ref:De_Lijn": "103477",
+                "ref:De_Lijn": "103474",
                 "bus": "yes",
                 "name": "Lichtaart Lamstraat",
                 "public_transport": "platform",
@@ -288,92 +357,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.917165,
-                    51.22728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "212;493",
-                "ref:De_Lijn": "109161",
-                "bus": "yes",
-                "name": "Lichtaart Driesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELENSTEENWEG LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.907661,
-                    51.233544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "200;305;493",
-                "ref:De_Lijn": "103619",
-                "bus": "yes",
-                "name": "Lichtaart Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEISTRAAT LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.919854,
-                    51.224661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "212;214;219;305",
-                "ref:De_Lijn": "109168",
-                "bus": "yes",
-                "name": "Lichtaart Schoolstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERENTALSESTEENWEG LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.912111,
-                    51.222297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "212;493",
-                "ref:De_Lijn": "109164",
-                "bus": "yes",
-                "name": "Lichtaart Korenbloemlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELENSTEENWEG LICHTAART",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.914469,
-                    51.228039
+                    4.91731,
+                    51.227415
                 ]
             }
         }

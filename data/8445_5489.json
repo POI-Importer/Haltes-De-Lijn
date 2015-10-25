@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;45;G7",
-                "ref:De_Lijn": "409364",
+                "ref:De_Lijn": "409389",
                 "bus": "yes",
-                "name": "Zutendaal Hoogstraat",
+                "name": "Zutendaal Weg naar As",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOOGSTRAAT ZUTENDAAL",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.566087,
-                    50.93619
+                    5.560256,
+                    50.939657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409370",
+                "bus": "yes",
+                "name": "Zutendaal Ossenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPRINKELESTRAAT ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.57875,
+                    50.934559
                 ]
             }
         },
@@ -46,48 +67,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "G7",
-                "ref:De_Lijn": "409501",
-                "bus": "yes",
-                "name": "Zutendaal Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWSTRAAT ZUTENDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.572382,
-                    50.933681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45",
-                "ref:De_Lijn": "409371",
-                "bus": "yes",
-                "name": "Zutendaal Ossenbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPRINKELESTRAAT ZUTENDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.577866,
-                    50.93446
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "45",
                 "ref:De_Lijn": "409350",
                 "bus": "yes",
@@ -109,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "10;45;G7",
-                "ref:De_Lijn": "409367",
+                "ref:De_Lijn": "407886",
                 "bus": "yes",
-                "name": "Zutendaal Kerk",
+                "name": "Zutendaal Vijverplein",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT ZUTENDAAL",
+                "created_by": "DAALSTRAAT ZUTENDAAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.571491,
-                    50.932197
+                    5.570826,
+                    50.931269
                 ]
             }
         },
@@ -145,27 +124,6 @@
                 "coordinates": [
                     5.570485,
                     50.931255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "407886",
-                "bus": "yes",
-                "name": "Zutendaal Vijverplein",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DAALSTRAAT ZUTENDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.570826,
-                    50.931269
                 ]
             }
         },
@@ -194,7 +152,49 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;45;G7",
-                "ref:De_Lijn": "409389",
+                "ref:De_Lijn": "409367",
+                "bus": "yes",
+                "name": "Zutendaal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.571491,
+                    50.932197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "409371",
+                "bus": "yes",
+                "name": "Zutendaal Ossenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPRINKELESTRAAT ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.577866,
+                    50.93446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G7",
+                "ref:De_Lijn": "409388",
                 "bus": "yes",
                 "name": "Zutendaal Weg naar As",
                 "public_transport": "platform",
@@ -206,8 +206,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.560256,
-                    50.939657
+                    5.560829,
+                    50.939247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G7",
+                "ref:De_Lijn": "409501",
+                "bus": "yes",
+                "name": "Zutendaal Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.572382,
+                    50.933681
                 ]
             }
         },
@@ -236,9 +257,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;45;G7",
-                "ref:De_Lijn": "409388",
+                "ref:De_Lijn": "409364",
                 "bus": "yes",
-                "name": "Zutendaal Weg naar As",
+                "name": "Zutendaal Hoogstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOOGSTRAAT ZUTENDAAL",
@@ -248,29 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.560829,
-                    50.939247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "45;G7",
-                "ref:De_Lijn": "409370",
-                "bus": "yes",
-                "name": "Zutendaal Ossenbergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SPRINKELESTRAAT ZUTENDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.57875,
-                    50.934559
+                    5.566087,
+                    50.93619
                 ]
             }
         }

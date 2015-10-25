@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "50;51",
-                "ref:De_Lijn": "509083",
-                "bus": "yes",
-                "name": "Elverdinge Leegte",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N8 ELVERDINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.800187,
-                    50.894514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "50;51",
                 "ref:De_Lijn": "504083",
                 "bus": "yes",
                 "name": "Elverdinge Leegte",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.799541,
                     50.894703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;50;51;69",
+                "ref:De_Lijn": "509610",
+                "bus": "yes",
+                "name": "Woesten Elverdingestraat nummer 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELVERDINGESTRAAT WOESTEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793625,
+                    50.898562
                 ]
             }
         },
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "29;50;51;69",
-                "ref:De_Lijn": "509610",
+                "route_ref:De_Lijn": "50;51",
+                "ref:De_Lijn": "509083",
                 "bus": "yes",
-                "name": "Woesten Elverdingestraat nummer 5",
+                "name": "Elverdinge Leegte",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ELVERDINGESTRAAT WOESTEN",
+                "created_by": "N8 ELVERDINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.793625,
-                    50.898562
+                    2.800187,
+                    50.894514
                 ]
             }
         }

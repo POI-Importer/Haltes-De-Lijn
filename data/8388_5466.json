@@ -46,7 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "764",
                 "ref:De_Lijn": "101276",
                 "bus": "yes",
                 "name": "Fina Vulcentrum",
@@ -67,7 +66,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "764",
                 "ref:De_Lijn": "101277",
                 "bus": "yes",
                 "name": "Fina Vulcentrum",

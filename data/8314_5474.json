@@ -4,12 +4,12 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "0",
-                "ref:De_Lijn": "506255",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "501635",
+                "bus": "yes",
                 "name": "Oostduinkerke Groenendijk Bad",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
+                "highway": "bus_stop",
                 "created_by": "ALBERT I LAAN GROENENDIJK",
                 "operator": "De Lijn",
                 "network": "DLWV"
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.700342,
-                    51.140219
+                    2.700038,
+                    51.140323
                 ]
             }
         },
@@ -46,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "501635",
-                "bus": "yes",
-                "name": "Oostduinkerke Groenendijk Bad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ALBERT I LAAN GROENENDIJK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.700038,
-                    51.140323
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "0",
                 "ref:De_Lijn": "501255",
                 "name": "Oostduinkerke Groenendijk Bad",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     2.700242,
                     51.140191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506255",
+                "name": "Oostduinkerke Groenendijk Bad",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN GROENENDIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.700342,
+                    51.140219
                 ]
             }
         }

@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "455011",
+                "route_ref:De_Lijn": "9;61;725",
+                "ref:De_Lijn": "401848",
                 "bus": "yes",
-                "name": "Stokkem A-Taxi",
+                "name": "Stokkem Kerk",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ARNOLD SAUWENLAAN STOKKEM",
+                "created_by": "STEENKUILSTRAAT STOKKEM",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.736289,
-                    51.019132
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "11;61;65;725",
-                "ref:De_Lijn": "401850",
-                "bus": "yes",
-                "name": "Stokkem Koeweerd",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGS DE GRAAF STOKKEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.743664,
-                    51.023217
+                    5.745724,
+                    51.020074
                 ]
             }
         },
@@ -67,21 +46,126 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "9;61;725",
-                "ref:De_Lijn": "401856",
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "406348",
                 "bus": "yes",
-                "name": "Stokkem Molenveld",
+                "name": "Stokkem De Wissen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STADSGRAAF STOKKEM",
+                "created_by": "UNKNOWN STOKKEM",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.745041,
-                    51.019156
+                    5.749589,
+                    51.024497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "406347",
+                "bus": "yes",
+                "name": "Stokkem 't Kempke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGS DE GRAAF STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.741888,
+                    51.020991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;65",
+                "ref:De_Lijn": "401843",
+                "bus": "yes",
+                "name": "Stokkem Arnold-Sauwenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73744,
+                    51.019019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455011",
+                "bus": "yes",
+                "name": "Stokkem A-Taxi",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ARNOLD SAUWENLAAN STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.736289,
+                    51.019132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;61;725",
+                "ref:De_Lijn": "401845",
+                "bus": "yes",
+                "name": "Stokkem Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARNOLD SAUWENLAAN STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.736833,
+                    51.019224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;65;725",
+                "ref:De_Lijn": "401851",
+                "bus": "yes",
+                "name": "Stokkem Koeweerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGS DE GRAAF STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.743727,
+                    51.023432
                 ]
             }
         },
@@ -130,71 +214,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "9;61;725",
-                "ref:De_Lijn": "401848",
-                "bus": "yes",
-                "name": "Stokkem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENKUILSTRAAT STOKKEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.745724,
-                    51.020074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "725",
-                "ref:De_Lijn": "406347",
-                "bus": "yes",
-                "name": "Stokkem 't Kempke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LANGS DE GRAAF STOKKEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.741888,
-                    51.020991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "725",
-                "ref:De_Lijn": "406348",
-                "bus": "yes",
-                "name": "Stokkem De Wissen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN STOKKEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.749589,
-                    51.024497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;11;65;725",
-                "ref:De_Lijn": "401851",
+                "route_ref:De_Lijn": "11;61;65;725",
+                "ref:De_Lijn": "401850",
                 "bus": "yes",
                 "name": "Stokkem Koeweerd",
                 "public_transport": "platform",
@@ -206,8 +227,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.743727,
-                    51.023432
+                    5.743664,
+                    51.023217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;61;725",
+                "ref:De_Lijn": "401856",
+                "bus": "yes",
+                "name": "Stokkem Molenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STADSGRAAF STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.745041,
+                    51.019156
                 ]
             }
         },
@@ -229,48 +271,6 @@
                 "coordinates": [
                     5.737087,
                     51.019131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;61;725",
-                "ref:De_Lijn": "401845",
-                "bus": "yes",
-                "name": "Stokkem Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ARNOLD SAUWENLAAN STOKKEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.736833,
-                    51.019224
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;65",
-                "ref:De_Lijn": "401843",
-                "bus": "yes",
-                "name": "Stokkem Arnold-Sauwenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAPELSTRAAT STOKKEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.73744,
-                    51.019019
                 ]
             }
         }

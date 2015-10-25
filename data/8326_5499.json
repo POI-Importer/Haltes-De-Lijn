@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "504133",
-                "bus": "yes",
-                "name": "Houthem Kortewilde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CHICANESTRAAT HOUTHEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.961602,
-                    50.796299
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "89",
                 "ref:De_Lijn": "509133",
                 "bus": "yes",
                 "name": "Houthem Kortewilde",
@@ -68,41 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "504135",
+                "ref:De_Lijn": "504133",
                 "bus": "yes",
-                "name": "Houthem Station",
+                "name": "Houthem Kortewilde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CORTEWILDESTRAAT HOUTHEM",
+                "created_by": "CHICANESTRAAT HOUTHEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.961663,
-                    50.792343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "89",
-                "ref:De_Lijn": "509135",
-                "bus": "yes",
-                "name": "Houthem Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CORTEWILDESTRAAT HOUTHEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.961496,
-                    50.792233
+                    2.961602,
+                    50.796299
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     2.948959,
                     50.794501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "504135",
+                "bus": "yes",
+                "name": "Houthem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CORTEWILDESTRAAT HOUTHEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.961663,
+                    50.792343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "509135",
+                "bus": "yes",
+                "name": "Houthem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CORTEWILDESTRAAT HOUTHEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.961496,
+                    50.792233
                 ]
             }
         }

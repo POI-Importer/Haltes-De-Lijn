@@ -4,6 +4,109 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308460",
+                "bus": "yes",
+                "name": "Betekom gemeenteschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROFESSOR SCHARPÉLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.782532,
+                    50.989399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308443",
+                "bus": "yes",
+                "name": "Betekom Cornelius Vissenaekensplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.782293,
+                    50.986577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308444",
+                "bus": "yes",
+                "name": "Betekom Cornelius Vissenaekensplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78228,
+                    50.986685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308452",
+                "bus": "yes",
+                "name": "Betekom Tummekensberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.789709,
+                    50.987683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308465",
+                "bus": "yes",
+                "name": "Betekom Voetbalpleinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROFESSOR SCHARPÉLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78439,
+                    50.991792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "308689",
                 "bus": "yes",
                 "name": "Begijnendijk Onze-Lieve-Vrouwstraat",
@@ -24,7 +127,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532",
                 "ref:De_Lijn": "308458",
                 "bus": "yes",
                 "name": "Betekom Molenberg",
@@ -45,20 +147,63 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "308461",
+                "ref:De_Lijn": "308467",
                 "bus": "yes",
-                "name": "Betekom gemeenteschool",
+                "name": "Begijnendijk Leemstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PROFESSOR SCHARPÉLAAN BETEKOM",
+                "created_by": "WILLEKENSLAAN BETEKOM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.78252,
-                    50.989668
+                    4.781554,
+                    50.998014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308455",
+                "bus": "yes",
+                "name": "Betekom Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERSESTEENWEG BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.769389,
+                    50.986523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308463",
+                "bus": "yes",
+                "name": "Betekom Raystraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TREMELOSESTEENWEG BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.774931,
+                    50.993308
                 ]
             }
         },
@@ -85,50 +230,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532",
-                "ref:De_Lijn": "308443",
-                "bus": "yes",
-                "name": "Betekom Cornelius Vissenaekensplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.782293,
-                    50.986577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "308464",
-                "bus": "yes",
-                "name": "Betekom Voetbalpleinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROFESSOR SCHARPÉLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.784547,
-                    50.991747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532;709",
-                "ref:De_Lijn": "308463",
+                "ref:De_Lijn": "308462",
                 "bus": "yes",
                 "name": "Betekom Raystraat",
                 "public_transport": "platform",
@@ -140,16 +242,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.774931,
-                    50.993308
+                    4.775018,
+                    50.993416
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;709",
-                "ref:De_Lijn": "308452",
+                "ref:De_Lijn": "308453",
                 "bus": "yes",
                 "name": "Betekom Tummekensberg",
                 "public_transport": "platform",
@@ -161,15 +262,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.789709,
-                    50.987683
+                    4.789793,
+                    50.987593
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;709",
+                "ref:De_Lijn": "308461",
+                "bus": "yes",
+                "name": "Betekom gemeenteschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROFESSOR SCHARPÉLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78252,
+                    50.989668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
                 "ref:De_Lijn": "308459",
                 "bus": "yes",
                 "name": "Betekom Molenberg",
@@ -191,30 +312,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "308466",
+                "ref:De_Lijn": "308464",
                 "bus": "yes",
-                "name": "Begijnendijk Leemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WILLEKENSLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.781682,
-                    50.998058
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "308460",
-                "bus": "yes",
-                "name": "Betekom gemeenteschool",
+                "name": "Betekom Voetbalpleinstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "PROFESSOR SCHARPÉLAAN BETEKOM",
@@ -224,29 +324,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.782532,
-                    50.989399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "709",
-                "ref:De_Lijn": "308455",
-                "bus": "yes",
-                "name": "Betekom Kapelleke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WERCHTERSESTEENWEG BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.769389,
-                    50.986523
+                    4.784547,
+                    50.991747
                 ]
             }
         },
@@ -295,69 +374,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532",
-                "ref:De_Lijn": "308462",
-                "bus": "yes",
-                "name": "Betekom Raystraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TREMELOSESTEENWEG BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.775018,
-                    50.993416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "530;532",
-                "ref:De_Lijn": "308453",
-                "bus": "yes",
-                "name": "Betekom Tummekensberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARSCHOTSESTEENWEG BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.789793,
-                    50.987593
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308467",
-                "bus": "yes",
-                "name": "Begijnendijk Leemstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WILLEKENSLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.781554,
-                    50.998014
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "709",
                 "ref:De_Lijn": "308692",
                 "bus": "yes",
@@ -379,41 +395,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "530;532;709",
-                "ref:De_Lijn": "308444",
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308466",
                 "bus": "yes",
-                "name": "Betekom Cornelius Vissenaekensplein",
+                "name": "Begijnendijk Leemstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "created_by": "WILLEKENSLAAN BETEKOM",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.78228,
-                    50.986685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308465",
-                "bus": "yes",
-                "name": "Betekom Voetbalpleinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PROFESSOR SCHARPÉLAAN BETEKOM",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.78439,
-                    50.991792
+                    4.781682,
+                    50.998058
                 ]
             }
         }

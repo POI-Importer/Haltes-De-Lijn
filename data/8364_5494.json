@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13",
-                "ref:De_Lijn": "209075",
-                "bus": "yes",
-                "name": "Strijpen Pastoriestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEILEVELD STRIJPEN",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.795981,
-                    50.86247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "23;24;41;420;440",
-                "ref:De_Lijn": "208124",
+                "route_ref:De_Lijn": "23;24;41",
+                "ref:De_Lijn": "209124",
                 "bus": "yes",
                 "name": "Strijpen Molenkouter",
                 "public_transport": "platform",
@@ -38,29 +17,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.79926,
-                    50.867332
+                    3.799472,
+                    50.867378
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;410;420",
-                "ref:De_Lijn": "208075",
+                "ref:De_Lijn": "208666",
                 "bus": "yes",
-                "name": "Strijpen Pastoriestraat",
+                "name": "Strijpen Koningshofstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MEILEVELD STRIJPEN",
+                "created_by": "KONINGSHOFSTRAAT ZOTTEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.79615,
-                    50.862525
+                    3.799888,
+                    50.872926
                 ]
             }
         },
@@ -88,21 +66,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420;440",
-                "ref:De_Lijn": "208666",
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "209075",
                 "bus": "yes",
-                "name": "Strijpen Koningshofstraat",
+                "name": "Strijpen Pastoriestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KONINGSHOFSTRAAT ZOTTEGEM",
+                "created_by": "MEILEVELD STRIJPEN",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.799888,
-                    50.872926
+                    3.795981,
+                    50.86247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "208075",
+                "bus": "yes",
+                "name": "Strijpen Pastoriestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEILEVELD STRIJPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.79615,
+                    50.862525
                 ]
             }
         },
@@ -110,7 +109,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "23;24;41",
-                "ref:De_Lijn": "209124",
+                "ref:De_Lijn": "208124",
                 "bus": "yes",
                 "name": "Strijpen Molenkouter",
                 "public_transport": "platform",
@@ -122,15 +121,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.799472,
-                    50.867378
+                    3.79926,
+                    50.867332
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;24;41;420;440",
+                "route_ref:De_Lijn": "23;24;41",
                 "ref:De_Lijn": "208127",
                 "bus": "yes",
                 "name": "Strijpen Kerk",

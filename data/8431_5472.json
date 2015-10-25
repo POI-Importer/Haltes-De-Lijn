@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409716",
+                "bus": "yes",
+                "name": "Gelderhorsten Baalse Gracht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE DIJK GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.272161,
+                    51.178005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "711;712",
                 "ref:De_Lijn": "409423",
                 "bus": "yes",
@@ -40,27 +61,6 @@
                 "coordinates": [
                     5.272318,
                     51.177959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "712",
-                "ref:De_Lijn": "409716",
-                "bus": "yes",
-                "name": "Gelderhorsten Baalse Gracht",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE DIJK GELDERSHORSTEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.272161,
-                    51.178005
                 ]
             }
         }

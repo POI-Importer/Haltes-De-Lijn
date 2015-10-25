@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409016",
+                "route_ref:De_Lijn": "84;743",
+                "ref:De_Lijn": "402822",
                 "bus": "yes",
-                "name": "Hamont Molenstraat",
+                "name": "Hamont Bosstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT HAMONT",
+                "created_by": "BOSSTRAAT HAMONT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.536994,
-                    51.246968
+                    5.534458,
+                    51.248072
                 ]
             }
         },
@@ -46,42 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409013",
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409017",
                 "bus": "yes",
-                "name": "Hamont Achterhoek",
+                "name": "Hamont Molenstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSSTRAAT HAMONT",
+                "created_by": "MOLENSTRAAT HAMONT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.533446,
-                    51.241403
+                    5.536892,
+                    51.246906
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "409012",
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409016",
                 "bus": "yes",
-                "name": "Hamont Achterhoek",
+                "name": "Hamont Molenstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BEVRIJDINGSSTRAAT HAMONT",
+                "created_by": "MOLENSTRAAT HAMONT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.533469,
-                    51.241187
+                    5.536994,
+                    51.246968
                 ]
             }
         },
@@ -130,27 +130,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "84;743",
-                "ref:De_Lijn": "402822",
-                "bus": "yes",
-                "name": "Hamont Bosstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSSTRAAT HAMONT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.534458,
-                    51.248072
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "743",
                 "ref:De_Lijn": "409014",
                 "bus": "yes",
@@ -172,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409017",
+                "ref:De_Lijn": "409013",
                 "bus": "yes",
-                "name": "Hamont Molenstraat",
+                "name": "Hamont Achterhoek",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT HAMONT",
+                "created_by": "BEVRIJDINGSSTRAAT HAMONT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.536892,
-                    51.246906
+                    5.533446,
+                    51.241403
                 ]
             }
         },
@@ -208,6 +187,27 @@
                 "coordinates": [
                     5.534714,
                     51.248006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409012",
+                "bus": "yes",
+                "name": "Hamont Achterhoek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSSTRAAT HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.533469,
+                    51.241187
                 ]
             }
         }

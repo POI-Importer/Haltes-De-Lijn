@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "289",
-                "ref:De_Lijn": "305786",
+                "ref:De_Lijn": "305787",
                 "bus": "yes",
-                "name": "Hombeek Molenhuis",
+                "name": "Leest Kasteeltje",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOMBEKERKOUTER HOMBEEK",
+                "created_by": "KOUTER LEEST",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.431365,
-                    51.021591
+                    4.425384,
+                    51.025181
                 ]
             }
         },
@@ -47,6 +47,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "305786",
+                "bus": "yes",
+                "name": "Hombeek Molenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOMBEKERKOUTER HOMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.431365,
+                    51.021591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
                 "ref:De_Lijn": "305785",
                 "bus": "yes",
                 "name": "Hombeek Molenhuis",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     4.431878,
                     51.021564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "289",
-                "ref:De_Lijn": "305787",
-                "bus": "yes",
-                "name": "Leest Kasteeltje",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOUTER LEEST",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.425384,
-                    51.025181
                 ]
             }
         }

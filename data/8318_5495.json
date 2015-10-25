@@ -4,21 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "29",
-                "ref:De_Lijn": "505112",
+                "route_ref:De_Lijn": "29;60",
+                "ref:De_Lijn": "504516",
                 "bus": "yes",
-                "name": "Vlamertinge Zevekotestraat",
+                "name": "Vlamertinge Brandhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "UNKNOWN VLAMERTINGE",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.790437,
-                    50.853373
+                    2.789953,
+                    50.854697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;60",
+                "ref:De_Lijn": "509516",
+                "bus": "yes",
+                "name": "Vlamertinge Brandhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.790468,
+                    50.854587
                 ]
             }
         },
@@ -46,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "29;60",
-                "ref:De_Lijn": "504516",
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505112",
                 "bus": "yes",
-                "name": "Vlamertinge Brandhoek",
+                "name": "Vlamertinge Zevekotestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "created_by": "UNKNOWN VLAMERTINGE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.789953,
-                    50.854697
+                    2.790437,
+                    50.853373
                 ]
             }
         },
@@ -82,27 +103,6 @@
                 "coordinates": [
                     2.768988,
                     50.855474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "29;60",
-                "ref:De_Lijn": "509516",
-                "bus": "yes",
-                "name": "Vlamertinge Brandhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POPERINGSEWEG VLAMERTINGE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.790468,
-                    50.854587
                 ]
             }
         }

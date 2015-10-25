@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "64;79",
-                "ref:De_Lijn": "502493",
-                "bus": "yes",
-                "name": "Torhout Drie Koningen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARTRIJKESTRAAT TORHOUT",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.09876,
-                    51.085392
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "64;79",
-                "ref:De_Lijn": "507004",
-                "bus": "yes",
-                "name": "Aartrijke Hoge Rokers",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AARTRIJKSESTRAAT AARTRIJKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.101127,
-                    51.091792
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "79",
                 "ref:De_Lijn": "505626",
                 "bus": "yes",
@@ -67,21 +25,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "505625",
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "507004",
                 "bus": "yes",
-                "name": "Torhout Koningsdreef",
+                "name": "Aartrijke Hoge Rokers",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DRIEKONINGENSTRAAT TORHOUT",
+                "created_by": "AARTRIJKSESTRAAT AARTRIJKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.11325,
-                    51.084792
+                    3.101127,
+                    51.091792
                 ]
             }
         },
@@ -110,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "64;79",
-                "ref:De_Lijn": "502004",
+                "ref:De_Lijn": "502493",
                 "bus": "yes",
-                "name": "Aartrijke Hoge Rokers",
+                "name": "Torhout Drie Koningen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "AARTRIJKSESTRAAT AARTRIJKE",
+                "created_by": "AARTRIJKESTRAAT TORHOUT",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.101656,
-                    51.09231
+                    3.09876,
+                    51.085392
                 ]
             }
         },
@@ -145,6 +103,48 @@
                 "coordinates": [
                     3.113082,
                     51.093691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505625",
+                "bus": "yes",
+                "name": "Torhout Koningsdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEKONINGENSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11325,
+                    51.084792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "502004",
+                "bus": "yes",
+                "name": "Aartrijke Hoge Rokers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARTRIJKSESTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.101656,
+                    51.09231
                 ]
             }
         }

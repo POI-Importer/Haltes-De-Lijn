@@ -26,68 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "4;630",
-                "ref:De_Lijn": "306107",
-                "bus": "yes",
-                "name": "Haasrode Philips",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INTERLEUVENLAAN HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.731165,
-                    50.850655
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;5;6;630",
-                "ref:De_Lijn": "303053",
-                "bus": "yes",
-                "name": "Haasrode Industriezone Interleuvenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GELDENAAKSEBAAN HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.724455,
-                    50.84779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;630",
-                "ref:De_Lijn": "306110",
-                "bus": "yes",
-                "name": "Haasrode Brabanthal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.727122,
-                    50.853022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;630",
                 "ref:De_Lijn": "306108",
                 "bus": "yes",
                 "name": "Haasrode Philips",
@@ -102,6 +40,27 @@
                 "coordinates": [
                     4.731023,
                     50.850574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;5;6;630",
+                "ref:De_Lijn": "303052",
+                "bus": "yes",
+                "name": "Haasrode Industriezone Interleuvenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDENAAKSEBAAN HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.724327,
+                    50.847709
                 ]
             }
         },
@@ -130,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "4;630",
-                "ref:De_Lijn": "303049",
-                "bus": "yes",
-                "name": "Haasrode Donaldson",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "INTERLEUVENLAAN HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.727461,
-                    50.850963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "4;630",
                 "ref:De_Lijn": "303048",
                 "bus": "yes",
                 "name": "Haasrode Partezis",
@@ -171,21 +109,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "4;5;6;630",
-                "ref:De_Lijn": "303052",
+                "route_ref:De_Lijn": "4;630",
+                "ref:De_Lijn": "306110",
                 "bus": "yes",
-                "name": "Haasrode Industriezone Interleuvenlaan",
+                "name": "Haasrode Brabanthal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GELDENAAKSEBAAN HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.724327,
-                    50.847709
+                    4.727122,
+                    50.853022
                 ]
             }
         },
@@ -234,6 +171,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "4;5;6;630",
+                "ref:De_Lijn": "303053",
+                "bus": "yes",
+                "name": "Haasrode Industriezone Interleuvenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDENAAKSEBAAN HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.724455,
+                    50.84779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "4;630",
                 "ref:De_Lijn": "306111",
                 "bus": "yes",
@@ -248,6 +206,48 @@
                 "coordinates": [
                     4.726965,
                     50.852951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;630",
+                "ref:De_Lijn": "306107",
+                "bus": "yes",
+                "name": "Haasrode Philips",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INTERLEUVENLAAN HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.731165,
+                    50.850655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;630",
+                "ref:De_Lijn": "303049",
+                "bus": "yes",
+                "name": "Haasrode Donaldson",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INTERLEUVENLAAN HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.727461,
+                    50.850963
                 ]
             }
         }

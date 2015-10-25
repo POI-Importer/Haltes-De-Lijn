@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408185",
+                "bus": "yes",
+                "name": "Klein-Gelmen Engelmanshovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALSTRAAT KLEIN-GELMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27496,
+                    50.77301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
                 "ref:De_Lijn": "403873",
                 "bus": "yes",
                 "name": "Klein-Gelmen Daalstraat",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     5.278366,
                     50.768039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "403874",
-                "bus": "yes",
-                "name": "Klein-Gelmen Daalstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DAALSTRAAT KLEIN-GELMEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.278495,
-                    50.76811
                 ]
             }
         },
@@ -68,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "734;S12",
-                "ref:De_Lijn": "408185",
+                "ref:De_Lijn": "403874",
                 "bus": "yes",
-                "name": "Klein-Gelmen Engelmanshovenstraat",
+                "name": "Klein-Gelmen Daalstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DAALSTRAAT KLEIN-GELMEN",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.27496,
-                    50.77301
+                    5.278495,
+                    50.76811
                 ]
             }
         }

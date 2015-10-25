@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "501124",
+                "bus": "yes",
+                "name": "Houtave Schellevliet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.124866,
+                    51.252935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
                 "ref:De_Lijn": "506118",
                 "bus": "yes",
                 "name": "Houtave Cafe Neerhof",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     3.125262,
                     51.252607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "501124",
-                "bus": "yes",
-                "name": "Houtave Schellevliet",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSE STEENWEG HOUTAVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.124866,
-                    51.252935
                 ]
             }
         }

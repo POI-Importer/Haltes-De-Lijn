@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;27;240",
-                "ref:De_Lijn": "204743",
+                "route_ref:De_Lijn": "21;22;27",
+                "ref:De_Lijn": "205742",
                 "bus": "yes",
-                "name": "De Klinge Bergstraat",
+                "name": "De Klinge Polenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HEIDESTRAAT DE KLINGE",
@@ -17,29 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.081914,
-                    51.251983
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;240",
-                "ref:De_Lijn": "205744",
-                "bus": "yes",
-                "name": "De Klinge Buitenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BUITENSTRAAT SINT-GILLIS-WAAS",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.073235,
-                    51.24958
+                    4.085031,
+                    51.252908
                 ]
             }
         },
@@ -66,49 +45,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;27;240",
-                "ref:De_Lijn": "205742",
-                "bus": "yes",
-                "name": "De Klinge Polenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT DE KLINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.085031,
-                    51.252908
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;22;27;240",
-                "ref:De_Lijn": "204742",
-                "bus": "yes",
-                "name": "De Klinge Polenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIDESTRAAT DE KLINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.084816,
-                    51.252961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;240",
+                "route_ref:De_Lijn": "22",
                 "ref:De_Lijn": "204744",
                 "bus": "yes",
                 "name": "De Klinge Buitenstraat",
@@ -129,8 +66,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;22;27;240",
-                "ref:De_Lijn": "205743",
+                "route_ref:De_Lijn": "21;22;27",
+                "ref:De_Lijn": "204743",
                 "bus": "yes",
                 "name": "De Klinge Bergstraat",
                 "public_transport": "platform",
@@ -142,8 +79,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.081686,
-                    51.251776
+                    4.081914,
+                    51.251983
                 ]
             }
         },
@@ -164,6 +101,69 @@
                 "coordinates": [
                     4.065263,
                     51.255474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;27",
+                "ref:De_Lijn": "204742",
+                "bus": "yes",
+                "name": "De Klinge Polenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT DE KLINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.084816,
+                    51.252961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "205744",
+                "bus": "yes",
+                "name": "De Klinge Buitenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUITENSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.073235,
+                    51.24958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;27",
+                "ref:De_Lijn": "205743",
+                "bus": "yes",
+                "name": "De Klinge Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT DE KLINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081686,
+                    51.251776
                 ]
             }
         }

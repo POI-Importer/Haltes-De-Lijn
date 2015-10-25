@@ -4,10 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "250;254;938",
-                "ref:De_Lijn": "107929",
+                "ref:De_Lijn": "109910",
                 "bus": "yes",
-                "name": "Liezele Weg Op Lippelo",
+                "name": "Liezele Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LIEZELE-DORP LIEZELE",
@@ -17,8 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.281804,
-                    51.058854
+                    4.280246,
+                    51.060516
                 ]
             }
         },
@@ -46,8 +45,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;250;254;938",
-                "ref:De_Lijn": "109913",
+                "route_ref:De_Lijn": "98;250;938",
+                "ref:De_Lijn": "109917",
+                "bus": "yes",
+                "name": "Liezele Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEZELE-DORP LIEZELE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.279494,
+                    51.066008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;250;938",
+                "ref:De_Lijn": "109912",
                 "bus": "yes",
                 "name": "Liezele Dorp",
                 "public_transport": "platform",
@@ -59,29 +79,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.279141,
-                    51.06394
+                    4.27897,
+                    51.063922
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "250",
-                "ref:De_Lijn": "301151",
+                "route_ref:De_Lijn": "98;250;938",
+                "ref:De_Lijn": "109914",
                 "bus": "yes",
-                "name": "Liezele Fort",
+                "name": "Liezele Heide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT PUURS",
+                "created_by": "LIEZELE-DORP LIEZELE",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.281444,
-                    51.068472
+                    4.279665,
+                    51.065999
                 ]
             }
         },
@@ -130,8 +150,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;250;254;938",
-                "ref:De_Lijn": "109912",
+                "route_ref:De_Lijn": "98;250;938",
+                "ref:De_Lijn": "109913",
                 "bus": "yes",
                 "name": "Liezele Dorp",
                 "public_transport": "platform",
@@ -143,57 +163,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.27897,
-                    51.063922
+                    4.279141,
+                    51.06394
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;250;254;938",
-                "ref:De_Lijn": "109911",
-                "bus": "yes",
-                "name": "Liezele Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIEZELE-DORP LIEZELE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.280103,
-                    51.060678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "98;250;254;938",
-                "ref:De_Lijn": "109917",
-                "bus": "yes",
-                "name": "Liezele Heide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LIEZELE-DORP LIEZELE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.279494,
-                    51.066008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "250;254;938",
                 "ref:De_Lijn": "107928",
                 "bus": "yes",
                 "name": "Liezele Weg Op Lippelo",
@@ -214,8 +191,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;250;254;938",
-                "ref:De_Lijn": "109910",
+                "ref:De_Lijn": "107929",
+                "bus": "yes",
+                "name": "Liezele Weg Op Lippelo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEZELE-DORP LIEZELE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.281804,
+                    51.058854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109911",
                 "bus": "yes",
                 "name": "Liezele Kerk",
                 "public_transport": "platform",
@@ -227,29 +223,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.280246,
-                    51.060516
+                    4.280103,
+                    51.060678
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "98;250;254;938",
-                "ref:De_Lijn": "109914",
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "301151",
                 "bus": "yes",
-                "name": "Liezele Heide",
+                "name": "Liezele Fort",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LIEZELE-DORP LIEZELE",
+                "created_by": "MOLENSTRAAT PUURS",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.279665,
-                    51.065999
+                    4.281444,
+                    51.068472
                 ]
             }
         }

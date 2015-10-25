@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "101853",
+                "bus": "yes",
+                "name": "Geel Schransdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATERSBERG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.005235,
+                    51.180088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
                 "ref:De_Lijn": "101854",
                 "bus": "yes",
                 "name": "Geel Schransdijk",
@@ -82,27 +103,6 @@
                 "coordinates": [
                     4.990481,
                     51.182585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "101853",
-                "bus": "yes",
-                "name": "Geel Schransdijk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KATERSBERG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.005235,
-                    51.180088
                 ]
             }
         }

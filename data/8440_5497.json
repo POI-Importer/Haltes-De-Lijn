@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "10;104;706;707;736;738",
-                "ref:De_Lijn": "404358",
+                "ref:De_Lijn": "404361",
                 "bus": "yes",
-                "name": "Sint-Huibrechts-Hern Mombeek",
+                "name": "Sint-Huibrechts-Hern Vrijhernstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-HUBERTUSSTRAAT SINT-HUIBRECHTS-HERN",
+                "created_by": "HERNERWEG HOESELT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.450155,
-                    50.830671
+                    5.46213,
+                    50.821219
                 ]
             }
         },
@@ -46,48 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "10;104;706;707;736",
-                "ref:De_Lijn": "404360",
-                "bus": "yes",
-                "name": "Sint-Huibrechts-Hern Vrijhernstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERNERWEG HOESELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.461445,
-                    50.821702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;104;706;707;736;738",
-                "ref:De_Lijn": "404361",
-                "bus": "yes",
-                "name": "Sint-Huibrechts-Hern Vrijhernstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERNERWEG HOESELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.46213,
-                    50.821219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "706;707;736;738",
                 "ref:De_Lijn": "404385",
                 "bus": "yes",
@@ -103,48 +61,6 @@
                 "coordinates": [
                     5.456277,
                     50.825292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "10;104;706;707;736",
-                "ref:De_Lijn": "404359",
-                "bus": "yes",
-                "name": "Sint-Huibrechts-Hern Mombeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-HUBERTUSSTRAAT SINT-HUIBRECHTS-HERN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.449993,
-                    50.830421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "706;707;736;738",
-                "ref:De_Lijn": "404386",
-                "bus": "yes",
-                "name": "Vrijhern Metser",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HERNERWEG HOESELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.466584,
-                    50.819919
                 ]
             }
         },
@@ -208,6 +124,90 @@
                 "coordinates": [
                     5.456477,
                     50.825344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;104;706;707;736",
+                "ref:De_Lijn": "404360",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Hern Vrijhernstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERNERWEG HOESELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.461445,
+                    50.821702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;104;706;707;736",
+                "ref:De_Lijn": "404359",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Hern Mombeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-HUBERTUSSTRAAT SINT-HUIBRECHTS-HERN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.449993,
+                    50.830421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;104;706;707;736;738",
+                "ref:De_Lijn": "404358",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Hern Mombeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-HUBERTUSSTRAAT SINT-HUIBRECHTS-HERN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.450155,
+                    50.830671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "706;707;736;738",
+                "ref:De_Lijn": "404386",
+                "bus": "yes",
+                "name": "Vrijhern Metser",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERNERWEG HOESELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.466584,
+                    50.819919
                 ]
             }
         }

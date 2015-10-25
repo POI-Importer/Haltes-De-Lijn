@@ -5,41 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407239",
+                "ref:De_Lijn": "407226",
                 "bus": "yes",
-                "name": "Wauberg Waubergstraat 35",
+                "name": "Linde Overes 61",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAUBERGSTRAAT WOUBERG",
+                "created_by": "OVERES PEER",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.459635,
-                    51.085509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;16;33;13b;752",
-                "ref:De_Lijn": "407508",
-                "bus": "yes",
-                "name": "Wauberg School",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEEUWERBAAN WOUBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.468336,
-                    51.084071
+                    5.469644,
+                    51.088706
                 ]
             }
         },
@@ -68,30 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407486",
+                "ref:De_Lijn": "407510",
                 "bus": "yes",
-                "name": "Linde Overes 19",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVERES PEER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.467605,
-                    51.093049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407238",
-                "bus": "yes",
-                "name": "Wauberg Waubergstraat 53",
+                "name": "Wauberg Waubergstraat 35",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WAUBERGSTRAAT WOUBERG",
@@ -101,8 +59,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.459752,
-                    51.083818
+                    5.459777,
+                    51.08549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407438",
+                "bus": "yes",
+                "name": "Wauberg Meeuwerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERES WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.471057,
+                    51.085079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;33;13b;752",
+                "ref:De_Lijn": "407508",
+                "bus": "yes",
+                "name": "Wauberg School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERBAAN WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.468336,
+                    51.084071
                 ]
             }
         },
@@ -131,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407438",
+                "ref:De_Lijn": "407227",
                 "bus": "yes",
                 "name": "Wauberg Meeuwerbaan",
                 "public_transport": "platform",
@@ -143,29 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.471057,
-                    51.085079
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407512",
-                "bus": "yes",
-                "name": "Wauberg Waubergstraat 53",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAUBERGSTRAAT WOUBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.459882,
-                    51.083889
+                    5.471187,
+                    51.085114
                 ]
             }
         },
@@ -194,51 +173,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407227",
+                "ref:De_Lijn": "407238",
                 "bus": "yes",
-                "name": "Wauberg Meeuwerbaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVERES WOUBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.471187,
-                    51.085114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407226",
-                "bus": "yes",
-                "name": "Linde Overes 61",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OVERES PEER",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.469644,
-                    51.088706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "752",
-                "ref:De_Lijn": "407510",
-                "bus": "yes",
-                "name": "Wauberg Waubergstraat 35",
+                "name": "Wauberg Waubergstraat 53",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "WAUBERGSTRAAT WOUBERG",
@@ -248,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.459777,
-                    51.08549
+                    5.459752,
+                    51.083818
                 ]
             }
         },
@@ -277,6 +214,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407512",
+                "bus": "yes",
+                "name": "Wauberg Waubergstraat 53",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAUBERGSTRAAT WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.459882,
+                    51.083889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "13;16;33;13b;752",
                 "ref:De_Lijn": "407509",
                 "bus": "yes",
@@ -292,6 +250,48 @@
                 "coordinates": [
                     5.467422,
                     51.084052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407486",
+                "bus": "yes",
+                "name": "Linde Overes 19",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERES PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.467605,
+                    51.093049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407239",
+                "bus": "yes",
+                "name": "Wauberg Waubergstraat 35",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAUBERGSTRAAT WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.459635,
+                    51.085509
                 ]
             }
         }

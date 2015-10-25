@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;410",
-                "ref:De_Lijn": "208070",
-                "bus": "yes",
-                "name": "Sint-Goriks-Oudenhove Langendries",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TEN BOSSE SINT-GORIKS-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.787837,
-                    50.843246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;410",
-                "ref:De_Lijn": "208069",
-                "bus": "yes",
-                "name": "Sint-Maria-Oudenhove Boterhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENHOVESTRAAT SINT-MARIA-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.790579,
-                    50.835025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;410;420",
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "208071",
                 "bus": "yes",
                 "name": "Sint-Goriks-Oudenhove Ten Bosse Boven",
@@ -68,28 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "13",
-                "ref:De_Lijn": "209071",
-                "bus": "yes",
-                "name": "Sint-Goriks-Oudenhove Ten Bosse Boven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TEN BOSSE SINT-GORIKS-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.794973,
-                    50.847273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13",
-                "ref:De_Lijn": "209070",
+                "ref:De_Lijn": "208070",
                 "bus": "yes",
                 "name": "Sint-Goriks-Oudenhove Langendries",
                 "public_transport": "platform",
@@ -101,50 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.787568,
-                    50.843245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13",
-                "ref:De_Lijn": "209069",
-                "bus": "yes",
-                "name": "Sint-Maria-Oudenhove Boterhoekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENHOVESTRAAT SINT-MARIA-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.790151,
-                    50.835194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "13;410",
-                "ref:De_Lijn": "208087",
-                "bus": "yes",
-                "name": "Sint-Goriks-Oudenhove Sint-Goriksstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-GORIKSSTRAAT SINT-GORIKS-OUDENHOVE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.787181,
-                    50.840078
+                    3.787837,
+                    50.843246
                 ]
             }
         },
@@ -173,9 +68,51 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "13",
-                "ref:De_Lijn": "209088",
+                "ref:De_Lijn": "209071",
                 "bus": "yes",
-                "name": "Sint-Maria-Oudenhove Oudenhovestraat",
+                "name": "Sint-Goriks-Oudenhove Ten Bosse Boven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN BOSSE SINT-GORIKS-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.794973,
+                    50.847273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "208087",
+                "bus": "yes",
+                "name": "Sint-Goriks-Oudenhove Sint-Goriksstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GORIKSSTRAAT SINT-GORIKS-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.787181,
+                    50.840078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "209069",
+                "bus": "yes",
+                "name": "Sint-Maria-Oudenhove Boterhoekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OUDENHOVESTRAAT SINT-MARIA-OUDENHOVE",
@@ -185,15 +122,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.788491,
-                    50.837433
+                    3.790151,
+                    50.835194
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "13;410",
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "209070",
+                "bus": "yes",
+                "name": "Sint-Goriks-Oudenhove Langendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN BOSSE SINT-GORIKS-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.787568,
+                    50.843245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
                 "ref:De_Lijn": "208088",
                 "bus": "yes",
                 "name": "Sint-Maria-Oudenhove Oudenhovestraat",
@@ -208,6 +166,48 @@
                 "coordinates": [
                     3.788704,
                     50.837407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "208069",
+                "bus": "yes",
+                "name": "Sint-Maria-Oudenhove Boterhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENHOVESTRAAT SINT-MARIA-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.790579,
+                    50.835025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "209088",
+                "bus": "yes",
+                "name": "Sint-Maria-Oudenhove Oudenhovestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENHOVESTRAAT SINT-MARIA-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.788491,
+                    50.837433
                 ]
             }
         }

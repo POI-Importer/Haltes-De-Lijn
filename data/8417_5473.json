@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b",
                 "ref:De_Lijn": "109590",
                 "bus": "yes",
                 "name": "Geel Weg naar Thomas More",
@@ -19,27 +18,6 @@
                 "coordinates": [
                     4.961353,
                     51.163912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15b",
-                "ref:De_Lijn": "109589",
-                "bus": "yes",
-                "name": "Geel Weg naar Thomas More",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LARUMSEWEG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.962757,
-                    51.164139
                 ]
             }
         },
@@ -67,21 +45,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "100287",
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "109593",
                 "bus": "yes",
-                "name": "Geel Thomas More NB2000",
+                "name": "Geel Larumseweg",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KLEINHOEFSTRAAT GEEL",
+                "created_by": "LARUMSEWEG GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.965175,
-                    51.160971
+                    4.950798,
+                    51.164729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "109591",
+                "bus": "yes",
+                "name": "Geel Larumseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LARUMSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951369,
+                    51.164645
                 ]
             }
         },
@@ -102,27 +101,6 @@
                 "coordinates": [
                     4.954719,
                     51.15475
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "15b",
-                "ref:De_Lijn": "109593",
-                "bus": "yes",
-                "name": "Geel Larumseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LARUMSEWEG GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.950798,
-                    51.164729
                 ]
             }
         },
@@ -170,7 +148,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b",
                 "ref:De_Lijn": "109535",
                 "bus": "yes",
                 "name": "Geel Thomas More",
@@ -191,10 +168,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "15b",
-                "ref:De_Lijn": "109591",
+                "ref:De_Lijn": "109589",
                 "bus": "yes",
-                "name": "Geel Larumseweg",
+                "name": "Geel Weg naar Thomas More",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "LARUMSEWEG GEEL",
@@ -204,8 +180,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.951369,
-                    51.164645
+                    4.962757,
+                    51.164139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100287",
+                "bus": "yes",
+                "name": "Geel Thomas More NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEINHOEFSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.965175,
+                    51.160971
                 ]
             }
         }

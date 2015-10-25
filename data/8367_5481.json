@@ -4,28 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "203512",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202511",
                 "bus": "yes",
-                "name": "Laarne Breestraat",
+                "name": "Laarne Groenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG LAARNE",
+                "created_by": "DENDERMONDSESTEENWEG BEERVELDE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.857703,
-                    51.050454
+                    3.851173,
+                    51.05412
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
+                "route_ref:De_Lijn": "36",
                 "ref:De_Lijn": "202512",
                 "bus": "yes",
                 "name": "Laarne Breestraat",
@@ -46,28 +46,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "202513",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203512",
                 "bus": "yes",
-                "name": "Laarne Bergstraat",
+                "name": "Laarne Breestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEIRWEG LAARNE",
+                "created_by": "DENDERMONDSESTEENWEG LAARNE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.863328,
-                    51.047224
+                    3.857703,
+                    51.050454
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
+                "route_ref:De_Lijn": "36",
                 "ref:De_Lijn": "203511",
                 "bus": "yes",
                 "name": "Laarne Groenstraat",
@@ -88,8 +88,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "203513",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "202513",
                 "bus": "yes",
                 "name": "Laarne Bergstraat",
                 "public_transport": "platform",
@@ -101,15 +101,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.862914,
-                    51.047241
+                    3.863328,
+                    51.047224
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "130",
                 "ref:De_Lijn": "201932",
                 "bus": "yes",
                 "name": "Laarne Bulstraat",
@@ -130,21 +129,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;130",
-                "ref:De_Lijn": "202511",
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203513",
                 "bus": "yes",
-                "name": "Laarne Groenstraat",
+                "name": "Laarne Bergstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG BEERVELDE",
+                "created_by": "HEIRWEG LAARNE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.851173,
-                    51.05412
+                    3.862914,
+                    51.047241
                 ]
             }
         }

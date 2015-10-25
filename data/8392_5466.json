@@ -4,10 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103185",
+                "ref:De_Lijn": "103245",
                 "bus": "yes",
-                "name": "Kaai 114",
+                "name": "Kaai 170",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
@@ -17,113 +16,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.414719,
-                    51.251062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103256",
-                "bus": "yes",
-                "name": "Kaai 176",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DERDE HAVENDOK-NOORDKAAI ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.410647,
-                    51.261148
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103240",
-                "bus": "yes",
-                "name": "Kaai 142/168",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.416244,
-                    51.25694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103186",
-                "bus": "yes",
-                "name": "Kaai 114",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.414891,
-                    51.250981
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103265",
-                "bus": "yes",
-                "name": "Kaai 180/182",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DERDE HAVENDOK-NOORDKAAI ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.404486,
-                    51.260953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103235",
-                "bus": "yes",
-                "name": "Kaai 142/168",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.416086,
-                    51.256868
+                    4.416089,
+                    51.259591
                 ]
             }
         },
@@ -151,12 +45,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103230",
-                "bus": "yes",
-                "name": "Kaai 138",
+                "ref:De_Lijn": "103240",
+                "name": "Kaai 142/168",
                 "public_transport": "platform",
-                "highway": "bus_stop",
+                "railway": "tram_stop",
+                "tram": "yes",
                 "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -164,15 +57,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.415451,
-                    51.252688
+                    4.416244,
+                    51.25694
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762",
                 "ref:De_Lijn": "103255",
                 "bus": "yes",
                 "name": "Kaai 176",
@@ -214,10 +106,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103245",
+                "ref:De_Lijn": "103225",
                 "bus": "yes",
-                "name": "Kaai 170",
+                "name": "Kaai 138",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
@@ -227,20 +118,39 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.416089,
-                    51.259591
+                    4.416083,
+                    51.254198
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103250",
+                "ref:De_Lijn": "103185",
                 "bus": "yes",
-                "name": "Kaai 170",
+                "name": "Kaai 114",
                 "public_transport": "platform",
                 "highway": "bus_stop",
+                "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414719,
+                    51.251062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103250",
+                "name": "Kaai 170",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
                 "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
@@ -257,9 +167,70 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "762",
-                "ref:De_Lijn": "103225",
+                "ref:De_Lijn": "103265",
                 "bus": "yes",
+                "name": "Kaai 180/182",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DERDE HAVENDOK-NOORDKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404486,
+                    51.260953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "762",
+                "ref:De_Lijn": "103256",
+                "bus": "yes",
+                "name": "Kaai 176",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DERDE HAVENDOK-NOORDKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.410647,
+                    51.261148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103230",
                 "name": "Kaai 138",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415451,
+                    51.252688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103235",
+                "bus": "yes",
+                "name": "Kaai 142/168",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
@@ -269,8 +240,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.416083,
-                    51.254198
+                    4.416086,
+                    51.256868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "762",
+                "ref:De_Lijn": "103186",
+                "bus": "yes",
+                "name": "Kaai 114",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSESCHIJNSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414891,
+                    51.250981
                 ]
             }
         }

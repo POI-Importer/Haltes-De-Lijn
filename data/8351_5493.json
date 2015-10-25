@@ -4,42 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "201844",
+                "ref:De_Lijn": "201807",
                 "bus": "yes",
-                "name": "Kruishoutem Bredestraat",
+                "name": "Nokere Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BREDESTRAAT KRUISHOUTEM",
+                "created_by": "NOKEREDORPSTRAAT NOKERE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.494971,
-                    50.889034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59;450",
-                "ref:De_Lijn": "208327",
-                "bus": "yes",
-                "name": "Nokere Nokeredorpsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WAREGEMSESTRAAT NOKERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.508282,
-                    50.886255
+                    3.510715,
+                    50.884547
                 ]
             }
         },
@@ -67,7 +45,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "208327",
+                "bus": "yes",
+                "name": "Nokere Nokeredorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSESTRAAT NOKERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.508282,
+                    50.886255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "201806",
                 "bus": "yes",
                 "name": "Nokere Spichtestraat",
@@ -88,21 +86,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "201807",
+                "ref:De_Lijn": "201844",
                 "bus": "yes",
-                "name": "Nokere Kerk",
+                "name": "Kruishoutem Bredestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NOKEREDORPSTRAAT NOKERE",
+                "created_by": "BREDESTRAAT KRUISHOUTEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.510715,
-                    50.884547
+                    3.494971,
+                    50.889034
                 ]
             }
         }

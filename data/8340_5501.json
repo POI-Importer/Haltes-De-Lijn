@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "503745",
+                "ref:De_Lijn": "508747",
                 "bus": "yes",
-                "name": "Rollegem Kannestraat",
+                "name": "Rollegem Plaats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
+                "created_by": "ROLLEGEMPLAATS ROLLEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.263101,
-                    50.77575
+                    3.262252,
+                    50.769008
                 ]
             }
         },
@@ -46,27 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "12",
-                "ref:De_Lijn": "509782",
-                "bus": "yes",
-                "name": "Rollegem Containerpark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROLLEGEMSEWEG ROLLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.26101,
-                    50.777807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "12;16",
                 "ref:De_Lijn": "503744",
                 "bus": "yes",
@@ -82,111 +61,6 @@
                 "coordinates": [
                     3.263266,
                     50.766293
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "508750",
-                "bus": "yes",
-                "name": "Rollegem Waterval",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.272218,
-                    50.776366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "503750",
-                "bus": "yes",
-                "name": "Rollegem Waterval",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.2724,
-                    50.776485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "508744",
-                "bus": "yes",
-                "name": "Rollegem Beekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TOMBROEKSTRAAT ROLLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.263411,
-                    50.76616
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "501007",
-                "bus": "yes",
-                "name": "Rollegem Plaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROLLEGEMPLAATS ROLLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.263444,
-                    50.768363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "508743",
-                "bus": "yes",
-                "name": "Rollegem Aalbekestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.256765,
-                    50.770826
                 ]
             }
         },
@@ -215,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "508745",
+                "ref:De_Lijn": "503745",
                 "bus": "yes",
                 "name": "Rollegem Kannestraat",
                 "public_transport": "platform",
@@ -227,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.263202,
-                    50.775652
+                    3.263101,
+                    50.77575
                 ]
             }
         },
@@ -257,20 +131,125 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "12;16",
-                "ref:De_Lijn": "508747",
+                "ref:De_Lijn": "508744",
                 "bus": "yes",
-                "name": "Rollegem Plaats",
+                "name": "Rollegem Beekstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ROLLEGEMPLAATS ROLLEGEM",
+                "created_by": "TOMBROEKSTRAAT ROLLEGEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.262252,
-                    50.769008
+                    3.263411,
+                    50.76616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;16",
+                "ref:De_Lijn": "508745",
+                "bus": "yes",
+                "name": "Rollegem Kannestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.263202,
+                    50.775652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "509782",
+                "bus": "yes",
+                "name": "Rollegem Containerpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROLLEGEMSEWEG ROLLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.26101,
+                    50.777807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;16",
+                "ref:De_Lijn": "503750",
+                "bus": "yes",
+                "name": "Rollegem Waterval",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2724,
+                    50.776485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;16",
+                "ref:De_Lijn": "508743",
+                "bus": "yes",
+                "name": "Rollegem Aalbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.256765,
+                    50.770826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;16",
+                "ref:De_Lijn": "508750",
+                "bus": "yes",
+                "name": "Rollegem Waterval",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROLLEGEMSESTRAAT ROLLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.272218,
+                    50.776366
                 ]
             }
         },
@@ -292,6 +271,27 @@
                 "coordinates": [
                     3.260793,
                     50.77741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;16",
+                "ref:De_Lijn": "501007",
+                "bus": "yes",
+                "name": "Rollegem Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROLLEGEMPLAATS ROLLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.263444,
+                    50.768363
                 ]
             }
         }

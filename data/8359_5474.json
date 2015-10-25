@@ -47,27 +47,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "57",
-                "ref:De_Lijn": "203026",
-                "bus": "yes",
-                "name": "Sleidinge Hooiwege",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N456 SLEIDINGE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.673993,
-                    51.144126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "57;150",
                 "ref:De_Lijn": "202082",
                 "bus": "yes",
                 "name": "Sleidinge Stringenwegel",
@@ -88,7 +67,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "57;150",
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "203026",
+                "bus": "yes",
+                "name": "Sleidinge Hooiwege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N456 SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.673993,
+                    51.144126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
                 "ref:De_Lijn": "202026",
                 "bus": "yes",
                 "name": "Sleidinge Hooiwege",

@@ -4,220 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "210020",
-                "name": "Wondelgem Roodborstjesstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "tram": "yes",
-                "created_by": "DIKKELINDESTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.706064,
-                    51.081351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "200406",
-                "bus": "yes",
-                "name": "Mariakerke Sint-Lutgardus",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.69366,
-                    51.07461
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "200509",
-                "bus": "yes",
-                "name": "Mariakerke Eeklostraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENWALSTRAAT MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.69518,
-                    51.0731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "200508",
-                "bus": "yes",
-                "name": "Mariakerke Lusthoflaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENWALSTRAAT MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.698492,
-                    51.077002
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "201552",
-                "bus": "yes",
-                "name": "Mariakerke Ruiterlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOSWEG MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.695977,
-                    51.079235
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "200011",
-                "zone:De_Lijn": "01",
-                "name": "Wondelgem Kolegemstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "KOLEGEMSTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.705903,
-                    51.078671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;69",
-                "ref:De_Lijn": "200510",
-                "bus": "yes",
-                "name": "Mariakerke Vaartstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STAAKSKENSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.695607,
-                    51.071206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "210021",
-                "bus": "yes",
-                "name": "Wondelgem Kolegemstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "DIKKELINDESTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.706429,
-                    51.0788
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;69",
-                "ref:De_Lijn": "201511",
-                "bus": "yes",
-                "name": "Staakskenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STAAKSKENSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.695989,
-                    51.069428
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "201011",
-                "zone:De_Lijn": "01",
-                "name": "Wondelgem Kolegemstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "KOLEGEMSTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.70593,
-                    51.078761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "5;52;53;54",
                 "ref:De_Lijn": "201351",
                 "bus": "yes",
@@ -233,92 +19,6 @@
                 "coordinates": [
                     3.707944,
                     51.069522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "201406",
-                "bus": "yes",
-                "name": "Mariakerke Sint-Lutgardus",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.693634,
-                    51.07443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "200010",
-                "zone:De_Lijn": "01",
-                "name": "Wondelgem Roodborstjesstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ROODBORSTJESSTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.704754,
-                    51.0812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "201847",
-                "bus": "yes",
-                "name": "Wondelgem Molenstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WESTERGEMSTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.710763,
-                    51.082114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "201012",
-                "zone:De_Lijn": "01",
-                "name": "Poperingestraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "DIKKELINDESTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.708251,
-                    51.07605
                 ]
             }
         },
@@ -369,42 +69,22 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "200507",
-                "bus": "yes",
-                "name": "Mariakerke Damstraat",
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201013",
+                "zone:De_Lijn": "01",
+                "name": "Van Beverenplein",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DAMSTRAAT MARIAKERKE (GENT)",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "EDMOND VAN BEVERENPLEIN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.692322,
-                    51.076392
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "201509",
-                "bus": "yes",
-                "name": "Mariakerke Eeklostraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENWALSTRAAT MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.695139,
-                    51.073001
+                    3.709511,
+                    51.072704
                 ]
             }
         },
@@ -433,42 +113,129 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "201013",
+                "ref:De_Lijn": "200014",
                 "zone:De_Lijn": "01",
-                "name": "Van Beverenplein",
+                "name": "Hortensiastraat",
                 "public_transport": "platform",
                 "railway": "tram_stop",
                 "tram": "yes",
-                "created_by": "EDMOND VAN BEVERENPLEIN GENT",
+                "created_by": "FRANCISCO FERRERLAAN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.709511,
-                    51.072704
+                    3.703781,
+                    51.070317
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "209950",
-                "bus": "yes",
-                "name": "Van Beverenplein",
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201012",
+                "zone:De_Lijn": "01",
+                "name": "Poperingestraat",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "FRANS VAN RYHOVELAAN GENT",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DIKKELINDESTRAAT WONDELGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.710684,
-                    51.072513
+                    3.708251,
+                    51.07605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210020",
+                "name": "Wondelgem Roodborstjesstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "DIKKELINDESTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706064,
+                    51.081351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210021",
+                "bus": "yes",
+                "name": "Wondelgem Kolegemstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "DIKKELINDESTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706429,
+                    51.0788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "202358",
+                "bus": "yes",
+                "name": "Mariakerke Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEVAART MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.691485,
+                    51.071101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;69",
+                "ref:De_Lijn": "201510",
+                "bus": "yes",
+                "name": "Mariakerke Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAAKSKENSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695658,
+                    51.071583
                 ]
             }
         },
@@ -497,9 +264,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "9",
-                "ref:De_Lijn": "201508",
+                "ref:De_Lijn": "200509",
                 "bus": "yes",
-                "name": "Mariakerke Lusthoflaan",
+                "name": "Mariakerke Eeklostraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MOLENWALSTRAAT MARIAKERKE (GENT)",
@@ -509,93 +276,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.69855,
-                    51.076877
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "201010",
-                "zone:De_Lijn": "01",
-                "name": "Wondelgem Roodborstjesstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "ROODBORSTJESSTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.70488,
-                    51.081308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "211020",
-                "name": "Wondelgem Roodborstjesstraat",
-                "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
-                "tram": "yes",
-                "created_by": "DIKKELINDESTRAAT WONDELGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.705922,
-                    51.08135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "9;69",
-                "ref:De_Lijn": "201510",
-                "bus": "yes",
-                "name": "Mariakerke Vaartstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STAAKSKENSTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.695658,
-                    51.071583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "65;67;69",
-                "ref:De_Lijn": "202358",
-                "bus": "yes",
-                "name": "Mariakerke Vaartstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRUGSEVAART MARIAKERKE (GENT)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.691485,
-                    51.071101
+                    3.69518,
+                    51.0731
                 ]
             }
         },
@@ -603,9 +285,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "5;52;53;54",
-                "ref:De_Lijn": "201350",
+                "ref:De_Lijn": "200351",
                 "bus": "yes",
-                "name": "Van Beverenplein",
+                "name": "Fuchsiastraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "FRANS VAN RYHOVELAAN GENT",
@@ -615,8 +297,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.710712,
-                    51.072549
+                    3.707536,
+                    51.069125
                 ]
             }
         },
@@ -645,22 +327,170 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1",
-                "ref:De_Lijn": "200014",
-                "zone:De_Lijn": "01",
-                "name": "Hortensiastraat",
+                "route_ref:De_Lijn": "5;52;53;54",
+                "ref:De_Lijn": "200350",
+                "bus": "yes",
+                "name": "Van Beverenplein",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "tram": "yes",
-                "created_by": "FRANCISCO FERRERLAAN GENT",
+                "highway": "bus_stop",
+                "created_by": "EDMOND VAN BEVERENPLEIN GENT",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.703781,
-                    51.070317
+                    3.710316,
+                    51.072331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;69",
+                "ref:De_Lijn": "201511",
+                "bus": "yes",
+                "name": "Staakskenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAAKSKENSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695989,
+                    51.069428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201847",
+                "bus": "yes",
+                "name": "Wondelgem Molenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WESTERGEMSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710763,
+                    51.082114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201391",
+                "bus": "yes",
+                "name": "Veronicastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERONICASTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.712613,
+                    51.076389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201011",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Kolegemstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLEGEMSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70593,
+                    51.078761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "200507",
+                "bus": "yes",
+                "name": "Mariakerke Damstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692322,
+                    51.076392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211020",
+                "name": "Wondelgem Roodborstjesstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "DIKKELINDESTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705922,
+                    51.08135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201010",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Roodborstjesstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ROODBORSTJESSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70488,
+                    51.081308
                 ]
             }
         },
@@ -690,10 +520,73 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "5;52;53;54",
-                "ref:De_Lijn": "200351",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "201406",
                 "bus": "yes",
-                "name": "Fuchsiastraat",
+                "name": "Mariakerke Sint-Lutgardus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.693634,
+                    51.07443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "200406",
+                "bus": "yes",
+                "name": "Mariakerke Sint-Lutgardus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69366,
+                    51.07461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;69",
+                "ref:De_Lijn": "200510",
+                "bus": "yes",
+                "name": "Mariakerke Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAAKSKENSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695607,
+                    51.071206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "209950",
+                "bus": "yes",
+                "name": "Van Beverenplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "FRANS VAN RYHOVELAAN GENT",
@@ -703,50 +596,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.707536,
-                    51.069125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5;52;53;54",
-                "ref:De_Lijn": "200350",
-                "bus": "yes",
-                "name": "Van Beverenplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EDMOND VAN BEVERENPLEIN GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.710316,
-                    51.072331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "5",
-                "ref:De_Lijn": "201391",
-                "bus": "yes",
-                "name": "Veronicastraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VERONICASTRAAT GENT",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.712613,
-                    51.076389
+                    3.710684,
+                    51.072513
                 ]
             }
         },
@@ -768,6 +619,155 @@
                 "coordinates": [
                     3.695921,
                     51.069221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "201509",
+                "bus": "yes",
+                "name": "Mariakerke Eeklostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENWALSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695139,
+                    51.073001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;52;53;54",
+                "ref:De_Lijn": "201350",
+                "bus": "yes",
+                "name": "Van Beverenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS VAN RYHOVELAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710712,
+                    51.072549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "201508",
+                "bus": "yes",
+                "name": "Mariakerke Lusthoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENWALSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69855,
+                    51.076877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "201552",
+                "bus": "yes",
+                "name": "Mariakerke Ruiterlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOSWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695977,
+                    51.079235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200011",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Kolegemstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLEGEMSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705903,
+                    51.078671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "200508",
+                "bus": "yes",
+                "name": "Mariakerke Lusthoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENWALSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.698492,
+                    51.077002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200010",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Roodborstjesstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ROODBORSTJESSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.704754,
+                    51.0812
                 ]
             }
         }

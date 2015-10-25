@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "125",
                 "ref:De_Lijn": "210067",
                 "bus": "yes",
                 "name": "Wontergem Lammekesstraat",
@@ -25,8 +24,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;125",
-                "ref:De_Lijn": "200559",
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201559",
                 "bus": "yes",
                 "name": "Wontergem Weg Op Wontergem",
                 "public_transport": "platform",
@@ -38,8 +37,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.458077,
-                    50.988587
+                    3.457469,
+                    50.988366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "200560",
+                "bus": "yes",
+                "name": "Wontergem Weg Op Wontergem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG WONTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.459055,
+                    50.988873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "200652",
+                "bus": "yes",
+                "name": "Grammene Wontergemwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG GRAMMENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.467612,
+                    50.988274
                 ]
             }
         },
@@ -88,29 +129,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;125",
-                "ref:De_Lijn": "200652",
-                "bus": "yes",
-                "name": "Grammene Wontergemwegel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSESTEENWEG GRAMMENE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.467612,
-                    50.988274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "201559",
+                "ref:De_Lijn": "200559",
                 "bus": "yes",
                 "name": "Wontergem Weg Op Wontergem",
                 "public_transport": "platform",
@@ -122,29 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.457469,
-                    50.988366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "73",
-                "ref:De_Lijn": "200560",
-                "bus": "yes",
-                "name": "Wontergem Weg Op Wontergem",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIELTSESTEENWEG WONTERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.459055,
-                    50.988873
+                    3.458077,
+                    50.988587
                 ]
             }
         }

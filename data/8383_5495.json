@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "103;127",
+                "ref:De_Lijn": "301371",
+                "bus": "yes",
+                "name": "Schepdaal Wijngaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN DE TROCHSTRAAT SCHEPDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.202971,
+                    50.847909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "116",
                 "ref:De_Lijn": "306138",
                 "bus": "yes",
@@ -19,6 +40,27 @@
                 "coordinates": [
                     4.217866,
                     50.861279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "103",
+                "ref:De_Lijn": "308768",
+                "bus": "yes",
+                "name": "Sint-Martens-Bodegem Onsemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEPDAALSTRAAT SINT-MARTENS-BODEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.207657,
+                    50.856051
                 ]
             }
         },
@@ -46,48 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "103;127",
-                "ref:De_Lijn": "301371",
-                "bus": "yes",
-                "name": "Schepdaal Wijngaardstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JAN DE TROCHSTRAAT SCHEPDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.202971,
-                    50.847909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "103;127",
-                "ref:De_Lijn": "301372",
-                "bus": "yes",
-                "name": "Schepdaal Wijngaardstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "JAN DE TROCHSTRAAT SCHEPDAAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.202985,
-                    50.847747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "103",
                 "ref:De_Lijn": "308769",
                 "bus": "yes",
@@ -109,21 +109,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "103",
-                "ref:De_Lijn": "308768",
+                "route_ref:De_Lijn": "103;127",
+                "ref:De_Lijn": "301372",
                 "bus": "yes",
-                "name": "Sint-Martens-Bodegem Onsemstraat",
+                "name": "Schepdaal Wijngaardstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHEPDAALSTRAAT SINT-MARTENS-BODEGEM",
+                "created_by": "JAN DE TROCHSTRAAT SCHEPDAAL",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.207657,
-                    50.856051
+                    4.202985,
+                    50.847747
                 ]
             }
         },

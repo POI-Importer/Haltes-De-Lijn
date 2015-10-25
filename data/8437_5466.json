@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "307;711",
+                "ref:De_Lijn": "405891",
+                "bus": "yes",
+                "name": "Kolonie Vrijheidsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG LOMMEL-KOLONIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.390545,
+                    51.258168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "307;711",
                 "ref:De_Lijn": "405868",
                 "bus": "yes",
                 "name": "Kolonie Sint-Franciscusstraat",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     5.390462,
                     51.258321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "307;711",
-                "ref:De_Lijn": "405891",
-                "bus": "yes",
-                "name": "Kolonie Vrijheidsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG LOMMEL-KOLONIE",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.390545,
-                    51.258168
                 ]
             }
         },

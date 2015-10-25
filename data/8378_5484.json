@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;320",
-                "ref:De_Lijn": "206379",
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "207379",
                 "bus": "yes",
                 "name": "Denderbelle Dorp",
                 "public_transport": "platform",
@@ -17,57 +17,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.091015,
-                    51.000491
+                    4.091171,
+                    51.000527
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
-                "ref:De_Lijn": "207731",
-                "bus": "yes",
-                "name": "Denderbelle Hogebrug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGEBRUG DENDERBELLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.090624,
-                    51.006288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "320",
-                "ref:De_Lijn": "207916",
-                "bus": "yes",
-                "name": "Sint-Gillis-Dendermonde Hertsgaard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SLEUTELBLOEMLAAN SINT-GILLIS-BIJ-DENDERMONDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.108293,
-                    51.011245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207730",
                 "bus": "yes",
                 "name": "Denderbelle Dries",
@@ -88,7 +45,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207916",
+                "bus": "yes",
+                "name": "Sint-Gillis-Dendermonde Hertsgaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLEUTELBLOEMLAAN SINT-GILLIS-BIJ-DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108293,
+                    51.011245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "207030",
                 "bus": "yes",
                 "name": "Sint-Gillis-Dendermonde Moerstraat",
@@ -109,8 +85,28 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "207731",
+                "bus": "yes",
+                "name": "Denderbelle Hogebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGEBRUG DENDERBELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.090624,
+                    51.006288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "26",
-                "ref:De_Lijn": "207379",
+                "ref:De_Lijn": "206379",
                 "bus": "yes",
                 "name": "Denderbelle Dorp",
                 "public_transport": "platform",
@@ -122,8 +118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.091171,
-                    51.000527
+                    4.091015,
+                    51.000491
                 ]
             }
         }

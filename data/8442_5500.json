@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;T1",
-                "ref:De_Lijn": "408509",
+                "route_ref:De_Lijn": "T2",
+                "ref:De_Lijn": "408499",
                 "bus": "yes",
-                "name": "Tongeren Blaarmolenstraat",
+                "name": "Berg Gousbeemdstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BLAARSTRAAT TONGEREN",
+                "created_by": "SINT-MARTENSSTRAAT BERG (TONGEREN)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.499159,
-                    50.783421
+                    5.49565,
+                    50.79143
                 ]
             }
         },
@@ -26,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28;39;61;62;39b",
-                "ref:De_Lijn": "408502",
+                "ref:De_Lijn": "408505",
                 "bus": "yes",
-                "name": "Berg Molenweg",
+                "name": "Berg Viseweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "MAASTRICHTERSTEENWEG BERG (TONGEREN)",
@@ -38,8 +38,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.493482,
-                    50.786191
+                    5.5026,
+                    50.787892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408915",
+                "bus": "yes",
+                "name": "Tongeren Stelplaats De Morgenstond",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EERSTE-MEISTRAAT BERG (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494007,
+                    50.785008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;39;61;62;39b",
+                "ref:De_Lijn": "408504",
+                "bus": "yes",
+                "name": "Berg Viseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG BERG (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.499398,
+                    50.787438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;T1;738",
+                "ref:De_Lijn": "408524",
+                "bus": "yes",
+                "name": "Tongeren Eerste Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAARSTRAAT TONGEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495929,
+                    50.783578
                 ]
             }
         },
@@ -88,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;T1",
-                "ref:De_Lijn": "408525",
+                "route_ref:De_Lijn": "28;39;61;62;39b",
+                "ref:De_Lijn": "408502",
                 "bus": "yes",
-                "name": "Tongeren Eerste Meistraat",
+                "name": "Berg Molenweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BLAARSTRAAT TONGEREN",
+                "created_by": "MAASTRICHTERSTEENWEG BERG (TONGEREN)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.496922,
-                    50.783551
+                    5.493482,
+                    50.786191
                 ]
             }
         },
@@ -130,8 +193,29 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;T1;738",
-                "ref:De_Lijn": "408524",
+                "route_ref:De_Lijn": "39;T1",
+                "ref:De_Lijn": "408509",
+                "bus": "yes",
+                "name": "Tongeren Blaarmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAARSTRAAT TONGEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.499159,
+                    50.783421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;T1",
+                "ref:De_Lijn": "408525",
                 "bus": "yes",
                 "name": "Tongeren Eerste Meistraat",
                 "public_transport": "platform",
@@ -143,92 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.495929,
-                    50.783578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "T2",
-                "ref:De_Lijn": "408499",
-                "bus": "yes",
-                "name": "Berg Gousbeemdstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-MARTENSSTRAAT BERG (TONGEREN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.49565,
-                    50.79143
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408915",
-                "bus": "yes",
-                "name": "Tongeren Stelplaats De Morgenstond",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "EERSTE-MEISTRAAT BERG (TONGEREN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.494007,
-                    50.785008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;39;61;62;39b",
-                "ref:De_Lijn": "408505",
-                "bus": "yes",
-                "name": "Berg Viseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG BERG (TONGEREN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.5026,
-                    50.787892
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "28;39;61;62;39b",
-                "ref:De_Lijn": "408504",
-                "bus": "yes",
-                "name": "Berg Viseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MAASTRICHTERSTEENWEG BERG (TONGEREN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.499398,
-                    50.787438
+                    5.496922,
+                    50.783551
                 ]
             }
         }

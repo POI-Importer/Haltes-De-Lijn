@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "205038",
                 "bus": "yes",
                 "name": "Verrebroek Bralstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204037",
                 "bus": "yes",
                 "name": "Kieldrecht Gemenestraat",
@@ -46,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "205037",
                 "bus": "yes",
                 "name": "Kieldrecht Gemenestraat",
@@ -67,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;83;84;89;240",
+                "route_ref:De_Lijn": "31;83;84;89",
                 "ref:De_Lijn": "204038",
                 "bus": "yes",
                 "name": "Verrebroek Bralstraat",

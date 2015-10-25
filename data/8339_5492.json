@@ -4,105 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "504790",
+                "route_ref:De_Lijn": "60;68",
+                "ref:De_Lijn": "508516",
                 "bus": "yes",
-                "name": "Lendelede Beukenlaan",
+                "name": "Lendelede Legerstock",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEUKENLAAN LENDELEDE",
+                "created_by": "RIJKSWEG LENDELEDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.242462,
-                    50.889932
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "60",
-                "ref:De_Lijn": "508519",
-                "bus": "yes",
-                "name": "Lendelede 't Zaagske",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IZEGEMSESTRAAT LENDELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.236014,
-                    50.890895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "60",
-                "ref:De_Lijn": "503982",
-                "bus": "yes",
-                "name": "Lendelede Spoelewielenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IZEGEMSESTRAAT LENDELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.235773,
-                    50.892618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "60",
-                "ref:De_Lijn": "508982",
-                "bus": "yes",
-                "name": "Lendelede Spoelewielenlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IZEGEMSESTRAAT LENDELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.23579,
-                    50.891917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "68",
-                "ref:De_Lijn": "504786",
-                "bus": "yes",
-                "name": "Lendelede Meikapelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MEIKAPELSTRAAT LENDELEDE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.245336,
-                    50.892791
+                    3.230432,
+                    50.89717
                 ]
             }
         },
@@ -130,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "60;68",
-                "ref:De_Lijn": "508516",
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504790",
                 "bus": "yes",
-                "name": "Lendelede Legerstock",
+                "name": "Lendelede Beukenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RIJKSWEG LENDELEDE",
+                "created_by": "BEUKENLAAN LENDELEDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.230432,
-                    50.89717
+                    3.242462,
+                    50.889932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503982",
+                "bus": "yes",
+                "name": "Lendelede Spoelewielenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT LENDELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.235773,
+                    50.892618
                 ]
             }
         },
@@ -173,6 +110,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "508982",
+                "bus": "yes",
+                "name": "Lendelede Spoelewielenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT LENDELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.23579,
+                    50.891917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "508519",
+                "bus": "yes",
+                "name": "Lendelede 't Zaagske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT LENDELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.236014,
+                    50.890895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
                 "ref:De_Lijn": "503516",
                 "bus": "yes",
                 "name": "Lendelede Legerstock",
@@ -187,6 +166,27 @@
                 "coordinates": [
                     3.230687,
                     50.897199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504786",
+                "bus": "yes",
+                "name": "Lendelede Meikapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIKAPELSTRAAT LENDELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.245336,
+                    50.892791
                 ]
             }
         }

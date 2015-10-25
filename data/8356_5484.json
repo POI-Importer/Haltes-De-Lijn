@@ -4,147 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "201959",
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "202199",
                 "bus": "yes",
-                "name": "Sint-Martens-Latem Twee Dreven",
+                "name": "Deurle Rode Beukendreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTEENWEG SINT-MARTENS-LATEM",
+                "created_by": "PHILIPPE DE DENTERGHEMLAAN DEURLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.625178,
-                    51.005672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "202202",
-                "bus": "yes",
-                "name": "Deurle Leiepark",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "PONTSTRAAT DEURLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.604914,
-                    51.000634
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "200330",
-                "bus": "yes",
-                "name": "Deurle Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT DEURLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.603918,
-                    51.005797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;35",
-                "ref:De_Lijn": "203198",
-                "bus": "yes",
-                "name": "Deurle Reinaertdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LATEMSTRAAT SINT-MARTENS-LATEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.620055,
-                    51.013326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77;145",
-                "ref:De_Lijn": "200961",
-                "bus": "yes",
-                "name": "Sint-Martens-Latem Overmeerspark",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N43 SINT-MARTENS-LATEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.621089,
-                    51.003902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "77;145",
-                "ref:De_Lijn": "202196",
-                "bus": "yes",
-                "name": "Deurle Broekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "XAVIER DE COCKLAAN DEURLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.615556,
-                    51.001512
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "200331",
-                "bus": "yes",
-                "name": "Sint-Martens-Latem Hooglatemweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BRANDSTRAAT SINT-MARTENS-LATEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.618755,
-                    51.005506
+                    3.609465,
+                    51.011685
                 ]
             }
         },
@@ -172,21 +46,61 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "203202",
+                "ref:De_Lijn": "200330",
                 "bus": "yes",
-                "name": "Deurle Leiepark",
+                "name": "Deurle Kerk",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PONTSTRAAT DEURLE",
+                "created_by": "DORPSSTRAAT DEURLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.605491,
-                    51.000207
+                    3.603918,
+                    51.005797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201959",
+                "bus": "yes",
+                "name": "Sint-Martens-Latem Twee Dreven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.625178,
+                    51.005672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "202200",
+                "bus": "yes",
+                "name": "Deurle De Smetdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PHILIPPE DE DENTERGHEMLAAN DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604035,
+                    51.009079
                 ]
             }
         },
@@ -214,21 +128,104 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36;145",
-                "ref:De_Lijn": "202199",
+                "ref:De_Lijn": "200331",
                 "bus": "yes",
-                "name": "Deurle Rode Beukendreef",
+                "name": "Sint-Martens-Latem Hooglatemweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "PHILIPPE DE DENTERGHEMLAAN DEURLE",
+                "created_by": "BRANDSTRAAT SINT-MARTENS-LATEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.609465,
-                    51.011685
+                    3.618755,
+                    51.005506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "202196",
+                "bus": "yes",
+                "name": "Deurle Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "XAVIER DE COCKLAAN DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615556,
+                    51.001512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "202198",
+                "bus": "yes",
+                "name": "Deurle Reinaertdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LATEMSTRAAT SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.620082,
+                    51.013443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35",
+                "ref:De_Lijn": "203198",
+                "bus": "yes",
+                "name": "Deurle Reinaertdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LATEMSTRAAT SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.620055,
+                    51.013326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202202",
+                "bus": "yes",
+                "name": "Deurle Leiepark",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PONTSTRAAT DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604914,
+                    51.000634
                 ]
             }
         },
@@ -257,62 +254,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "77",
-                "ref:De_Lijn": "203196",
+                "ref:De_Lijn": "200961",
                 "bus": "yes",
-                "name": "Deurle Broekstraat",
+                "name": "Sint-Martens-Latem Overmeerspark",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "XAVIER DE COCKLAAN DEURLE",
+                "created_by": "N43 SINT-MARTENS-LATEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.615178,
-                    51.001105
+                    3.621089,
+                    51.003902
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "34;35;36;145",
-                "ref:De_Lijn": "202198",
+                "ref:De_Lijn": "203202",
                 "bus": "yes",
-                "name": "Deurle Reinaertdreef",
+                "name": "Deurle Leiepark",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "LATEMSTRAAT SINT-MARTENS-LATEM",
+                "created_by": "PONTSTRAAT DEURLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.620082,
-                    51.013443
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "34;35;36;145",
-                "ref:De_Lijn": "202200",
-                "bus": "yes",
-                "name": "Deurle De Smetdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PHILIPPE DE DENTERGHEMLAAN DEURLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.604035,
-                    51.009079
+                    3.605491,
+                    51.000207
                 ]
             }
         },
@@ -334,6 +310,27 @@
                 "coordinates": [
                     3.604207,
                     51.009044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "203196",
+                "bus": "yes",
+                "name": "Deurle Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "XAVIER DE COCKLAAN DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615178,
+                    51.001105
                 ]
             }
         }

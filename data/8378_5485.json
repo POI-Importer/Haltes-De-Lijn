@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "26",
-                "ref:De_Lijn": "207380",
-                "bus": "yes",
-                "name": "Denderbelle Bermenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT DENDERBELLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.091591,
-                    50.994613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26;320",
                 "ref:De_Lijn": "206380",
                 "bus": "yes",
                 "name": "Denderbelle Bermenstraat",
@@ -40,6 +19,48 @@
                 "coordinates": [
                     4.09142,
                     50.994622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "206381",
+                "bus": "yes",
+                "name": "Denderbelle Mottekensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT DENDERBELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.091226,
+                    50.98894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "207380",
+                "bus": "yes",
+                "name": "Denderbelle Bermenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT DENDERBELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.091591,
+                    50.994613
                 ]
             }
         },
@@ -68,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "26",
-                "ref:De_Lijn": "207378",
-                "bus": "yes",
-                "name": "Denderbelle Blijstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENVELDSTRAAT DENDERBELLE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.10071,
-                    50.996684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26;320",
                 "ref:De_Lijn": "206378",
                 "bus": "yes",
                 "name": "Denderbelle Blijstraat",
@@ -130,21 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;320",
-                "ref:De_Lijn": "206381",
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "207378",
                 "bus": "yes",
-                "name": "Denderbelle Mottekensstraat",
+                "name": "Denderbelle Blijstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT DENDERBELLE",
+                "created_by": "MOLENVELDSTRAAT DENDERBELLE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.091226,
-                    50.98894
+                    4.10071,
+                    50.996684
                 ]
             }
         }

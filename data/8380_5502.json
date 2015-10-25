@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "144",
-                "ref:De_Lijn": "307755",
+                "ref:De_Lijn": "307756",
                 "bus": "yes",
                 "name": "Kester Steenkapper",
                 "public_transport": "platform",
@@ -38,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.140011,
-                    50.762636
+                    4.139982,
+                    50.762744
                 ]
             }
         },
@@ -68,7 +68,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "144",
-                "ref:De_Lijn": "307756",
+                "ref:De_Lijn": "307755",
                 "bus": "yes",
                 "name": "Kester Steenkapper",
                 "public_transport": "platform",
@@ -80,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.139982,
-                    50.762744
+                    4.140011,
+                    50.762636
                 ]
             }
         }

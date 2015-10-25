@@ -4,49 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;161",
-                "ref:De_Lijn": "209566",
+                "route_ref:De_Lijn": "71;72;73",
+                "ref:De_Lijn": "208548",
                 "bus": "yes",
-                "name": "Moerbeke Atembekestraat",
+                "name": "Moerbeke Edingseweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "EDINGSEWEG MOERBEKE (GERAARDSBERGEN)",
+                "created_by": "HEUVELSTRAAT MOERBEKE (GERAARDSBERGEN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.913036,
-                    50.755735
+                    3.918522,
+                    50.751108
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "208567",
-                "bus": "yes",
-                "name": "Moerbeke Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MOERBEKEPLEIN MOERBEKE (GERAARDSBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.917729,
-                    50.752579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;72;74;161;370",
+                "route_ref:De_Lijn": "71;72;74;161",
                 "ref:De_Lijn": "208611",
                 "bus": "yes",
                 "name": "Moerbeke Station",
@@ -61,69 +40,6 @@
                 "coordinates": [
                     3.917194,
                     50.752182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370",
-                "ref:De_Lijn": "209090",
-                "bus": "yes",
-                "name": "Moerbeke Koppenhollestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOPPENHOLLESTRAAT MOERBEKE (GERAARDSBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.925107,
-                    50.762209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370",
-                "ref:De_Lijn": "206791",
-                "bus": "yes",
-                "name": "Moerbeke Halleweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ATEMBEKESTRAAT MOERBEKE (GERAARDSBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.91451,
-                    50.758689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;72",
-                "ref:De_Lijn": "209568",
-                "bus": "yes",
-                "name": "Moerbeke Stoffelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAUWELSTRAAT MOERBEKE (GERAARDSBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.926294,
-                    50.755021
                 ]
             }
         },
@@ -151,7 +67,68 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;161;370",
+                "ref:De_Lijn": "209090",
+                "bus": "yes",
+                "name": "Moerbeke Koppenhollestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOPPENHOLLESTRAAT MOERBEKE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.925107,
+                    50.762209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;161",
+                "ref:De_Lijn": "209566",
+                "bus": "yes",
+                "name": "Moerbeke Atembekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSEWEG MOERBEKE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.913036,
+                    50.755735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206791",
+                "bus": "yes",
+                "name": "Moerbeke Halleweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ATEMBEKESTRAAT MOERBEKE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.91451,
+                    50.758689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;161",
                 "ref:De_Lijn": "208566",
                 "bus": "yes",
                 "name": "Moerbeke Atembekestraat",
@@ -172,7 +149,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;370",
+                "route_ref:De_Lijn": "71;72",
                 "ref:De_Lijn": "208568",
                 "bus": "yes",
                 "name": "Moerbeke Stoffelstraat",
@@ -193,42 +170,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "71;72;74;161",
-                "ref:De_Lijn": "209611",
+                "ref:De_Lijn": "208567",
                 "bus": "yes",
                 "name": "Moerbeke Station",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "EDINGSEWEG MOERBEKE (GERAARDSBERGEN)",
+                "created_by": "MOERBEKEPLEIN MOERBEKE (GERAARDSBERGEN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.917378,
-                    50.752227
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "71;72;73;370",
-                "ref:De_Lijn": "208548",
-                "bus": "yes",
-                "name": "Moerbeke Edingseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEUVELSTRAAT MOERBEKE (GERAARDSBERGEN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.918522,
-                    50.751108
+                    3.917729,
+                    50.752579
                 ]
             }
         },
@@ -250,6 +206,48 @@
                 "coordinates": [
                     3.918296,
                     50.751107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "209568",
+                "bus": "yes",
+                "name": "Moerbeke Stoffelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAUWELSTRAAT MOERBEKE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.926294,
+                    50.755021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;74;161",
+                "ref:De_Lijn": "209611",
+                "bus": "yes",
+                "name": "Moerbeke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSEWEG MOERBEKE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.917378,
+                    50.752227
                 ]
             }
         }

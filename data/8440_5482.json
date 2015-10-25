@@ -5,20 +5,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "404555",
+                "ref:De_Lijn": "404574",
                 "bus": "yes",
-                "name": "Houthalen Taxusstraat",
+                "name": "Houthalen Wilde Kers",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERKENSTRAAT HOUTHALEN-OOST",
+                "created_by": "WILDEKERSSTRAAT HOUTHALEN-OOST",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.462634,
-                    51.030103
+                    5.459741,
+                    51.028935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "404524",
+                "bus": "yes",
+                "name": "Houthalen Notenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOTENSTRAAT HOUTHALEN-OOST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.469202,
+                    51.03113
                 ]
             }
         },
@@ -68,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "404524",
-                "bus": "yes",
-                "name": "Houthalen Notenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NOTENSTRAAT HOUTHALEN-OOST",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.469202,
-                    51.03113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31",
                 "ref:De_Lijn": "404554",
                 "bus": "yes",
                 "name": "Houthalen Taxusstraat",
@@ -110,20 +110,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31",
-                "ref:De_Lijn": "404574",
+                "ref:De_Lijn": "404555",
                 "bus": "yes",
-                "name": "Houthalen Wilde Kers",
+                "name": "Houthalen Taxusstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WILDEKERSSTRAAT HOUTHALEN-OOST",
+                "created_by": "BERKENSTRAAT HOUTHALEN-OOST",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.459741,
-                    51.028935
+                    5.462634,
+                    51.030103
                 ]
             }
         }

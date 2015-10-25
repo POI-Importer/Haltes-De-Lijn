@@ -4,49 +4,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;200;410;415;416;417;419;431;433;434",
-                "ref:De_Lijn": "106227",
+                "ref:De_Lijn": "109805",
                 "bus": "yes",
-                "name": "Turnhout Lokerenstraat",
+                "name": "Turnhout Wachthalte Station",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DE MERODELEI TURNHOUT",
+                "created_by": "DIKSMUIDESTRAAT TURNHOUT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.927185,
-                    51.320264
+                    4.93865,
+                    51.324137
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;432;480",
-                "ref:De_Lijn": "102109",
+                "ref:De_Lijn": "109803",
                 "bus": "yes",
-                "name": "Turnhout Guldensporenlei",
+                "name": "Turnhout Station Perron 4",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GULDENSPORENLEI TURNHOUT",
+                "created_by": "STATIONSTRAAT TURNHOUT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.937991,
-                    51.325318
+                    4.938329,
+                    51.322485
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;432;480",
                 "ref:De_Lijn": "106327",
                 "bus": "yes",
                 "name": "Turnhout Steenbakkerslaan",
@@ -67,7 +65,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;432;480",
                 "ref:De_Lijn": "106324",
                 "bus": "yes",
                 "name": "Turnhout Nieuwe Kaai",
@@ -88,29 +85,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;200;410;415;416;417;419;430;431;432;433;434;480",
-                "ref:De_Lijn": "106229",
-                "bus": "yes",
-                "name": "Turnhout Stelplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE MERODELEI TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.934513,
-                    51.32129
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "410;415;416;417;419",
-                "ref:De_Lijn": "106236",
+                "ref:De_Lijn": "102824",
                 "bus": "yes",
                 "name": "Turnhout Warande",
                 "public_transport": "platform",
@@ -122,15 +97,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.942681,
-                    51.324118
+                    4.943111,
+                    51.324089
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "435",
+                "ref:De_Lijn": "106325",
+                "bus": "yes",
+                "name": "Turnhout Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.927225,
+                    51.328398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "109392",
                 "bus": "yes",
                 "name": "Turnhout Lokeren Bareel",
@@ -151,7 +145,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;2",
                 "ref:De_Lijn": "102826",
                 "bus": "yes",
                 "name": "Turnhout Warande",
@@ -172,21 +165,61 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;2;210;212;213;305;430;431;480;490",
-                "ref:De_Lijn": "109123",
+                "ref:De_Lijn": "106231",
                 "bus": "yes",
-                "name": "Turnhout Lokeren Bareel",
+                "name": "Turnhout Station Perron 1",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEENWEG OP GIERLE TURNHOUT",
+                "created_by": "STATIONSTRAAT TURNHOUT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.934816,
-                    51.3179
+                    4.93827,
+                    51.322359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;416",
+                "ref:De_Lijn": "106230",
+                "bus": "yes",
+                "name": "Turnhout Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE MERODELEI TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.934282,
+                    51.321147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106233",
+                "bus": "yes",
+                "name": "Turnhout Zeshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE MERODELEI TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.941825,
+                    51.322189
                 ]
             }
         },
@@ -214,196 +247,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;200;410;415;416;417;431;433;434",
-                "ref:De_Lijn": "106230",
-                "bus": "yes",
-                "name": "Turnhout Stelplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE MERODELEI TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.934282,
-                    51.321147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2;210;212;213;305;490",
-                "ref:De_Lijn": "109124",
-                "bus": "yes",
-                "name": "Turnhout Lokeren Bareel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP GIERLE TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.934756,
-                    51.317711
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;200;410;415;416;417;431;433;434",
-                "ref:De_Lijn": "106228",
-                "bus": "yes",
-                "name": "Turnhout Lokerenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE MERODELEI TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.926206,
-                    51.320008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2;200;210;212;213;410;415;416;417;419;430;431;432;433;434;435;480",
-                "ref:De_Lijn": "109804",
-                "bus": "yes",
-                "name": "Turnhout Station Perron 5",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSTRAAT TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.938373,
-                    51.322575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2;200;210;212;213;305;410;415;416;417;431;433;434;490",
-                "ref:De_Lijn": "106232",
-                "bus": "yes",
-                "name": "Turnhout Station Perron 6",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DE MERODELEI TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.938664,
-                    51.321746
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;432;480",
-                "ref:De_Lijn": "106326",
-                "bus": "yes",
-                "name": "Turnhout Fonteinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.927138,
-                    51.328309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "305;490;492",
-                "ref:De_Lijn": "106231",
-                "bus": "yes",
-                "name": "Turnhout Station Perron 1",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSTRAAT TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.93827,
-                    51.322359
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "200;210;212;213;430;431;432;433;434;435;436",
-                "ref:De_Lijn": "102824",
-                "bus": "yes",
-                "name": "Turnhout Warande",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WARANDESTRAAT TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.943111,
-                    51.324089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;432;480",
-                "ref:De_Lijn": "106325",
-                "bus": "yes",
-                "name": "Turnhout Fonteinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.927225,
-                    51.328398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "430;432;436;437;480",
                 "ref:De_Lijn": "109801",
                 "bus": "yes",
                 "name": "Turnhout Station Perron 2",
@@ -424,21 +267,141 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "430;432;480",
-                "ref:De_Lijn": "106323",
+                "ref:De_Lijn": "106232",
                 "bus": "yes",
-                "name": "Turnhout Nieuwe Kaai",
+                "name": "Turnhout Station Perron 6",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NIEUWE KAAI TURNHOUT",
+                "created_by": "DE MERODELEI TURNHOUT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.931745,
-                    51.32604
+                    4.938664,
+                    51.321746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102109",
+                "bus": "yes",
+                "name": "Turnhout Guldensporenlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULDENSPORENLEI TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937991,
+                    51.325318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106236",
+                "bus": "yes",
+                "name": "Turnhout Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942681,
+                    51.324118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109123",
+                "bus": "yes",
+                "name": "Turnhout Lokeren Bareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP GIERLE TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.934816,
+                    51.3179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106227",
+                "bus": "yes",
+                "name": "Turnhout Lokerenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE MERODELEI TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.927185,
+                    51.320264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109804",
+                "bus": "yes",
+                "name": "Turnhout Station Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSTRAAT TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.938373,
+                    51.322575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;416",
+                "ref:De_Lijn": "106228",
+                "bus": "yes",
+                "name": "Turnhout Lokerenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE MERODELEI TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.926206,
+                    51.320008
                 ]
             }
         },
@@ -466,52 +429,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450;451;457;459",
-                "ref:De_Lijn": "109803",
+                "route_ref:De_Lijn": "410;416",
+                "ref:De_Lijn": "106229",
                 "bus": "yes",
-                "name": "Turnhout Station Perron 4",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STATIONSTRAAT TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.938329,
-                    51.322485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "109805",
-                "bus": "yes",
-                "name": "Turnhout Wachthalte Station",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DIKSMUIDESTRAAT TURNHOUT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.93865,
-                    51.324137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;2;200;210;212;213;305;410;415;416;417;430;431;432;433;434;436;437;450;451;459;460;480;490;492",
-                "ref:De_Lijn": "106233",
-                "bus": "yes",
-                "name": "Turnhout Zeshoek",
+                "name": "Turnhout Stelplaats",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DE MERODELEI TURNHOUT",
@@ -521,8 +442,68 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.941825,
-                    51.322189
+                    4.934513,
+                    51.32129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106326",
+                "bus": "yes",
+                "name": "Turnhout Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.927138,
+                    51.328309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106323",
+                "bus": "yes",
+                "name": "Turnhout Nieuwe Kaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE KAAI TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.931745,
+                    51.32604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109124",
+                "bus": "yes",
+                "name": "Turnhout Lokeren Bareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP GIERLE TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.934756,
+                    51.317711
                 ]
             }
         }

@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "344;395;598",
-                "ref:De_Lijn": "302341",
+                "ref:De_Lijn": "302340",
                 "bus": "yes",
                 "name": "Loonbeek Oud Station",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.613226,
-                    50.811973
+                    4.612928,
+                    50.811964
                 ]
             }
         },
@@ -47,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "344;395;598",
-                "ref:De_Lijn": "302340",
+                "ref:De_Lijn": "302338",
                 "bus": "yes",
-                "name": "Loonbeek Oud Station",
+                "name": "Loonbeek Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-JANSBERGSTEENWEG LOONBEEK",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.612928,
-                    50.811964
+                    4.60844,
+                    50.808387
                 ]
             }
         },
@@ -89,9 +89,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "344;395;598",
-                "ref:De_Lijn": "302338",
+                "ref:De_Lijn": "302341",
                 "bus": "yes",
-                "name": "Loonbeek Kerk",
+                "name": "Loonbeek Oud Station",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "SINT-JANSBERGSTEENWEG LOONBEEK",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.60844,
-                    50.808387
+                    4.613226,
+                    50.811973
                 ]
             }
         }

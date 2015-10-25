@@ -4,28 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;44;340",
-                "ref:De_Lijn": "206922",
+                "ref:De_Lijn": "206863",
                 "bus": "yes",
-                "name": "Moorsel Kapittelstraat",
+                "name": "Hekelgem De Kluizerij",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KAPITTELSTRAAT MOORSEL (AALST)",
+                "created_by": "AFFLIGEMDREEF AALST (OOST-VLAANDEREN)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.091451,
-                    50.941055
+                    4.095556,
+                    50.932569
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;44;340",
+                "route_ref:De_Lijn": "42;44",
                 "ref:De_Lijn": "206923",
                 "bus": "yes",
                 "name": "Moorsel Waverstraat",
@@ -47,6 +46,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42;44",
+                "ref:De_Lijn": "206922",
+                "bus": "yes",
+                "name": "Moorsel Kapittelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPITTELSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.091451,
+                    50.941055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;44",
                 "ref:De_Lijn": "207922",
                 "bus": "yes",
                 "name": "Moorsel Kapittelstraat",
@@ -61,27 +81,6 @@
                 "coordinates": [
                     4.091395,
                     50.940965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "340",
-                "ref:De_Lijn": "206863",
-                "bus": "yes",
-                "name": "Hekelgem De Kluizerij",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "AFFLIGEMDREEF AALST (OOST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.095556,
-                    50.932569
                 ]
             }
         },

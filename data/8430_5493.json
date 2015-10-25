@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "407039",
-                "bus": "yes",
-                "name": "Kozen Weyerstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "WEYERSTRAAT KOZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.237976,
-                    50.878449
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "407038",
-                "bus": "yes",
-                "name": "Kozen Weyerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEYERSTRAAT KOZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.237494,
-                    50.878552
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "30",
                 "ref:De_Lijn": "407033",
                 "bus": "yes",
@@ -61,48 +19,6 @@
                 "coordinates": [
                     5.230314,
                     50.881427
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21a",
-                "ref:De_Lijn": "407026",
-                "bus": "yes",
-                "name": "Kozen Breestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DORPSSTRAAT KOZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.244292,
-                    50.878051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "407041",
-                "bus": "yes",
-                "name": "Kozen Eendepoelstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORSTRAAT KOZEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.238013,
-                    50.888913
                 ]
             }
         },
@@ -130,11 +46,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30",
-                "ref:De_Lijn": "407029",
+                "ref:De_Lijn": "407039",
                 "bus": "yes",
-                "name": "Kozen Doorstraat",
+                "name": "Kozen Weyerstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "WEYERSTRAAT KOZEN",
                 "operator": "De Lijn",
@@ -143,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.233975,
-                    50.880376
+                    5.237976,
+                    50.878449
                 ]
             }
         },
@@ -208,6 +124,90 @@
                 "coordinates": [
                     5.245266,
                     50.886845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "407029",
+                "bus": "yes",
+                "name": "Kozen Doorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEYERSTRAAT KOZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233975,
+                    50.880376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407026",
+                "bus": "yes",
+                "name": "Kozen Breestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT KOZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.244292,
+                    50.878051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "407041",
+                "bus": "yes",
+                "name": "Kozen Eendepoelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORSTRAAT KOZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.238013,
+                    50.888913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "407038",
+                "bus": "yes",
+                "name": "Kozen Weyerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEYERSTRAAT KOZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.237494,
+                    50.878552
                 ]
             }
         }

@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "36;701;707;708;944",
-                "ref:De_Lijn": "304368",
-                "bus": "yes",
-                "name": "Averbode Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTELSEBAAN AVERBODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.982456,
-                    51.027179
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;707;708",
-                "ref:De_Lijn": "304362",
-                "bus": "yes",
-                "name": "Averbode Bredestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESTELTSESTEENWEG AVERBODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.97293,
-                    51.025763
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "36;707;708;944",
                 "ref:De_Lijn": "304367",
                 "bus": "yes",
@@ -61,27 +19,6 @@
                 "coordinates": [
                     4.982558,
                     51.027295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "36;701;707;708",
-                "ref:De_Lijn": "304361",
-                "bus": "yes",
-                "name": "Averbode Bredestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TESTELTSESTEENWEG AVERBODE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.972688,
-                    51.025809
                 ]
             }
         },
@@ -109,6 +46,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "36;708",
+                "ref:De_Lijn": "304362",
+                "bus": "yes",
+                "name": "Averbode Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG AVERBODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.97293,
+                    51.025763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;701;707;708",
+                "ref:De_Lijn": "304361",
+                "bus": "yes",
+                "name": "Averbode Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG AVERBODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.972688,
+                    51.025809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "707;708",
                 "ref:De_Lijn": "307371",
                 "bus": "yes",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     4.981706,
                     51.0232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;701;708;944",
+                "ref:De_Lijn": "304368",
+                "bus": "yes",
+                "name": "Averbode Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTELSEBAAN AVERBODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982456,
+                    51.027179
                 ]
             }
         }

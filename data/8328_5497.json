@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39;84",
-                "ref:De_Lijn": "504089",
-                "bus": "yes",
-                "name": "Geluveld Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MENENSTRAAT GELUVELD",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.994389,
-                    50.83365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "39",
                 "ref:De_Lijn": "505927",
                 "bus": "yes",
@@ -40,6 +19,27 @@
                 "coordinates": [
                     3.006914,
                     50.823753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "504089",
+                "bus": "yes",
+                "name": "Geluveld Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MENENSTRAAT GELUVELD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.994389,
+                    50.83365
                 ]
             }
         },

@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "207343",
-                "bus": "yes",
-                "name": "Lebbeke Terhoevenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "POTAARDESTRAAT LEBBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.163448,
-                    51.005583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;320",
                 "ref:De_Lijn": "206344",
                 "bus": "yes",
                 "name": "Lebbeke Opstalstraat",
@@ -46,28 +25,27 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206386",
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "207342",
                 "bus": "yes",
-                "name": "Lebbeke Dammekenstraat",
+                "name": "Opstal Molenstraat",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "TER HOEVEN LEBBEKE",
+                "created_by": "MOLENSTRAAT OPSTAL",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.158881,
-                    51.010573
+                    4.170026,
+                    51.003149
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207366",
                 "bus": "yes",
                 "name": "Buggenhout Dammekenstraat",
@@ -88,7 +66,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "320",
                 "ref:De_Lijn": "207705",
                 "bus": "yes",
                 "name": "Buggenhout Brandstraat",
@@ -131,27 +108,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "207342",
-                "bus": "yes",
-                "name": "Opstal Molenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT OPSTAL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.170026,
-                    51.003149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;320",
                 "ref:De_Lijn": "206343",
                 "bus": "yes",
                 "name": "Lebbeke Terhoevenstraat",
@@ -172,7 +128,49 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;320",
+                "ref:De_Lijn": "206386",
+                "bus": "yes",
+                "name": "Lebbeke Dammekenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TER HOEVEN LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.158881,
+                    51.010573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "207343",
+                "bus": "yes",
+                "name": "Lebbeke Terhoevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTAARDESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.163448,
+                    51.005583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
                 "ref:De_Lijn": "206342",
                 "bus": "yes",
                 "name": "Opstal Molenstraat",

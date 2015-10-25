@@ -4,21 +4,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "76;145",
-                "ref:De_Lijn": "200390",
+                "ref:De_Lijn": "208359",
                 "bus": "yes",
-                "name": "Eke Industriepark",
+                "name": "De Pinte Makro",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TULPENSTRAAT EKE",
+                "created_by": "UNKNOWN ZEVERGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.660103,
-                    50.97722
+                    3.663117,
+                    50.981337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "201396",
+                "bus": "yes",
+                "name": "De Pinte Zwarte Gat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.650013,
+                    50.976844
                 ]
             }
         },
@@ -47,69 +67,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "76",
-                "ref:De_Lijn": "201396",
-                "bus": "yes",
-                "name": "De Pinte Zwarte Gat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWSTRAAT DE PINTE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.650013,
-                    50.976844
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;71;145",
-                "ref:De_Lijn": "208720",
-                "bus": "yes",
-                "name": "Eke Savaanstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG EKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.667759,
-                    50.974704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "145",
-                "ref:De_Lijn": "208359",
-                "bus": "yes",
-                "name": "De Pinte Makro",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN ZEVERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.663117,
-                    50.981337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;145",
                 "ref:De_Lijn": "200394",
                 "bus": "yes",
                 "name": "Eke Rozenstraat",
@@ -124,27 +81,6 @@
                 "coordinates": [
                     3.655846,
                     50.97438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "76;145",
-                "ref:De_Lijn": "200396",
-                "bus": "yes",
-                "name": "De Pinte Zwarte Gat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWSTRAAT DE PINTE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.649917,
-                    50.976646
                 ]
             }
         },
@@ -172,6 +108,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "209720",
+                "bus": "yes",
+                "name": "Eke Savaanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ZEVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.667846,
+                    50.974587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "200390",
+                "bus": "yes",
+                "name": "Eke Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TULPENSTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.660103,
+                    50.97722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "76",
                 "ref:De_Lijn": "201394",
                 "bus": "yes",
@@ -193,6 +171,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "200396",
+                "bus": "yes",
+                "name": "De Pinte Zwarte Gat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.649917,
+                    50.976646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "208720",
+                "bus": "yes",
+                "name": "Eke Savaanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.667759,
+                    50.974704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "208711",
                 "bus": "yes",
                 "name": "De Pinte Zwarte Gat",
@@ -208,27 +228,6 @@
                 "coordinates": [
                     3.650961,
                     50.977281
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "44;71",
-                "ref:De_Lijn": "209720",
-                "bus": "yes",
-                "name": "Eke Savaanstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG ZEVERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.667846,
-                    50.974587
                 ]
             }
         }

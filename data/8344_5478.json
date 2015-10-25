@@ -4,28 +4,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;26;77",
-                "ref:De_Lijn": "505066",
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "502743",
                 "bus": "yes",
                 "name": "Doomkerke De Zande",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGGESTEENWEG RUISELEDE",
+                "created_by": "BRUGGESTEENWEG WINGENE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.342666,
-                    51.087326
+                    3.342206,
+                    51.087475
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "185",
                 "ref:De_Lijn": "200876",
                 "bus": "yes",
                 "name": "Sint-Maria-Aalter Savooien",
@@ -67,21 +66,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21",
-                "ref:De_Lijn": "502743",
+                "route_ref:De_Lijn": "21;26;77",
+                "ref:De_Lijn": "505066",
                 "bus": "yes",
                 "name": "Doomkerke De Zande",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRUGGESTEENWEG WINGENE",
+                "created_by": "BRUGGESTEENWEG RUISELEDE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.342206,
-                    51.087475
+                    3.342666,
+                    51.087326
                 ]
             }
         }

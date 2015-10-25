@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "205695",
-                "bus": "yes",
-                "name": "Bazel Kraakstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAAKSTRAAT BAZEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.2646,
-                    51.143371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "205730",
                 "bus": "yes",
                 "name": "Bazel Noenstraat",
@@ -40,6 +18,26 @@
                 "coordinates": [
                     4.277173,
                     51.144424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205695",
+                "bus": "yes",
+                "name": "Bazel Kraakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAAKSTRAAT BAZEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2646,
+                    51.143371
                 ]
             }
         }

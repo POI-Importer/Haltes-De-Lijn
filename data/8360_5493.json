@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "45;420",
+                "route_ref:De_Lijn": "45",
                 "ref:De_Lijn": "208801",
                 "bus": "yes",
                 "name": "Nederzwalm Biestmolen",
@@ -46,7 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
                 "ref:De_Lijn": "208803",
                 "bus": "yes",
                 "name": "Sint-Maria-Latem Dries",
@@ -88,7 +87,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;420;445",
+                "route_ref:De_Lijn": "41",
                 "ref:De_Lijn": "208211",
                 "bus": "yes",
                 "name": "Sint-Denijs-Boekel Biestmolenstraat",

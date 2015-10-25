@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;215;305",
+                "route_ref:De_Lijn": "215;305",
                 "ref:De_Lijn": "109174",
                 "bus": "yes",
                 "name": "Lichtaart Hof Ter Heidedreef",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "212;215;305",
+                "route_ref:De_Lijn": "215",
                 "ref:De_Lijn": "109173",
                 "bus": "yes",
                 "name": "Lichtaart Hof Ter Heidedreef",

@@ -4,6 +4,111 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400023",
+                "bus": "yes",
+                "name": "Hulsen Greefsehei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GREEFSEHEIWEG HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.103405,
+                    51.144119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "102499",
+                "bus": "yes",
+                "name": "Hulsen 't Ravotterke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118398,
+                    51.146928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400024",
+                "bus": "yes",
+                "name": "Hulsen Kreindertweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HULSEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.108847,
+                    51.143959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400025",
+                "bus": "yes",
+                "name": "Hulsen Uilebeemden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UILEBEEMDEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11373,
+                    51.146373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "102503",
+                "bus": "yes",
+                "name": "Hulsen Kreindertweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.108862,
+                    51.144004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "400021",
                 "bus": "yes",
                 "name": "Hulsen Sint-Hubertus",
@@ -46,27 +151,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400024",
-                "bus": "yes",
-                "name": "Hulsen Kreindertweg",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "HULSEN HULSEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.108847,
-                    51.143959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ref:De_Lijn": "400026",
                 "bus": "yes",
                 "name": "Hulsen 't Ravotterke",
@@ -89,9 +173,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "102503",
+                "ref:De_Lijn": "102504",
                 "bus": "yes",
-                "name": "Hulsen Kreindertweg",
+                "name": "Hulsen 't Ravotterke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HULSEN HULSEN",
@@ -101,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.108862,
-                    51.144004
+                    5.118343,
+                    51.14709
                 ]
             }
         },
@@ -110,20 +194,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400023",
+                "ref:De_Lijn": "102506",
                 "bus": "yes",
-                "name": "Hulsen Greefsehei",
+                "name": "Hulsen Sint-Hubertus",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GREEFSEHEIWEG HULSEN",
+                "created_by": "OSSENBERG HULSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.112009,
+                    51.146888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400020",
+                "bus": "yes",
+                "name": "Hulsen Kopberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOPBERG HULSEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.103405,
-                    51.144119
+                    5.112557,
+                    51.148107
                 ]
             }
         },
@@ -173,48 +278,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "102504",
-                "bus": "yes",
-                "name": "Hulsen 't Ravotterke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HULSEN HULSEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.118343,
-                    51.14709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400020",
-                "bus": "yes",
-                "name": "Hulsen Kopberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOPBERG HULSEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.112557,
-                    51.148107
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "733",
                 "ref:De_Lijn": "400016",
                 "bus": "yes",
                 "name": "Hulsen Duinstraat",
@@ -250,69 +313,6 @@
                 "coordinates": [
                     5.117879,
                     51.149341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "102506",
-                "bus": "yes",
-                "name": "Hulsen Sint-Hubertus",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OSSENBERG HULSEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.112009,
-                    51.146888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "400025",
-                "bus": "yes",
-                "name": "Hulsen Uilebeemden",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UILEBEEMDEN HULSEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.11373,
-                    51.146373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "733",
-                "ref:De_Lijn": "102499",
-                "bus": "yes",
-                "name": "Hulsen 't Ravotterke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HULSEN HULSEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.118398,
-                    51.146928
                 ]
             }
         }

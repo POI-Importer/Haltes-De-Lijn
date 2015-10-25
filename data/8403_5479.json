@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "571;943",
+                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "108143",
                 "bus": "yes",
                 "name": "Beerzel Berlaarbaan",

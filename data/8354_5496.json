@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;450",
-                "ref:De_Lijn": "208298",
-                "bus": "yes",
-                "name": "Oudenaarde Camping Vlaamse Ardennen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSTRAAT BEVERE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.574511,
-                    50.840864
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;450",
-                "ref:De_Lijn": "208317",
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209317",
                 "bus": "yes",
                 "name": "Petegem Vlinderstraat",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.567382,
-                    50.837606
+                    3.567269,
+                    50.83756
                 ]
             }
         },
@@ -47,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "209298",
+                "ref:De_Lijn": "209299",
                 "bus": "yes",
-                "name": "Oudenaarde Camping Vlaamse Ardennen",
+                "name": "Petegem Beerstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KORTRIJKSTRAAT BEVERE",
+                "created_by": "KORTRIJKSTRAAT PETEGEM-AAN-DE-SCHELDE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.574892,
-                    50.841001
+                    3.569824,
+                    50.836732
                 ]
             }
         },
@@ -89,27 +68,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "209299",
-                "bus": "yes",
-                "name": "Petegem Beerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSTRAAT PETEGEM-AAN-DE-SCHELDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.569824,
-                    50.836732
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "58;450",
                 "ref:De_Lijn": "208318",
                 "bus": "yes",
                 "name": "Petegem Eekhout",
@@ -130,7 +88,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "200766",
                 "bus": "yes",
                 "name": "Petegem Bibliotheek",
@@ -151,7 +108,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "58;450",
+                "route_ref:De_Lijn": "58",
                 "ref:De_Lijn": "208299",
                 "bus": "yes",
                 "name": "Petegem Beerstraat",
@@ -173,7 +130,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "58",
-                "ref:De_Lijn": "209317",
+                "ref:De_Lijn": "209298",
+                "bus": "yes",
+                "name": "Oudenaarde Camping Vlaamse Ardennen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSTRAAT BEVERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.574892,
+                    50.841001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "208317",
                 "bus": "yes",
                 "name": "Petegem Vlinderstraat",
                 "public_transport": "platform",
@@ -185,8 +163,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.567269,
-                    50.83756
+                    3.567382,
+                    50.837606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "208298",
+                "bus": "yes",
+                "name": "Oudenaarde Camping Vlaamse Ardennen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSTRAAT BEVERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.574511,
+                    50.840864
                 ]
             }
         }

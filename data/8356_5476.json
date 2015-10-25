@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "69;160",
-                "ref:De_Lijn": "202977",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "203977",
                 "bus": "yes",
                 "name": "Lovendegem Meienbroekstraat",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.612046,
-                    51.113075
+                    3.612017,
+                    51.114
                 ]
             }
         },
@@ -46,7 +46,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160",
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "202977",
+                "bus": "yes",
+                "name": "Lovendegem Meienbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.612046,
+                    51.113075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "201886",
                 "bus": "yes",
                 "name": "Lovendegem Voordestraat",
@@ -68,27 +88,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "69",
-                "ref:De_Lijn": "203977",
-                "bus": "yes",
-                "name": "Lovendegem Meienbroekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE BAAN LOVENDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.612017,
-                    51.114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "69;160",
                 "ref:De_Lijn": "202978",
                 "bus": "yes",
                 "name": "Waarschoot Veldeken",

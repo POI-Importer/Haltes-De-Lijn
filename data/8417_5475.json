@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "214;382;542",
                 "ref:De_Lijn": "102946",
                 "bus": "yes",
                 "name": "Geel Janssen Pharmaceutica",
@@ -25,49 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "214;492;542",
-                "ref:De_Lijn": "109102",
-                "bus": "yes",
-                "name": "Geel Janssen Pharmaceutica",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BELL-TELEPHONELAAN GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.95484,
-                    51.125724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "382;492",
-                "ref:De_Lijn": "109101",
-                "bus": "yes",
-                "name": "Geel Janssen Pharmaceutica",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BELL-TELEPHONELAAN GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.956897,
-                    51.125704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "214;492;542",
                 "ref:De_Lijn": "102589",
                 "bus": "yes",
                 "name": "Oevel Liesdonk",
@@ -88,21 +44,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "214;382;492;542",
-                "ref:De_Lijn": "102588",
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108564",
                 "bus": "yes",
-                "name": "Oevel Liesdonk",
+                "name": "Geel Stokt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BELL-TELEPHONELAAN OEVEL",
+                "created_by": "DOORNBOOMSTRAAT GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.945499,
-                    51.12808
+                    4.962764,
+                    51.1355
                 ]
             }
         },
@@ -130,28 +86,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "214;492;542",
-                "ref:De_Lijn": "102897",
-                "bus": "yes",
-                "name": "Geel TBP",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BELL-TELEPHONELAAN GEEL",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.951413,
-                    51.125795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "214;382;492;542",
                 "ref:De_Lijn": "101794",
                 "bus": "yes",
                 "name": "Geel TBP",
@@ -172,21 +106,80 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "921",
-                "ref:De_Lijn": "108564",
+                "ref:De_Lijn": "109102",
                 "bus": "yes",
-                "name": "Geel Stokt",
+                "name": "Geel Janssen Pharmaceutica",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DOORNBOOMSTRAAT GEEL",
+                "created_by": "BELL-TELEPHONELAAN GEEL",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.962764,
-                    51.1355
+                    4.95484,
+                    51.125724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109101",
+                "bus": "yes",
+                "name": "Geel Janssen Pharmaceutica",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELL-TELEPHONELAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.956897,
+                    51.125704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102588",
+                "bus": "yes",
+                "name": "Oevel Liesdonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELL-TELEPHONELAAN OEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945499,
+                    51.12808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102897",
+                "bus": "yes",
+                "name": "Geel TBP",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELL-TELEPHONELAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951413,
+                    51.125795
                 ]
             }
         },

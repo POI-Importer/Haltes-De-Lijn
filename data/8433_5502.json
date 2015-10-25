@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "403877",
-                "bus": "yes",
-                "name": "Heers Bibliotheek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENWEG HEERS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.296269,
-                    50.750628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "3;27;38;708",
                 "ref:De_Lijn": "403813",
                 "bus": "yes",
@@ -40,6 +19,69 @@
                 "coordinates": [
                     5.305869,
                     50.763048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "403810",
+                "bus": "yes",
+                "name": "Heers Voetbalveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN HEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.306695,
+                    50.751849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;27;38;708",
+                "ref:De_Lijn": "403795",
+                "bus": "yes",
+                "name": "Heers Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG HEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302572,
+                    50.754048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "403877",
+                "bus": "yes",
+                "name": "Heers Bibliotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG HEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.296269,
+                    50.750628
                 ]
             }
         },
@@ -110,27 +152,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "708",
-                "ref:De_Lijn": "403810",
-                "bus": "yes",
-                "name": "Heers Voetbalveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN HEERS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.306695,
-                    50.751849
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "708",
                 "ref:De_Lijn": "403811",
                 "bus": "yes",
                 "name": "Heers Voetbalveld",
@@ -166,27 +187,6 @@
                 "coordinates": [
                     5.295452,
                     50.75308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "3;27;38;708",
-                "ref:De_Lijn": "403795",
-                "bus": "yes",
-                "name": "Heers Sporthal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE STEENWEG HEERS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.302572,
-                    50.754048
                 ]
             }
         }

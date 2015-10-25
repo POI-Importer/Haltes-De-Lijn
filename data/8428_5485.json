@@ -4,42 +4,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "90;35c",
-                "ref:De_Lijn": "405697",
+                "route_ref:De_Lijn": "178",
+                "ref:De_Lijn": "405901",
                 "bus": "yes",
-                "name": "Lummen Sint-Ferdinand Instituut",
+                "name": "Lummen Het Klaverblad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-FERDINANDSTRAAT LUMMEN",
+                "created_by": "LINDEKENSVELD LUMMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.186823,
-                    50.997635
+                    5.197694,
+                    50.995276
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "178",
-                "ref:De_Lijn": "405900",
+                "route_ref:De_Lijn": "30;52;90;91;92;35c",
+                "ref:De_Lijn": "405910",
                 "bus": "yes",
-                "name": "Lummen Het Klaverblad",
+                "name": "Lummen Frederickxstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUMMEN-CENTRUM LUMMEN",
+                "created_by": "PASTOOR FREDERICKXSTRAAT LUMMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.197997,
-                    50.997144
+                    5.194166,
+                    50.986698
                 ]
             }
         },
@@ -67,21 +67,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;52;90;91;92;35c",
-                "ref:De_Lijn": "405910",
+                "ref:De_Lijn": "405988",
                 "bus": "yes",
-                "name": "Lummen Frederickxstraat",
+                "name": "Lummen Weg naar Klooster",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PASTOOR FREDERICKXSTRAAT LUMMEN",
+                "created_by": "LINDEKENSVELD LUMMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.194166,
-                    50.986698
+                    5.195301,
+                    50.992066
                 ]
             }
         },
@@ -110,7 +110,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "90;35c",
-                "ref:De_Lijn": "405695",
+                "ref:De_Lijn": "405697",
+                "bus": "yes",
+                "name": "Lummen Sint-Ferdinand Instituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-FERDINANDSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.186823,
+                    50.997635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "90;35c",
+                "ref:De_Lijn": "405694",
                 "bus": "yes",
                 "name": "Lummen Zwembad",
                 "public_transport": "platform",
@@ -122,29 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.19061,
-                    50.990211
+                    5.190426,
+                    50.990248
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "30;52;92",
-                "ref:De_Lijn": "405906",
+                "route_ref:De_Lijn": "90;35c",
+                "ref:De_Lijn": "405696",
                 "bus": "yes",
-                "name": "Lummen De Steenberg",
+                "name": "Lummen Sint-Ferdinand Instituut",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OOSTEREINDESTRAAT LUMMEN",
+                "created_by": "SINT-FERDINANDSTRAAT LUMMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.204123,
-                    50.989962
+                    5.186694,
+                    50.9976
                 ]
             }
         },
@@ -173,41 +194,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "90;35c",
-                "ref:De_Lijn": "405696",
+                "ref:De_Lijn": "405695",
                 "bus": "yes",
-                "name": "Lummen Sint-Ferdinand Instituut",
+                "name": "Lummen Zwembad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-FERDINANDSTRAAT LUMMEN",
+                "created_by": "GROENSTRAAT LUMMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.186694,
-                    50.9976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "405988",
-                "bus": "yes",
-                "name": "Lummen Weg naar Klooster",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "LINDEKENSVELD LUMMEN",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.195301,
-                    50.992066
+                    5.19061,
+                    50.990211
                 ]
             }
         },
@@ -236,41 +236,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "178",
-                "ref:De_Lijn": "405901",
+                "ref:De_Lijn": "405900",
                 "bus": "yes",
                 "name": "Lummen Het Klaverblad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LINDEKENSVELD LUMMEN",
+                "created_by": "LUMMEN-CENTRUM LUMMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.197694,
-                    50.995276
+                    5.197997,
+                    50.997144
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "90;35c",
-                "ref:De_Lijn": "405694",
+                "route_ref:De_Lijn": "30;52;92",
+                "ref:De_Lijn": "405906",
                 "bus": "yes",
-                "name": "Lummen Zwembad",
+                "name": "Lummen De Steenberg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROENSTRAAT LUMMEN",
+                "created_by": "OOSTEREINDESTRAAT LUMMEN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.190426,
-                    50.990248
+                    5.204123,
+                    50.989962
                 ]
             }
         }

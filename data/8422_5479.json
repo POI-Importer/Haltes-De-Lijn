@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405710",
+                "ref:De_Lijn": "405713",
                 "bus": "yes",
-                "name": "EXC Vorst",
+                "name": "TC Laakdal",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LINDESTRAAT VORST (LAAKDAL)",
+                "created_by": "LINDESTRAAT LAAKDAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.061449,
-                    51.0826
+                    5.058707,
+                    51.079559
                 ]
             }
         },
@@ -47,41 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405721",
+                "ref:De_Lijn": "405710",
                 "bus": "yes",
-                "name": "TC Laakdal",
+                "name": "EXC Vorst",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LINDESTRAAT LAAKDAL",
+                "created_by": "LINDESTRAAT VORST (LAAKDAL)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.058763,
-                    51.079478
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405713",
-                "bus": "yes",
-                "name": "TC Laakdal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDESTRAAT LAAKDAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.058707,
-                    51.079559
+                    5.061449,
+                    51.0826
                 ]
             }
         },
@@ -103,6 +82,27 @@
                 "coordinates": [
                     5.061306,
                     51.082564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405721",
+                "bus": "yes",
+                "name": "TC Laakdal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT LAAKDAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.058763,
+                    51.079478
                 ]
             }
         }

@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "85;89;92",
-                "ref:De_Lijn": "508328",
+                "route_ref:De_Lijn": "85;92",
+                "ref:De_Lijn": "503328",
                 "bus": "yes",
                 "name": "Kaster Dorp",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.49468,
-                    50.810647
+                    3.494762,
+                    50.810836
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "85;89;92",
-                "ref:De_Lijn": "503328",
+                "ref:De_Lijn": "508328",
                 "bus": "yes",
                 "name": "Kaster Dorp",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.494762,
-                    50.810836
+                    3.49468,
+                    50.810647
                 ]
             }
         }

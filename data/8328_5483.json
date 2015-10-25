@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "47;56",
-                "ref:De_Lijn": "505638",
-                "bus": "yes",
-                "name": "Handzame Korte Wandeling",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GOUDEN-HOOFDSTRAAT HANDZAME",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.001438,
-                    51.019016
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "32;47;56",
-                "ref:De_Lijn": "508180",
+                "ref:De_Lijn": "508179",
                 "bus": "yes",
-                "name": "Handzame Plaats",
+                "name": "Handzame Elflijnenlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HANDZAMEPLEIN HANDZAME",
+                "created_by": "HANDZAMESTRAAT HANDZAME",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.0033,
-                    51.02605
+                    3.007858,
+                    51.025212
                 ]
             }
         },
@@ -88,21 +67,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;47;56",
-                "ref:De_Lijn": "508179",
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505638",
                 "bus": "yes",
-                "name": "Handzame Elflijnenlaan",
+                "name": "Handzame Korte Wandeling",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HANDZAMESTRAAT HANDZAME",
+                "created_by": "GOUDEN-HOOFDSTRAAT HANDZAME",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.007858,
-                    51.025212
+                    3.001438,
+                    51.019016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508180",
+                "bus": "yes",
+                "name": "Handzame Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMEPLEIN HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0033,
+                    51.02605
                 ]
             }
         }

@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;79;96",
-                "ref:De_Lijn": "507533",
-                "bus": "yes",
-                "name": "Waardamme Drie Koningen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTRAAT WAARDAMME",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.219666,
-                    51.112973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;79;96",
-                "ref:De_Lijn": "502533",
-                "bus": "yes",
-                "name": "Waardamme Drie Koningen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KORTRIJKSESTRAAT WAARDAMME",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.219437,
-                    51.112997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "79",
                 "ref:De_Lijn": "502798",
                 "bus": "yes",
@@ -103,6 +61,48 @@
                 "coordinates": [
                     3.220042,
                     51.12033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;79;96",
+                "ref:De_Lijn": "502533",
+                "bus": "yes",
+                "name": "Waardamme Drie Koningen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT WAARDAMME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219437,
+                    51.112997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;79;96",
+                "ref:De_Lijn": "507533",
+                "bus": "yes",
+                "name": "Waardamme Drie Koningen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT WAARDAMME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219666,
+                    51.112973
                 ]
             }
         }

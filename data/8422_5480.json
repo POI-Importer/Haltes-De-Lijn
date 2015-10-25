@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "17c;717",
-                "ref:De_Lijn": "408314",
-                "bus": "yes",
-                "name": "Tessenderlo Hommelbeek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOTERWEG TESSENDERLO",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.072019,
-                    51.065197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17c;717",
-                "ref:De_Lijn": "408352",
-                "bus": "yes",
-                "name": "Tessenderlo Schoterweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SCHOTERWEG SCHOOT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.054896,
-                    51.067815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "717",
                 "ref:De_Lijn": "408343",
                 "bus": "yes",
@@ -68,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "17c;717",
-                "ref:De_Lijn": "408315",
+                "ref:De_Lijn": "408353",
                 "bus": "yes",
-                "name": "Tessenderlo Hommelbeek",
+                "name": "Tessenderlo Schoterweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHOTERWEG TESSENDERLO",
+                "created_by": "SCHOTERWEG SCHOOT",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.07239,
-                    51.065158
+                    5.055167,
+                    51.067849
                 ]
             }
         },
@@ -110,41 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "17c;717",
-                "ref:De_Lijn": "408353",
+                "ref:De_Lijn": "408315",
                 "bus": "yes",
-                "name": "Tessenderlo Schoterweg",
+                "name": "Tessenderlo Hommelbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHOTERWEG SCHOOT",
+                "created_by": "SCHOTERWEG TESSENDERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.055167,
-                    51.067849
+                    5.07239,
+                    51.065158
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "717",
-                "ref:De_Lijn": "408341",
+                "route_ref:De_Lijn": "17c;717",
+                "ref:De_Lijn": "408314",
                 "bus": "yes",
-                "name": "Tessenderlo Marterpad",
+                "name": "Tessenderlo Hommelbeek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEGGEBOSSENWEG TESSENDERLO",
+                "created_by": "SCHOTERWEG TESSENDERLO",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.060046,
-                    51.063928
+                    5.072019,
+                    51.065197
                 ]
             }
         },
@@ -166,6 +124,48 @@
                 "coordinates": [
                     5.064774,
                     51.065312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17c;717",
+                "ref:De_Lijn": "408352",
+                "bus": "yes",
+                "name": "Tessenderlo Schoterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTERWEG SCHOOT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.054896,
+                    51.067815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408341",
+                "bus": "yes",
+                "name": "Tessenderlo Marterpad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEGGEBOSSENWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.060046,
+                    51.063928
                 ]
             }
         }

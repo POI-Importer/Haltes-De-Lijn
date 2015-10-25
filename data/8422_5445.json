@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "103699",
                 "bus": "yes",
                 "name": "Tilburg Viaduct A58",
@@ -25,10 +24,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "103701",
+                "ref:De_Lijn": "103698",
                 "bus": "yes",
-                "name": "Tilburg Willem II-Stadion",
+                "name": "Tilburg Viaduct A58",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GOIRLESE WEG TILBURG",
@@ -38,15 +36,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.064358,
-                    51.542493
+                    5.063319,
+                    51.538572
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "103700",
                 "bus": "yes",
                 "name": "Tilburg Willem II-Stadion",
@@ -67,10 +64,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "103698",
+                "ref:De_Lijn": "103701",
                 "bus": "yes",
-                "name": "Tilburg Viaduct A58",
+                "name": "Tilburg Willem II-Stadion",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GOIRLESE WEG TILBURG",
@@ -80,8 +76,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.063319,
-                    51.538572
+                    5.064358,
+                    51.542493
                 ]
             }
         }

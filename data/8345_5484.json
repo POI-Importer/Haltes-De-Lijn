@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "53;77;450",
-                "ref:De_Lijn": "507691",
-                "bus": "yes",
-                "name": "Tielt Korenzak",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANEGEMSTRAAT TIELT (WEST-VLAANDEREN)",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.362052,
-                    51.004985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "53;77",
                 "ref:De_Lijn": "502691",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.368636,
                     51.004897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "507691",
+                "bus": "yes",
+                "name": "Tielt Korenzak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.362052,
+                    51.004985
                 ]
             }
         }

@@ -4,112 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
-                "ref:De_Lijn": "503681",
-                "bus": "yes",
-                "name": "Rekkem Croise",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOESKROENSTRAAT REKKEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.171835,
-                    50.774862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81",
-                "ref:De_Lijn": "504454",
-                "bus": "yes",
-                "name": "Rekkem Grote Weg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE WEG REKKEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.178204,
-                    50.771385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;84",
-                "ref:De_Lijn": "509453",
-                "bus": "yes",
-                "name": "Rekkem Dronkaard",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PARADIJSSTRAAT REKKEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.166446,
-                    50.769898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;84",
-                "ref:De_Lijn": "503683",
-                "bus": "yes",
-                "name": "Rekkem Kattestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOESKROENSTRAAT REKKEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.169145,
-                    50.776903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81",
-                "ref:De_Lijn": "504828",
-                "bus": "yes",
-                "name": "Rekkem Ten Bulke",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GROTE WEG REKKEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.183518,
-                    50.766979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "81;84",
+                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "509457",
                 "bus": "yes",
                 "name": "Rekkem Volkshuis",
@@ -130,28 +25,69 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
-                "ref:De_Lijn": "504456",
+                "ref:De_Lijn": "504828",
                 "bus": "yes",
                 "name": "Rekkem Ten Bulke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHELPENSTRAAT REKKEM",
+                "created_by": "GROTE WEG REKKEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.182906,
-                    50.765984
+                    3.183518,
+                    50.766979
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "509453",
+                "bus": "yes",
+                "name": "Rekkem Dronkaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARADIJSSTRAAT REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.166446,
+                    50.769898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "503683",
+                "bus": "yes",
+                "name": "Rekkem Kattestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.169145,
+                    50.776903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "504453",
                 "bus": "yes",
                 "name": "Rekkem Dronkaard",
@@ -172,8 +108,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
-                "ref:De_Lijn": "508681",
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "503681",
                 "bus": "yes",
                 "name": "Rekkem Croise",
                 "public_transport": "platform",
@@ -185,29 +121,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.171354,
-                    50.77537
+                    3.171835,
+                    50.774862
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
-                "ref:De_Lijn": "508683",
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "504456",
                 "bus": "yes",
-                "name": "Rekkem Kattestraat",
+                "name": "Rekkem Ten Bulke",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MOESKROENSTRAAT REKKEM",
+                "created_by": "SCHELPENSTRAAT REKKEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.169197,
-                    50.77711
+                    3.182906,
+                    50.765984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509454",
+                "bus": "yes",
+                "name": "Rekkem Grote Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE WEG REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.178316,
+                    50.771467
                 ]
             }
         },
@@ -235,28 +191,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81",
-                "ref:De_Lijn": "509454",
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "508681",
                 "bus": "yes",
-                "name": "Rekkem Grote Weg",
+                "name": "Rekkem Croise",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "GROTE WEG REKKEM",
+                "created_by": "MOESKROENSTRAAT REKKEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.178316,
-                    50.771467
+                    3.171354,
+                    50.77537
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;84",
+                "route_ref:De_Lijn": "84",
                 "ref:De_Lijn": "504457",
                 "bus": "yes",
                 "name": "Rekkem Volkshuis",
@@ -271,6 +227,47 @@
                 "coordinates": [
                     3.17086,
                     50.773027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "508683",
+                "bus": "yes",
+                "name": "Rekkem Kattestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.169197,
+                    50.77711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "504454",
+                "bus": "yes",
+                "name": "Rekkem Grote Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE WEG REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.178204,
+                    50.771385
                 ]
             }
         }

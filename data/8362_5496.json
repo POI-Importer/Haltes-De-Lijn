@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;24;420",
+                "route_ref:De_Lijn": "23;24",
                 "ref:De_Lijn": "208133",
                 "bus": "yes",
                 "name": "Sint-Blasius-Boekel Heuvelgem",
@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "420",
                 "ref:De_Lijn": "208815",
                 "bus": "yes",
                 "name": "Rozebeke Rekelberg",

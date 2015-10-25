@@ -4,42 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "304198",
+                "ref:De_Lijn": "304199",
                 "bus": "yes",
                 "name": "Rosières Avenue du Parc",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GENVALSTRAAT ROSIÈRES (RIXENSART)",
+                "created_by": "GENVALSTRAAT CHAMP DE WOO",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.526095,
-                    50.728347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "304196",
-                "bus": "yes",
-                "name": "Genval Gare",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "RUE DE LA STATION GENVAL",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.514966,
-                    50.725161
+                    4.526067,
+                    50.728473
                 ]
             }
         },
@@ -67,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "304199",
+                "ref:De_Lijn": "304198",
                 "bus": "yes",
                 "name": "Rosières Avenue du Parc",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GENVALSTRAAT CHAMP DE WOO",
+                "created_by": "GENVALSTRAAT ROSIÈRES (RIXENSART)",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.526067,
-                    50.728473
+                    4.526095,
+                    50.728347
                 ]
             }
         },
@@ -103,6 +82,27 @@
                 "coordinates": [
                     4.506684,
                     50.726232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304196",
+                "bus": "yes",
+                "name": "Genval Gare",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LA STATION GENVAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514966,
+                    50.725161
                 ]
             }
         },

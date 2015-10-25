@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "170;571",
-                "ref:De_Lijn": "304585",
+                "ref:De_Lijn": "304562",
                 "bus": "yes",
-                "name": "Sint-Pieters-Leeuw Dikke Linde",
+                "name": "Sint-Pieters-Leeuw A.Quintusstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GEORGES WITTOUCKSTRAAT SINT-PIETERS-LEEUW",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.270616,
-                    50.787107
+                    4.277474,
+                    50.790115
                 ]
             }
         },
@@ -46,10 +46,94 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "170;571",
+                "ref:De_Lijn": "304568",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Begraafplaats Zuun",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGSTRAAT SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.262935,
+                    50.785015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307191",
+                "bus": "yes",
+                "name": "Ruisbroek Acacialaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUISBROEKSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.283718,
+                    50.788214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;571",
+                "ref:De_Lijn": "304561",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw A.Quintusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEORGES WITTOUCKSTRAAT SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.277573,
+                    50.790295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "171",
-                "ref:De_Lijn": "300397",
+                "ref:De_Lijn": "300398",
                 "bus": "yes",
                 "name": "Lot Imperbel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG LOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.271443,
+                    50.778244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "171",
+                "ref:De_Lijn": "304614",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Makro",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
@@ -59,8 +143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.271428,
-                    50.778757
+                    4.275941,
+                    50.783893
                 ]
             }
         },
@@ -88,42 +172,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "171",
-                "ref:De_Lijn": "304665",
+                "route_ref:De_Lijn": "170;571",
+                "ref:De_Lijn": "304664",
                 "bus": "yes",
                 "name": "Sint-Pieters-Leeuw Zuun",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "created_by": "GEORGES WITTOUCKSTRAAT SINT-PIETERS-LEEUW",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.281345,
-                    50.790909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;571",
-                "ref:De_Lijn": "304567",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw Begraafplaats Zuun",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GALGSTRAAT SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.262736,
-                    50.78506
+                    4.281541,
+                    50.79197
                 ]
             }
         },
@@ -172,111 +235,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "170;571",
-                "ref:De_Lijn": "304664",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw Zuun",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GEORGES WITTOUCKSTRAAT SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.281541,
-                    50.79197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;571",
-                "ref:De_Lijn": "304562",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw A.Quintusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GEORGES WITTOUCKSTRAAT SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.277474,
-                    50.790115
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "171",
-                "ref:De_Lijn": "304614",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw Makro",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.275941,
-                    50.783893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "307191",
-                "bus": "yes",
-                "name": "Ruisbroek Acacialaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "RUISBROEKSESTEENWEG SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.283718,
-                    50.788214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "171",
-                "ref:De_Lijn": "304613",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw Makro",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.274695,
-                    50.78285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "171",
                 "ref:De_Lijn": "304663",
                 "bus": "yes",
@@ -292,6 +250,48 @@
                 "coordinates": [
                     4.28191,
                     50.791935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "171",
+                "ref:De_Lijn": "304639",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Steenweg naar Ruisbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.277977,
+                    50.786934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "171",
+                "ref:De_Lijn": "300397",
+                "bus": "yes",
+                "name": "Lot Imperbel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.271428,
+                    50.778757
                 ]
             }
         },
@@ -319,21 +319,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "171",
-                "ref:De_Lijn": "300398",
+                "route_ref:De_Lijn": "170;571",
+                "ref:De_Lijn": "304567",
                 "bus": "yes",
-                "name": "Lot Imperbel",
+                "name": "Sint-Pieters-Leeuw Begraafplaats Zuun",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERGENSESTEENWEG LOT",
+                "created_by": "GALGSTRAAT SINT-PIETERS-LEEUW",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.271443,
-                    50.778244
+                    4.262736,
+                    50.78506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "171",
+                "ref:De_Lijn": "304665",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Zuun",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.281345,
+                    50.790909
                 ]
             }
         },
@@ -355,48 +376,6 @@
                 "coordinates": [
                     4.281158,
                     50.791925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;571",
-                "ref:De_Lijn": "304568",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw Begraafplaats Zuun",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GALGSTRAAT SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.262935,
-                    50.785015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "170;571",
-                "ref:De_Lijn": "304561",
-                "bus": "yes",
-                "name": "Sint-Pieters-Leeuw A.Quintusstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GEORGES WITTOUCKSTRAAT SINT-PIETERS-LEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.277573,
-                    50.790295
                 ]
             }
         },
@@ -425,9 +404,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "171",
-                "ref:De_Lijn": "304639",
+                "ref:De_Lijn": "304613",
                 "bus": "yes",
-                "name": "Sint-Pieters-Leeuw Steenweg naar Ruisbroek",
+                "name": "Sint-Pieters-Leeuw Makro",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BERGENSESTEENWEG SINT-PIETERS-LEEUW",
@@ -437,8 +416,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.277977,
-                    50.786934
+                    4.274695,
+                    50.78285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;571",
+                "ref:De_Lijn": "304585",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Dikke Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEORGES WITTOUCKSTRAAT SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.270616,
+                    50.787107
                 ]
             }
         }

@@ -4,8 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707;708",
-                "ref:De_Lijn": "307409",
+                "route_ref:De_Lijn": "707",
+                "ref:De_Lijn": "307408",
                 "bus": "yes",
                 "name": "Scherpenheuvel Weverstraat",
                 "public_transport": "platform",
@@ -25,8 +25,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "707",
-                "ref:De_Lijn": "307408",
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307409",
                 "bus": "yes",
                 "name": "Scherpenheuvel Weverstraat",
                 "public_transport": "platform",

@@ -4,29 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160;527;931;944",
-                "ref:De_Lijn": "107966",
-                "bus": "yes",
-                "name": "Heist-op-den-Berg Heide Lo station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LOSTRAAT HEIST-OP-DEN-BERG",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.734336,
-                    51.058874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;527;931;944",
-                "ref:De_Lijn": "107964",
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "107963",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Oudestraat",
                 "public_transport": "platform",
@@ -38,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.736257,
-                    51.067416
+                    4.736255,
+                    51.067057
                 ]
             }
         },
@@ -67,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160;527;931;944",
+                "route_ref:De_Lijn": "931;944",
                 "ref:De_Lijn": "107965",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Heide Lo station",
@@ -88,7 +67,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "161;931",
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "107966",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Heide Lo station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.734336,
+                    51.058874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
                 "ref:De_Lijn": "108036",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Heuvelstraat",
@@ -109,8 +109,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "160;527;931;944",
-                "ref:De_Lijn": "107963",
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "107964",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Oudestraat",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.736255,
-                    51.067057
+                    4.736257,
+                    51.067416
                 ]
             }
         },
@@ -151,7 +151,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "161;931;944",
+                "route_ref:De_Lijn": "931;944",
                 "ref:De_Lijn": "108034",
                 "bus": "yes",
                 "name": "Heist-op-den-Berg Heuvelstraat",

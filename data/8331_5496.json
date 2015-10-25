@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "48",
-                "ref:De_Lijn": "505198",
-                "bus": "yes",
-                "name": "Geluwe Arkemolen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PEPERSTRAAT GELUWE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.067445,
-                    50.844607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "48",
                 "ref:De_Lijn": "505217",
                 "bus": "yes",
                 "name": "Geluwe School Ter Hand",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.060097,
                     50.837692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505198",
+                "bus": "yes",
+                "name": "Geluwe Arkemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPERSTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.067445,
+                    50.844607
                 ]
             }
         }

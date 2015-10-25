@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "195",
                 "ref:De_Lijn": "200952",
                 "bus": "yes",
                 "name": "Eeklo Obc De Waai",
@@ -46,27 +45,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
-                "ref:De_Lijn": "202250",
-                "bus": "yes",
-                "name": "Eeklo Kleemhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEEMHOEK EEKLO",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.573512,
-                    51.216627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "203250",
                 "bus": "yes",
@@ -88,7 +66,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "63;195",
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "202250",
+                "bus": "yes",
+                "name": "Eeklo Kleemhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEEMHOEK EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.573512,
+                    51.216627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
                 "ref:De_Lijn": "202249",
                 "bus": "yes",
                 "name": "Eeklo Waaistraat",

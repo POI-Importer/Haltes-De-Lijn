@@ -4,133 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22",
-                "ref:De_Lijn": "104590",
-                "bus": "yes",
-                "name": "Pastoor Bauwenslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LETTERKUNDESTRAAT WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.378381,
-                    51.179307
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;33",
-                "ref:De_Lijn": "105635",
-                "bus": "yes",
-                "name": "Wilrijk Valaardreef Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VALAARDREEF WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.377723,
-                    51.176458
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17;33",
-                "ref:De_Lijn": "101016",
-                "bus": "yes",
-                "name": "L. Kieboomsstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEISTRAAT WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.393566,
-                    51.17544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;180;181;182;183",
-                "ref:De_Lijn": "103850",
-                "bus": "yes",
-                "name": "Heistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAARSTRAAT WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.394209,
-                    51.174208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22",
-                "ref:De_Lijn": "103690",
-                "bus": "yes",
-                "name": "Koornbloemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VALKSTRAAT WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.383041,
-                    51.170723
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;33",
-                "ref:De_Lijn": "105630",
-                "bus": "yes",
-                "name": "Wilrijk Valaardreef Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VALAARDREEF WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.377551,
-                    51.176449
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17;33",
                 "ref:De_Lijn": "101017",
                 "bus": "yes",
                 "name": "L. Kieboomsstraat",
@@ -145,111 +18,6 @@
                 "coordinates": [
                     4.39348,
                     51.175008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22",
-                "ref:De_Lijn": "105625",
-                "bus": "yes",
-                "name": "Valaardreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VALAARDREEF WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.381797,
-                    51.172494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "500",
-                "ref:De_Lijn": "101133",
-                "bus": "yes",
-                "name": "Dokter Veeckmanslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOOMSESTEENWEG WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.388962,
-                    51.176187
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "141",
-                "ref:De_Lijn": "102697",
-                "bus": "yes",
-                "name": "Valaardreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "R11 WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.381139,
-                    51.172026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22",
-                "ref:De_Lijn": "103685",
-                "bus": "yes",
-                "name": "Koornbloemstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VALKSTRAAT WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.383269,
-                    51.170633
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "17",
-                "ref:De_Lijn": "104540",
-                "bus": "yes",
-                "name": "Oudestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GALLAITLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.390931,
-                    51.166317
                 ]
             }
         },
@@ -277,10 +45,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;500",
-                "ref:De_Lijn": "109010",
+                "ref:De_Lijn": "101133",
                 "bus": "yes",
-                "name": "Valkstraat",
+                "name": "Dokter Veeckmanslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BOOMSESTEENWEG WILRIJK",
@@ -290,29 +57,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.3869,
-                    51.168475
+                    4.388962,
+                    51.176187
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "141",
-                "ref:De_Lijn": "102694",
+                "ref:De_Lijn": "101134",
                 "bus": "yes",
-                "name": "Crematorium",
+                "name": "Dokter Veeckmanslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "R11 WILRIJK",
+                "created_by": "BOOMSESTEENWEG WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.374333,
-                    51.170786
+                    4.388391,
+                    51.177176
                 ]
             }
         },
@@ -340,7 +106,67 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "104590",
+                "bus": "yes",
+                "name": "Pastoor Bauwenslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LETTERKUNDESTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378381,
+                    51.179307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104540",
+                "bus": "yes",
+                "name": "Oudestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALLAITLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.390931,
+                    51.166317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105635",
+                "bus": "yes",
+                "name": "Wilrijk Valaardreef Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VALAARDREEF WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.377723,
+                    51.176458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "101019",
                 "bus": "yes",
                 "name": "Rooiboslaan",
@@ -361,21 +187,60 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22;33",
-                "ref:De_Lijn": "104840",
-                "bus": "yes",
-                "name": "Ridderveld",
+                "ref:De_Lijn": "103976",
+                "name": "Boomsesteenweg",
                 "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIDDERVELD WILRIJK",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOORNBLOEMSTRAAT WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.374978,
-                    51.177411
+                    4.386358,
+                    51.170488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101016",
+                "bus": "yes",
+                "name": "L. Kieboomsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393566,
+                    51.17544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103685",
+                "bus": "yes",
+                "name": "Koornbloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VALKSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.383269,
+                    51.170633
                 ]
             }
         },
@@ -403,7 +268,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "131;500",
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "103977",
+                "bus": "yes",
+                "name": "Boomsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOORNBLOEMSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.385843,
+                    51.170462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108355",
+                "bus": "yes",
+                "name": "Jules Moretuslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOMSESTEENWEG WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.386844,
+                    51.171657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "108360",
                 "bus": "yes",
                 "name": "Jules Moretuslei",
@@ -418,132 +323,6 @@
                 "coordinates": [
                     4.387759,
                     51.17172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "141",
-                "ref:De_Lijn": "102693",
-                "bus": "yes",
-                "name": "Crematorium",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GASTON FABRÉLAAN WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.374233,
-                    51.171038
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22;33",
-                "ref:De_Lijn": "104835",
-                "bus": "yes",
-                "name": "Ridderveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RIDDERVELD WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.374763,
-                    51.177447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "21;180;181;182;183",
-                "ref:De_Lijn": "102815",
-                "bus": "yes",
-                "name": "Heistraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAARSTRAAT WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.394395,
-                    51.174541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "141",
-                "ref:De_Lijn": "102698",
-                "bus": "yes",
-                "name": "Valaardreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "R11 WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.381096,
-                    51.171757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "500",
-                "ref:De_Lijn": "107805",
-                "bus": "yes",
-                "name": "Hof Van Mols",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOOMSESTEENWEG WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.389707,
-                    51.17882
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "22",
-                "ref:De_Lijn": "103976",
-                "bus": "yes",
-                "name": "Boomsesteenweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KOORNBLOEMSTRAAT WILRIJK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.386358,
-                    51.170488
                 ]
             }
         },
@@ -571,28 +350,66 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "131;500",
-                "ref:De_Lijn": "108355",
+                "ref:De_Lijn": "102815",
                 "bus": "yes",
-                "name": "Jules Moretuslei",
+                "name": "Heistraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOOMSESTEENWEG WILRIJK",
+                "created_by": "LAARSTRAAT WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.386844,
-                    51.171657
+                    4.394395,
+                    51.174541
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "21;500",
+                "ref:De_Lijn": "105625",
+                "bus": "yes",
+                "name": "Valaardreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VALAARDREEF WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381797,
+                    51.172494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103850",
+                "bus": "yes",
+                "name": "Heistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.394209,
+                    51.174208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "109005",
                 "bus": "yes",
                 "name": "Valkstraat",
@@ -613,49 +430,68 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "22",
-                "ref:De_Lijn": "103977",
+                "route_ref:De_Lijn": "22;33",
+                "ref:De_Lijn": "105630",
                 "bus": "yes",
-                "name": "Boomsesteenweg",
+                "name": "Wilrijk Valaardreef Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KOORNBLOEMSTRAAT WILRIJK",
+                "created_by": "VALAARDREEF WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.385843,
-                    51.170462
+                    4.377551,
+                    51.176449
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "500",
-                "ref:De_Lijn": "101134",
+                "route_ref:De_Lijn": "22;33",
+                "ref:De_Lijn": "104835",
                 "bus": "yes",
-                "name": "Dokter Veeckmanslaan",
+                "name": "Ridderveld",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BOOMSESTEENWEG WILRIJK",
+                "created_by": "RIDDERVELD WILRIJK",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.388391,
-                    51.177176
+                    4.374763,
+                    51.177447
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "102697",
+                "bus": "yes",
+                "name": "Valaardreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "R11 WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381139,
+                    51.172026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "104545",
                 "bus": "yes",
                 "name": "Oudestraat",
@@ -670,6 +506,146 @@
                 "coordinates": [
                     4.391074,
                     51.166308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103690",
+                "bus": "yes",
+                "name": "Koornbloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VALKSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.383041,
+                    51.170723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102693",
+                "bus": "yes",
+                "name": "Crematorium",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTON FABRÉLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.374233,
+                    51.171038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102698",
+                "bus": "yes",
+                "name": "Valaardreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "R11 WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381096,
+                    51.171757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102694",
+                "bus": "yes",
+                "name": "Crematorium",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "R11 WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.374333,
+                    51.170786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107805",
+                "name": "Hof Van Mols",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BOOMSESTEENWEG WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389707,
+                    51.17882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109010",
+                "bus": "yes",
+                "name": "Valkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOMSESTEENWEG WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3869,
+                    51.168475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104840",
+                "bus": "yes",
+                "name": "Ridderveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIDDERVELD WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.374978,
+                    51.177411
                 ]
             }
         }

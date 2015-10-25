@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "504530",
+                "ref:De_Lijn": "504525",
                 "bus": "yes",
-                "name": "Voormezele Wittenhuisstraat",
+                "name": "Voormezele Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "RUUSCHAARTSTRAAT VOORMEZELE",
+                "created_by": "VOORMEZELE-DORP VOORMEZELE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.873333,
-                    50.818125
+                    2.875722,
+                    50.816663
                 ]
             }
         },
@@ -68,20 +68,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "79",
-                "ref:De_Lijn": "504525",
+                "ref:De_Lijn": "504530",
                 "bus": "yes",
-                "name": "Voormezele Dorp",
+                "name": "Voormezele Wittenhuisstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VOORMEZELE-DORP VOORMEZELE",
+                "created_by": "RUUSCHAARTSTRAAT VOORMEZELE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.875722,
-                    50.816663
+                    2.873333,
+                    50.818125
                 ]
             }
         }

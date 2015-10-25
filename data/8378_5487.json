@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;340",
-                "ref:De_Lijn": "206208",
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "207209",
                 "bus": "yes",
-                "name": "Moorsel Tinnenhoek",
+                "name": "Moorsel Houten Kruis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HERBERGSTRAAT MOORSEL (AALST)",
+                "created_by": "HOUTENKRUISSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.102094,
-                    50.96615
+                    4.09794,
+                    50.963112
                 ]
             }
         },
@@ -46,28 +46,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43",
-                "ref:De_Lijn": "207209",
+                "ref:De_Lijn": "206322",
                 "bus": "yes",
-                "name": "Moorsel Houten Kruis",
+                "name": "Moorsel Korte Trieststraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOUTENKRUISSTRAAT MOORSEL (AALST)",
+                "created_by": "STEVEN MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.09794,
-                    50.963112
+                    4.108306,
+                    50.97029
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "340",
                 "ref:De_Lijn": "206608",
                 "bus": "yes",
                 "name": "Moorsel Ravenakkerstraat",
@@ -88,7 +86,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "43;340",
+                "route_ref:De_Lijn": "43",
                 "ref:De_Lijn": "206209",
                 "bus": "yes",
                 "name": "Moorsel Houten Kruis",
@@ -109,21 +107,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "340",
-                "ref:De_Lijn": "206322",
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "206208",
                 "bus": "yes",
-                "name": "Moorsel Korte Trieststraat",
+                "name": "Moorsel Tinnenhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STEVEN MOORSEL (AALST)",
+                "created_by": "HERBERGSTRAAT MOORSEL (AALST)",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.108306,
-                    50.97029
+                    4.102094,
+                    50.96615
                 ]
             }
         }

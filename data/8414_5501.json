@@ -4,90 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;362;662",
-                "ref:De_Lijn": "307805",
-                "bus": "yes",
-                "name": "Hoegaarden Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PASTORIJSTRAAT HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.888719,
-                    50.773315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "662;713",
-                "ref:De_Lijn": "302158",
-                "bus": "yes",
-                "name": "Hoegaarden Brouwerij Lorierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NERM HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.882363,
-                    50.772975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "308098",
-                "bus": "yes",
-                "name": "Hoegaarden Brouwerij",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "STOOPKENSSTRAAT HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.886761,
-                    50.777099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "713",
-                "ref:De_Lijn": "307186",
-                "bus": "yes",
-                "name": "Hoegaarden Vroentestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VROENTESTRAAT HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.896271,
-                    50.778028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "713",
                 "ref:De_Lijn": "302165",
                 "bus": "yes",
@@ -109,105 +25,62 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "6;362;662",
-                "ref:De_Lijn": "307806",
+                "ref:De_Lijn": "302169",
                 "bus": "yes",
                 "name": "Hoegaarden Hoek Doelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TOMMESTRAAT HOEGAARDEN",
+                "created_by": "DOELSTRAAT HOEGAARDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.89274,
-                    50.774151
+                    4.892458,
+                    50.774242
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "713",
-                "ref:De_Lijn": "300311",
+                "route_ref:De_Lijn": "6;362;662",
+                "ref:De_Lijn": "307804",
                 "bus": "yes",
-                "name": "Hoegaarden Villa Hugardis",
+                "name": "Hoegaarden Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAAGDENBLOKSTRAAT HOEGAARDEN",
+                "created_by": "HOUTMARKT HOEGAARDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.891367,
-                    50.77182
+                    4.887669,
+                    50.773293
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "360;361;362;662;713",
-                "ref:De_Lijn": "302156",
+                "route_ref:De_Lijn": "6;362;662",
+                "ref:De_Lijn": "307805",
                 "bus": "yes",
-                "name": "Hoegaarden Au Canal",
+                "name": "Hoegaarden Gemeentehuis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "TIENSESTRAAT HOEGAARDEN",
+                "created_by": "PASTORIJSTRAAT HOEGAARDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.893428,
-                    50.777312
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "360;361;362;662",
-                "ref:De_Lijn": "302157",
-                "bus": "yes",
-                "name": "Hoegaarden Au Canal",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TIENSESTRAAT HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.89383,
-                    50.777796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "302170",
-                "bus": "yes",
-                "name": "Hoegaarden Kapelleke",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ELST HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.887802,
-                    50.767323
+                    4.888719,
+                    50.773315
                 ]
             }
         },
@@ -235,20 +108,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "302169",
+                "ref:De_Lijn": "302164",
                 "bus": "yes",
-                "name": "Hoegaarden Hoek Doelstraat",
+                "name": "Hoegaarden Gemeentehuis",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "DOELSTRAAT HOEGAARDEN",
+                "created_by": "ARTHUR PUTZEYSSTRAAT HOEGAARDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.892458,
-                    50.774242
+                    4.887722,
+                    50.774227
                 ]
             }
         },
@@ -276,42 +150,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "713",
-                "ref:De_Lijn": "308099",
+                "ref:De_Lijn": "302170",
                 "bus": "yes",
-                "name": "Hoegaarden Brouwerij",
+                "name": "Hoegaarden Kapelleke",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "STOOPKENSSTRAAT HOEGAARDEN",
+                "created_by": "ELST HOEGAARDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.886663,
-                    50.777181
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "6;362;662",
-                "ref:De_Lijn": "307804",
-                "bus": "yes",
-                "name": "Hoegaarden Gemeentehuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOUTMARKT HOEGAARDEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.887669,
-                    50.773293
+                    4.887802,
+                    50.767323
                 ]
             }
         },
@@ -360,21 +213,42 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "302164",
+                "ref:De_Lijn": "308098",
                 "bus": "yes",
-                "name": "Hoegaarden Gemeentehuis",
+                "name": "Hoegaarden Brouwerij",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "ARTHUR PUTZEYSSTRAAT HOEGAARDEN",
+                "created_by": "STOOPKENSSTRAAT HOEGAARDEN",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.887722,
-                    50.774227
+                    4.886761,
+                    50.777099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "662;713",
+                "ref:De_Lijn": "302158",
+                "bus": "yes",
+                "name": "Hoegaarden Brouwerij Lorierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NERM HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.882363,
+                    50.772975
                 ]
             }
         },
@@ -402,6 +276,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "360;361;362;662;713",
+                "ref:De_Lijn": "302156",
+                "bus": "yes",
+                "name": "Hoegaarden Au Canal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTRAAT HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893428,
+                    50.777312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "6;362;662",
                 "ref:De_Lijn": "302167",
                 "bus": "yes",
@@ -423,6 +318,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "6;362;662",
+                "ref:De_Lijn": "307806",
+                "bus": "yes",
+                "name": "Hoegaarden Hoek Doelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOMMESTRAAT HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89274,
+                    50.774151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "302171",
                 "bus": "yes",
                 "name": "Hoegaarden Kapelleke",
@@ -438,6 +354,90 @@
                 "coordinates": [
                     4.887741,
                     50.766972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "307186",
+                "bus": "yes",
+                "name": "Hoegaarden Vroentestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VROENTESTRAAT HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896271,
+                    50.778028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "300311",
+                "bus": "yes",
+                "name": "Hoegaarden Villa Hugardis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAAGDENBLOKSTRAAT HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891367,
+                    50.77182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308099",
+                "bus": "yes",
+                "name": "Hoegaarden Brouwerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOOPKENSSTRAAT HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886663,
+                    50.777181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;662",
+                "ref:De_Lijn": "302157",
+                "bus": "yes",
+                "name": "Hoegaarden Au Canal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTRAAT HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89383,
+                    50.777796
                 ]
             }
         }

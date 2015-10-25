@@ -4,49 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "370",
-                "ref:De_Lijn": "209581",
-                "bus": "yes",
-                "name": "Idegem Station",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAREELSTRAAT IDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.921627,
-                    50.801787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370",
-                "ref:De_Lijn": "208530",
+                "ref:De_Lijn": "209530",
                 "bus": "yes",
                 "name": "Schendelbeke Varingstraat",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "AALSTSESTEENWEG IDEGEM",
+                "created_by": "AALSTSESTEENWEG SCHENDELBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.913347,
-                    50.804317
+                    3.912286,
+                    50.803944
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;370",
+                "route_ref:De_Lijn": "87",
                 "ref:De_Lijn": "206759",
                 "bus": "yes",
                 "name": "Idegem Idegemplein",
@@ -61,6 +40,68 @@
                 "coordinates": [
                     3.926608,
                     50.800151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "206758",
+                "bus": "yes",
+                "name": "Idegem Nuchten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLESTRAAT IDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929845,
+                    50.804362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "200974",
+                "bus": "yes",
+                "name": "Idegem Kulvestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT IDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.914154,
+                    50.798575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208530",
+                "bus": "yes",
+                "name": "Schendelbeke Varingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTSESTEENWEG IDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.913347,
+                    50.804317
                 ]
             }
         },
@@ -89,7 +130,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "87",
-                "ref:De_Lijn": "200974",
+                "ref:De_Lijn": "206760",
                 "bus": "yes",
                 "name": "Idegem Kulvestraat",
                 "public_transport": "platform",
@@ -101,29 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.914154,
-                    50.798575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "370",
-                "ref:De_Lijn": "206803",
-                "bus": "yes",
-                "name": "Idegem Heirweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEIRWEG IDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.92067,
-                    50.80394
+                    3.914125,
+                    50.798665
                 ]
             }
         },
@@ -151,63 +171,40 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "209530",
+                "ref:De_Lijn": "209581",
                 "bus": "yes",
-                "name": "Schendelbeke Varingstraat",
+                "name": "Idegem Station",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "AALSTSESTEENWEG SCHENDELBEKE",
+                "created_by": "BAREELSTRAAT IDEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.912286,
-                    50.803944
+                    3.921627,
+                    50.801787
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "87;370",
-                "ref:De_Lijn": "206760",
+                "ref:De_Lijn": "206803",
                 "bus": "yes",
-                "name": "Idegem Kulvestraat",
+                "name": "Idegem Heirweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DRIESSTRAAT IDEGEM",
+                "created_by": "HEIRWEG IDEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.914125,
-                    50.798665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "87;370",
-                "ref:De_Lijn": "206758",
-                "bus": "yes",
-                "name": "Idegem Nuchten",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOLLESTRAAT IDEGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.929845,
-                    50.804362
+                    3.92067,
+                    50.80394
                 ]
             }
         }

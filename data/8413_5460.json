@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "434",
                 "ref:De_Lijn": "106259",
                 "bus": "yes",
                 "name": "Beerse Kleiputstraat",
@@ -25,28 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "434",
-                "ref:De_Lijn": "106261",
-                "bus": "yes",
-                "name": "Beerse Vogelzangstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MERKSPLASSEWEG BEERSE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.858389,
-                    51.339192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "434",
                 "ref:De_Lijn": "106260",
                 "bus": "yes",
                 "name": "Beerse Kleiputstraat",
@@ -67,7 +44,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "434",
+                "ref:De_Lijn": "106261",
+                "bus": "yes",
+                "name": "Beerse Vogelzangstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKSPLASSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.858389,
+                    51.339192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "106262",
                 "bus": "yes",
                 "name": "Merksplas Vogelzangstraat",

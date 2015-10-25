@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405757",
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405046",
                 "bus": "yes",
-                "name": "Veerle Witte Hoeve II",
+                "name": "Veerle Heide",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VEERLE-HEIDE HEIDE (LAAKDAL)",
+                "created_by": "LAKSTRAAT HEIDE (LAAKDAL)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.977868,
-                    51.052444
+                    4.985514,
+                    51.052566
                 ]
             }
         },
@@ -40,48 +40,6 @@
                 "coordinates": [
                     4.982404,
                     51.05252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405804",
-                "bus": "yes",
-                "name": "Veerle Grensstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HEIDE (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.967999,
-                    51.05361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "19;19b;751",
-                "ref:De_Lijn": "405046",
-                "bus": "yes",
-                "name": "Veerle Heide",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LAKSTRAAT HEIDE (LAAKDAL)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.985514,
-                    51.052566
                 ]
             }
         },
@@ -110,7 +68,28 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405769",
+                "ref:De_Lijn": "405804",
+                "bus": "yes",
+                "name": "Veerle Grensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HEIDE (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.967999,
+                    51.05361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405757",
                 "bus": "yes",
                 "name": "Veerle Witte Hoeve II",
                 "public_transport": "platform",
@@ -122,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.97784,
-                    51.052552
+                    4.977868,
+                    51.052444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405785",
+                "bus": "yes",
+                "name": "Veerle Grensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HEIDE (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968128,
+                    51.05369
                 ]
             }
         },
@@ -152,20 +152,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "751",
-                "ref:De_Lijn": "405785",
+                "ref:De_Lijn": "405769",
                 "bus": "yes",
-                "name": "Veerle Grensstraat",
+                "name": "Veerle Witte Hoeve II",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ZANDSTRAAT HEIDE (LAAKDAL)",
+                "created_by": "VEERLE-HEIDE HEIDE (LAAKDAL)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.968128,
-                    51.05369
+                    4.97784,
+                    51.052552
                 ]
             }
         }

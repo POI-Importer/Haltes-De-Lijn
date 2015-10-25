@@ -24,27 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "701",
-                "ref:De_Lijn": "308053",
-                "bus": "yes",
-                "name": "Bekkevoort Steenberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "STEENBERG BEKKEVOORT",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.977584,
-                    50.955091
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "370;552;701",
                 "ref:De_Lijn": "300447",
                 "bus": "yes",
@@ -60,6 +39,27 @@
                 "coordinates": [
                     4.975572,
                     50.944862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701",
+                "ref:De_Lijn": "308053",
+                "bus": "yes",
+                "name": "Bekkevoort Steenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERG BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.977584,
+                    50.955091
                 ]
             }
         },

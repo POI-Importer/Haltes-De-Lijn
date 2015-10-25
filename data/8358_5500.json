@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "61;460",
+                "route_ref:De_Lijn": "61",
                 "ref:De_Lijn": "206804",
                 "bus": "yes",
                 "name": "Schorisse Gielestraat",

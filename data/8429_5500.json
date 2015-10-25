@@ -5,9 +5,51 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;729;731;S12",
-                "ref:De_Lijn": "407808",
+                "ref:De_Lijn": "407837",
                 "bus": "yes",
-                "name": "Aalst Zwembad",
+                "name": "Brustem Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGWORMSESTEENWEG BRUSTEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.215276,
+                    50.79062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407803",
+                "bus": "yes",
+                "name": "Aalst Nerumstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N789 BRUSTEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.209436,
+                    50.786859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407802",
+                "bus": "yes",
+                "name": "Aalst Nerumstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
@@ -17,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.208779,
-                    50.78262
+                    5.208837,
+                    50.785874
                 ]
             }
         },
@@ -46,21 +88,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "26;734",
-                "ref:De_Lijn": "407842",
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407809",
                 "bus": "yes",
-                "name": "Brustem Luikersteenweg 410",
+                "name": "Aalst Zwembad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LUIKERSTEENWEG BRUSTEM",
+                "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.229148,
-                    50.788379
+                    5.208898,
+                    50.782188
                 ]
             }
         },
@@ -89,27 +131,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;729;731;S12",
-                "ref:De_Lijn": "407809",
-                "bus": "yes",
-                "name": "Aalst Zwembad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.208898,
-                    50.782188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;729;731;S12",
                 "ref:De_Lijn": "407801",
                 "bus": "yes",
                 "name": "Aalst Kapel",
@@ -130,21 +151,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "41;729;731;S12",
-                "ref:De_Lijn": "407837",
+                "route_ref:De_Lijn": "26;734",
+                "ref:De_Lijn": "407842",
                 "bus": "yes",
-                "name": "Brustem Kabien",
+                "name": "Brustem Luikersteenweg 410",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BORGWORMSESTEENWEG BRUSTEM",
+                "created_by": "LUIKERSTEENWEG BRUSTEM",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.215276,
-                    50.79062
+                    5.229148,
+                    50.788379
                 ]
             }
         },
@@ -152,9 +173,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "41;729;731;S12",
-                "ref:De_Lijn": "407802",
+                "ref:De_Lijn": "407808",
                 "bus": "yes",
-                "name": "Aalst Nerumstraat",
+                "name": "Aalst Zwembad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
@@ -164,29 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.208837,
-                    50.785874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "41;729;731;S12",
-                "ref:De_Lijn": "407803",
-                "bus": "yes",
-                "name": "Aalst Nerumstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N789 BRUSTEM",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.209436,
-                    50.786859
+                    5.208779,
+                    50.78262
                 ]
             }
         },

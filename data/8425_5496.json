@@ -5,69 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "715",
-                "ref:De_Lijn": "306331",
-                "bus": "yes",
-                "name": "Zoutleeuw Het Vinne",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OSSENWEGSTRAAT ZOUTLEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.122967,
-                    50.842539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "715",
-                "ref:De_Lijn": "305713",
-                "bus": "yes",
-                "name": "Halle-Booienhoven Turlutstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VINNESTRAAT HALLE-BOOIENHOVEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.132681,
-                    50.834826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "715",
-                "ref:De_Lijn": "306329",
-                "bus": "yes",
-                "name": "Zoutleeuw Muggeberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OSSENWEGSTRAAT ZOUTLEEUW",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.131654,
-                    50.846735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "715",
                 "ref:De_Lijn": "305682",
                 "bus": "yes",
                 "name": "Halle-Booienhoven Café De Linde",
@@ -89,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "715",
-                "ref:De_Lijn": "305712",
+                "ref:De_Lijn": "306331",
                 "bus": "yes",
-                "name": "Halle-Booienhoven Turlutstraat",
+                "name": "Zoutleeuw Het Vinne",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VINNESTRAAT HALLE-BOOIENHOVEN",
+                "created_by": "OSSENWEGSTRAAT ZOUTLEEUW",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.132512,
-                    50.834863
+                    5.122967,
+                    50.842539
                 ]
             }
         },
@@ -152,6 +89,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "305713",
+                "bus": "yes",
+                "name": "Halle-Booienhoven Turlutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINNESTRAAT HALLE-BOOIENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.132681,
+                    50.834826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
                 "ref:De_Lijn": "306328",
                 "bus": "yes",
                 "name": "Zoutleeuw Muggeberg",
@@ -166,6 +124,48 @@
                 "coordinates": [
                     5.131271,
                     50.846747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "306329",
+                "bus": "yes",
+                "name": "Zoutleeuw Muggeberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OSSENWEGSTRAAT ZOUTLEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.131654,
+                    50.846735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "305712",
+                "bus": "yes",
+                "name": "Halle-Booienhoven Turlutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINNESTRAAT HALLE-BOOIENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.132512,
+                    50.834863
                 ]
             }
         }

@@ -4,69 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "541;580;664",
-                "ref:De_Lijn": "305091",
-                "bus": "yes",
-                "name": "Oorbeek Engelbeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OORBEEKSESTEENWEG OORBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.897622,
-                    50.798519
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "541;580;664;713",
-                "ref:De_Lijn": "305090",
-                "bus": "yes",
-                "name": "Oorbeek Engelbeekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OORBEEKSESTEENWEG OORBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.897592,
-                    50.798375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "541;664;713",
-                "ref:De_Lijn": "305092",
-                "bus": "yes",
-                "name": "Oorbeek Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JORISSTRAAT OORBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.892431,
-                    50.797346
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "541;664;713",
                 "ref:De_Lijn": "305094",
                 "bus": "yes",
@@ -82,6 +19,48 @@
                 "coordinates": [
                     4.891407,
                     50.798349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;664",
+                "ref:De_Lijn": "302185",
+                "bus": "yes",
+                "name": "Hoegaarden Hoksem Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.879714,
+                    50.800576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;664",
+                "ref:De_Lijn": "305093",
+                "bus": "yes",
+                "name": "Oorbeek Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JORISSTRAAT OORBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892603,
+                    50.79748
                 ]
             }
         },
@@ -110,27 +89,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "541;664",
-                "ref:De_Lijn": "305093",
-                "bus": "yes",
-                "name": "Oorbeek Kapel",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JORISSTRAAT OORBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.892603,
-                    50.79748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "541;664",
                 "ref:De_Lijn": "305095",
                 "bus": "yes",
                 "name": "Oorbeek Dorp",
@@ -151,21 +109,63 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "541;664",
-                "ref:De_Lijn": "302185",
+                "route_ref:De_Lijn": "541;664;713",
+                "ref:De_Lijn": "305092",
                 "bus": "yes",
-                "name": "Hoegaarden Hoksem Berg",
+                "name": "Oorbeek Kapel",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-JANSSTRAAT HOEGAARDEN",
+                "created_by": "SINT-JORISSTRAAT OORBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.879714,
-                    50.800576
+                    4.892431,
+                    50.797346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;580;664;713",
+                "ref:De_Lijn": "305090",
+                "bus": "yes",
+                "name": "Oorbeek Engelbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OORBEEKSESTEENWEG OORBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897592,
+                    50.798375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;580;664",
+                "ref:De_Lijn": "305091",
+                "bus": "yes",
+                "name": "Oorbeek Engelbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OORBEEKSESTEENWEG OORBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897622,
+                    50.798519
                 ]
             }
         }

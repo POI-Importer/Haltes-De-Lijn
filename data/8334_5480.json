@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "64;79",
-                "ref:De_Lijn": "502494",
+                "ref:De_Lijn": "507494",
                 "bus": "yes",
                 "name": "Torhout Gouden Osse",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.132903,
-                    51.062156
+                    3.13345,
+                    51.061964
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "64;79",
-                "ref:De_Lijn": "507494",
+                "ref:De_Lijn": "502494",
                 "bus": "yes",
                 "name": "Torhout Gouden Osse",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.13345,
-                    51.061964
+                    3.132903,
+                    51.062156
                 ]
             }
         }

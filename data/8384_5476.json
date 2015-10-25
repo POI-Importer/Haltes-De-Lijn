@@ -4,6 +4,68 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "205540",
+                "bus": "yes",
+                "name": "Temse Consciencestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.219322,
+                    51.123835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205668",
+                "bus": "yes",
+                "name": "Temse Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.221007,
+                    51.124062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "101191",
+                "bus": "yes",
+                "name": "Buitenland Reuzenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REEK BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.231748,
+                    51.114277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "938",
                 "ref:De_Lijn": "101189",
                 "bus": "yes",
@@ -19,27 +81,6 @@
                 "coordinates": [
                     4.235099,
                     51.110784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "204668",
-                "bus": "yes",
-                "name": "Temse Zwembad",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.221006,
-                    51.124143
                 ]
             }
         },
@@ -67,6 +108,27 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "204668",
+                "bus": "yes",
+                "name": "Temse Zwembad",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.221006,
+                    51.124143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "938",
                 "ref:De_Lijn": "101192",
                 "bus": "yes",
@@ -82,69 +144,6 @@
                 "coordinates": [
                     4.223145,
                     51.116002
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "205668",
-                "bus": "yes",
-                "name": "Temse Zwembad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.221007,
-                    51.124062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "205540",
-                "bus": "yes",
-                "name": "Temse Consciencestraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "UNKNOWN TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.219322,
-                    51.123835
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "101191",
-                "bus": "yes",
-                "name": "Buitenland Reuzenhuis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REEK BORNEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.231748,
-                    51.114277
                 ]
             }
         },

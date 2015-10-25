@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "83;450",
-                "ref:De_Lijn": "208262",
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "202400",
                 "bus": "yes",
-                "name": "Kruishoutem Truweelweg",
+                "name": "Petegem-aan-de-Leie Souvereinestraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DEINSESTEENWEG KRUISHOUTEM",
+                "created_by": "OUDENAARDSESTEENWEG PETEGEM-AAN-DE-LEIE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.537611,
-                    50.946833
+                    3.537867,
+                    50.957299
                 ]
             }
         },
@@ -46,28 +46,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "83;125;450",
-                "ref:De_Lijn": "202400",
-                "bus": "yes",
-                "name": "Petegem-aan-de-Leie Souvereinestraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDENAARDSESTEENWEG PETEGEM-AAN-DE-LEIE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.537867,
-                    50.957299
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "125;145",
                 "ref:De_Lijn": "201687",
                 "bus": "yes",
                 "name": "Nazareth Venecoweg",
@@ -82,6 +60,27 @@
                 "coordinates": [
                     3.558527,
                     50.955241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "208262",
+                "bus": "yes",
+                "name": "Kruishoutem Truweelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.537611,
+                    50.946833
                 ]
             }
         }

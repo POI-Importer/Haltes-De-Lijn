@@ -4,48 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "508657",
-                "bus": "yes",
-                "name": "Oostnieuwkerke Bourgondisch Kruis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTROZEBEKESTRAAT OOSTNIEUWKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.043328,
-                    50.943533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "95",
-                "ref:De_Lijn": "503657",
-                "bus": "yes",
-                "name": "Oostnieuwkerke Bourgondisch Kruis",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WESTROZEBEKESTRAAT OOSTNIEUWKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.044615,
-                    50.943305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "38",
                 "ref:De_Lijn": "505534",
                 "bus": "yes",
@@ -67,6 +25,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "508657",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Bourgondisch Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTROZEBEKESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.043328,
+                    50.943533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "38;95",
                 "ref:De_Lijn": "504943",
                 "bus": "yes",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     3.054183,
                     50.942099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "503657",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Bourgondisch Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTROZEBEKESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.044615,
+                    50.943305
                 ]
             }
         }

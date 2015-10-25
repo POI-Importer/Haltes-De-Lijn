@@ -4,50 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;45;48",
-                "ref:De_Lijn": "202920",
-                "bus": "yes",
-                "name": "Merelbeke Motsenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.737744,
-                    50.965013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;48",
-                "ref:De_Lijn": "202919",
-                "bus": "yes",
-                "name": "Merelbeke Veldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.735852,
-                    50.971242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "202923",
+                "ref:De_Lijn": "203923",
                 "bus": "yes",
                 "name": "Bottelare Koningin Astridlaan",
                 "public_transport": "platform",
@@ -59,8 +17,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.746222,
-                    50.960141
+                    3.745881,
+                    50.960139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;49",
+                "ref:De_Lijn": "202856",
+                "bus": "yes",
+                "name": "Bottelare Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-PLEIN BOTTELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.754495,
+                    50.963169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;45;48",
+                "ref:De_Lijn": "203920",
+                "bus": "yes",
+                "name": "Merelbeke Motsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.737531,
+                    50.964976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "202921",
+                "bus": "yes",
+                "name": "Bottelare Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNASTRAAT BOTTELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.749657,
+                    50.966263
                 ]
             }
         },
@@ -89,20 +110,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "203922",
+                "ref:De_Lijn": "200617",
                 "bus": "yes",
-                "name": "Bottelare Dorp",
+                "name": "Bottelare Adagio",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SINT-ANNASTRAAT BOTTELARE",
+                "created_by": "EDELARENDRIES BOTTELARE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.753529,
-                    50.963056
+                    3.742315,
+                    50.963851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;45;48",
+                "ref:De_Lijn": "202920",
+                "bus": "yes",
+                "name": "Merelbeke Motsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.737744,
+                    50.965013
                 ]
             }
         },
@@ -124,27 +166,6 @@
                 "coordinates": [
                     3.742374,
                     50.963744
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "43;49;440",
-                "ref:De_Lijn": "202856",
-                "bus": "yes",
-                "name": "Bottelare Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONING ALBERT I-PLEIN BOTTELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.754495,
-                    50.963169
                 ]
             }
         },
@@ -173,6 +194,69 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "203922",
+                "bus": "yes",
+                "name": "Bottelare Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNASTRAAT BOTTELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.753529,
+                    50.963056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "202923",
+                "bus": "yes",
+                "name": "Bottelare Koningin Astridlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN BOTTELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.746222,
+                    50.960141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;48",
+                "ref:De_Lijn": "202919",
+                "bus": "yes",
+                "name": "Merelbeke Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735852,
+                    50.971242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
                 "ref:De_Lijn": "202922",
                 "bus": "yes",
                 "name": "Bottelare Dorp",
@@ -187,90 +271,6 @@
                 "coordinates": [
                     3.753839,
                     50.96331
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "203923",
-                "bus": "yes",
-                "name": "Bottelare Koningin Astridlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KONINGIN ASTRIDLAAN BOTTELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.745881,
-                    50.960139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "200617",
-                "bus": "yes",
-                "name": "Bottelare Adagio",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EDELARENDRIES BOTTELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.742315,
-                    50.963851
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42",
-                "ref:De_Lijn": "202921",
-                "bus": "yes",
-                "name": "Bottelare Pontstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-ANNASTRAAT BOTTELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.749657,
-                    50.966263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;45;48",
-                "ref:De_Lijn": "203920",
-                "bus": "yes",
-                "name": "Merelbeke Motsenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HUNDELGEMSESTEENWEG MERELBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.737531,
-                    50.964976
                 ]
             }
         }

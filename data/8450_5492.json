@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "25;45;61;63;20a",
-                "ref:De_Lijn": "405254",
+                "ref:De_Lijn": "405255",
                 "bus": "yes",
                 "name": "Lanaken Tournebride",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "N78 NEERHAREN",
+                "created_by": "TOURNEBRIDE NEERHAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.678057,
-                    50.901289
+                    5.677954,
+                    50.901641
                 ]
             }
         },
@@ -46,21 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "400185",
+                "route_ref:De_Lijn": "25;45;61;63;20a",
+                "ref:De_Lijn": "405254",
                 "bus": "yes",
-                "name": "Lanaken Stelplaats",
+                "name": "Lanaken Tournebride",
                 "public_transport": "platform",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "TOURNEBRIDE NEERHAREN",
+                "created_by": "N78 NEERHAREN",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.677826,
-                    50.900132
+                    5.678057,
+                    50.901289
                 ]
             }
         },
@@ -88,11 +88,11 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "25;45;61;63;20a",
-                "ref:De_Lijn": "405255",
+                "ref:De_Lijn": "400185",
                 "bus": "yes",
-                "name": "Lanaken Tournebride",
+                "name": "Lanaken Stelplaats",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "TOURNEBRIDE NEERHAREN",
                 "operator": "De Lijn",
@@ -101,8 +101,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.677954,
-                    50.901641
+                    5.677826,
+                    50.900132
                 ]
             }
         }

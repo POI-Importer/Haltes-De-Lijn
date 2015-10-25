@@ -25,7 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "943",
                 "ref:De_Lijn": "104711",
                 "bus": "yes",
                 "name": "Berlaar Gestel Kerk",

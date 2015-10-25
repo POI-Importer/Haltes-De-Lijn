@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;55;59",
-                "ref:De_Lijn": "503042",
+                "ref:De_Lijn": "504206",
                 "bus": "yes",
-                "name": "Beerst Kasteelhoek",
+                "name": "Keiem Warande",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OOSTENDESTRAAT BEERST",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.875637,
-                    51.069356
+                    2.876039,
+                    51.07329
                 ]
             }
         },
@@ -47,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "53;55;59",
-                "ref:De_Lijn": "504206",
+                "ref:De_Lijn": "503042",
                 "bus": "yes",
-                "name": "Keiem Warande",
+                "name": "Beerst Kasteelhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "created_by": "OOSTENDESTRAAT BEERST",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.876039,
-                    51.07329
+                    2.875637,
+                    51.069356
                 ]
             }
         }

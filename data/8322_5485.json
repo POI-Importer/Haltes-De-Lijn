@@ -4,8 +4,29 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "20;24;30",
+                "ref:De_Lijn": "504626",
+                "bus": "yes",
+                "name": "Woumen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOUMENWEG WOUMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.869695,
+                    50.997821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "20;30",
-                "ref:De_Lijn": "504624",
+                "ref:De_Lijn": "509624",
                 "bus": "yes",
                 "name": "Woumen Serpenthoek",
                 "public_transport": "platform",
@@ -17,29 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.873337,
-                    50.996195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "24",
-                "ref:De_Lijn": "509629",
-                "bus": "yes",
-                "name": "Woumen Wegwijzer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "IEPERSTEENWEG WOUMEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.873834,
-                    50.98641
+                    2.873302,
+                    50.996383
                 ]
             }
         },
@@ -88,21 +88,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "20;24;30",
-                "ref:De_Lijn": "504626",
+                "route_ref:De_Lijn": "20;30",
+                "ref:De_Lijn": "504624",
                 "bus": "yes",
-                "name": "Woumen Station",
+                "name": "Woumen Serpenthoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WOUMENWEG WOUMEN",
+                "created_by": "SINT-PIETERSSTRAAT WOUMEN",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.869695,
-                    50.997821
+                    2.873337,
+                    50.996195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "509629",
+                "bus": "yes",
+                "name": "Woumen Wegwijzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTEENWEG WOUMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.873834,
+                    50.98641
                 ]
             }
         },
@@ -124,27 +145,6 @@
                 "coordinates": [
                     2.870274,
                     50.992182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "20;30",
-                "ref:De_Lijn": "509624",
-                "bus": "yes",
-                "name": "Woumen Serpenthoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-PIETERSSTRAAT WOUMEN",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.873302,
-                    50.996383
                 ]
             }
         }

@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "204616",
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "101197",
                 "bus": "yes",
-                "name": "Temse Krimperslaan",
+                "name": "Weert Polder",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "FRANK VAN DYCKELAAN TEMSE",
+                "created_by": "DIJKSTRAAT WEERT",
                 "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.201471,
-                    51.118715
+                    4.208721,
+                    51.116145
                 ]
             }
         },
@@ -46,63 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
-                "ref:De_Lijn": "204615",
-                "bus": "yes",
-                "name": "Temse Lasserslaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TEKENAARSLAAN TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.203728,
-                    51.122853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "97;98;99;280;99S",
-                "ref:De_Lijn": "204658",
-                "bus": "yes",
-                "name": "Temse Benoitstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "CAUWERBURG TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.197774,
-                    51.122107
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "101198",
+                "ref:De_Lijn": "101193",
                 "bus": "yes",
-                "name": "Weert Dreef",
+                "name": "Weert Sas",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DIJKSTRAAT WEERT",
+                "created_by": "SAS BORNEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.205158,
-                    51.114126
+                    4.214702,
+                    51.117123
                 ]
             }
         },
@@ -130,28 +88,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "97;98;99;280;99S",
-                "ref:De_Lijn": "205658",
+                "ref:De_Lijn": "204615",
                 "bus": "yes",
-                "name": "Temse Benoitstraat",
+                "name": "Temse Lasserslaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "CAUWERBURG TEMSE",
+                "created_by": "TEKENAARSLAAN TEMSE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.197631,
-                    51.122197
+                    4.203728,
+                    51.122853
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "280",
                 "ref:De_Lijn": "204614",
                 "bus": "yes",
                 "name": "Temse De Zaat",
@@ -193,21 +149,41 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "101193",
+                "route_ref:De_Lijn": "97;98",
+                "ref:De_Lijn": "204658",
                 "bus": "yes",
-                "name": "Weert Sas",
+                "name": "Temse Benoitstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SAS BORNEM",
+                "created_by": "CAUWERBURG TEMSE",
                 "operator": "De Lijn",
-                "network": "DLAn"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.214702,
-                    51.117123
+                    4.197774,
+                    51.122107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204616",
+                "bus": "yes",
+                "name": "Temse Krimperslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANK VAN DYCKELAAN TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.201471,
+                    51.118715
                 ]
             }
         },
@@ -236,9 +212,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "101197",
+                "ref:De_Lijn": "101198",
                 "bus": "yes",
-                "name": "Weert Polder",
+                "name": "Weert Dreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "DIJKSTRAAT WEERT",
@@ -248,8 +224,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.208721,
-                    51.116145
+                    4.205158,
+                    51.114126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "97;98;99;99S",
+                "ref:De_Lijn": "205658",
+                "bus": "yes",
+                "name": "Temse Benoitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CAUWERBURG TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.197631,
+                    51.122197
                 ]
             }
         }

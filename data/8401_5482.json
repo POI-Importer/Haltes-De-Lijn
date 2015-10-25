@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "103723",
+                "ref:De_Lijn": "109764",
                 "bus": "yes",
-                "name": "Putte Peulis Molenveld",
+                "name": "Rijmenam Weyneshof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HET MOLENVELD PUTTE (BIJ MECHELEN)",
+                "created_by": "WEYNESBAAN RIJMENAM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.595571,
-                    51.03702
+                    4.606632,
+                    51.030958
                 ]
             }
         },
@@ -40,27 +40,6 @@
                 "coordinates": [
                     4.606775,
                     51.031075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "109761",
-                "bus": "yes",
-                "name": "Putte Teintstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "WEYNESBAAN PUTTE (BIJ MECHELEN)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.59601,
-                    51.033514
                 ]
             }
         },
@@ -89,20 +68,41 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "931",
-                "ref:De_Lijn": "109764",
+                "ref:De_Lijn": "109761",
                 "bus": "yes",
-                "name": "Rijmenam Weyneshof",
+                "name": "Putte Teintstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WEYNESBAAN RIJMENAM",
+                "created_by": "WEYNESBAAN PUTTE (BIJ MECHELEN)",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.606632,
-                    51.030958
+                    4.59601,
+                    51.033514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "103723",
+                "bus": "yes",
+                "name": "Putte Peulis Molenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HET MOLENVELD PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.595571,
+                    51.03702
                 ]
             }
         }

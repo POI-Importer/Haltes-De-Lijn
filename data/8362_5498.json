@@ -4,7 +4,47 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207936",
+                "name": "Nederbrakel Valkenberg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "VALKENSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.754057,
+                    50.815062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "208102",
+                "bus": "yes",
+                "name": "Nederbrakel Kleibergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIBERGSTRAAT ELST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738319,
+                    50.808775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "208491",
                 "bus": "yes",
                 "name": "Elst Dompels",
@@ -25,7 +65,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "410",
                 "ref:De_Lijn": "206680",
                 "bus": "yes",
                 "name": "Nederbrakel Twaalfbunderstraat",
@@ -40,48 +79,6 @@
                 "coordinates": [
                     3.751348,
                     50.817124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "410",
-                "ref:De_Lijn": "207936",
-                "bus": "yes",
-                "name": "Nederbrakel Valkenberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VALKENSTRAAT NEDERBRAKEL",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.754057,
-                    50.815062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "16;17;410",
-                "ref:De_Lijn": "208102",
-                "bus": "yes",
-                "name": "Nederbrakel Kleibergstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEIBERGSTRAAT ELST",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.738319,
-                    50.808775
                 ]
             }
         },

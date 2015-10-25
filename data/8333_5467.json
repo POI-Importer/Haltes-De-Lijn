@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35;36",
-                "ref:De_Lijn": "501122",
-                "bus": "yes",
-                "name": "Houtave Oosternieuwweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.111514,
-                    51.242861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35;36",
                 "ref:De_Lijn": "506123",
                 "bus": "yes",
                 "name": "Houtave Pompstation",
@@ -47,9 +26,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35;36",
-                "ref:De_Lijn": "506122",
+                "ref:De_Lijn": "506119",
                 "bus": "yes",
-                "name": "Houtave Oosternieuwweg",
+                "name": "Houtave Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OOSTENDSE STEENWEG HOUTAVE",
@@ -59,8 +38,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.111462,
-                    51.242671
+                    3.107663,
+                    51.240698
                 ]
             }
         },
@@ -89,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35;36",
-                "ref:De_Lijn": "501119",
+                "ref:De_Lijn": "506122",
                 "bus": "yes",
-                "name": "Houtave Dorp",
+                "name": "Houtave Oosternieuwweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "OOSTENDSE STEENWEG HOUTAVE",
@@ -101,8 +80,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.106557,
-                    51.240309
+                    3.111462,
+                    51.242671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;36",
+                "ref:De_Lijn": "501122",
+                "bus": "yes",
+                "name": "Houtave Oosternieuwweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.111514,
+                    51.242861
                 ]
             }
         },
@@ -131,6 +131,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "35;36",
+                "ref:De_Lijn": "501119",
+                "bus": "yes",
+                "name": "Houtave Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.106557,
+                    51.240309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;36",
                 "ref:De_Lijn": "501123",
                 "bus": "yes",
                 "name": "Houtave Pompstation",
@@ -145,27 +166,6 @@
                 "coordinates": [
                     3.118694,
                     51.245894
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "35;36",
-                "ref:De_Lijn": "506119",
-                "bus": "yes",
-                "name": "Houtave Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.107663,
-                    51.240698
                 ]
             }
         }

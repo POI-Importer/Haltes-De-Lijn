@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "83",
-                "ref:De_Lijn": "209251",
+                "ref:De_Lijn": "200754",
                 "bus": "yes",
-                "name": "Ooike Loweg",
+                "name": "Ooike Ooikeplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DEINZESTRAAT OOIKE",
+                "created_by": "OOIKEPLEIN OOIKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.555998,
-                    50.875286
+                    3.551093,
+                    50.869732
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
                 "ref:De_Lijn": "200769",
                 "bus": "yes",
                 "name": "Moregem Keistraat",
@@ -46,21 +44,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "450",
-                "ref:De_Lijn": "200754",
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209251",
                 "bus": "yes",
-                "name": "Ooike Ooikeplein",
+                "name": "Ooike Loweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "OOIKEPLEIN OOIKE",
+                "created_by": "DEINZESTRAAT OOIKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.551093,
-                    50.869732
+                    3.555998,
+                    50.875286
                 ]
             }
         }

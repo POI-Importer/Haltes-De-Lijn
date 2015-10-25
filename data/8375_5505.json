@@ -5,9 +5,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "71",
-                "ref:De_Lijn": "209589",
+                "ref:De_Lijn": "209588",
                 "bus": "yes",
-                "name": "Herne Overweg",
+                "name": "Herne Hernebos",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "EDINGSESTEENWEG HERNE",
@@ -17,8 +17,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.028213,
-                    50.710583
+                    4.027928,
+                    50.716677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "307528",
+                "bus": "yes",
+                "name": "Herne Hekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.037927,
+                    50.722495
                 ]
             }
         },
@@ -47,9 +68,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "71",
-                "ref:De_Lijn": "209588",
+                "ref:De_Lijn": "209589",
                 "bus": "yes",
-                "name": "Herne Hernebos",
+                "name": "Herne Overweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "EDINGSESTEENWEG HERNE",
@@ -59,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.027928,
-                    50.716677
+                    4.028213,
+                    50.710583
                 ]
             }
         },
@@ -82,27 +103,6 @@
                 "coordinates": [
                     4.028014,
                     50.710681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "160;732",
-                "ref:De_Lijn": "307528",
-                "bus": "yes",
-                "name": "Herne Hekstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LINDESTRAAT HERNE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.037927,
-                    50.722495
                 ]
             }
         }

@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "7;8;9;395;558;616",
+                "ref:De_Lijn": "302874",
+                "bus": "yes",
+                "name": "Heverlee Egenhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSBERGSESTEENWEG HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.658936,
+                    50.861374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "337;537;598",
                 "ref:De_Lijn": "302917",
                 "bus": "yes",
@@ -26,20 +47,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "337;537;598",
-                "ref:De_Lijn": "302916",
+                "ref:De_Lijn": "307019",
                 "bus": "yes",
-                "name": "Heverlee Raalbeeklaan",
+                "name": "Oud-Heverlee Wit Kruis",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAVERSEBAAN HEVERLEE",
+                "created_by": "WAVERSEBAAN OUD-HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.676951,
-                    50.853327
+                    4.672271,
+                    50.84782
                 ]
             }
         },
@@ -68,41 +89,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "337;537;598",
-                "ref:De_Lijn": "307019",
+                "ref:De_Lijn": "302916",
                 "bus": "yes",
-                "name": "Oud-Heverlee Wit Kruis",
+                "name": "Heverlee Raalbeeklaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WAVERSEBAAN OUD-HEVERLEE",
+                "created_by": "WAVERSEBAAN HEVERLEE",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.672271,
-                    50.84782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "7;8;9;395;558;616",
-                "ref:De_Lijn": "302874",
-                "bus": "yes",
-                "name": "Heverlee Egenhoven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "SINT-JANSBERGSESTEENWEG HEVERLEE",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.658936,
-                    50.861374
+                    4.676951,
+                    50.853327
                 ]
             }
         }

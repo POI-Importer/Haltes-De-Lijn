@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "370;552",
-                "ref:De_Lijn": "301263",
+                "ref:De_Lijn": "301264",
                 "bus": "yes",
                 "name": "Kaggevinne Leuvensestraat 216",
                 "public_transport": "platform",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.029554,
-                    50.965678
+                    5.029183,
+                    50.965617
                 ]
             }
         },
@@ -47,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "370;552",
-                "ref:De_Lijn": "301264",
+                "ref:De_Lijn": "301263",
                 "bus": "yes",
                 "name": "Kaggevinne Leuvensestraat 216",
                 "public_transport": "platform",
@@ -59,8 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.029183,
-                    50.965617
+                    5.029554,
+                    50.965678
                 ]
             }
         },

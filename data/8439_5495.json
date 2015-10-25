@@ -5,6 +5,48 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "104;710",
+                "ref:De_Lijn": "404898",
+                "bus": "yes",
+                "name": "Vliermaal Leopold III-straat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLD III-STRAAT VLIERMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.434051,
+                    50.847928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "104;710",
+                "ref:De_Lijn": "404953",
+                "bus": "yes",
+                "name": "Vliermaalroot Weierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEWEIERENSTRAAT VLIERMAALROOT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.427657,
+                    50.855349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "104;710",
                 "ref:De_Lijn": "404952",
                 "bus": "yes",
                 "name": "Vliermaalroot Weierstraat",
@@ -40,48 +82,6 @@
                 "coordinates": [
                     5.434343,
                     50.847664
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "104;710",
-                "ref:De_Lijn": "404953",
-                "bus": "yes",
-                "name": "Vliermaalroot Weierstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OUDEWEIERENSTRAAT VLIERMAALROOT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.427657,
-                    50.855349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "104;710",
-                "ref:De_Lijn": "404898",
-                "bus": "yes",
-                "name": "Vliermaal Leopold III-straat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEOPOLD III-STRAAT VLIERMAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.434051,
-                    50.847928
                 ]
             }
         }

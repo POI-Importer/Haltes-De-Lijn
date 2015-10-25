@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209680",
                 "bus": "yes",
                 "name": "Woubrechtegem Hellestraat",

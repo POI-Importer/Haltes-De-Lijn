@@ -4,6 +4,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "405236",
+                "bus": "yes",
+                "name": "Stal Neerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.252156,
+                    51.070941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "170",
                 "ref:De_Lijn": "400561",
                 "bus": "yes",
@@ -19,108 +39,6 @@
                 "coordinates": [
                     5.257771,
                     51.07658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "407790",
-                "bus": "yes",
-                "name": "Stal Rusthuis Prinsenhof",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HEERBAAN STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.265178,
-                    51.079553
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "403638",
-                "bus": "yes",
-                "name": "Stal Kampweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAMPWEG STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.264268,
-                    51.075308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "403660",
-                "bus": "yes",
-                "name": "Stal Schaapsweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MATHIAS GEYSENSTRAAT STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.271911,
-                    51.079412
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "403782",
-                "bus": "yes",
-                "name": "Stal Paardendijkstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PAARDENDIJK STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.262002,
-                    51.080656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "405236",
-                "bus": "yes",
-                "name": "Stal Neerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NEERSTRAAT STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.252156,
-                    51.070941
                 ]
             }
         },
@@ -149,48 +67,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "407791",
+                "ref:De_Lijn": "403821",
                 "bus": "yes",
-                "name": "Stal Rusthuis Prinsenhof",
+                "name": "Stal Pastoor Raeymakersstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEERBAAN STAL",
+                "created_by": "STALSE SCHANSSTRAAT STAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.265578,
-                    51.079604
+                    5.253801,
+                    51.073391
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "403639",
-                "bus": "yes",
-                "name": "Stal Kampweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KAMPWEG STAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.264184,
-                    51.075381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "403780",
+                "ref:De_Lijn": "403782",
                 "bus": "yes",
                 "name": "Stal Paardendijkstraat",
                 "public_transport": "platform",
@@ -202,8 +99,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.262103,
-                    51.080727
+                    5.262002,
+                    51.080656
                 ]
             }
         },
@@ -252,20 +149,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "403721",
+                "ref:De_Lijn": "407791",
                 "bus": "yes",
-                "name": "Stal Landerhuys",
+                "name": "Stal Rusthuis Prinsenhof",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHAAPSWEG STAL",
+                "created_by": "HEERBAAN STAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.268126,
-                    51.08149
+                    5.265578,
+                    51.079604
                 ]
             }
         },
@@ -273,20 +170,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "719",
-                "ref:De_Lijn": "403821",
+                "ref:De_Lijn": "403638",
                 "bus": "yes",
-                "name": "Stal Pastoor Raeymakersstraat",
+                "name": "Stal Kampweg",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STALSE SCHANSSTRAAT STAL",
+                "created_by": "KAMPWEG STAL",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.253801,
-                    51.073391
+                    5.264268,
+                    51.075308
                 ]
             }
         },
@@ -314,6 +211,26 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "403660",
+                "bus": "yes",
+                "name": "Stal Schaapsweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MATHIAS GEYSENSTRAAT STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.271911,
+                    51.079412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "405230",
                 "bus": "yes",
                 "name": "Stal Neerstraat",
@@ -328,6 +245,89 @@
                 "coordinates": [
                     5.252167,
                     51.070734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "403721",
+                "bus": "yes",
+                "name": "Stal Landerhuys",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAAPSWEG STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.268126,
+                    51.08149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403780",
+                "bus": "yes",
+                "name": "Stal Paardendijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDENDIJK STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.262103,
+                    51.080727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "407790",
+                "bus": "yes",
+                "name": "Stal Rusthuis Prinsenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.265178,
+                    51.079553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "403639",
+                "bus": "yes",
+                "name": "Stal Kampweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMPWEG STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.264184,
+                    51.075381
                 ]
             }
         }

@@ -5,20 +5,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "507605",
+                "ref:De_Lijn": "507607",
                 "bus": "yes",
-                "name": "Beernem Nijverheidstraat",
+                "name": "Beernem Sint-Amandus",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WINGENE STEENWEG BEERNEM",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.326347,
-                    51.124031
+                    3.31991,
+                    51.115515
                 ]
             }
         },
@@ -26,20 +26,20 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "26;28",
-                "ref:De_Lijn": "502605",
+                "ref:De_Lijn": "502606",
                 "bus": "yes",
-                "name": "Beernem Nijverheidstraat",
+                "name": "Beernem Carpool",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "WINGENE STEENWEG BEERNEM",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.326147,
-                    51.124048
+                    3.322096,
+                    51.118699
                 ]
             }
         },
@@ -67,21 +67,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "28",
-                "ref:De_Lijn": "507607",
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502605",
                 "bus": "yes",
-                "name": "Beernem Sint-Amandus",
+                "name": "Beernem Nijverheidstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "REIGERLOSTRAAT BEERNEM",
+                "created_by": "WINGENE STEENWEG BEERNEM",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.31991,
-                    51.115515
+                    3.326147,
+                    51.124048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507605",
+                "bus": "yes",
+                "name": "Beernem Nijverheidstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENE STEENWEG BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326347,
+                    51.124031
                 ]
             }
         },
@@ -103,27 +124,6 @@
                 "coordinates": [
                     3.322227,
                     51.118583
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "26;28",
-                "ref:De_Lijn": "502606",
-                "bus": "yes",
-                "name": "Beernem Carpool",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "REIGERLOSTRAAT BEERNEM",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.322096,
-                    51.118699
                 ]
             }
         }

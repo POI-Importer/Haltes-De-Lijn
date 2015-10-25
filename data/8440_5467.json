@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409450",
-                "bus": "yes",
-                "name": "Neerpelt Pater Pellenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "PATER PELLENSSTRAAT NEERPELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.463883,
-                    51.234526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "743",
                 "ref:De_Lijn": "404998",
                 "bus": "yes",
                 "name": "Neerpelt Bienderstraat",
@@ -68,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "743",
-                "ref:De_Lijn": "409451",
+                "ref:De_Lijn": "409450",
                 "bus": "yes",
                 "name": "Neerpelt Pater Pellenstraat",
                 "public_transport": "platform",
@@ -80,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.463878,
-                    51.23493
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "84;743",
-                "ref:De_Lijn": "406975",
-                "bus": "yes",
-                "name": "Neerpelt Wateringstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HAMONTERWEG NEERPELT",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.450661,
-                    51.235519
+                    5.463883,
+                    51.234526
                 ]
             }
         },
@@ -131,7 +89,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "84;743",
-                "ref:De_Lijn": "406974",
+                "ref:De_Lijn": "406975",
                 "bus": "yes",
                 "name": "Neerpelt Wateringstraat",
                 "public_transport": "platform",
@@ -143,8 +101,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.451916,
-                    51.235894
+                    5.450661,
+                    51.235519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409451",
+                "bus": "yes",
+                "name": "Neerpelt Pater Pellenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PATER PELLENSSTRAAT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.463878,
+                    51.23493
                 ]
             }
         },
@@ -187,6 +166,27 @@
                 "coordinates": [
                     5.462605,
                     51.239868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;743",
+                "ref:De_Lijn": "406974",
+                "bus": "yes",
+                "name": "Neerpelt Wateringstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMONTERWEG NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.451916,
+                    51.235894
                 ]
             }
         }

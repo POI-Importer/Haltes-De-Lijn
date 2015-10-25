@@ -4,28 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;92;385;390",
-                "ref:De_Lijn": "207445",
+                "ref:De_Lijn": "209681",
                 "bus": "yes",
-                "name": "Woubrechtegem Dorp",
+                "name": "Woubrechtegem Kasteelstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HEILIG-HARTPLEIN WOUBRECHTEGEM",
+                "created_by": "KASTEELSTRAAT WOUBRECHTEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.915325,
-                    50.872979
+                    3.912179,
+                    50.872149
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
                 "ref:De_Lijn": "209679",
                 "bus": "yes",
                 "name": "Woubrechtegem Holbeekstraat",
@@ -46,21 +44,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "390",
-                "ref:De_Lijn": "209681",
+                "route_ref:De_Lijn": "81;92",
+                "ref:De_Lijn": "207445",
                 "bus": "yes",
-                "name": "Woubrechtegem Kasteelstraat",
+                "name": "Woubrechtegem Dorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "KASTEELSTRAAT WOUBRECHTEGEM",
+                "created_by": "HEILIG-HARTPLEIN WOUBRECHTEGEM",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.912179,
-                    50.872149
+                    3.915325,
+                    50.872979
                 ]
             }
         }

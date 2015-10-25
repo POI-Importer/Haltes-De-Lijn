@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;280",
+                "route_ref:De_Lijn": "81",
                 "ref:De_Lijn": "204300",
                 "bus": "yes",
                 "name": "Beveren Kruisstraat",
@@ -25,7 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "81;280",
+                "route_ref:De_Lijn": "81",
                 "ref:De_Lijn": "205300",
                 "bus": "yes",
                 "name": "Beveren Kruisstraat",

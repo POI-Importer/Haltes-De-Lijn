@@ -4,50 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;74;76;175",
-                "ref:De_Lijn": "202624",
-                "bus": "yes",
-                "name": "Zaffelare Oosteindeken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "OOSTEINDE ZAFFELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.868368,
-                    51.134862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "74;76",
-                "ref:De_Lijn": "203627",
-                "bus": "yes",
-                "name": "Zaffelare Persijzerstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LEEMSTRAAT ZAFFELARE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.882015,
-                    51.126379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "74;76;175",
-                "ref:De_Lijn": "202625",
+                "ref:De_Lijn": "203625",
                 "bus": "yes",
                 "name": "Zaffelare Bosdam",
                 "public_transport": "platform",
@@ -59,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.875095,
-                    51.135088
+                    3.87527,
+                    51.134747
                 ]
             }
         },
@@ -109,8 +67,8 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;76;175",
-                "ref:De_Lijn": "202627",
+                "route_ref:De_Lijn": "74;76",
+                "ref:De_Lijn": "203627",
                 "bus": "yes",
                 "name": "Zaffelare Persijzerstraat",
                 "public_transport": "platform",
@@ -122,15 +80,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.881969,
-                    51.126667
+                    3.882015,
+                    51.126379
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "74;76;175",
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "202624",
+                "bus": "yes",
+                "name": "Zaffelare Oosteindeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTEINDE ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.868368,
+                    51.134862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;76",
                 "ref:De_Lijn": "202626",
                 "bus": "yes",
                 "name": "Zaffelare Leemstraat",
@@ -152,7 +131,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "74;76",
-                "ref:De_Lijn": "203625",
+                "ref:De_Lijn": "202625",
                 "bus": "yes",
                 "name": "Zaffelare Bosdam",
                 "public_transport": "platform",
@@ -164,8 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.87527,
-                    51.134747
+                    3.875095,
+                    51.135088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;76",
+                "ref:De_Lijn": "202627",
+                "bus": "yes",
+                "name": "Zaffelare Persijzerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.881969,
+                    51.126667
                 ]
             }
         }

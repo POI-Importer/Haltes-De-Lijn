@@ -4,28 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95;280",
-                "ref:De_Lijn": "205673",
-                "bus": "yes",
-                "name": "Temse Beeldstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DOORNSTRAAT TEMSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.202016,
-                    51.154203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "95;280",
+                "route_ref:De_Lijn": "95",
                 "ref:De_Lijn": "204675",
                 "bus": "yes",
                 "name": "Temse Velle Kerk",
@@ -67,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "95;280",
+                "route_ref:De_Lijn": "95",
                 "ref:De_Lijn": "204673",
                 "bus": "yes",
                 "name": "Temse Beeldstraat",
@@ -82,6 +61,27 @@
                 "coordinates": [
                     4.202058,
                     51.154436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "205673",
+                "bus": "yes",
+                "name": "Temse Beeldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.202016,
+                    51.154203
                 ]
             }
         }

@@ -4,49 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;49;270",
-                "ref:De_Lijn": "204080",
-                "bus": "yes",
-                "name": "Eksaarde Keerken",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BAUTSCHOOT EKSAARDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.956416,
-                    51.140155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;270",
-                "ref:De_Lijn": "205201",
-                "bus": "yes",
-                "name": "Eksaarde Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "EKSAARDE-DORP EKSAARDE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.96596,
-                    51.148592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "27;49;270",
+                "route_ref:De_Lijn": "27;49",
                 "ref:De_Lijn": "205080",
                 "bus": "yes",
                 "name": "Eksaarde Keerken",
@@ -67,10 +25,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
-                "ref:De_Lijn": "205202",
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "205201",
                 "bus": "yes",
-                "name": "Eksaarde Spletterenstraat",
+                "name": "Eksaarde Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "EKSAARDE-DORP EKSAARDE",
@@ -80,15 +38,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.959296,
-                    51.147383
+                    3.96596,
+                    51.148592
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "204202",
                 "bus": "yes",
                 "name": "Eksaarde Spletterenstraat",
@@ -109,7 +67,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "27;270",
+                "route_ref:De_Lijn": "27;49",
+                "ref:De_Lijn": "204080",
+                "bus": "yes",
+                "name": "Eksaarde Keerken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAUTSCHOOT EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.956416,
+                    51.140155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
                 "ref:De_Lijn": "204201",
                 "bus": "yes",
                 "name": "Eksaarde Kerk",
@@ -124,6 +103,27 @@
                 "coordinates": [
                     3.966018,
                     51.148484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "205202",
+                "bus": "yes",
+                "name": "Eksaarde Spletterenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKSAARDE-DORP EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.959296,
+                    51.147383
                 ]
             }
         }

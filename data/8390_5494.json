@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "270;271;272;620",
-                "ref:De_Lijn": "300993",
+                "ref:De_Lijn": "330003",
                 "bus": "yes",
-                "name": "Lehon",
+                "name": "Liedts (tram)",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "KONINKLIJKE SINT-MARIASTRAAT SCHAARBEEK",
+                "created_by": "PALEIZENSTRAAT SCHAARBEEK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.37202,
-                    50.864584
+                    4.366721,
+                    50.863038
                 ]
             }
         },
@@ -46,21 +46,105 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "330003",
+                "ref:De_Lijn": "300865",
                 "bus": "yes",
-                "name": "Liedts (tram)",
+                "name": "Reders",
                 "public_transport": "platform",
                 "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "PALEIZENSTRAAT SCHAARBEEK",
+                "created_by": "REDERSPLEIN BRUSSEL-STAD",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.366721,
-                    50.863038
+                    4.352914,
+                    50.864601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300866",
+                "bus": "yes",
+                "name": "Reders",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "REDERSPLEIN BRUSSEL-STAD",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352801,
+                    50.864511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;271;272;620",
+                "ref:De_Lijn": "300993",
+                "bus": "yes",
+                "name": "Lehon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINKLIJKE SINT-MARIASTRAAT SCHAARBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37202,
+                    50.864584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300860",
+                "bus": "yes",
+                "name": "Laken Over De Bruggen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN BRUSSEL-STAD",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358608,
+                    50.87449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330002",
+                "bus": "yes",
+                "name": "Thomas (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VOORUITGANGSTRAAT SCHAARBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.363624,
+                    50.866984
                 ]
             }
         },
@@ -109,69 +193,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "300866",
-                "bus": "yes",
-                "name": "Reders",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "REDERSPLEIN BRUSSEL-STAD",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.352801,
-                    50.864511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "300865",
-                "bus": "yes",
-                "name": "Reders",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "REDERSPLEIN BRUSSEL-STAD",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.352914,
-                    50.864601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "330002",
-                "bus": "yes",
-                "name": "Thomas (tram)",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "VOORUITGANGSTRAAT SCHAARBEEK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.363624,
-                    50.866984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "270;271;272;620",
                 "ref:De_Lijn": "300994",
                 "bus": "yes",
@@ -187,27 +208,6 @@
                 "coordinates": [
                     4.372034,
                     50.864926
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "300860",
-                "bus": "yes",
-                "name": "Laken Over De Bruggen",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "KONINGINNELAAN BRUSSEL-STAD",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.358608,
-                    50.87449
                 ]
             }
         }

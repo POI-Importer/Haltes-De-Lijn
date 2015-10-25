@@ -4,50 +4,68 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "780",
-                "ref:De_Lijn": "109937",
+                "ref:De_Lijn": "109938",
                 "bus": "yes",
-                "name": "Schoten Papenaardekensstraat",
+                "name": "Wijnegem Merksemsebaan",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "BRAAMSTRAAT SCHOTEN",
+                "created_by": "DEURNESTEENWEG WIJNEGEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.493183,
-                    51.242008
+                    4.488569,
+                    51.235316
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "780",
-                "ref:De_Lijn": "109946",
+                "ref:De_Lijn": "106054",
                 "bus": "yes",
-                "name": "Schoten Papenaardekensstraat",
+                "name": "Wijnegem Gyproc",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BRAAMSTRAAT SCHOTEN",
+                "created_by": "MERKSEMSEBAAN WIJNEGEM",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.495059,
-                    51.242203
+                    4.496384,
+                    51.23467
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "413;780",
-                "ref:De_Lijn": "106052",
+                "ref:De_Lijn": "109936",
+                "bus": "yes",
+                "name": "Schoten Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICTOR ADRIAENSSENSSTRAAT SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.497524,
+                    51.247908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "106053",
                 "bus": "yes",
                 "name": "Wijnegem Hoogmolen Kruispunt",
                 "public_transport": "platform",
@@ -59,8 +77,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.492049,
-                    51.235915
+                    4.49119,
+                    51.235871
                 ]
             }
         },
@@ -88,8 +106,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "413;780",
-                "ref:De_Lijn": "106053",
+                "ref:De_Lijn": "106052",
                 "bus": "yes",
                 "name": "Wijnegem Hoogmolen Kruispunt",
                 "public_transport": "platform",
@@ -101,73 +118,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.49119,
-                    51.235871
+                    4.492049,
+                    51.235915
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "780",
-                "ref:De_Lijn": "109936",
+                "ref:De_Lijn": "109946",
                 "bus": "yes",
-                "name": "Schoten Rusthuis",
+                "name": "Schoten Papenaardekensstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "VICTOR ADRIAENSSENSSTRAAT SCHOTEN",
+                "created_by": "BRAAMSTRAAT SCHOTEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.497524,
-                    51.247908
+                    4.495059,
+                    51.242203
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "109938",
+                "ref:De_Lijn": "109937",
                 "bus": "yes",
-                "name": "Wijnegem Merksemsebaan",
+                "name": "Schoten Papenaardekensstraat",
                 "public_transport": "platform",
-                "railway": "tram_stop",
-                "odbl": "new",
                 "highway": "bus_stop",
-                "tram": "yes",
-                "created_by": "DEURNESTEENWEG WIJNEGEM",
+                "created_by": "BRAAMSTRAAT SCHOTEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.488569,
-                    51.235316
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "413;780",
-                "ref:De_Lijn": "106054",
-                "bus": "yes",
-                "name": "Wijnegem Gyproc",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MERKSEMSEBAAN WIJNEGEM",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.496384,
-                    51.23467
+                    4.493183,
+                    51.242008
                 ]
             }
         }

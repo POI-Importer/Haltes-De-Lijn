@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "32;47;56",
-                "ref:De_Lijn": "508335",
-                "bus": "yes",
-                "name": "Kortemark Cafe Du Commerce",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "LICHTERVELDESTRAAT KORTEMARK",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.054463,
-                    51.028655
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "40",
                 "ref:De_Lijn": "503339",
                 "bus": "yes",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     3.055637,
                     51.040184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508335",
+                "bus": "yes",
+                "name": "Kortemark Cafe Du Commerce",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTERVELDESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.054463,
+                    51.028655
                 ]
             }
         }

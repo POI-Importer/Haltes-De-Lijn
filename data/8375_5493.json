@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "31;32;33;330",
+                "route_ref:De_Lijn": "31;32;33",
                 "ref:De_Lijn": "207094",
                 "bus": "yes",
                 "name": "Denderhoutem Iddergemsesteenweg",
@@ -26,27 +26,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "31;32;33",
-                "ref:De_Lijn": "206095",
-                "bus": "yes",
-                "name": "Iddergem Rijksweg N45",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOOGSTRAAT IDDERGEM",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.033246,
-                    50.87706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;32;33;330",
                 "ref:De_Lijn": "206094",
                 "bus": "yes",
                 "name": "Denderhoutem Iddergemsesteenweg",
@@ -61,6 +40,27 @@
                 "coordinates": [
                     4.028048,
                     50.876776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;33",
+                "ref:De_Lijn": "206095",
+                "bus": "yes",
+                "name": "Iddergem Rijksweg N45",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT IDDERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.033246,
+                    50.87706
                 ]
             }
         },

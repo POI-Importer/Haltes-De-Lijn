@@ -4,7 +4,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;514;515;944",
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "108283",
+                "bus": "yes",
+                "name": "Houtvenne Arbor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARKENSMARKT HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.812386,
+                    51.058659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
                 "ref:De_Lijn": "108282",
                 "bus": "yes",
                 "name": "Houtvenne Arbor",
@@ -25,7 +46,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;514;515;944",
+                "route_ref:De_Lijn": "944",
                 "ref:De_Lijn": "108286",
                 "bus": "yes",
                 "name": "Westmeerbeek Station",
@@ -46,7 +67,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "221;514;515;944",
+                "route_ref:De_Lijn": "944",
                 "ref:De_Lijn": "108284",
                 "bus": "yes",
                 "name": "Westmeerbeek Station",
@@ -61,27 +82,6 @@
                 "coordinates": [
                     4.825414,
                     51.059212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "221;514;515;944",
-                "ref:De_Lijn": "108283",
-                "bus": "yes",
-                "name": "Houtvenne Arbor",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VARKENSMARKT HOUTVENNE",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.812386,
-                    51.058659
                 ]
             }
         }

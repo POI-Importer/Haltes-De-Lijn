@@ -4,111 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "1;31;33;35;G6",
-                "ref:De_Lijn": "402431",
-                "bus": "yes",
-                "name": "Zwartberg Zaveldriesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.495432,
-                    51.006168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;33;44;G8",
-                "ref:De_Lijn": "402413",
-                "bus": "yes",
-                "name": "Zwartberg Cockerillplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N76 ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.512113,
-                    51.010026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;31;G6",
-                "ref:De_Lijn": "402416",
-                "bus": "yes",
-                "name": "Zwartberg Koning Albertstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GOUVERNEUR ALEX. GALOPINSTRAAT ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.502394,
-                    51.005912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;33;44;G8",
-                "ref:De_Lijn": "402412",
-                "bus": "yes",
-                "name": "Zwartberg Cockerillplaats",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "N76 ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.512839,
-                    51.010576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;31;33;G6",
-                "ref:De_Lijn": "402430",
-                "bus": "yes",
-                "name": "Zwartberg Zaveldriesstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.495651,
-                    51.005779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "8;33;44;G8",
                 "ref:De_Lijn": "402411",
                 "bus": "yes",
@@ -124,69 +19,6 @@
                 "coordinates": [
                     5.510079,
                     51.006117
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;31;G6",
-                "ref:De_Lijn": "402417",
-                "bus": "yes",
-                "name": "Zwartberg Koning Albertstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GOUVERNEUR ALEX. GALOPINSTRAAT ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.502008,
-                    51.00588
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "409967",
-                "bus": "yes",
-                "name": "Zwartberg Zaveldriesstraat",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "ZAVELDRIESSTRAAT ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.496053,
-                    51.005326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;31;33;G6",
-                "ref:De_Lijn": "402434",
-                "bus": "yes",
-                "name": "Zwartberg Guillaume Lambertlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.494844,
-                    51.010759
                 ]
             }
         },
@@ -214,6 +46,48 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "1;31;33;35;G6",
+                "ref:De_Lijn": "402431",
+                "bus": "yes",
+                "name": "Zwartberg Zaveldriesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495432,
+                    51.006168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44;G8",
+                "ref:De_Lijn": "402412",
+                "bus": "yes",
+                "name": "Zwartberg Cockerillplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.512839,
+                    51.010576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "1;31;G6",
                 "ref:De_Lijn": "402414",
                 "bus": "yes",
@@ -235,63 +109,63 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "1;31;G6",
+                "ref:De_Lijn": "402415",
+                "bus": "yes",
+                "name": "Zwartberg Galopinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUVERNEUR ALEX. GALOPINSTRAAT ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.506964,
+                    51.004565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;31;33;G6",
+                "ref:De_Lijn": "402433",
+                "bus": "yes",
+                "name": "Zwartberg Guillaume Lambertlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495119,
+                    51.010918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "31;33",
-                "ref:De_Lijn": "402408",
+                "ref:De_Lijn": "402181",
                 "bus": "yes",
-                "name": "Zwartberg De Wissel",
+                "name": "Genk Driehoeven",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "ARBEIDSSTRAAT ZWARTBERG",
+                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.498475,
-                    51.008836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "402435",
-                "bus": "yes",
-                "name": "Zwartberg M. Habetslaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "MARCEL HABETSLAAN ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.496104,
-                    51.011565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "8;33;44;G8",
-                "ref:De_Lijn": "402410",
-                "bus": "yes",
-                "name": "Zwartberg Cité",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEVENZAVELLAAN WATERSCHEI",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.510344,
-                    51.005871
+                    5.495807,
+                    51.000438
                 ]
             }
         },
@@ -320,9 +194,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "1;31;33;G6",
-                "ref:De_Lijn": "402433",
+                "ref:De_Lijn": "402430",
                 "bus": "yes",
-                "name": "Zwartberg Guillaume Lambertlaan",
+                "name": "Zwartberg Zaveldriesstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
@@ -332,8 +206,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.495119,
-                    51.010918
+                    5.495651,
+                    51.005779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33",
+                "ref:De_Lijn": "402408",
+                "bus": "yes",
+                "name": "Zwartberg De Wissel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARBEIDSSTRAAT ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.498475,
+                    51.008836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409967",
+                "bus": "yes",
+                "name": "Zwartberg Zaveldriesstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZAVELDRIESSTRAAT ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496053,
+                    51.005326
                 ]
             }
         },
@@ -361,6 +277,132 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "1;31;G6",
+                "ref:De_Lijn": "402417",
+                "bus": "yes",
+                "name": "Zwartberg Koning Albertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUVERNEUR ALEX. GALOPINSTRAAT ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502008,
+                    51.00588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44;G8",
+                "ref:De_Lijn": "402413",
+                "bus": "yes",
+                "name": "Zwartberg Cockerillplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.512113,
+                    51.010026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44;G8",
+                "ref:De_Lijn": "402410",
+                "bus": "yes",
+                "name": "Zwartberg Cité",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEVENZAVELLAAN WATERSCHEI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.510344,
+                    51.005871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;31;G6",
+                "ref:De_Lijn": "402416",
+                "bus": "yes",
+                "name": "Zwartberg Koning Albertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUVERNEUR ALEX. GALOPINSTRAAT ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502394,
+                    51.005912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;31;33;G6",
+                "ref:De_Lijn": "402434",
+                "bus": "yes",
+                "name": "Zwartberg Guillaume Lambertlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494844,
+                    51.010759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402435",
+                "bus": "yes",
+                "name": "Zwartberg M. Habetslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MARCEL HABETSLAAN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496104,
+                    51.011565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "402218",
                 "bus": "yes",
                 "name": "Waterschei RMS",
@@ -376,48 +418,6 @@
                 "coordinates": [
                     5.510505,
                     51.000206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "1;31;G6",
-                "ref:De_Lijn": "402415",
-                "bus": "yes",
-                "name": "Zwartberg Galopinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GOUVERNEUR ALEX. GALOPINSTRAAT ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.506964,
-                    51.004565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "31;33",
-                "ref:De_Lijn": "402181",
-                "bus": "yes",
-                "name": "Genk Driehoeven",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUILLAUME LAMBERTLAAN ZWARTBERG",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.495807,
-                    51.000438
                 ]
             }
         }

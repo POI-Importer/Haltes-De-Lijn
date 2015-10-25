@@ -5,27 +5,6 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "302546",
-                "bus": "yes",
-                "name": "Ramsdonk Notenstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "TISSELTSTRAAT RAMSDONK",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.336144,
-                    51.023591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "260",
                 "ref:De_Lijn": "302536",
                 "bus": "yes",
                 "name": "Ramsdonk Broek",
@@ -68,9 +47,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "302544",
+                "ref:De_Lijn": "302545",
                 "bus": "yes",
-                "name": "Ramsdonk Kerk",
+                "name": "Ramsdonk Notenstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "TISSELTSTRAAT RAMSDONK",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.334967,
-                    51.015087
+                    4.336158,
+                    51.023788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260;288",
+                "ref:De_Lijn": "302515",
+                "bus": "yes",
+                "name": "Kapelle-op-den-Bos Mechelbaan 67",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSEWEG KAPELLE-OP-DEN-BOS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.348648,
+                    51.014029
                 ]
             }
         },
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "302545",
+                "ref:De_Lijn": "302546",
                 "bus": "yes",
                 "name": "Ramsdonk Notenstraat",
                 "public_transport": "platform",
@@ -122,29 +122,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.336158,
-                    51.023788
+                    4.336144,
+                    51.023591
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260",
-                "ref:De_Lijn": "302533",
+                "route_ref:De_Lijn": "260;288",
+                "ref:De_Lijn": "302516",
                 "bus": "yes",
-                "name": "Ramsdonk Beekstraat 66",
+                "name": "Kapelle-op-den-Bos Mechelbaan 67",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BEEKSTRAAT RAMSDONK",
+                "created_by": "MECHELSEWEG KAPELLE-OP-DEN-BOS",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.341615,
-                    51.027394
+                    4.348477,
+                    51.013903
                 ]
             }
         },
@@ -172,42 +172,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260;288",
-                "ref:De_Lijn": "302515",
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "302544",
                 "bus": "yes",
-                "name": "Kapelle-op-den-Bos Mechelbaan 67",
+                "name": "Ramsdonk Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MECHELSEWEG KAPELLE-OP-DEN-BOS",
+                "created_by": "TISSELTSTRAAT RAMSDONK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.348648,
-                    51.014029
+                    4.334967,
+                    51.015087
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260;288",
-                "ref:De_Lijn": "302516",
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "302533",
                 "bus": "yes",
-                "name": "Kapelle-op-den-Bos Mechelbaan 67",
+                "name": "Ramsdonk Beekstraat 66",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MECHELSEWEG KAPELLE-OP-DEN-BOS",
+                "created_by": "BEEKSTRAAT RAMSDONK",
                 "operator": "De Lijn",
                 "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.348477,
-                    51.013903
+                    4.341615,
+                    51.027394
                 ]
             }
         }

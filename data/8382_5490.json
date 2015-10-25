@@ -4,27 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;24;340",
-                "ref:De_Lijn": "206226",
-                "bus": "yes",
-                "name": "Asse Oude Dendermondsebaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG ASSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.17954,
-                    50.929705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "42;212;214",
                 "ref:De_Lijn": "300227",
                 "bus": "yes",
@@ -46,28 +25,7 @@
         {
             "type": "Feature",
             "properties": {
-                "ref:De_Lijn": "206227",
-                "bus": "yes",
-                "name": "Asse Bakkersbaan",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG ASSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.182919,
-                    50.923903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "42;212;214;340",
+                "route_ref:De_Lijn": "42;212;214",
                 "ref:De_Lijn": "300226",
                 "bus": "yes",
                 "name": "Asse Wijndruif",
@@ -82,6 +40,48 @@
                 "coordinates": [
                     4.184714,
                     50.9196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "206226",
+                "bus": "yes",
+                "name": "Asse Oude Dendermondsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17954,
+                    50.929705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "207228",
+                "bus": "yes",
+                "name": "Asse Krokegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.184865,
+                    50.920949
                 ]
             }
         },
@@ -130,21 +130,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;24",
-                "ref:De_Lijn": "207228",
+                "route_ref:De_Lijn": "42;214",
+                "ref:De_Lijn": "300181",
                 "bus": "yes",
-                "name": "Asse Krokegem Kerk",
+                "name": "Asse Budastraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG ASSE",
+                "created_by": "GENTSESTEENWEG ASSE",
                 "operator": "De Lijn",
-                "network": "DLOV"
+                "network": "DLVB"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.184865,
-                    50.920949
+                    4.178582,
+                    50.920372
                 ]
             }
         },
@@ -172,27 +172,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "23;24;340",
-                "ref:De_Lijn": "206228",
-                "bus": "yes",
-                "name": "Asse Krokegem Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "DENDERMONDSESTEENWEG ASSE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.184566,
-                    50.921056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "42;214",
                 "ref:De_Lijn": "300182",
                 "bus": "yes",
@@ -214,21 +193,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "42;214;340",
-                "ref:De_Lijn": "300181",
+                "ref:De_Lijn": "206227",
                 "bus": "yes",
-                "name": "Asse Budastraat",
+                "name": "Asse Bakkersbaan",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
-                "created_by": "GENTSESTEENWEG ASSE",
+                "created_by": "DENDERMONDSESTEENWEG ASSE",
                 "operator": "De Lijn",
-                "network": "DLVB"
+                "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.178582,
-                    50.920372
+                    4.182919,
+                    50.923903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "206228",
+                "bus": "yes",
+                "name": "Asse Krokegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.184566,
+                    50.921056
                 ]
             }
         }

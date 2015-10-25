@@ -4,6 +4,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "501469",
+                "bus": "yes",
+                "name": "Zuienkerke Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.174239,
+                    51.272717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "33;36",
                 "ref:De_Lijn": "501470",
                 "bus": "yes",
@@ -25,10 +46,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33;36",
-                "ref:De_Lijn": "501468",
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "501476",
                 "bus": "yes",
-                "name": "Zuienkerke Kruiskalsijde",
+                "name": "Zuienkerke Dudzele Kalsijde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
@@ -38,29 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.176221,
-                    51.273088
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33;36",
-                "ref:De_Lijn": "506470",
-                "bus": "yes",
-                "name": "Zuienkerke Nele",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.180588,
-                    51.267639
+                    3.18384,
+                    51.263734
                 ]
             }
         },
@@ -89,6 +89,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "506469",
+                "bus": "yes",
+                "name": "Zuienkerke Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.175151,
+                    51.272915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
                 "ref:De_Lijn": "506476",
                 "bus": "yes",
                 "name": "Zuienkerke Dudzele Kalsijde",
@@ -109,31 +130,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "501469",
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "506470",
                 "bus": "yes",
-                "name": "Zuienkerke Kruiskalsijde",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.174239,
-                    51.272717
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "501476",
-                "bus": "yes",
-                "name": "Zuienkerke Dudzele Kalsijde",
+                "name": "Zuienkerke Nele",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
@@ -143,29 +143,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.18384,
-                    51.263734
+                    3.180588,
+                    51.267639
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "33",
-                "ref:De_Lijn": "506469",
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "501468",
                 "bus": "yes",
                 "name": "Zuienkerke Kruiskalsijde",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.175151,
-                    51.272915
+                    3.176221,
+                    51.273088
                 ]
             }
         }

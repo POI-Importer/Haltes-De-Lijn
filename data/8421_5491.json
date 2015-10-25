@@ -5,6 +5,27 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "560;565",
+                "ref:De_Lijn": "302643",
+                "bus": "yes",
+                "name": "Kortenaken Voetbalplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAWATENSTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.046674,
+                    50.912173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;565",
                 "ref:De_Lijn": "302631",
                 "bus": "yes",
                 "name": "Kortenaken Krawatenstraat",
@@ -19,27 +40,6 @@
                 "coordinates": [
                     5.051963,
                     50.911109
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "560;565;712",
-                "ref:De_Lijn": "302634",
-                "bus": "yes",
-                "name": "Kortenaken Molen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAWATENSTRAAT KORTENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.042244,
-                    50.912612
                 ]
             }
         },
@@ -67,31 +67,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "560;565",
-                "ref:De_Lijn": "302643",
-                "bus": "yes",
-                "name": "Kortenaken Voetbalplein",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAWATENSTRAAT KORTENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.046674,
-                    50.912173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "560;565;712",
-                "ref:De_Lijn": "302632",
+                "ref:De_Lijn": "302634",
                 "bus": "yes",
-                "name": "Kortenaken Krawatenstraat",
+                "name": "Kortenaken Molen",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KRAWATENSTRAAT KORTENAKEN",
@@ -101,50 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.052358,
-                    50.910909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "560;565",
-                "ref:De_Lijn": "302687",
-                "bus": "yes",
-                "name": "Kortenaken Lapstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAWATENSTRAAT KORTENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.033533,
-                    50.914999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "560;565;712",
-                "ref:De_Lijn": "302688",
-                "bus": "yes",
-                "name": "Kortenaken Lapstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KRAWATENSTRAAT KORTENAKEN",
-                "operator": "De Lijn",
-                "network": "DLVB"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.033515,
-                    50.914748
+                    5.042244,
+                    50.912612
                 ]
             }
         },
@@ -173,9 +110,9 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "560;565",
-                "ref:De_Lijn": "302633",
+                "ref:De_Lijn": "302687",
                 "bus": "yes",
-                "name": "Kortenaken Molen",
+                "name": "Kortenaken Lapstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KRAWATENSTRAAT KORTENAKEN",
@@ -185,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.042246,
-                    50.91272
+                    5.033533,
+                    50.914999
                 ]
             }
         },
@@ -208,6 +145,69 @@
                 "coordinates": [
                     5.046701,
                     50.912056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;565;712",
+                "ref:De_Lijn": "302632",
+                "bus": "yes",
+                "name": "Kortenaken Krawatenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAWATENSTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.052358,
+                    50.910909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;565;712",
+                "ref:De_Lijn": "302688",
+                "bus": "yes",
+                "name": "Kortenaken Lapstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAWATENSTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.033515,
+                    50.914748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;565",
+                "ref:De_Lijn": "302633",
+                "bus": "yes",
+                "name": "Kortenaken Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAWATENSTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.042246,
+                    50.91272
                 ]
             }
         }

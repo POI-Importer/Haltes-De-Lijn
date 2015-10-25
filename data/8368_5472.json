@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "49;175",
-                "ref:De_Lijn": "202125",
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "203124",
                 "bus": "yes",
-                "name": "Wachtebeke Axelsvaardeken",
+                "name": "Wachtebeke Kalve",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "KALVE WACHTEBEKE",
@@ -17,8 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.877339,
-                    51.1717
+                    3.88325,
+                    51.171113
                 ]
             }
         },
@@ -46,21 +46,42 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "73;175",
-                "ref:De_Lijn": "202599",
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "202126",
                 "bus": "yes",
-                "name": "Wachtebeke Stationsstraat",
+                "name": "Wachtebeke Molenhoek",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSSTRAAT WACHTEBEKE",
+                "created_by": "MOLENHOEK WACHTEBEKE",
                 "operator": "De Lijn",
                 "network": "DLOV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.870865,
-                    51.178091
+                    3.868659,
+                    51.171717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "202125",
+                "bus": "yes",
+                "name": "Wachtebeke Axelsvaardeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALVE WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.877339,
+                    51.1717
                 ]
             }
         },
@@ -81,27 +102,6 @@
                 "coordinates": [
                     3.885787,
                     51.166404
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "49",
-                "ref:De_Lijn": "203126",
-                "bus": "yes",
-                "name": "Wachtebeke Molenhoek",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENHOEK WACHTEBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.868758,
-                    51.171825
                 ]
             }
         },
@@ -129,6 +129,27 @@
         {
             "type": "Feature",
             "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "202599",
+                "bus": "yes",
+                "name": "Wachtebeke Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.870865,
+                    51.178091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "49",
                 "ref:De_Lijn": "203125",
                 "bus": "yes",
@@ -150,7 +171,7 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "49;175",
+                "route_ref:De_Lijn": "49",
                 "ref:De_Lijn": "202124",
                 "bus": "yes",
                 "name": "Wachtebeke Kalve",
@@ -172,28 +193,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "49",
-                "ref:De_Lijn": "203124",
-                "bus": "yes",
-                "name": "Wachtebeke Kalve",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KALVE WACHTEBEKE",
-                "operator": "De Lijn",
-                "network": "DLOV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.88325,
-                    51.171113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "49;175",
-                "ref:De_Lijn": "202126",
+                "ref:De_Lijn": "203126",
                 "bus": "yes",
                 "name": "Wachtebeke Molenhoek",
                 "public_transport": "platform",
@@ -205,15 +205,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.868659,
-                    51.171717
+                    3.868758,
+                    51.171825
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "175",
                 "ref:De_Lijn": "200714",
                 "bus": "yes",
                 "name": "Wachtebeke Kalvebrug",

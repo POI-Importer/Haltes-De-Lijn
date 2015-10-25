@@ -4,28 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;780;781",
-                "ref:De_Lijn": "109926",
-                "bus": "yes",
-                "name": "Hoevenen Witvenpad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT HOEVENEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.40871,
-                    51.307618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "775",
                 "ref:De_Lijn": "105284",
                 "bus": "yes",
                 "name": "Hoevenen Gemeentehuis",
@@ -46,70 +24,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;780;781",
-                "ref:De_Lijn": "105237",
+                "ref:De_Lijn": "109926",
                 "bus": "yes",
-                "name": "Kapellen Albertdreef",
+                "name": "Hoevenen Witvenpad",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOEVENSEBAAN KAPELLEN (ANTWERPEN)",
+                "created_by": "MOLENSTRAAT HOEVENEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.416413,
-                    51.310239
+                    4.40871,
+                    51.307618
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "775",
-                "ref:De_Lijn": "105286",
-                "bus": "yes",
-                "name": "Hoevenen Kerk",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KERKSTRAAT HOEVENEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.396275,
-                    51.303298
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "671;674;770;772;778;779;780",
-                "ref:De_Lijn": "105272",
-                "bus": "yes",
-                "name": "Hoevenen Krekelberg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGE WEG STABROEK",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.395579,
-                    51.314497
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720;770;772;775;778;779",
                 "ref:De_Lijn": "105231",
                 "bus": "yes",
                 "name": "Hoevenen Molenweg",
@@ -130,28 +64,28 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;674;770;772;775;778;779;780;781",
-                "ref:De_Lijn": "109957",
+                "ref:De_Lijn": "105286",
                 "bus": "yes",
-                "name": "Hoevenen Markt",
+                "name": "Hoevenen Kerk",
                 "public_transport": "platform",
+                "railway": "tram_stop",
                 "highway": "bus_stop",
-                "created_by": "MARKT HOEVENEN",
+                "tram": "yes",
+                "created_by": "KERKSTRAAT HOEVENEN",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.405368,
-                    51.306522
+                    4.396275,
+                    51.303298
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "775",
                 "ref:De_Lijn": "105283",
                 "bus": "yes",
                 "name": "Hoevenen Gemeentehuis",
@@ -172,7 +106,26 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "720;770;772;775;778;779",
+                "ref:De_Lijn": "109957",
+                "bus": "yes",
+                "name": "Hoevenen Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT HOEVENEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.405368,
+                    51.306522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "ref:De_Lijn": "105232",
                 "bus": "yes",
                 "name": "Hoevenen Molenweg",
@@ -193,31 +146,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "671;674;720;780;781",
-                "ref:De_Lijn": "105233",
+                "ref:De_Lijn": "109925",
                 "bus": "yes",
-                "name": "Hoevenen Parijseweg",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOEVENSEBAAN KAPELLEN (ANTWERPEN)",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.413602,
-                    51.309683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "671;674;770;772;778;779;780",
-                "ref:De_Lijn": "105268",
-                "bus": "yes",
-                "name": "Hoevenen Mannienlaan",
+                "name": "Hoevenen Markt",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOGE WEG HOEVENEN",
@@ -227,36 +158,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.399979,
-                    51.310479
+                    4.404293,
+                    51.306406
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "770;772;778;779;780",
-                "ref:De_Lijn": "105269",
+                "ref:De_Lijn": "105237",
                 "bus": "yes",
-                "name": "Hoevenen Krekelberg",
+                "name": "Kapellen Albertdreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "HOGE WEG STABROEK",
+                "created_by": "HOEVENSEBAAN KAPELLEN (ANTWERPEN)",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.395235,
-                    51.314533
+                    4.416413,
+                    51.310239
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "775",
                 "ref:De_Lijn": "105287",
                 "bus": "yes",
                 "name": "Hoevenen Kerk",
@@ -277,49 +206,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "770;772;778;779;780",
-                "ref:De_Lijn": "105267",
-                "bus": "yes",
-                "name": "Hoevenen Mannienlaan",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "HOGE WEG HOEVENEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.400051,
-                    51.310227
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "671;674;720;780;781",
-                "ref:De_Lijn": "109956",
-                "bus": "yes",
-                "name": "Hoevenen Witvenpad",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "MOLENSTRAAT HOEVENEN",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.408596,
-                    51.307726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "720;780;781",
                 "ref:De_Lijn": "105234",
                 "bus": "yes",
                 "name": "Hoevenen Parijseweg",
@@ -340,10 +226,9 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "770;772;778;779;780;781",
-                "ref:De_Lijn": "109925",
+                "ref:De_Lijn": "105268",
                 "bus": "yes",
-                "name": "Hoevenen Markt",
+                "name": "Hoevenen Mannienlaan",
                 "public_transport": "platform",
                 "highway": "bus_stop",
                 "created_by": "HOGE WEG HOEVENEN",
@@ -353,8 +238,110 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.404293,
-                    51.306406
+                    4.399979,
+                    51.310479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "781",
+                "ref:De_Lijn": "105233",
+                "bus": "yes",
+                "name": "Hoevenen Parijseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEVENSEBAAN KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413602,
+                    51.309683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105269",
+                "bus": "yes",
+                "name": "Hoevenen Krekelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGE WEG STABROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395235,
+                    51.314533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105267",
+                "bus": "yes",
+                "name": "Hoevenen Mannienlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGE WEG HOEVENEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400051,
+                    51.310227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "781",
+                "ref:De_Lijn": "109956",
+                "bus": "yes",
+                "name": "Hoevenen Witvenpad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT HOEVENEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408596,
+                    51.307726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105272",
+                "bus": "yes",
+                "name": "Hoevenen Krekelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGE WEG STABROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395579,
+                    51.314497
                 ]
             }
         }

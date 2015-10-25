@@ -4,21 +4,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "51;59",
-                "ref:De_Lijn": "509258",
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "504707",
                 "bus": "yes",
-                "name": "Leisele Stationsplein",
+                "name": "Leisele Kerk",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "STATIONSPLEIN LEISELE",
+                "created_by": "LEISELEDORP LEISELE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.623304,
-                    50.985703
+                    2.621554,
+                    50.983726
                 ]
             }
         },
@@ -46,42 +46,21 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "504707",
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "509258",
                 "bus": "yes",
-                "name": "Leisele Kerk",
+                "name": "Leisele Stationsplein",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "LEISELEDORP LEISELE",
+                "created_by": "STATIONSPLEIN LEISELE",
                 "operator": "De Lijn",
                 "network": "DLWV"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.621554,
-                    50.983726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "59",
-                "ref:De_Lijn": "504263",
-                "bus": "yes",
-                "name": "Leisele Staakmolen",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BEVERENSTRAAT LEISELE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.627421,
-                    50.982257
+                    2.623304,
+                    50.985703
                 ]
             }
         },
@@ -103,6 +82,27 @@
                 "coordinates": [
                     2.618143,
                     50.977057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "504263",
+                "bus": "yes",
+                "name": "Leisele Staakmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERENSTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.627421,
+                    50.982257
                 ]
             }
         }

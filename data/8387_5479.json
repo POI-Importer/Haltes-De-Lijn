@@ -4,21 +4,61 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "260;938",
-                "ref:De_Lijn": "104586",
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "107818",
                 "bus": "yes",
-                "name": "Puurs Winkelveld",
+                "name": "Puurs Hof Van Coolhem",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "SCHIPSTRAAT KALFORT",
+                "created_by": "COOLHEMSTRAAT PUURS",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.298389,
-                    51.070793
+                    4.306502,
+                    51.074492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104858",
+                "bus": "yes",
+                "name": "Puurs Kalfortdorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLELAAN KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.29389,
+                    51.073766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104861",
+                "bus": "yes",
+                "name": "Puurs Kleine Amer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE AMER PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.300142,
+                    51.081761
                 ]
             }
         },
@@ -46,21 +86,80 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "254;938",
-                "ref:De_Lijn": "107818",
+                "ref:De_Lijn": "102603",
                 "bus": "yes",
-                "name": "Puurs Hof Van Coolhem",
+                "name": "Puurs A. Meersmansdreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "COOLHEMSTRAAT PUURS",
+                "created_by": "BERKENKANT KALFORT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.306502,
-                    51.074492
+                    4.305822,
+                    51.071256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104586",
+                "bus": "yes",
+                "name": "Puurs Winkelveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHIPSTRAAT KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298389,
+                    51.070793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107815",
+                "bus": "yes",
+                "name": "Puurs Merkenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLELAAN PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.289936,
+                    51.074896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107814",
+                "bus": "yes",
+                "name": "Puurs Merkenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLELAAN PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.289765,
+                    51.074815
                 ]
             }
         },
@@ -88,28 +187,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;260;938",
-                "ref:De_Lijn": "104858",
-                "bus": "yes",
-                "name": "Puurs Kalfortdorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLELAAN KALFORT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.29389,
-                    51.073766
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "252;253",
                 "ref:De_Lijn": "102598",
                 "bus": "yes",
                 "name": "Puurs A. Meersmansdreef",
@@ -130,49 +207,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253;254;260;938",
-                "ref:De_Lijn": "107817",
-                "bus": "yes",
-                "name": "Puurs Kalfortdorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLELAAN KALFORT",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.294004,
-                    51.073892
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "938",
-                "ref:De_Lijn": "104861",
-                "bus": "yes",
-                "name": "Puurs Kleine Amer",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KLEINE AMER PUURS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.300142,
-                    51.081761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "254;938",
                 "ref:De_Lijn": "107819",
                 "bus": "yes",
                 "name": "Puurs Hof Van Coolhem",
@@ -193,63 +227,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "252;253",
-                "ref:De_Lijn": "102603",
+                "ref:De_Lijn": "107817",
                 "bus": "yes",
-                "name": "Puurs A. Meersmansdreef",
+                "name": "Puurs Kalfortdorp",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BERKENKANT KALFORT",
+                "created_by": "GUIDO GEZELLELAAN KALFORT",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.305822,
-                    51.071256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "250;252;253;254;260",
-                "ref:De_Lijn": "107814",
-                "bus": "yes",
-                "name": "Puurs Merkenveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLELAAN PUURS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.289765,
-                    51.074815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "250;252;253;254;260",
-                "ref:De_Lijn": "107815",
-                "bus": "yes",
-                "name": "Puurs Merkenveld",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "GUIDO GEZELLELAAN PUURS",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.289936,
-                    51.074896
+                    4.294004,
+                    51.073892
                 ]
             }
         }

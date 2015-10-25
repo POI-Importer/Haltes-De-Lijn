@@ -4,50 +4,67 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "640;641;648;649",
-                "ref:De_Lijn": "105773",
+                "ref:De_Lijn": "105779",
+                "bus": "yes",
+                "name": "Wuustwezel Gooreind Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THEO VERELLENLAAN GOOREIND",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.543004,
+                    51.357271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105778",
+                "bus": "yes",
+                "name": "Wuustwezel Gooreind Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RERUM NOVARUMLAAN GOOREIND",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542445,
+                    51.357362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105774",
                 "bus": "yes",
                 "name": "Wuustwezel Bosduinstraat",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "BREDABAAN GOOREIND",
+                "created_by": "BOSDUINSTRAAT GOOREIND",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.545613,
-                    51.352396
+                    4.544522,
+                    51.352442
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "444;640;641;648;649",
-                "ref:De_Lijn": "105771",
-                "bus": "yes",
-                "name": "Wuustwezel Kochdreef",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BREDABAAN GOOREIND",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.539537,
-                    51.347434
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;444;640;649",
-                "ref:De_Lijn": "105776",
+                "ref:De_Lijn": "105777",
                 "bus": "yes",
                 "name": "Wuustwezel De Vennekens",
                 "public_transport": "platform",
@@ -59,15 +76,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.539666,
-                    51.355155
+                    4.539838,
+                    51.355137
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "640;641;648;649",
                 "ref:De_Lijn": "105772",
                 "bus": "yes",
                 "name": "Wuustwezel Bosduinstraat",
@@ -88,42 +104,20 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "444;640",
-                "ref:De_Lijn": "105782",
+                "ref:De_Lijn": "105771",
                 "bus": "yes",
-                "name": "Wuustwezel Verellenlaan",
+                "name": "Wuustwezel Kochdreef",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "THEO VERELLENLAAN GOOREIND",
+                "created_by": "BREDABAAN GOOREIND",
                 "operator": "De Lijn",
                 "network": "DLAn"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.54789,
-                    51.354774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;444;640;649",
-                "ref:De_Lijn": "108013",
-                "bus": "yes",
-                "name": "Wuustwezel Bosduinstraat",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "BOSDUINSTRAAT GOOREIND",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.54415,
-                    51.35273
+                    4.539537,
+                    51.347434
                 ]
             }
         },
@@ -151,70 +145,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;444;640;649",
-                "ref:De_Lijn": "105779",
-                "bus": "yes",
-                "name": "Wuustwezel Gooreind Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "THEO VERELLENLAAN GOOREIND",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.543004,
-                    51.357271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;444;640;649",
-                "ref:De_Lijn": "105777",
-                "bus": "yes",
-                "name": "Wuustwezel De Vennekens",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RERUM NOVARUMLAAN GOOREIND",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.539838,
-                    51.355137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "442;444;640;649",
-                "ref:De_Lijn": "105778",
-                "bus": "yes",
-                "name": "Wuustwezel Gooreind Dorp",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "RERUM NOVARUMLAAN GOOREIND",
-                "operator": "De Lijn",
-                "network": "DLAn"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    4.542445,
-                    51.357362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "444;640;641;648;649",
                 "ref:De_Lijn": "105769",
                 "bus": "yes",
                 "name": "Wuustwezel Kochdreef",
@@ -235,8 +165,27 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "442;444;640;649",
-                "ref:De_Lijn": "105774",
+                "ref:De_Lijn": "105776",
+                "bus": "yes",
+                "name": "Wuustwezel De Vennekens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RERUM NOVARUMLAAN GOOREIND",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.539666,
+                    51.355155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108013",
                 "bus": "yes",
                 "name": "Wuustwezel Bosduinstraat",
                 "public_transport": "platform",
@@ -248,8 +197,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    4.544522,
-                    51.352442
+                    4.54415,
+                    51.35273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105782",
+                "bus": "yes",
+                "name": "Wuustwezel Verellenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THEO VERELLENLAAN GOOREIND",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.54789,
+                    51.354774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105773",
+                "bus": "yes",
+                "name": "Wuustwezel Bosduinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN GOOREIND",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.545613,
+                    51.352396
                 ]
             }
         }

@@ -4,7 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "650;658;659;670;730",
                 "ref:De_Lijn": "105407",
                 "bus": "yes",
                 "name": "Kapellen Hoogboomsteenweg",
@@ -25,7 +24,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "730",
                 "ref:De_Lijn": "107320",
                 "bus": "yes",
                 "name": "Karel De Wintstraat",
@@ -46,7 +44,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "650;658;659;670;730",
                 "ref:De_Lijn": "105833",
                 "bus": "yes",
                 "name": "Kapellen Hoogboomsteenweg",

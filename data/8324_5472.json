@@ -25,27 +25,6 @@
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "52;83",
-                "ref:De_Lijn": "501479",
-                "bus": "yes",
-                "name": "Snaaskerke Brug",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "KANAALSTRAAT SNAASKERKE",
-                "operator": "De Lijn",
-                "network": "DLWV"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.914838,
-                    51.174476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "route_ref:De_Lijn": "51;52",
                 "ref:De_Lijn": "506194",
                 "bus": "yes",
@@ -68,7 +47,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "506385",
+                "ref:De_Lijn": "501385",
                 "bus": "yes",
                 "name": "Snaaskerke Brug",
                 "public_transport": "platform",
@@ -80,8 +59,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.917735,
-                    51.171887
+                    2.917221,
+                    51.171889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;83",
+                "ref:De_Lijn": "501479",
+                "bus": "yes",
+                "name": "Snaaskerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALSTRAAT SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914838,
+                    51.174476
                 ]
             }
         },
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "51",
-                "ref:De_Lijn": "501385",
+                "ref:De_Lijn": "506385",
                 "bus": "yes",
                 "name": "Snaaskerke Brug",
                 "public_transport": "platform",
@@ -122,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.917221,
-                    51.171889
+                    2.917735,
+                    51.171887
                 ]
             }
         }

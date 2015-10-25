@@ -5,28 +5,7 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408913",
-                "bus": "yes",
-                "name": "Sint-Pieters-Voeren Veurs nummer 40",
-                "public_transport": "platform",
-                "highway": "bus_stop",
-                "created_by": "VEURS VEURS",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.849206,
-                    50.736394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408844",
+                "ref:De_Lijn": "408846",
                 "bus": "yes",
                 "name": "Remersdaal Weg op Sint-Martens-Voeren",
                 "public_transport": "platform",
@@ -38,50 +17,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.865753,
-                    50.722966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408845",
-                "bus": "yes",
-                "name": "Remersdaal Weg op SMV/Route de FSM",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N648 REMERSDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.86657,
-                    50.723701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:De_Lijn": "408850",
-                "bus": "yes",
-                "name": "Remersdaal Weg op Teuven/Route de Teuven",
-                "public_transport": "platform",
-                "odbl": "new",
-                "highway": "bus_stop",
-                "created_by": "N648 REMERSDAAL",
-                "operator": "De Lijn",
-                "network": "DLLi"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.862002,
-                    50.735566
+                    5.865785,
+                    50.723073
                 ]
             }
         },
@@ -109,8 +46,29 @@
         {
             "type": "Feature",
             "properties": {
+                "ref:De_Lijn": "408845",
+                "bus": "yes",
+                "name": "Remersdaal Weg op SMV/Route de FSM",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N648 REMERSDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.86657,
+                    50.723701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408912",
+                "ref:De_Lijn": "408913",
                 "bus": "yes",
                 "name": "Sint-Pieters-Voeren Veurs nummer 40",
                 "public_transport": "platform",
@@ -122,8 +80,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.84909,
-                    50.736315
+                    5.849206,
+                    50.736394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408851",
+                "bus": "yes",
+                "name": "Remersdaal Weg op Teuven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N648 REMERSDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.862105,
+                    50.735681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408844",
+                "bus": "yes",
+                "name": "Remersdaal Weg op Sint-Martens-Voeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAGNEBOS REMERSDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.865753,
+                    50.722966
                 ]
             }
         },
@@ -152,31 +152,31 @@
             "type": "Feature",
             "properties": {
                 "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408846",
+                "ref:De_Lijn": "408912",
                 "bus": "yes",
-                "name": "Remersdaal Weg op Sint-Martens-Voeren",
+                "name": "Sint-Pieters-Voeren Veurs nummer 40",
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "created_by": "MAGNEBOS REMERSDAAL",
+                "created_by": "VEURS VEURS",
                 "operator": "De Lijn",
                 "network": "DLLi"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.865785,
-                    50.723073
+                    5.84909,
+                    50.736315
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "route_ref:De_Lijn": "39b",
-                "ref:De_Lijn": "408851",
+                "ref:De_Lijn": "408850",
                 "bus": "yes",
-                "name": "Remersdaal Weg op Teuven",
+                "name": "Remersdaal Weg op Teuven/Route de Teuven",
                 "public_transport": "platform",
+                "odbl": "new",
                 "highway": "bus_stop",
                 "created_by": "N648 REMERSDAAL",
                 "operator": "De Lijn",
@@ -185,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    5.862105,
-                    50.735681
+                    5.862002,
+                    50.735566
                 ]
             }
         },
